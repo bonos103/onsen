@@ -1,3 +1,8 @@
+const path = require('path')
+
+function resolve(p) {
+  return path.join(__dirname, p)
+}
 
 export default {
   mode: 'spa',
@@ -23,6 +28,8 @@ export default {
   ** Global CSS
   */
   css: [
+    '~/assets/stylesheets/reset.css',
+    '~/assets/stylesheets/global.css',
   ],
   /*
   ** Plugins to load before mounting the App
@@ -56,6 +63,24 @@ export default {
   ** Build configuration
   */
   build: {
+    postcss: {
+      preset: {
+        stage: 1,
+        features: {
+          'custom-media-queries': {
+            importFrom: [
+              resolve('assets/stylesheets/media.css'),
+            ],
+          },
+          'custom-properties': {
+            preserve: false,
+            importFrom: [
+              resolve('assets/stylesheets/variables.css'),
+            ],
+          },
+        },
+      },
+    },
     /*
     ** You can extend webpack config here
     */

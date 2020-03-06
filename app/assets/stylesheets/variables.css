@@ -1,0 +1,16 @@
+:root {
+  --black: #0c0c0c;
+  --gray-darkest: #333;
+  --gray-darker: #5d5d5d;
+  --gray: #8C8C8C;
+  --gray-lighter: #D9D9D9;
+  --gray-lightest: #F4F4F4;
+
+  --coral: #FF6F61;
+  --cyan: #4DE4FF;
+
+  --danger: #f5222d;
+
+  --wrap-width: 940px;
+  --section-width: 600px;
+}
