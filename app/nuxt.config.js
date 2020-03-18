@@ -85,6 +85,19 @@ export default {
     ** You can extend webpack config here
     */
     extend (config, ctx) {
+      config.module.rules.push({
+        test: /\.csv$/,
+        use: [
+          {
+            loader: 'csv-loader',
+            options: {
+              dynamicTyping: true,
+              header: true,
+              skipEmptyLines: true,
+            },
+          },
+        ],
+      })
     }
   }
 }
