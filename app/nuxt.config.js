@@ -6,6 +6,9 @@ function resolve(p) {
 
 export default {
   mode: 'spa',
+  env: {
+    GOOGLE_API_KEY: process.env.GOOGLE_API_KEY,
+  },
   /*
   ** Headers of the page
   */

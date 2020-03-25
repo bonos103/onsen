@@ -16,9 +16,11 @@
     "IE 11"
   ],
   "dependencies": {
+    "@google/markerclustererplus": "^5.0.3",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/pwa": "^3.0.0-0",
+    "google-maps-api-loader": "^1.1.1",
     "nuxt": "^2.0.0",
     "postcss-preset-env": "^6.7.0",
     "pug": "^2.0.4",
