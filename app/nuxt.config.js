@@ -5,7 +5,7 @@ function resolve(p) {
 }
 
 export default {
-  mode: 'spa',
+  // mode: 'spa',
   env: {
     GOOGLE_API_KEY: process.env.GOOGLE_API_KEY,
   },
