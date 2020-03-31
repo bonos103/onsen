@@ -54,6 +54,13 @@ export default {
     addCluster() {
       return new MarkerClusterer(this.map, this.markers, {
         // imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m',
+        // imageExtension: 'png',
+        // imageSizes: [30, 40, 50],
+        gridSize: 60,
+        maxZoom: 11,
+        averageCenter: true,
+        minimumClusterSize: 4,
+
         styles: [
           {
             width: 30,
