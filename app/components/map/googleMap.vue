@@ -2,16 +2,11 @@
   div(ref="map", :class="$style.map")
 </template>
 <script>
+import { mapState } from 'vuex'
 import GoogleMapsApiLoader from 'google-maps-api-loader'
 import MarkerClusterer from '@google/markerclustererplus'
 
 export default {
-  props: {
-    items: {
-      type: Array,
-      required: true,
-    },
-  },
   data() {
     return {
       google: null,
@@ -20,6 +15,9 @@ export default {
     }
   },
   computed: {
+    ...mapState('onsen', {
+      items: 'list',
+    }),
     locations() {
       if (!this.items.length) {
         return []
@@ -44,11 +42,23 @@ export default {
         zoom: 8,
       })
     },
+    createMarker(item) {
+      const self = this
+      const location = {
+        lat: item.lat,
+        lng: item.lng,
+      }
+      const marker = new this.google.maps.Marker({
+        position: location,
+      })
+      marker.addListener('click', () => {
+        self.$emit('click-marker', item)
+      })
+      return marker
+    },
     createMarkers() {
-      this.markers = this.locations.map((location) => {
-        return new this.google.maps.Marker({
-          position: location,
-        })
+      this.markers = this.items.map((item) => {
+        return this.createMarker(item)
       })
     },
     addCluster() {
