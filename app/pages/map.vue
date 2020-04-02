@@ -1,6 +1,6 @@
 <template lang="pug">
   div
-    google-map(:items="items", @click-marker="handleClickMarker")
+    google-map(@click-marker="handleClickMarker")
     div(v-for="item in items", :key="item.NAME")
       div {{item.NAME}}
       div {{item.URL}}
@@ -26,7 +26,8 @@ export default {
   },
   methods: {
     handleClickMarker(item) {
-      console.log(item)
+      const index = this.items.findIndex(i => i === item)
+      this.$router.push({ name: 'map-id', params: { id: index } })
     },
   },
   // data() {
