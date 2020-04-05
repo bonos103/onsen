@@ -40,6 +40,7 @@ export default {
       this.map = new this.google.maps.Map(this.$refs.map, {
         center: { lat: 43.0640573, lng: 141.3551388 },
         zoom: 8,
+        disableDefaultUI: true,
       })
     },
     createMarker(item) {
