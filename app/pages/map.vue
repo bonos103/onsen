@@ -1,11 +1,11 @@
 <template lang="pug">
   div
     google-map(@click-marker="handleClickMarker")
-    div(v-for="item in items", :key="item.NAME")
-      div {{item.NAME}}
-      div {{item.URL}}
-      div {{item.ADDRESS}}
-      div {{item.PRICE}}
+    div(v-for="item in items", :key="item.id")
+      div {{item.name}}
+      div {{item.url}}
+      div {{item.address}}
+      div {{item.price}}
       div {{item.type}}
     nuxt-child()
 </template>
