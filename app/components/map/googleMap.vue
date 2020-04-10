@@ -100,7 +100,8 @@ export default {
 <style lang="postcss" module>
   .map {
     width: 100%;
-    height: 500px;
+    min-height: 300px;
+    height: 100%;
   }
   .cluster1 {
     line-height: 30px;

@@ -1,6 +1,7 @@
 <template lang="pug">
   div
-    google-map(@click-marker="handleClickMarker")
+    div(:style="mapStyle")
+      google-map(@click-marker="handleClickMarker")
     div(v-for="item in items", :key="item.id")
       div {{item.name}}
       div {{item.url}}
@@ -16,10 +17,20 @@ import GoogleMap from '@/components/map/googleMap'
 
 export default {
   layout: 'map',
+  data() {
+    return {
+      windowHeight: 300,
+    }
+  },
   computed: {
     ...mapState('onsen', {
       items: 'list',
     }),
+    mapStyle() {
+      return {
+        height: `${this.windowHeight}px`,
+      }
+    },
   },
   components: {
     GoogleMap,
@@ -29,6 +40,13 @@ export default {
       const index = this.items.findIndex(i => i === item)
       this.$router.push({ name: 'map-id', params: { id: index } })
     },
+    calcWindowHeight() {
+      this.windowHeight = window.innerHeight
+    },
+  },
+  mounted() {
+    this.calcWindowHeight()
+    this.$listen(window, 'resize', this.calcWindowHeight)
   },
   // data() {
   //   return {
