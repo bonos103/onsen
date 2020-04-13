@@ -8204,6 +8204,11 @@ void-elements@^2.0.1:
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
   integrity sha1-wGavtYK7HLQSjWDqkjkulNXp2+w=
 
+vue-add-event-listener@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vue-add-event-listener/-/vue-add-event-listener-1.0.2.tgz#54bbc3d3ea22e3e7c0746f2462907e2dc49c7e91"
+  integrity sha512-aqJVBFkzytAa1EDRSTLe5tKMoPHjU2669pCqqndfHwwYnMEDNNQQPMI2LL5THOk7BX4weVqhg3lwDoIMqY0Prg==
+
 vue-client-only@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/vue-client-only/-/vue-client-only-2.0.0.tgz#ddad8d675ee02c761a14229f0e440e219de1da1c"
