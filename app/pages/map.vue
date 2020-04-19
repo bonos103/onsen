@@ -37,8 +37,7 @@ export default {
   },
   methods: {
     handleClickMarker(item) {
-      const index = this.items.findIndex(i => i === item)
-      this.$router.push({ name: 'map-id', params: { id: index } })
+      this.$router.push({ name: 'map-pref-id', params: { pref: item.pref, id: item.id } })
     },
     calcWindowHeight() {
       this.windowHeight = window.innerHeight

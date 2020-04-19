@@ -14,8 +14,9 @@ const list = Object.entries(data).map(o => (
 
 export const state = () => ({
   list,
+  ...data,
 })
 
 export const getters = {
-  getById: state => id => state.list[id],
+  getByPrefAndId: state => (pref, id) => state[pref].find(i => String(i.id) === String(id)),
 }
