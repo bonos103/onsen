@@ -41,7 +41,15 @@ export default {
   },
   methods: {
     handleClickMarker(item) {
-      this.$router.push({ name: 'map-pref-id', params: { pref: item.pref, id: item.id } })
+      const location = {
+        name: 'map-pref-id',
+        params: { id: item.id },
+      }
+      if (this.$route.name === 'map-pref-id') {
+        this.$router.replace(location)
+        return
+      }
+      this.$nuxt.$router.push(location)
     },
     calcWindowHeight() {
       this.windowHeight = window.innerHeight
