@@ -1,7 +1,8 @@
 <template lang="pug">
   div
     h1(:class="$style.logo")
-      logo
+      router-link(:to="{ name: 'map' }")
+        logo
     nuxt
 </template>
 <script>

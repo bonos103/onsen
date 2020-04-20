@@ -2,6 +2,8 @@
   div(:class="$style.wrap")
     //- div(:class="$style.empty")
     div(:class="$style.block")
+      div(:class="$style.swipe", @click="handleBack")
+        img(src="@/assets/images/commons/swipe_down.svg")
       div(:class="$style.container")
         h1(:class="$style.name") {{item.name}}
         div(:class="$style.item")
@@ -65,6 +67,9 @@ export default {
     calcHeight() {
       this.windowHeight = window.innerHeight
     },
+    handleBack() {
+      this.$router.back()
+    },
   },
 }
 </script>
@@ -81,11 +86,19 @@ export default {
   .block {
     width: 100%;
     padding-top: 30px;
-    /* margin-top: 100vh; */
-  }
-  .container {
     padding-left: var(--padding);
     padding-right: var(--padding);
+  }
+  .swipe {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .container {
+    max-width: var(--wrap-width);
+    margin-left: auto;
+    margin-right: auto;
   }
   .name {
     font-size: 1.8rem;

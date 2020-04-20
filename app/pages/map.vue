@@ -17,6 +17,9 @@ import GoogleMap from '@/components/map/googleMap'
 
 export default {
   layout: 'map',
+  components: {
+    GoogleMap,
+  },
   data() {
     return {
       windowHeight: 300,
@@ -32,8 +35,9 @@ export default {
       }
     },
   },
-  components: {
-    GoogleMap,
+  mounted() {
+    this.calcWindowHeight()
+    this.$listen(window, 'resize', this.calcWindowHeight)
   },
   methods: {
     handleClickMarker(item) {
@@ -43,14 +47,5 @@ export default {
       this.windowHeight = window.innerHeight
     },
   },
-  mounted() {
-    this.calcWindowHeight()
-    this.$listen(window, 'resize', this.calcWindowHeight)
-  },
-  // data() {
-  //   return {
-  //     items: csv,
-  //   }
-  // },
 }
 </script>
