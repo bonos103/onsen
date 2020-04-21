@@ -18,15 +18,16 @@
           div(:class="$style.value") {{item.address}}
         div(:class="$style.mapLink")
           a(:href="item.map", target="_blank") GoogleMAPで開く
-      //- iframe(
-      //-   :class="$style.map",
-      //-   width="600",
-      //-   height="450",
-      //-   frameborder="0",
-      //-   style="border:0",
-      //-   :src="`https://www.google.com/maps/embed/v1/place?key=${GOOGLE_API_KEY}&q=${encodeURIComponent(item.address)}`",
-      //-   allowfullscreen,
-      //- )
+      iframe(
+        :class="$style.map",
+        width="600",
+        height="450",
+        frameborder="0",
+        style="border:0",
+        :src="`https://www.google.com/maps/embed/v1/place?key=${GOOGLE_API_KEY}&q=${encodeURIComponent(item.address)}`",
+        allowfullscreen,
+        :key="item.id",
+      )
 </template>
 <script>
 export default {
@@ -56,6 +57,13 @@ export default {
   mounted() {
     this.$listen(document, 'touchmove', this.stopScroll, { passive: false })
     document.body.style.overflow = 'hidden'
+  },
+  beforeUpdate() {
+    console.log('before update')
+  },
+  beforeRouteUpdate(to, from, next) {
+    console.log(to, from)
+    next()
   },
   beforeDestroy() {
     document.body.style.overflow = ''
