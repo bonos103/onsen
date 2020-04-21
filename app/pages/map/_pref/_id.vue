@@ -87,8 +87,6 @@ export default {
   .block {
     width: 100%;
     padding-top: 40px;
-    padding-left: var(--padding);
-    padding-right: var(--padding);
   }
   .swipe {
     position: absolute;
@@ -97,7 +95,9 @@ export default {
     transform: translateX(-50%);
   }
   .container {
-    max-width: var(--wrap-width);
+    max-width: calc(var(--wrap-width) + var(--padding) * 2);
+    padding-left: var(--padding);
+    padding-right: var(--padding);
     margin-left: auto;
     margin-right: auto;
   }

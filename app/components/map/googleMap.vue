@@ -37,10 +37,53 @@ export default {
       this.google = await GoogleMapsApiLoader({
         apiKey: process.env.GOOGLE_API_KEY,
       })
+      const center = await this.getCurrentPosition()
+      console.log(center)
       this.map = new this.google.maps.Map(this.$refs.map, {
-        center: { lat: 43.0640573, lng: 141.3551388 },
-        zoom: 8,
+        center,
+        zoom: 10,
         disableDefaultUI: true,
+      })
+    },
+    getCurrentPosition() {
+      return new Promise((resolve, reject) => {
+        const basePosition = { lat: 43.0640573, lng: 141.3551388 }
+        if (navigator && navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(
+            (position) => {
+              console.log(position)
+              const lat = position.coords.latitude
+              const lng = position.coords.longitude
+              return resolve({ lat, lng })
+            },
+            (err) => {
+              console.log(err)
+              switch (err.code) {
+                // PERMISSION_DENIED
+                case 1:
+                  alert('位置情報の利用が許可されていません')
+                  break
+                // POSITION_UNAVAILABLE
+                case 2:
+                  alert('現在位置が取得できませんでした')
+                  break
+                // TIMEOUT
+                case 3:
+                  alert('タイムアウトになりました')
+                  break
+                default:
+                  alert(`その他のエラー(エラーコード:${err.code})`)
+                  break
+              }
+              resolve(basePosition)
+            },
+            {
+              enableHighAccuracy: false,
+            },
+          )
+        } else {
+          return resolve(basePosition)
+        }
       })
     },
     createMarker(item) {
