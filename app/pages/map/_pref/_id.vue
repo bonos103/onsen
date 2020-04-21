@@ -6,14 +6,14 @@
         img(src="@/assets/images/commons/swipe_down.svg")
       div(:class="$style.container")
         h1(:class="$style.name") {{item.name}}
-        div(:class="$style.item")
+        div(:class="$style.item", v-if="item.price")
           div(:class="$style.label") 料金
           div(:class="$style.value") {{item.price}}
-        div(:class="$style.item")
+        div(:class="$style.item", v-if="item.url")
           div(:class="$style.label") ホームページ
           div(:class="$style.value")
             a(:href="item.url", target="_blank") {{item.url}}
-        div(:class="$style.item")
+        div(:class="$style.item", v-if="item.address")
           div(:class="$style.label") 住所
           div(:class="$style.value") {{item.address}}
         div(:class="$style.mapLink")
@@ -24,7 +24,7 @@
         height="450",
         frameborder="0",
         style="border:0",
-        :src="`https://www.google.com/maps/embed/v1/place?key=${GOOGLE_API_KEY}&q=${encodeURIComponent(item.address)}`",
+        :src="`https://www.google.com/maps/embed/v1/place?key=${GOOGLE_API_KEY}&q=${encodeURIComponent(item.name)}+${encodeURIComponent(item.address)}`",
         allowfullscreen,
         :key="item.id",
       )
@@ -86,7 +86,7 @@ export default {
   }
   .block {
     width: 100%;
-    padding-top: 30px;
+    padding-top: 40px;
     padding-left: var(--padding);
     padding-right: var(--padding);
   }
