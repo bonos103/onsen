@@ -1,3 +1,4 @@
+const fs = require('fs')
 const path = require('path')
 
 function resolve(p) {
@@ -6,6 +7,12 @@ function resolve(p) {
 
 export default {
   // mode: 'spa',
+  server: {
+    https: {
+      key: fs.readFileSync(path.join(__dirname, '../cert/localhost+2-key.pem')),
+      cert: fs.readFileSync(path.join(__dirname, '../cert/localhost+2.pem')),
+    },
+  },
   env: {
     GOOGLE_API_KEY: process.env.GOOGLE_API_KEY,
   },

@@ -6,6 +6,7 @@ services:
       - 8080:3000
     volumes:
       - ./app:/app
+      - ./cert:/cert
       - /app/node_modules
     command: yarn dev
     environment:

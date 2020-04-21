@@ -8,6 +8,19 @@
 # install dependencies
 $ yarn install
 
+# SSL settings
+$ brew install mkcert
+$ brew install nss # if you use Firefox
+$ mkcert --install
+
+$ cd ./app/..
+$ mkdir cert
+$ cd cert
+
+$ mkcert localhost 127.0.0.1 0.0.0.0
+...
+The certificate is at "./localhost+2.pem" and the key at "./localhost+2-key.pem" ✅
+
 # serve with hot reload at localhost:3000
 $ yarn dev
 
