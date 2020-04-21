@@ -43,7 +43,7 @@ export default {
     handleClickMarker(item) {
       const location = {
         name: 'map-pref-id',
-        params: { id: item.id },
+        params: { pref: item.pref, id: item.id },
       }
       if (this.$route.name === 'map-pref-id') {
         this.$router.replace(location)
