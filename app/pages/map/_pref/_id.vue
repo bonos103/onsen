@@ -58,13 +58,6 @@ export default {
     this.$listen(document, 'touchmove', this.stopScroll, { passive: false })
     document.body.style.overflow = 'hidden'
   },
-  beforeUpdate() {
-    console.log('before update')
-  },
-  beforeRouteUpdate(to, from, next) {
-    console.log(to, from)
-    next()
-  },
   beforeDestroy() {
     document.body.style.overflow = ''
   },
