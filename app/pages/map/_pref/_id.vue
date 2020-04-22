@@ -1,5 +1,5 @@
 <template lang="pug">
-  div(:class="$style.wrap", :key="item.id")
+  div(:class="$style.wrap")
     //- div(:class="$style.empty")
     div(:class="$style.block")
       div(:class="$style.swipe", @click="handleBack")
@@ -38,7 +38,6 @@ export default {
     // leaveActiveClass: '$style.leaveActive',
     // leaveToClass: '$style.leaveTo',
   },
-  key: (to) => to.fullPath,
   asyncData({ params, store }) {
     return {
       item: store.getters['onsen/getByPrefAndId'](params.pref, params.id),
@@ -83,6 +82,16 @@ export default {
 }
 </script>
 <style module>
+  :global {
+    & .fade-enter,
+    & .fade-leave-to {
+      transform: translateY(100%);
+    }
+    & .fade-enter-active,
+    & .fade-leave-active {
+      transition: transform 0.2s ease-in-out;
+    }
+  }
   .enter,
   .leaveTo {
     /* transform: translateY(100%); */
