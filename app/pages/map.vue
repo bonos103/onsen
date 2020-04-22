@@ -8,7 +8,7 @@
       div {{item.address}}
       div {{item.price}}
       div {{item.type}}
-    nuxt-child()
+    nuxt-child(:key="$route.fullPath")
 </template>
 <script>
 import { mapState } from 'vuex'

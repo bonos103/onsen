@@ -1,5 +1,5 @@
 <template lang="pug">
-  div(:class="$style.wrap")
+  div(:class="$style.wrap", :key="item.id")
     //- div(:class="$style.empty")
     div(:class="$style.block")
       div(:class="$style.swipe", @click="handleBack")
@@ -31,6 +31,14 @@
 </template>
 <script>
 export default {
+  transition: {
+    name: 'fade',
+    // enterClass: '$style.enter',
+    // enterActiveClass: '$style.enterActive',
+    // leaveActiveClass: '$style.leaveActive',
+    // leaveToClass: '$style.leaveTo',
+  },
+  key: (to) => to.fullPath,
   asyncData({ params, store }) {
     return {
       item: store.getters['onsen/getByPrefAndId'](params.pref, params.id),
@@ -75,9 +83,19 @@ export default {
 }
 </script>
 <style module>
+  .enter,
+  .leaveTo {
+    /* transform: translateY(100%); */
+    opacity: 0;
+  }
+  .enterActive,
+  .leaveActive {
+    /* transition: transform 0.3s; */
+    transition: opacity 1s;
+  }
   .wrap {
     position: fixed;
-    top: calc(100vh - 300px);
+    top: 50%;
     left: 0;
     bottom: 0;
     width: 100%;
