@@ -2,6 +2,7 @@
   div
     div(:style="mapStyle")
       google-map(@click-marker="handleClickMarker")
+      map-filter
     div(v-for="item in items", :key="item.id")
       div {{item.name}}
       div {{item.url}}
@@ -14,11 +15,13 @@
 import { mapState } from 'vuex'
 // import csv from '@/assets/data/hokkaido.csv'
 import GoogleMap from '@/components/map/googleMap'
+import MapFilter from '@/components/map/MapFilter'
 
 export default {
   layout: 'map',
   components: {
     GoogleMap,
+    MapFilter,
   },
   data() {
     return {
