@@ -3,7 +3,7 @@
     //- div(:class="$style.empty")
     div(:class="$style.block")
       div(:class="$style.swipe", @click="handleBack")
-        img(src="@/assets/images/commons/swipe_down.svg")
+        img(src="@/assets/images/commons/swipe_down.svg?inline")
       div(:class="$style.container")
         h1(:class="$style.name") {{item.name}}
         div(:class="$style.item", v-if="item.price")

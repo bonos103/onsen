@@ -22,6 +22,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "google-maps-api-loader": "^1.1.1",
     "nuxt": "^2.12.0",
+    "nuxt-svg-loader": "^1.2.0",
     "postcss-preset-env": "^6.7.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",

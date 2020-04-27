@@ -1,5 +1,5 @@
 <template lang="pug">
-  img(:class="$style.logo", src="@/assets/images/logo.svg", alt="FUROMAP")
+  img(:class="$style.logo", src="@/assets/images/logo.svg?inline", alt="FUROMAP")
 </template>
 <style lang="postcss" module>
 .logo {
