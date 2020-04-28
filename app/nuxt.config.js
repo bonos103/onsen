@@ -76,6 +76,11 @@ export default {
   */
   build: {
     postcss: {
+      plugins: {
+        'postcss-color-function': {
+          preserveCustomProps: true,
+        },
+      },
       preset: {
         stage: 1,
         features: {
@@ -92,6 +97,7 @@ export default {
           },
         },
       },
+      order: ['postcss-preset-env', 'postcss-color-function', 'cssnano']
     },
     /*
     ** You can extend webpack config here
