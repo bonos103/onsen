@@ -1,5 +1,13 @@
 <template lang="pug">
-  div(:class="$style.box")
+  transition(
+    :enterClass = "$style.enter",
+    :enterActiveClass = "$style.enterActive",
+    :leaveActiveClass = "$style.leaveActive",
+    :leaveToClass = "$style.leaveTo",
+    appear,
+    mode = "",
+  )
+    div(:class="$style.box")
 </template>
 <script>
 export default {
@@ -35,5 +43,20 @@ export default {
     border-radius: 10px;
     box-shadow: 0 3px 6px color(var(--black) a(10%));
     padding: 60px 20px 20px;
+  }
+
+  .enter,
+  .leaveTo {
+    transform: scale(0);
+  }
+  .enterActive,
+  .leaveActive {
+    transition: transform 0.3s ease-in-out;
+    transform-origin: calc(100% - 20px) 30px;
+  }
+  .leaveActive {
+    position: absolute;
+    top: 0;
+    left: 0;
   }
 </style>

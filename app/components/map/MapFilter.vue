@@ -48,6 +48,7 @@ export default {
     background-color: var(--white);
     border: 2px solid var(--salmon);
     border-radius: 50%;
+    z-index: 1;
     & svg {
       fill: var(--salmon);
       width: 25px;
