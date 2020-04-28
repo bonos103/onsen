@@ -1,8 +1,8 @@
 <template lang="pug">
   div(:class="$style.wrap")
-    div(:class="$style.icon")
+    div(:class="$style.icon", @click.prevent.stop="handleToggle")
       filter-icon
-    filter-box
+    filter-box(v-if="visibleBox", @close="handleClose")
 </template>
 <script>
 import FilterIcon from '@/assets/images/commons/filter.svg'
@@ -12,6 +12,19 @@ export default {
   components: {
     FilterIcon,
     FilterBox,
+  },
+  data() {
+    return {
+      visibleBox: false,
+    }
+  },
+  methods: {
+    handleToggle() {
+      this.visibleBox = !this.visibleBox
+    },
+    handleClose() {
+      this.visibleBox = false
+    },
   },
 }
 </script>
