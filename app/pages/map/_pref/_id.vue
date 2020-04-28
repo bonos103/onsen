@@ -1,5 +1,5 @@
 <template lang="pug">
-  div(:class="$style.wrap")
+  div.transition(:class="$style.wrap")
     //- div(:class="$style.empty")
     div(:class="$style.block")
       div(:class="$style.swipe", @click="handleBack")
@@ -33,10 +33,6 @@
 export default {
   transition: {
     name: 'fade',
-    // enterClass: '$style.enter',
-    // enterActiveClass: '$style.enterActive',
-    // leaveActiveClass: '$style.leaveActive',
-    // leaveToClass: '$style.leaveTo',
   },
   asyncData({ params, store }) {
     return {
@@ -81,27 +77,17 @@ export default {
   },
 }
 </script>
+<style lang="postcss" scoped>
+  .fade-enter,
+  .fade-leave-to {
+    transform: translateY(100%);
+  }
+  .fade-enter-active,
+  .fade-leave-active {
+    transition: transform 0.2s ease-in-out;
+  }
+</style>
 <style module>
-  :global {
-    & .fade-enter,
-    & .fade-leave-to {
-      transform: translateY(100%);
-    }
-    & .fade-enter-active,
-    & .fade-leave-active {
-      transition: transform 0.2s ease-in-out;
-    }
-  }
-  .enter,
-  .leaveTo {
-    /* transform: translateY(100%); */
-    opacity: 0;
-  }
-  .enterActive,
-  .leaveActive {
-    /* transition: transform 0.3s; */
-    transition: opacity 1s;
-  }
   .wrap {
     position: fixed;
     top: 50%;
