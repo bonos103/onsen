@@ -2,11 +2,24 @@
   div(:class="$style.wrap")
     div(:class="$style.panel")
       div(:class="$style.range", :style="rangeStyle")
-      div(:class="$style.knob", :style="minKnobStyle")
-      div(:class="$style.knob", :style="maxKnobStyle")
+      knob(
+        :class="$style.knob",
+        :style="minKnobStyle",
+      )
+      knob(
+        :class="$style.knob",
+        :style="maxKnobStyle",
+        @mousedown.native.prevent="handleKnobStart($event, 'max')",
+        @touchstart.native.prevent="handleKnobStart($event, 'max')",
+      )
 </template>
 <script>
+import Knob from '@/components/Form/RangeSliderKnob'
+
 export default {
+  components: {
+    Knob,
+  },
   props: {
     minValue: { type: Number, default: 0 },
     maxValue: { type: Number, default: 150 },
@@ -21,6 +34,9 @@ export default {
     return {
       min: this.minValue,
       max: this.maxValue,
+      origin: { x: 0, y: 0 },
+      time: undefined,
+      isMoving: '',
     }
   },
   computed: {
@@ -65,6 +81,42 @@ export default {
     stepPercentage(step) {
       return (100 / this.stepCount) * step
     },
+    handleKnobStart(e, target) {
+      console.log(e)
+      this.origin = {
+        x: e.x,
+        y: e.y,
+      }
+      this.isMoving = target
+      window.addEventListener('mousemove', this.handleKnobMove)
+      window.addEventListener('mouseup', this.handleKnobEnd)
+    },
+    handleKnobMove(e) {
+      if (!this.timer) {
+        this.timer = setTimeout(() => {
+          this.timer = undefined
+        }, 100)
+        const dx = e.x - this.origin.x
+        const dStep = this.moveStep(dx)
+        console.log(dStep)
+      }
+    },
+    handleKnobEnd(e) {
+      const dx = e.x - this.origin.x
+      const dStep = this.moveStep(dx)
+      console.log(dStep)
+
+      window.removeEventListener('mousemove', this.handleKnobMove)
+      window.removeEventListener('mouseup', this.handleKnobEnd)
+      this.isMoving = ''
+    },
+    moveStep(dx) {
+      if (dx === 0) {
+        return 0
+      }
+      const stepPx = this.$el.clientWidth / (this.stepCount - 1)
+      return Math.round(dx / stepPx)
+    },
   },
 }
 </script>
@@ -90,13 +142,6 @@ export default {
   .knob {
     position: absolute;
     top: 50%;
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background-color: var(--salmon);
-    box-shadow: 0 0 4px color(var(--black) a(10%));
-    transform: translate(-50%, -50%);
-    cursor: ew-resize;
     z-index: 2;
   }
 </style>
