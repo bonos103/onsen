@@ -6,7 +6,7 @@
 </template>
 <script>
 import FilterIcon from '@/assets/images/commons/filter.svg'
-import FilterBox from '@/components/map/FilterBox'
+import FilterBox from '@/components/Map/FilterBox'
 
 export default {
   components: {
@@ -15,7 +15,7 @@ export default {
   },
   data() {
     return {
-      visibleBox: false,
+      visibleBox: true,
     }
   },
   methods: {

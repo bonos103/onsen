@@ -14,8 +14,8 @@
 <script>
 import { mapState } from 'vuex'
 // import csv from '@/assets/data/hokkaido.csv'
-import GoogleMap from '@/components/map/googleMap'
-import MapFilter from '@/components/map/MapFilter'
+import GoogleMap from '@/components/Map/GoogleMap'
+import MapFilter from '@/components/Map/MapFilter'
 
 export default {
   layout: 'map',
