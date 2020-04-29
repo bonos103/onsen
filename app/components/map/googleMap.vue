@@ -38,7 +38,6 @@ export default {
         apiKey: process.env.GOOGLE_API_KEY,
       })
       const center = await this.getCurrentPosition()
-      console.log(center)
       this.map = new this.google.maps.Map(this.$refs.map, {
         center,
         zoom: 10,
@@ -51,13 +50,11 @@ export default {
         if (navigator && navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(
             (position) => {
-              console.log(position)
               const lat = position.coords.latitude
               const lng = position.coords.longitude
               return resolve({ lat, lng })
             },
             (err) => {
-              console.log(err)
               switch (err.code) {
                 // PERMISSION_DENIED
                 case 1:
