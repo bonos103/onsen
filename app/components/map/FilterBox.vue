@@ -8,9 +8,19 @@
     mode = "",
   )
     div(:class="$style.box")
+      div(:class="$style.formItem")
+        div(:class="$style.formLabel") 料金
+        range-slider
+      div(:class="$style.formItem")
+        div(:class="$style.formLabel") エリア
 </template>
 <script>
+import RangeSlider from '@/components/Form/RangeSlider'
+
 export default {
+  components: {
+    RangeSlider,
+  },
   mounted() {
     this.$listen(window, 'click', this.handleClose)
     this.$listen(window, 'touchmove', this.handleClose)
@@ -43,6 +53,14 @@ export default {
     border-radius: 10px;
     box-shadow: 0 3px 6px color(var(--black) a(10%));
     padding: 60px 20px 20px;
+  }
+  .formItem {
+    margin-bottom: 30px;
+  }
+  .formLabel {
+    font-size: 1.4rem;
+    color: var(--salmon);
+    margin-bottom: 0.5em;
   }
 
   .enter,
