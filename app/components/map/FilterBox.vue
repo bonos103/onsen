@@ -34,8 +34,7 @@ export default {
       if (e.type === 'mousemove' && !this.isMouseDown) {
         return
       }
-      console.log('active!')
-      if (!e.target.contains(this.$el)) {
+      if (!this.$el.contains(e.target)) {
         this.$emit('close')
       }
     },
