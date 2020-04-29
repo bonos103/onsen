@@ -22,21 +22,23 @@ export default {
     RangeSlider,
   },
   mounted() {
-    this.$listen(window, 'click', this.handleClose)
-    this.$listen(window, 'touchmove', this.handleClose)
-    this.$listen(window, 'mouseup', this.handleMouse)
-    this.$listen(window, 'mousedown', this.handleMouse)
-    this.$listen(window, 'mousemove', this.handleClose)
+    this.$listen(window, 'click', this.handleClose, { passive: false })
+    this.$listen(window, 'touchmove', this.handleClose, { passive: false })
+    this.$listen(window, 'mouseup', this.handleMouse, { passive: false })
+    this.$listen(window, 'mousedown', this.handleMouse, { passive: false })
+    this.$listen(window, 'mousemove', this.handleClose, { passive: false })
   },
   methods: {
     handleClose(e) {
-      // e.preventDefault()
+      e.preventDefault()
       if (e.type === 'mousemove' && !this.isMouseDown) {
         return
       }
       // console.log(e)
       if (!this.$el.contains(e.target)) {
         this.$emit('close')
+      } else if (e.type === 'mousemove') {
+        this.isMouseDown = false
       }
     },
     handleMouse(e) {
