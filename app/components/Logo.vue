@@ -1,8 +1,18 @@
 <template lang="pug">
-  img(:class="$style.logo", src="@/assets/images/logo.svg?inline", alt="FUROMAP")
+  logo-svg(:class="$style.logo")
 </template>
+<script>
+import LogoSvg from '@/assets/images/logo.svg'
+
+export default {
+  components: {
+    LogoSvg,
+  },
+}
+</script>
 <style lang="postcss" module>
 .logo {
+  fill: var(--salmon);
   max-width: 100%;
   margin: auto;
   animation: appear 1s;
