@@ -98,17 +98,18 @@ export default {
         }, 100)
         const dx = e.x - this.origin.x
         const dStep = this.moveStep(dx)
-        console.log(dStep)
+        this.change(this[this.isMoving] + dStep)
       }
     },
     handleKnobEnd(e) {
       const dx = e.x - this.origin.x
       const dStep = this.moveStep(dx)
-      console.log(dStep)
+      this.change(this[this.isMoving] + dStep)
 
       window.removeEventListener('mousemove', this.handleKnobMove)
       window.removeEventListener('mouseup', this.handleKnobEnd)
       this.isMoving = ''
+      this.$emit('change', [this.min, this.max])
     },
     moveStep(dx) {
       if (dx === 0) {
@@ -116,6 +117,25 @@ export default {
       }
       const stepPx = this.$el.clientWidth / (this.stepCount - 1)
       return Math.round(dx / stepPx)
+    },
+    change(step) {
+      if (this.isMoving === 'min') {
+        if (step < 0) {
+          this.min = 0
+        } else if (step > this.max) {
+          this.min = this.max
+        } else {
+          this.min = step
+        }
+      } else if (this.isMoving === 'max') {
+        if (step < this.min) {
+          this.max = this.min
+        } else if (step > this.stepCount) {
+          this.max = this.stepCount
+        } else {
+          this.max = step
+        }
+      }
     },
   },
 }

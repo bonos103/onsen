@@ -10,7 +10,12 @@
     div(:class="$style.box")
       div(:class="$style.formItem")
         div(:class="$style.formLabel") 料金
-        range-slider
+        range-slider(
+          :min-value="min",
+          :max-value="max",
+          :steps="steps",
+          @change="changeRange",
+        )
       div(:class="$style.formItem")
         div(:class="$style.formLabel") エリア
 </template>
@@ -20,6 +25,14 @@ import RangeSlider from '@/components/Form/RangeSlider'
 export default {
   components: {
     RangeSlider,
+  },
+  data() {
+    const steps = [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
+    return {
+      min: steps[0],
+      max: steps[steps.length - 1],
+      steps,
+    }
   },
   mounted() {
     this.$listen(window, 'click', this.handleClose, { passive: false })
@@ -43,6 +56,10 @@ export default {
     },
     handleMouse(e) {
       this.isMouseDown = e.type === 'mousedown'
+    },
+    changeRange([min, max]) {
+      this.min = min
+      this.max = max
     },
   },
 }
