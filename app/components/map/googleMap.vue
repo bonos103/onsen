@@ -37,10 +37,12 @@ export default {
       this.google = await GoogleMapsApiLoader({
         apiKey: process.env.GOOGLE_API_KEY,
       })
-      const center = await this.getCurrentPosition()
+      // const center = await this.getCurrentPosition()
+      const center = { lat: 39.365596, lng: 136.866669 }
+      const zoom = window.innerWidth < 768 ? 5 : 6
       this.map = new this.google.maps.Map(this.$refs.map, {
         center,
-        zoom: 10,
+        zoom,
         disableDefaultUI: true,
       })
     },
