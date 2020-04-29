@@ -30,10 +30,11 @@ export default {
   },
   methods: {
     handleClose(e) {
-      e.preventDefault()
+      // e.preventDefault()
       if (e.type === 'mousemove' && !this.isMouseDown) {
         return
       }
+      // console.log(e)
       if (!this.$el.contains(e.target)) {
         this.$emit('close')
       }
