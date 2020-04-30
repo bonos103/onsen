@@ -2,7 +2,13 @@
   div(:class="$style.wrap")
     div(:class="$style.icon", @click.prevent.stop="handleToggle")
       filter-icon
-    filter-box(v-if="visibleBox", @close="handleClose")
+    filter-box(
+      v-if="visibleBox",
+      :range="range",
+      :steps="steps",
+      @close="handleClose",
+      @change:range="handleChangeRange",
+    )
 </template>
 <script>
 import FilterIcon from '@/assets/images/commons/filter.svg'
@@ -14,7 +20,10 @@ export default {
     FilterBox,
   },
   data() {
+    const steps = [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
     return {
+      range: [steps[0], steps[steps.length - 1]],
+      steps,
       visibleBox: true,
     }
   },
@@ -24,6 +33,9 @@ export default {
     },
     handleClose() {
       this.visibleBox = false
+    },
+    handleChangeRange(range) {
+      this.range = range
     },
   },
 }
