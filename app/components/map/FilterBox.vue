@@ -17,12 +17,15 @@
         )
       div(:class="$style.formItem")
         div(:class="$style.formLabel") エリア
+        form-select(:value="prefecture")
 </template>
 <script>
+import FormSelect from '@/components/Form/Select'
 import RangeSlider from '@/components/Form/RangeSlider'
 
 export default {
   components: {
+    FormSelect,
     RangeSlider,
   },
   props: {
@@ -39,6 +42,10 @@ export default {
       default() {
         return [0, 2]
       },
+    },
+    prefecture: {
+      type: String,
+      default: '',
     },
   },
   mounted() {
