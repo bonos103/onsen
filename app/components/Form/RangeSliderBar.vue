@@ -8,6 +8,6 @@
     height: 4px;
     border-radius: 2px;
     background-color: var(--salmon);
-    transition: right 0.1s;
+    transition: left 0.1s, right 0.1s;
   }
 </style>

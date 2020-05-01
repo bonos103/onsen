@@ -10,11 +10,12 @@
     div(:class="$style.box")
       div(:class="$style.formItem")
         div(:class="$style.formLabel") 料金
-        range-slider(
-          :value="range"
-          :steps="steps",
-          @input="updateRange",
-        )
+        div(:class="$style.rangeSlider")
+          range-slider(
+            :value="range"
+            :steps="steps",
+            @input="updateRange",
+          )
       div(:class="$style.formItem")
         div(:class="$style.formLabel") エリア
         form-select(:value="prefecture")
@@ -108,5 +109,9 @@ export default {
     position: absolute;
     top: 0;
     left: 0;
+  }
+
+  .rangeSlider {
+    padding-right: 10px;
   }
 </style>

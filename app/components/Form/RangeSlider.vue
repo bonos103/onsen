@@ -1,6 +1,6 @@
 <template lang="pug">
   div(:class="$style.wrap")
-    div(:class="$style.panel")
+    div(:class="$style.panel", ref="panel")
       bar(:style="rangeStyle")
       knob(
         :class="$style.knob",
@@ -14,15 +14,19 @@
         @mousedown.native.prevent="handleKnobStart($event, 'max')",
         @touchstart.native.prevent="handleKnobStart($event, 'max')",
       )
+      pop-value(:style="minValueStyle", :value="minValueFormat")
+      pop-value(:style="maxValueStyle", :value="maxValueFormat")
 </template>
 <script>
 import Bar from '@/components/Form/RangeSliderBar'
 import Knob from '@/components/Form/RangeSliderKnob'
+import PopValue from '@/components/Form/RangeSliderValue'
 
 export default {
   components: {
     Bar,
     Knob,
+    PopValue,
   },
   props: {
     value: {
@@ -50,6 +54,19 @@ export default {
     stepCount() {
       return this.steps.length || 2
     },
+    minValue() {
+      return this.steps[this.range[0]]
+    },
+    maxValue() {
+      return this.steps[this.range[1]]
+    },
+    minValueFormat() {
+      return `¥${this.minValue.toLocaleString('ja-JP')}`
+    },
+    maxValueFormat() {
+      const suffix = (this.maxValue === this.steps[this.stepCount - 1]) ? '~' : ''
+      return `¥${this.maxValue.toLocaleString('ja-JP')}${suffix}`
+    },
     minKnobStyle() {
       return {
         left: `${this.stepPercentage(this.range[0])}%`,
@@ -57,6 +74,20 @@ export default {
     },
     maxKnobStyle() {
       return {
+        left: `${this.stepPercentage(this.range[1])}%`,
+      }
+    },
+    minValueStyle() {
+      return {
+        position: 'absolute',
+        top: '-12px',
+        left: `${this.stepPercentage(this.range[0])}%`,
+      }
+    },
+    maxValueStyle() {
+      return {
+        position: 'absolute',
+        top: '-12px',
         left: `${this.stepPercentage(this.range[1])}%`,
       }
     },
@@ -118,7 +149,7 @@ export default {
       this.update()
     },
     moveStep(dx) {
-      const stepPx = this.$el.clientWidth / (this.stepCount - 1)
+      const stepPx = this.$refs.panel.clientWidth / (this.stepCount - 1)
       return Math.round(dx / stepPx)
     },
     change(step) {
@@ -141,7 +172,7 @@ export default {
       }
     },
     update() {
-      const range = [this.steps[this.range[0]], this.steps[this.range[1]]]
+      const range = [this.minValue, this.maxValue]
       this.$emit('input', range)
     },
   },
@@ -149,7 +180,7 @@ export default {
 </script>
 <style lang="postcss" module>
   .wrap {
-    padding: 4px 6px;
+    padding: 38px 6px 4px;
     width: 100%;
   }
   .panel {
