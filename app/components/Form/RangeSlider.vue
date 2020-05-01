@@ -55,10 +55,12 @@ export default {
       return this.steps.length || 2
     },
     minValue() {
-      return this.steps[this.range[0]]
+      const value = this.steps[this.range[0]]
+      return value !== undefined ? value : ''
     },
     maxValue() {
-      return this.steps[this.range[1]]
+      const value = this.steps[this.range[1]]
+      return value !== undefined ? value : ''
     },
     minValueFormat() {
       return `¥${this.minValue.toLocaleString('ja-JP')}`
@@ -119,32 +121,37 @@ export default {
       return (100 / (this.stepCount - 1)) * step
     },
     handleKnobStart(e, target) {
+      console.log(e)
       this.origin = {
-        x: e.x,
-        y: e.y,
+        x: e.clientX || e.touches[0].clientX,
+        y: e.clientY || e.touches[0].clientY,
         range: [...this.range],
       }
       this.isMoving = target
-      window.addEventListener('mousemove', this.handleKnobMove)
-      window.addEventListener('mouseup', this.handleKnobEnd)
+      window.addEventListener('mousemove', this.handleKnobMove, { passive: false })
+      window.addEventListener('touchmove', this.handleKnobMove, { passive: false })
+      window.addEventListener('mouseup', this.handleKnobEnd, { passive: false })
+      window.addEventListener('touchend', this.handleKnobEnd, { passive: false })
     },
     handleKnobMove(e) {
+      console.log(e)
+      e.preventDefault()
       if (!this.timer) {
         this.timer = setTimeout(() => {
           this.timer = undefined
         }, 100)
-        const dx = e.x - this.origin.x
+        const dx = (e.clientX || e.touches[0].clientX) - this.origin.x
         const dStep = this.moveStep(dx)
         this.change(this.origin.range[this.movingArg] + dStep)
       }
     },
     handleKnobEnd(e) {
-      const dx = e.x - this.origin.x
-      const dStep = this.moveStep(dx)
-      this.change(this.origin.range[this.movingArg] + dStep)
-
-      window.removeEventListener('mousemove', this.handleKnobMove)
-      window.removeEventListener('mouseup', this.handleKnobEnd)
+      console.log(e)
+      e.preventDefault()
+      window.removeEventListener('mousemove', this.handleKnobMove, { passive: false })
+      window.removeEventListener('touchmove', this.handleKnobMove, { passive: false })
+      window.removeEventListener('mouseup', this.handleKnobEnd, { passive: false })
+      window.removeEventListener('touchend', this.handleKnobEnd, { passive: false })
       this.isMoving = ''
       this.update()
     },
