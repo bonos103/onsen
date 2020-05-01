@@ -1,3 +1,4 @@
+import prefectures from '@/assets/data/prefectures'
 import hokkaido from '@/assets/data/hokkaido.yaml'
 
 const data = {
@@ -15,6 +16,7 @@ const list = Object.entries(data).map(o => (
 export const state = () => ({
   list,
   ...data,
+  prefectures,
 })
 
 export const getters = {

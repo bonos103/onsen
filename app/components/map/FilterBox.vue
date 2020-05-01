@@ -19,9 +19,11 @@
       div(:class="$style.formItem")
         div(:class="$style.formLabel") エリア
         form-select(:value="prefecture")
-          option(value="hoge") hoge
+          option(value="") 都道府県で絞り込み
+          option(v-for="pref in prefectures", :key="pref.value", :value="pref.value") {{pref.name}}
 </template>
 <script>
+import { mapState } from 'vuex'
 import FormSelect from '@/components/Form/Select'
 import RangeSlider from '@/components/Form/RangeSlider'
 
@@ -49,6 +51,11 @@ export default {
       type: String,
       default: '',
     },
+  },
+  computed: {
+    ...mapState('onsen', {
+      prefectures: 'prefectures',
+    }),
   },
   mounted() {
     this.$listen(window, 'click', this.handleClose, { passive: false })
@@ -89,7 +96,10 @@ export default {
     padding: 60px 20px 20px;
   }
   .formItem {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    &:last-child {
+      margin-bottom: 20px;
+    }
   }
   .formLabel {
     font-size: 1.4rem;
