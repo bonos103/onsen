@@ -19,6 +19,7 @@
       div(:class="$style.formItem")
         div(:class="$style.formLabel") エリア
         form-select(:value="prefecture")
+          option(value="hoge") hoge
 </template>
 <script>
 import FormSelect from '@/components/Form/Select'

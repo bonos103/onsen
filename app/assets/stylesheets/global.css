@@ -24,3 +24,13 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+button, input, select, textarea {
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 0;
+  outline: none;
+  appearance: none;
+}
