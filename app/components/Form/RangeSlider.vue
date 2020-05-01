@@ -149,14 +149,14 @@ export default {
 </script>
 <style lang="postcss" module>
   .wrap {
-    padding: 4px 0;
+    padding: 4px 6px;
     width: 100%;
   }
   .panel {
     position: relative;
     width: 100%;
-    height: 5px;
-    border-radius: 2.5px;
+    height: 4px;
+    border-radius: 2px;
     background-color: var(--salmon-lightest);
   }
   .knob {
