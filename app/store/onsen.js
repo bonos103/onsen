@@ -1,4 +1,4 @@
-import hokkaido from '@/assets/data/hokkaido.csv'
+import hokkaido from '@/assets/data/hokkaido.yaml'
 
 const data = {
   hokkaido,
