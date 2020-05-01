@@ -43,15 +43,17 @@ export default {
 <style lang="postcss" module>
   .wrap {
     position: absolute;
-    top: 20px;
-    right: 20px;
+    top: 0;
+    right: 0;
     width: 100%;
-    max-width: 320px;
+    max-width: 360px;
+    padding: 20px;
+    z-index: 110;
   }
   .icon {
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 30px;
+    right: 30px;
     display: flex;
     align-items: center;
     justify-content: center;

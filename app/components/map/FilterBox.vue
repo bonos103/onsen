@@ -118,8 +118,8 @@ export default {
   }
   .leaveActive {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 20px;
+    left: 20px;
   }
 
   .rangeSlider {
