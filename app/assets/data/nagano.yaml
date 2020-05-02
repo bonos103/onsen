@@ -333,11 +333,11 @@
     id: 34
     name: 湯々庵 枇杷の湯
     url: http://www.biwanoyu.com/
-    map: https://maps.google.com/?cid=5943025828618186464&hl=ja
+    map: https://www.google.com/maps/place/?q=place_id:ChIJodKm4A8MHWAR4C7C7YDeeVI
     address: 長野県松本市浅間温泉3-26-1
     price: 800
-    lat: 36.266729
-    lng: 137.9919183
+    lat: 36.2658851
+    lng: 137.9912024
     type: 温泉
 -
     id: 35
@@ -542,7 +542,7 @@
 -
     id: 55
     name: 大谷地鉱泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=17831254772635998209&hl=ja
     address: 長野県北佐久郡御代田町塩田3145
     price: 360
@@ -862,7 +862,7 @@
 -
     id: 87
     name: 加賀井温泉 一陽館
-    url: 
+    url:
     map: https://maps.google.com/?cid=3683000175812921872&hl=ja
     address: 長野県長野市松代町東条55
     price: 400
@@ -882,7 +882,7 @@
 -
     id: 89
     name: 湯川温泉 河童の湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=11935208304521566781&hl=ja
     address: 長野県茅野市北山湯川1263
     price: 400
@@ -1102,7 +1102,7 @@
 -
     id: 111
     name: 新戸倉温泉 戸倉観世温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=4251240888163820035&hl=ja
     address: 長野県千曲市戸倉2087
     price: 300
@@ -1322,7 +1322,7 @@
 -
     id: 133
     name: 若槻温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=7121355853326300769&hl=ja
     address: 長野県長野市若槻東条1300-3
     price: 500
@@ -1392,7 +1392,7 @@
 -
     id: 140
     name: 上諏訪温泉 大和温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=1138000677170523907&hl=ja
     address: 長野県諏訪市小和田17-5
     price: 300
@@ -1532,7 +1532,7 @@
 -
     id: 154
     name: 湯原温泉 猫鼻の湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=12288837931315163277&hl=ja
     address: 長野県北安曇郡小谷村北小谷道筋3634-2
     price: 500
@@ -1562,7 +1562,7 @@
 -
     id: 157
     name: 千古温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=15366349454251204087&hl=ja
     address: 長野県上田市真田町長6395-1
     price: 500
@@ -1732,7 +1732,7 @@
 -
     id: 174
     name: 浅間温泉 仙気の湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=16039681119520149303&hl=ja
     address: 長野県松本市浅間温泉3-4-22
     price: 400
@@ -1812,7 +1812,7 @@
 -
     id: 182
     name: 松代温泉公民館
-    url: 
+    url:
     map: https://maps.google.com/?cid=15645118553290284134&hl=ja
     address: 長野県長野市松代温泉151-2
     price: 250
@@ -1822,7 +1822,7 @@
 -
     id: 183
     name: 上諏訪温泉 宮の湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=15021849609175972783&hl=ja
     address: 長野県諏訪市湖南1612
     price: 400
@@ -1992,7 +1992,7 @@
 -
     id: 200
     name: 角間温泉 大湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=6449798027549463799&hl=ja
     address: 長野県松本市浅間温泉3-31-10
     price: 300
@@ -2032,7 +2032,7 @@
 -
     id: 204
     name: 角間温泉 滝の湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=4725363069891488987&hl=ja
     address: 長野県上高井郡高山村奥山田3681-377
     price: 300
@@ -2052,7 +2052,7 @@
 -
     id: 206
     name: 湯の脇 平温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=722488932940784963&hl=ja
     address: 長野県諏訪市湯の脇2-5-8
     price: 200
@@ -2072,7 +2072,7 @@
 -
     id: 208
     name: 角間温泉 新田の湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=6141699393011925681&hl=ja
     address: 長野県下高井郡野沢温泉村豊郷
     price: 300
@@ -2092,7 +2092,7 @@
 -
     id: 210
     name: 上諏訪温泉 平温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=1320641461305252472&hl=ja
     address: 長野県諏訪市湯の脇
     price: 220
@@ -2272,7 +2272,7 @@
 -
     id: 228
     name: アルプスの湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=5895249392563802366&hl=ja
     address: 長野県安曇野市豊科3770-7
     price: 400
@@ -2292,7 +2292,7 @@
 -
     id: 230
     name: 富士の湯
-    url: 
+    url:
     map: https://maps.google.com/maps?q=36.227957,137.974605
     address: 長野県松本市本庄2-9-8
     price: 400

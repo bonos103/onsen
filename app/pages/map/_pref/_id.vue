@@ -24,7 +24,7 @@
         height="450",
         frameborder="0",
         style="border:0",
-        :src="`https://www.google.com/maps/embed/v1/place?key=${GOOGLE_API_KEY}&q=${encodeURIComponent(item.name)}+${encodeURIComponent(item.address)}`",
+        :src="`https://www.google.com/maps/embed/v1/place?key=${GOOGLE_API_KEY}&q=${encodeURIComponent(item.address)}+${encodeURIComponent(item.name)}`",
         allowfullscreen,
         :key="item.id",
       )
