@@ -5,6 +5,10 @@
 import { mapState } from 'vuex'
 import GoogleMapsApiLoader from 'google-maps-api-loader'
 import MarkerClusterer from '@google/markerclustererplus'
+import markerImage1 from '@/assets/images/map/marker1.png'
+import markerImage2 from '@/assets/images/map/marker2.png'
+import markerImage3 from '@/assets/images/map/marker3.png'
+import markerImage4 from '@/assets/images/map/marker4.png'
 
 export default {
   data() {
@@ -91,8 +95,22 @@ export default {
         lat: item.lat,
         lng: item.lng,
       }
+      const markerImages = [
+        markerImage1,
+        markerImage2,
+        markerImage3,
+        markerImage4,
+      ]
+      const markerImage = markerImages[this.markerLevelOf(item)]
       const marker = new this.google.maps.Marker({
         position: location,
+        icon: new this.google.maps.MarkerImage(
+          markerImage, // マーカー画像URL
+          null,
+          new this.google.maps.Point(0, 0), // マーカー画像表示の起点（変更しない）
+          new this.google.maps.Point(13.5, 40), // マーカー位置の調整
+          new this.google.maps.Size(27, 40), // マーカー画像のサイズ
+        ),
       })
       marker.addListener('click', () => {
         self.$emit('click-marker', item)
@@ -135,6 +153,18 @@ export default {
           },
         ],
       })
+    },
+    markerLevelOf(item) {
+      if (typeof item.price !== 'number' || item.price >= 1000) {
+        return 3
+      }
+      if (item.price >= 700) {
+        return 2
+      }
+      if (item.price >= 400) {
+        return 1
+      }
+      return 0
     },
   },
 }
