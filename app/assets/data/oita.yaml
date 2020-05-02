@@ -1,0 +1,2401 @@
+---
+-
+    id: 1
+    name: 竹瓦温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail4.html
+    map: https://maps.google.com/?cid=3477758864258970744&hl=ja
+    address: 大分県別府市元町16-23
+    price: 110
+    lat: 33.2774691
+    lng: 131.5060053
+    type: 温泉
+-
+    id: 2
+    name: ひょうたん温泉
+    url: https://www.hyotan-onsen.com/
+    map: https://maps.google.com/?cid=8899495308519393039&hl=ja
+    address: 大分県別府市鉄輪159-2
+    price: 750
+    lat: 33.3144329
+    lng: 131.4793208
+    type: 温泉
+-
+    id: 3
+    name: 明礬 湯の里
+    url: http://yuno-hana.jp/roten_spring/
+    map: https://maps.google.com/?cid=11615503955552453362&hl=ja
+    address: 大分県別府市明礬温泉6組
+    price: 600
+    lat: 33.3195656
+    lng: 131.4539899
+    type: 温泉
+-
+    id: 4
+    name: 別府温泉保養ランド
+    url: http://hoyoland.webcrow.jp/
+    map: https://maps.google.com/?cid=17561889845687707765&hl=ja
+    address: 大分県別府市明礬5
+    price: 1100
+    lat: 33.3154914
+    lng: 131.4582862
+    type: 温泉
+-
+    id: 5
+    name: ラムネ温泉館
+    url: http://www.lamune-onsen.co.jp/
+    map: https://maps.google.com/?cid=11625133652606010495&hl=ja
+    address: 大分県竹田市直入町長湯7676-2
+    price: 500
+    lat: 33.0683442
+    lng: 131.3798691
+    type: 温泉
+-
+    id: 6
+    name: 豊の国健康ランド
+    url: http://www.toyonokuni-k.com/
+    map: https://maps.google.com/?cid=6898222437022531176&hl=ja
+    address: 大分県大分市南春日町12-5
+    price: 1250
+    lat: 33.2369075
+    lng: 131.5965404
+    type: 温泉
+-
+    id: 7
+    name: 八面山 金色温泉
+    url: http://www.kanairo.co.jp/
+    map: https://maps.google.com/?cid=3373127999080053319&hl=ja
+    address: 大分県中津市三光田口584-1
+    price: 700
+    lat: 33.5150067
+    lng: 131.201669
+    type: 温泉
+-
+    id: 8
+    name: 琴ひら温泉 ゆめ山水
+    url: http://www.kotohira-onsen.com/
+    map: https://maps.google.com/?cid=12033534688855708620&hl=ja
+    address: 大分県日田市琴平町1571-1
+    price: 700
+    lat: 33.2961486
+    lng: 130.9352703
+    type: 温泉
+-
+    id: 9
+    name: アサヒ温泉(明野店)
+    url: https://www.asahi-spa.com
+    map: https://maps.google.com/?cid=6554237297627043428&hl=ja
+    address: 大分県大分市明野東1-2-10
+    price: 380
+    lat: 33.2215362
+    lng: 131.653553
+    type: 温泉
+-
+    id: 10
+    name: 中川温泉 蛙乃湯
+    url: 
+    map: https://maps.google.com/?cid=16971181452231197941&hl=ja
+    address: 大分県由布市湯布院町中川1176-1
+    price: 320
+    lat: 33.2424441
+    lng: 131.3308427
+    type: 銭湯
+-
+    id: 11
+    name: 別府海浜砂湯
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail9.html
+    map: https://maps.google.com/?cid=974555386082049121&hl=ja
+    address: 大分県別府市上人ケ浜町9
+    price: 1050
+    lat: 33.3201982
+    lng: 131.4992481
+    type: 温泉
+-
+    id: 12
+    name: 塚原温泉 火口乃泉
+    url: https://www.tukaharaonsen.jp/
+    map: https://maps.google.com/?cid=18424097471023301754&hl=ja
+    address: 大分県由布市湯布院町塚原1235
+    price: 500
+    lat: 33.3130169
+    lng: 131.4225363
+    type: 温泉
+-
+    id: 13
+    name: あたみ温泉
+    url: 
+    map: https://maps.google.com/?cid=15454757517271592022&hl=ja
+    address: 大分県大分市末広町1-3-4
+    price: 380
+    lat: 33.2342251
+    lng: 131.6047487
+    type: 銭湯
+-
+    id: 14
+    name: 堀田温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail16.html
+    map: https://maps.google.com/?cid=6670718789756718624&hl=ja
+    address: 大分県別府市堀田2
+    price: 220
+    lat: 33.2923475
+    lng: 131.458406
+    type: 温泉
+-
+    id: 15
+    name: 塩湯
+    url: 
+    map: https://maps.google.com/?cid=13659382496250923285&hl=ja
+    address: 大分県佐伯市上浦浅海井浦浪太2920-3
+    price: 500
+    lat: 33.030936
+    lng: 131.9205981
+    type: 温泉
+-
+    id: 16
+    name: 別府温泉 不老泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail5.html
+    map: https://maps.google.com/?cid=3095167427748512083&hl=ja
+    address: 大分県別府市中央町7-16
+    price: 110
+    lat: 33.277064
+    lng: 131.5003809
+    type: 共同浴場・銭湯
+-
+    id: 17
+    name: わくわく温泉 かっぱの湯
+    url: http://www.beppu-kappanoyu.com/
+    map: https://maps.google.com/?cid=3820088134213360554&hl=ja
+    address: 大分県別府市汐見町3-17
+    price: 390
+    lat: 33.3061298
+    lng: 131.5005371
+    type: 温泉
+-
+    id: 18
+    name: 湯屋えびす
+    url: https://www.e-ebisu.biz/
+    map: https://maps.google.com/?cid=15289450834369803946&hl=ja
+    address: 大分県別府市明礬4組
+    price: 1200
+    lat: 33.3172845
+    lng: 131.4532087
+    type: 温泉
+-
+    id: 19
+    name: らんぷの湯(花園店)
+    url: http://www.manekinoyu.jp/hanazono/
+    map: https://maps.google.com/?cid=16226718332333743443&hl=ja
+    address: 大分県大分市花園12組
+    price: 380
+    lat: 33.2108743
+    lng: 131.6062047
+    type: 温泉
+-
+    id: 20
+    name: 汐湯
+    url: 
+    map: https://maps.google.com/?cid=16592491323443776095&hl=ja
+    address: 大分県大分県中津市三ノ丁1278-1
+    price: 350
+    lat: 33.6059847
+    lng: 131.1839719
+    type: 銭湯
+-
+    id: 21
+    name: 湯屋 夢たまて筥
+    url: http://www.fugetsu-hammond.jp/yume.html
+    map: https://maps.google.com/?cid=11910749985870933811&hl=ja
+    address: 大分県別府市北中1組
+    price: 520
+    lat: 33.314523
+    lng: 131.4783538
+    type: 温泉
+-
+    id: 22
+    name: 海門寺温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail7.html
+    map: https://maps.google.com/?cid=993404751759967108&hl=ja
+    address: 大分県別府市北浜2-3-2
+    price: 110
+    lat: 33.280478
+    lng: 131.5032908
+    type: 共同浴場・銭湯
+-
+    id: 23
+    name: 神崎温泉 天海の湯
+    url: http://tenkainoyu.com/tenkainoyu/
+    map: https://maps.google.com/?cid=1316636284592911757&hl=ja
+    address: 大分県大分市神崎62-8
+    price: 500
+    lat: 33.2489343
+    lng: 131.5753298
+    type: 温泉
+-
+    id: 24
+    name: おおいた温泉物語 三川の湯
+    url: http://www.erewhon.co.jp/mitsugawanoyu.htm
+    map: https://maps.google.com/?cid=12590355471698910722&hl=ja
+    address: 大分県大分市三川新町1-1-11
+    price: 380
+    lat: 33.2505716
+    lng: 131.6673268
+    type: 温泉
+-
+    id: 25
+    name: 鉄輪むし湯
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail11.html
+    map: https://maps.google.com/?cid=12278267146005858348&hl=ja
+    address: 大分県別府市鉄輪上1組
+    price: 520
+    lat: 33.3170893
+    lng: 131.4783081
+    type: 共同浴場・銭湯
+-
+    id: 26
+    name: 鴛野温泉 はなまるの湯
+    url: http://tenkainoyu.com/hanamarunoyu/
+    map: https://maps.google.com/?cid=9641047714118173505&hl=ja
+    address: 大分県大分市鴛野984
+    price: 500
+    lat: 33.1890484
+    lng: 131.6132962
+    type: 温泉
+-
+    id: 27
+    name: 別府大平山温泉 おかたの湯
+    url: https://okatanoyu.jimdo.com/
+    map: https://maps.google.com/?cid=6436372958089381557&hl=ja
+    address: 大分県別府市竹の内5
+    price: 1500
+    lat: 33.3044542
+    lng: 131.465235
+    type: 温泉
+-
+    id: 28
+    name: やまなみの湯
+    url: http://beppuyamanami.com/
+    map: https://maps.google.com/?cid=10112915774894288359&hl=ja
+    address: 大分県別府市北中7-2
+    price: 450
+    lat: 33.3118135
+    lng: 131.4810598
+    type: 温泉
+-
+    id: 29
+    name: 七里田温泉 共同浴場 下の湯
+    url: https://konoha.sichirida-onsen.com
+    map: https://maps.google.com/?cid=10237269299019096126&hl=ja
+    address: 大分県竹田市久住町有氏4050-1
+    price: 500
+    lat: 33.0702437
+    lng: 131.3286276
+    type: 共同浴場・銭湯
+-
+    id: 30
+    name: 天然温泉 天の川
+    url: http://tenkainoyu.com/amanogawa/
+    map: https://maps.google.com/?cid=3773501105730191012&hl=ja
+    address: 大分県大分市奥田田中11
+    price: 400
+    lat: 33.2115051
+    lng: 131.5924974
+    type: 温泉
+-
+    id: 31
+    name: 大分森温泉 まねきの湯
+    url: http://www.manekinoyu.jp/mori/
+    map: https://maps.google.com/?cid=9581483754266117834&hl=ja
+    address: 大分県大分市森六反田595-2
+    price: 380
+    lat: 33.220655
+    lng: 131.679855
+    type: 温泉
+-
+    id: 32
+    name: CITY SPA てんくう
+    url: http://cityspatenku.jp/
+    map: https://maps.google.com/?cid=11682521108156768002&hl=ja
+    address: 大分県大分市要町1-14
+    price: 1600
+    lat: 33.2331459
+    lng: 131.6063255
+    type: 温泉
+-
+    id: 33
+    name: 鉄輪温泉 鬼石の湯
+    url: http://oniishi.com/
+    map: https://maps.google.com/?cid=17027020927969640319&hl=ja
+    address: 大分県別府市鉄輪559-1
+    price: 620
+    lat: 33.3152282
+    lng: 131.4687162
+    type: 温泉
+-
+    id: 34
+    name: 竹田温泉 花水月
+    url: https://www.taketan.jp/spots/detail/40
+    map: https://maps.google.com/?cid=5226225651743682879&hl=ja
+    address: 大分県竹田市会々2250-1
+    price: 500
+    lat: 32.971492
+    lng: 131.3917648
+    type: 温泉
+-
+    id: 35
+    name: 家族風呂 秘湯 うめ乃湯
+    url: http://www.umenoyu.info/
+    map: https://maps.google.com/?cid=4802318306137565427&hl=ja
+    address: 大分県日田市大山町西大山4602-4
+    price: 2000
+    lat: 33.2371893
+    lng: 130.986459
+    type: 温泉
+-
+    id: 36
+    name: 天然温泉 てんぐの湯
+    url: http://beppu-g-palace.com/hot_spring
+    map: https://maps.google.com/?cid=15215206693504406489&hl=ja
+    address: 大分県別府市元町1-25
+    price: 500
+    lat: 33.276673
+    lng: 131.5032318
+    type: 温泉
+-
+    id: 37
+    name: 駅前高等温泉
+    url: http://www.gokuraku-jigoku-beppu.com/entries/ekimae-kotoonsen
+    map: https://maps.google.com/?cid=3845380849291017032&hl=ja
+    address: 大分県別府市駅前町13-14
+    price: 200
+    lat: 33.2790501
+    lng: 131.5019891
+    type: 温泉
+-
+    id: 38
+    name: 長湯温泉療養文化館 御前湯
+    url: http://www.gozenyu.com/
+    map: https://maps.google.com/?cid=18256485625158264532&hl=ja
+    address: 大分県竹田市直入町長湯7962-1
+    price: 500
+    lat: 33.0708731
+    lng: 131.384547
+    type: 温泉
+-
+    id: 39
+    name: 臼杵 湯の里 薬師の湯
+    url: http://usuki-yunosato.com/onsen.html
+    map: https://maps.google.com/?cid=6809806622501686482&hl=ja
+    address: 大分県臼杵市深田中対田12組
+    price: 500
+    lat: 33.0960982
+    lng: 131.7700878
+    type: 温泉
+-
+    id: 40
+    name: 高崎温泉 おさるの湯
+    url: http://www10.plala.or.jp/osarunoyu/
+    map: https://maps.google.com/?cid=11954847765806966734&hl=ja
+    address: 大分県由布市挾間町高崎628-1
+    price: 400
+    lat: 33.2357832
+    lng: 131.5337478
+    type: 温泉
+-
+    id: 41
+    name: 別府温泉 桜湯
+    url: http://www.sakurayu.net/
+    map: https://maps.google.com/?cid=1527845381386837135&hl=ja
+    address: 大分県別府市堀田4-2
+    price: 700
+    lat: 33.2923475
+    lng: 131.458406
+    type: 温泉
+-
+    id: 42
+    name: 湯屋天音
+    url: http://yuya-amane.com/
+    map: https://maps.google.com/?cid=12007216420711555691&hl=ja
+    address: 大分県竹田市久住町大字栢木6532-1
+    price: 500
+    lat: 33.0601523
+    lng: 131.3541139
+    type: 温泉
+-
+    id: 43
+    name: 北浜温泉テルマス
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail8.html
+    map: https://maps.google.com/?cid=5269097218152551612&hl=ja
+    address: 大分県別府市京町11-1
+    price: 520
+    lat: 33.2860478
+    lng: 131.5050745
+    type: 温泉
+-
+    id: 44
+    name: 七福温泉 宇戸の庄
+    url: http://www.utonosyo.com/
+    map: https://maps.google.com/?cid=17362073861751569408&hl=ja
+    address: 大分県玖珠郡玖珠町森字谷の河内4398-2
+    price: 400
+    lat: 33.341153
+    lng: 131.208463
+    type: 温泉
+-
+    id: 45
+    name: ぶんご温泉 高田の湯
+    url: http://www.bungo.co.jp/business/takadanoyu.html
+    map: https://maps.google.com/?cid=12490865042749420678&hl=ja
+    address: 大分県大分市下徳丸36-1
+    price: 350
+    lat: 33.2098837
+    lng: 131.6889784
+    type: 温泉
+-
+    id: 46
+    name: 院内妙見温泉
+    url: http://www.usa-kanko.jp/spots/detail/194
+    map: https://maps.google.com/?cid=10152651351041061210&hl=ja
+    address: 大分県宇佐市院内町櫛野852-1
+    price: 350
+    lat: 33.4603644
+    lng: 131.332284
+    type: 温泉
+-
+    id: 47
+    name: 西谷温泉
+    url: https://www.nishitani-onsen.net/
+    map: https://maps.google.com/?cid=7582264114478894630&hl=ja
+    address: 大分県中津市本耶馬渓町西谷1448
+    price: 450
+    lat: 33.4246266
+    lng: 131.1781783
+    type: 温泉
+-
+    id: 48
+    name: 夢幻の里 春夏秋冬
+    url: http://mugen-no-sato.com/
+    map: https://maps.google.com/?cid=2878165849207420038&hl=ja
+    address: 大分県別府市堀田6
+    price: 700
+    lat: 33.2854081
+    lng: 131.4622035
+    type: 温泉
+-
+    id: 49
+    name: まるた屋温泉 西方の湯
+    url: https://www.visit-oita.jp/onsen/spots/detail/8696
+    map: https://maps.google.com/?cid=17507859108186960074&hl=ja
+    address: 大分県大分市南生石東5組
+    price: 500
+    lat: 33.2404118
+    lng: 131.5827728
+    type: 温泉
+-
+    id: 50
+    name: くにさき六郷温泉 夷谷温泉
+    url: https://www.city.bungotakada.oita.jp/page/page_02345.html
+    map: https://maps.google.com/?cid=11059620889546208065&hl=ja
+    address: 大分県豊後高田市夷1851-1
+    price: 400
+    lat: 33.6064932
+    lng: 131.5632217
+    type: 温泉
+-
+    id: 51
+    name: 道の駅やよい やよいの湯
+    url: http://www.michinoeki-yayoi.com/yayoinoyu/yayoinoyu.htm
+    map: https://maps.google.com/?cid=4760978780274470156&hl=ja
+    address: 大分県佐伯市弥生上小倉898-1
+    price: 500
+    lat: 32.9649398
+    lng: 131.8388177
+    type: 温泉
+-
+    id: 52
+    name: 七里田温泉館 木乃葉の湯
+    url: https://konoha.sichirida-onsen.com/
+    map: https://maps.google.com/?cid=14962822206584043534&hl=ja
+    address: 大分県竹田市久住町有氏4050-1
+    price: 300
+    lat: 33.0702437
+    lng: 131.3286276
+    type: 温泉
+-
+    id: 53
+    name: くにさき六郷温泉 花いろ温泉
+    url: https://www.city.bungotakada.oita.jp/page/page_02227.html
+    map: https://maps.google.com/?cid=17479779987263479343&hl=ja
+    address: 大分県豊後高田市美和1335-1
+    price: 400
+    lat: 33.5510385
+    lng: 131.4588442
+    type: 温泉
+-
+    id: 54
+    name: 中津スーパー銭湯 さくら温泉
+    url: http://www.fukunoyu.com/sakura-onsen/
+    map: https://maps.google.com/?cid=1302473004026056676&hl=ja
+    address: 大分県中津市下池永正手64
+    price: 500
+    lat: 33.5901415
+    lng: 131.2111186
+    type: 温泉
+-
+    id: 55
+    name: 観海寺温泉 いちのいで会館
+    url: https://ichinoide-kaikan.jimdo.com/
+    map: https://maps.google.com/?cid=2263107422162268381&hl=ja
+    address: 大分県別府市上原町14-2
+    price: 1500
+    lat: 33.278522
+    lng: 131.4810715
+    type: 温泉
+-
+    id: 56
+    name: まほろば温泉 菟狭
+    url: http://www.mahorobaonsen.com/
+    map: https://maps.google.com/?cid=8360259516308299339&hl=ja
+    address: 大分県宇佐市川部1584
+    price: 400
+    lat: 33.5391626
+    lng: 131.3586059
+    type: 温泉
+-
+    id: 57
+    name: とろろ乃湯
+    url: http://tororo-no-yu.sakura.ne.jp
+    map: https://maps.google.com/?cid=5209037709427149153&hl=ja
+    address: 大分県中津市耶馬溪町山移5927
+    price: 350
+    lat: 33.4099132
+    lng: 131.1396438
+    type: 温泉
+-
+    id: 58
+    name: 韓国苑 庄内の里 庄内温泉
+    url: http://kankokuen.co.jp/wp/?p=361
+    map: https://maps.google.com/?cid=16394696855329776495&hl=ja
+    address: 大分県由布市庄内町東長宝165-1
+    price: 350
+    lat: 33.185902
+    lng: 131.462034
+    type: 温泉
+-
+    id: 59
+    name: ゆの杜 竹泉
+    url: https://1126.yunomoritakesen.jp/
+    map: https://maps.google.com/?cid=7914361082711524164&hl=ja
+    address: 大分県由布市挾間町来鉢影ノ木1047-1
+    price: 500
+    lat: 33.220187
+    lng: 131.505248
+    type: 温泉
+-
+    id: 60
+    name: 極楽温泉
+    url: https://gokurakuonsen.jimdo.com/
+    map: https://maps.google.com/?cid=1752527867872216641&hl=ja
+    address: 大分県由布市挾間町来鉢影ノ木1154-1
+    price: 380
+    lat: 33.220187
+    lng: 131.505248
+    type: 温泉
+-
+    id: 61
+    name: 下ん湯
+    url: https://www.visit-oita.jp/spots/detail/4353
+    map: https://maps.google.com/?cid=13408410906018785302&hl=ja
+    address: 大分県由布市湯布院町川上1585
+    price: 200
+    lat: 33.2840989
+    lng: 131.3510866
+    type: 共同浴場・銭湯
+-
+    id: 62
+    name: 里山温泉 家族湯 四季彩の湯
+    url: http://satoyamaonsen.com/
+    map: https://maps.google.com/?cid=4385566609138349767&hl=ja
+    address: 大分県玖珠郡九重町町田2174-1
+    price: 1000
+    lat: 33.189711
+    lng: 131.172691
+    type: 温泉
+-
+    id: 63
+    name: 岡城天然温泉 月のしずく
+    url: https://www.taketan.jp/spots/detail/210
+    map: https://maps.google.com/?cid=15364448389352976341&hl=ja
+    address: 大分県竹田市飛田川3435-20
+    price: 400
+    lat: 32.971908
+    lng: 131.382567
+    type: 温泉
+-
+    id: 64
+    name: 鉄輪温泉 みかゑり温泉
+    url: 
+    map: https://maps.google.com/?cid=13970380070261658612&hl=ja
+    address: 大分県別府市火売8-2
+    price: 300
+    lat: 33.3126468
+    lng: 131.4727651
+    type: 温泉
+-
+    id: 65
+    name: おがせ天然湯 せんらく温泉
+    url: https://oita.jp-o.net/hita/onsen/ogase/ogase.htm
+    map: https://maps.google.com/?cid=8861941562878454301&hl=ja
+    address: 大分県日田市小ヶ瀬町2750
+    price: 550
+    lat: 33.2976393
+    lng: 130.9583095
+    type: 温泉
+-
+    id: 66
+    name: 浜田温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail10.html
+    map: https://maps.google.com/?cid=8341819389542219984&hl=ja
+    address: 大分県別府市亀川浜田町991-6
+    price: 110
+    lat: 33.3288532
+    lng: 131.4962208
+    type: 共同浴場・銭湯
+-
+    id: 67
+    name: 乙丸温泉館
+    url: http://www.city.yufu.oita.jp/kankou/onsen/otomaru/
+    map: https://maps.google.com/?cid=2016596010915048744&hl=ja
+    address: 大分県由布市湯布院町川上2946-1
+    price: 200
+    lat: 33.2640971
+    lng: 131.3582339
+    type: 共同浴場・銭湯
+-
+    id: 68
+    name: 夜明薬湯温泉
+    url: 
+    map: https://maps.google.com/?cid=8221468027121314198&hl=ja
+    address: 大分県日田市高井町714-3
+    price: 450
+    lat: 33.3214385
+    lng: 130.8628629
+    type: 温泉
+-
+    id: 69
+    name: 鶴寿泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail14.html
+    map: https://maps.google.com/?cid=5156502908904856621&hl=ja
+    address: 大分県別府市明礬3組
+    price: 0
+    lat: 33.3180542
+    lng: 131.4526114
+    type: 共同浴場・銭湯
+-
+    id: 70
+    name: 王子温泉
+    url: https://www.oishiimati-oita.jp/spots/detail/CPID:38127
+    map: https://maps.google.com/?cid=895160158620175533&hl=ja
+    address: 大分県大分市王子中町8-27
+    price: 380
+    lat: 33.2433998
+    lng: 131.5951638
+    type: 銭湯
+-
+    id: 71
+    name: 貸切家族風呂 みゆきの湯
+    url: http://miyukinoyu.com/
+    map: https://maps.google.com/?cid=2170771025204099568&hl=ja
+    address: 大分県別府市御幸3組
+    price: 2100
+    lat: 33.31431
+    lng: 131.475941
+    type: 温泉
+-
+    id: 72
+    name: 浜脇温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail1.html
+    map: https://maps.google.com/?cid=10907084109484439237&hl=ja
+    address: 大分県別府市浜脇1-8-2
+    price: 110
+    lat: 33.2698679
+    lng: 131.5079971
+    type: 共同浴場・銭湯
+-
+    id: 73
+    name: 照湯温泉
+    url: https://www.88onsen.com/spot/detail/hid/34
+    map: https://maps.google.com/?cid=13915605480735188458&hl=ja
+    address: 大分県別府市小倉5-1
+    price: 200
+    lat: 33.308269
+    lng: 131.4627894
+    type: 共同浴場・銭湯
+-
+    id: 74
+    name: 鉱泥温泉
+    url: 
+    map: https://maps.google.com/?cid=14678085688245421387&hl=ja
+    address: 大分県別府市小倉6
+    price: 900
+    lat: 33.310609
+    lng: 131.464161
+    type: 共同浴場・銭湯
+-
+    id: 75
+    name: 陽だまり温泉 花の湯
+    url: http://www.hana-no-yu.com/
+    map: https://maps.google.com/?cid=17925375628296200935&hl=ja
+    address: 大分県別府市竹の内2-2
+    price: 1800
+    lat: 33.3056284
+    lng: 131.4687946
+    type: 温泉
+-
+    id: 76
+    name: 宝泉寺温泉 せせらぎの湯
+    url: http://kokonoe.net/seseragi/
+    map: https://maps.google.com/?cid=4079157008356506396&hl=ja
+    address: 大分県玖珠郡九重町菅原1440
+    price: 350
+    lat: 33.1884449
+    lng: 131.147445
+    type: 温泉
+-
+    id: 77
+    name: 由布岳温泉
+    url: 
+    map: https://maps.google.com/?cid=8156538729601126339&hl=ja
+    address: 大分県由布市湯布院町川上2426-3
+    price: 500
+    lat: 33.2588185
+    lng: 131.3662613
+    type: 温泉
+-
+    id: 78
+    name: 亀陽泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/kiyosen.html
+    map: https://maps.google.com/?cid=16897626768081153587&hl=ja
+    address: 大分県別府市亀川中央町10-26
+    price: 220
+    lat: 33.3262463
+    lng: 131.4943876
+    type: 共同浴場・銭湯
+-
+    id: 79
+    name: 深耶馬温泉館 もみじの湯
+    url: https://www.city-nakatsu.jp/kankodocs/2013102300020/
+    map: https://maps.google.com/?cid=13664923772159136648&hl=ja
+    address: 大分県中津市耶馬溪町深耶馬2941
+    price: 510
+    lat: 33.3866394
+    lng: 131.1668898
+    type: 温泉
+-
+    id: 80
+    name: 筋湯温泉 うたせ大浴場
+    url: http://www.sujiyu-onsen.com/hotspring/
+    map: https://maps.google.com/?cid=1042786761836605763&hl=ja
+    address: 大分県玖珠郡九重町湯坪
+    price: 300
+    lat: 33.124868
+    lng: 131.1904335
+    type: 温泉
+-
+    id: 81
+    name: 壁湯温泉 壁湯共同浴場
+    url: https://www.tabirai.net/sightseeing/column/0009274.aspx
+    map: https://maps.google.com/?cid=3545928650347619119&hl=ja
+    address: 大分県玖珠郡九重町町田壁湯
+    price: 200
+    lat: 33.2049454
+    lng: 131.1696917
+    type: 共同浴場・銭湯
+-
+    id: 82
+    name: 奥別府かいがけ温泉 きのこの里
+    url: http://www.kinokonosato.net/
+    map: https://maps.google.com/?cid=17980523886739181683&hl=ja
+    address: 大分県由布市挾間町田代774
+    price: 300
+    lat: 33.2267769
+    lng: 131.4849515
+    type: 温泉
+-
+    id: 83
+    name: 野田温泉
+    url: 
+    map: https://maps.google.com/?cid=7828626544256588283&hl=ja
+    address: 大分県玖珠郡玖珠町山田2641-3
+    price: 1000
+    lat: 33.279979
+    lng: 131.1318753
+    type: 温泉
+-
+    id: 84
+    name: 豊後くたみ温泉 ほていの湯
+    url: https://www.taketan.jp/spots/detail/211
+    map: https://maps.google.com/?cid=3967100294572344296&hl=ja
+    address: 大分県竹田市久住町栢木5581-1
+    price: 500
+    lat: 33.0520252
+    lng: 131.3292508
+    type: 温泉
+-
+    id: 85
+    name: 鉄輪温泉 熱の湯温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail12.html
+    map: https://maps.google.com/?cid=6739462322851264003&hl=ja
+    address: 大分県別府市井田1組
+    price: 0
+    lat: 33.316827
+    lng: 131.478773
+    type: 共同浴場・銭湯
+-
+    id: 86
+    name: クリスタル温泉
+    url: http://kurisutaru-hotsprings.sakuraweb.com/
+    map: https://maps.google.com/?cid=13344838819410030644&hl=ja
+    address: 大分県大分市北下郡1699-1
+    price: 350
+    lat: 33.2364869
+    lng: 131.634192
+    type: 共同浴場・銭湯
+-
+    id: 87
+    name: やすらぎの郷 やまくに
+    url: http://www.core-yamakuni.com/yasuragi.html
+    map: https://maps.google.com/?cid=13007293398739867320&hl=ja
+    address: 大分県中津市山国町藤野木12-1
+    price: 400
+    lat: 33.400247
+    lng: 131.0443571
+    type: 温泉
+-
+    id: 88
+    name: JAいこいの村 いこいのゆ
+    url: https://jaoita.or.jp/life/other/welfare/ikoi-hot-spring
+    map: https://maps.google.com/?cid=13133546541786573462&hl=ja
+    address: 大分県杵築市大内7707-8
+    price: 450
+    lat: 33.423653
+    lng: 131.6316232
+    type: 温泉
+-
+    id: 89
+    name: なかま温泉
+    url: https://www.city-nakatsu.jp/kankodocs/2014100800093/
+    map: https://maps.google.com/?cid=8832655375036262724&hl=ja
+    address: 大分県中津市山国町中摩3485-1
+    price: 300
+    lat: 33.4062616
+    lng: 131.0616461
+    type: 温泉
+-
+    id: 90
+    name: 赤松温泉
+    url: https://hijinavi.com/spots/detail/68
+    map: https://maps.google.com/?cid=2327311635560649703&hl=ja
+    address: 大分県速見郡日出町藤原6371
+    price: 300
+    lat: 33.4048869
+    lng: 131.5475368
+    type: 共同浴場・銭湯
+-
+    id: 91
+    name: 日帰り家族風呂 生竜温泉七福
+    url: http://www.shichifuku-onsen.com/
+    map: https://maps.google.com/?cid=12491681482050093667&hl=ja
+    address: 大分県玖珠郡九重町町田18-1
+    price: 1500
+    lat: 33.1994584
+    lng: 131.1667921
+    type: 温泉
+-
+    id: 92
+    name: 丹生温泉
+    url: http://www.city.oita.oita.jp/o073/shisejoho/annai/1155706159859.html
+    map: https://maps.google.com/?cid=7920439065810527207&hl=ja
+    address: 大分県大分市丹生1189
+    price: 310
+    lat: 33.223402
+    lng: 131.7070058
+    type: 温泉
+-
+    id: 93
+    name: 湯の森くす
+    url: http://www.yunomori-kusu.com/
+    map: https://maps.google.com/?cid=11433263912513858309&hl=ja
+    address: 大分県玖珠郡玖珠町森5122-2
+    price: 550
+    lat: 33.3291892
+    lng: 131.1638638
+    type: 温泉
+-
+    id: 94
+    name: 良の湯 舞千花
+    url: http://www.yosinoya.co.jp/onsen/
+    map: https://maps.google.com/?cid=1720715458307895031&hl=ja
+    address: 大分県大分市牧1538-3
+    price: 700
+    lat: 33.2382849
+    lng: 131.6475863
+    type: 温泉
+-
+    id: 95
+    name: 臼杵ふれあいの湯
+    url: 
+    map: https://maps.google.com/?cid=5033997150833456116&hl=ja
+    address: 大分県臼杵市野田202
+    price: 500
+    lat: 33.1111814
+    lng: 131.7803534
+    type: 温泉
+-
+    id: 96
+    name: 紙屋温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/12
+    map: https://maps.google.com/?cid=15012505058574628620&hl=ja
+    address: 大分県別府市千代町11-27
+    price: 100
+    lat: 33.2735802
+    lng: 131.5036271
+    type: 共同浴場・銭湯
+-
+    id: 97
+    name: 海門温泉 海門荘
+    url: https://www.showanomachi.com/spots/detail/168
+    map: https://maps.google.com/?cid=8222654879701579003&hl=ja
+    address: 大分県豊後高田市中真玉1778-8
+    price: 350
+    lat: 33.6127224
+    lng: 131.4715106
+    type: 温泉
+-
+    id: 98
+    name: 長湯温泉 ながの湯
+    url: 
+    map: https://maps.google.com/?cid=17850946618008133591&hl=ja
+    address: 大分県竹田市直入町長湯426-2
+    price: 200
+    lat: 33.0605224
+    lng: 131.3564752
+    type: 共同浴場・銭湯
+-
+    id: 99
+    name: 松原温泉
+    url: 
+    map: https://maps.google.com/?cid=3421806009709194106&hl=ja
+    address: 大分県別府市松原町3-4
+    price: 110
+    lat: 33.2734705
+    lng: 131.5064154
+    type: 共同浴場・銭湯
+-
+    id: 100
+    name: 健康温泉館 クアージュゆふいん
+    url: http://www.city.yufu.oita.jp/kankou/onsen/kua-zyu/
+    map: https://maps.google.com/?cid=16547092281451181809&hl=ja
+    address: 大分県由布市湯布院町川上2863
+    price: 830
+    lat: 33.2612678
+    lng: 131.3598995
+    type: 温泉
+-
+    id: 101
+    name: 永石温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail3.html
+    map: https://maps.google.com/?cid=13557723741661412478&hl=ja
+    address: 大分県別府市南町2-2
+    price: 110
+    lat: 33.2731179
+    lng: 131.5035251
+    type: 共同浴場・銭湯
+-
+    id: 102
+    name: 長者原ヘルスセンター
+    url: http://www.kuju.jp/member007.html
+    map: https://maps.google.com/?cid=12064292939710579915&hl=ja
+    address: 大分県玖珠郡九重町田野260
+    price: 350
+    lat: 33.1180232
+    lng: 131.2295569
+    type: 温泉
+-
+    id: 103
+    name: 長湯温泉 長生湯
+    url: https://www.taketan.jp/spots/detail/171
+    map: https://maps.google.com/?cid=15615060016312767292&hl=ja
+    address: 大分県竹田市直入町長湯7993-3
+    price: 200
+    lat: 33.0691846
+    lng: 131.38314
+    type: 共同浴場・銭湯
+-
+    id: 104
+    name: 真玉温泉 ほうらいの里 仙人湯
+    url: https://www.showanomachi.com/spots/detail/169
+    map: https://maps.google.com/?cid=17830092043156758330&hl=ja
+    address: 大分県豊後高田市大岩屋45-1
+    price: 400
+    lat: 33.5894533
+    lng: 131.5227289
+    type: 温泉
+-
+    id: 105
+    name: め組茶屋 ソーダの湯
+    url: 
+    map: https://maps.google.com/?cid=15735232375572817723&hl=ja
+    address: 大分県竹田市久住町有氏4510-2
+    price: 500
+    lat: 33.0821203
+    lng: 131.3211707
+    type: 温泉
+-
+    id: 106
+    name: 筌ノ口温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=17874135955732460625&hl=ja
+    address: 大分県玖珠郡九重町田野筌の口1432-6
+    price: 200
+    lat: 33.1641304
+    lng: 131.2258739
+    type: 共同浴場・銭湯
+-
+    id: 107
+    name: 折戸温泉
+    url: http://www.tukinohotaru.com/05onsen.html
+    map: https://maps.google.com/?cid=18303409178125311432&hl=ja
+    address: 大分県中津市耶馬溪町深耶馬2149
+    price: 200
+    lat: 33.3820804
+    lng: 131.1866039
+    type: 共同浴場・銭湯
+-
+    id: 108
+    name: 九日市温泉 万年の湯
+    url: http://w.speedia.jp/hanenoyu/
+    map: https://maps.google.com/?cid=17082779247144063462&hl=ja
+    address: 大分県玖珠郡玖珠町山田2564
+    price: 100
+    lat: 33.2804061
+    lng: 131.1341004
+    type: 温泉
+-
+    id: 109
+    name: とんぼの湯
+    url: 
+    map: https://maps.google.com/?cid=13243308780326588753&hl=ja
+    address: 大分県別府市スパランド豊海L組2
+    price: 300
+    lat: 33.308195
+    lng: 131.480912
+    type: 温泉
+-
+    id: 110
+    name: 田の湯温泉
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail6.html
+    map: https://maps.google.com/?cid=14019093476471036299&hl=ja
+    address: 大分県別府市田の湯町4-23
+    price: 110
+    lat: 33.2779778
+    lng: 131.4981739
+    type: 温泉
+-
+    id: 111
+    name: かぶとむしの湯 鉱泉センター直川
+    url: https://www.visit-oita.jp/spots/detail/5789
+    map: https://maps.google.com/?cid=6835848304377609071&hl=ja
+    address: 大分県佐伯市直川赤木1252
+    price: 500
+    lat: 32.8719124
+    lng: 131.784772
+    type: 温泉
+-
+    id: 112
+    name: 別府浜脇温泉 日の出温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/2/60
+    map: https://maps.google.com/?cid=1028190006632878761&hl=ja
+    address: 大分県別府市浜町22-10
+    price: 100
+    lat: 33.2711568
+    lng: 131.5084462
+    type: 共同浴場・銭湯
+-
+    id: 113
+    name: いかりやま温泉
+    url: 
+    map: https://maps.google.com/?cid=10250887442728195473&hl=ja
+    address: 大分県大分市片島577-3
+    price: 380
+    lat: 33.2152219
+    lng: 131.6230692
+    type: 温泉
+-
+    id: 114
+    name: 鉄輪温泉 地獄原温泉
+    url: http://www.kannawaryokan.com/sotoyu.html
+    map: https://maps.google.com/?cid=194461039971430374&hl=ja
+    address: 大分県別府市鉄輪東6組
+    price: 100
+    lat: 33.3144814
+    lng: 131.4840712
+    type: 共同浴場・銭湯
+-
+    id: 115
+    name: 三日月の滝温泉
+    url: http://www.xn--u9j140gtlqj7aq8v.com/
+    map: https://maps.google.com/?cid=15016286285051791958&hl=ja
+    address: 大分県玖珠郡玖珠町山浦115-1
+    price: 400
+    lat: 33.2797223
+    lng: 131.1000552
+    type: 温泉
+-
+    id: 116
+    name: 家族風呂 紅葉谷の湯
+    url: 
+    map: https://maps.google.com/?cid=866263672247141995&hl=ja
+    address: 大分県玖珠郡九重町町田3077
+    price: 1500
+    lat: 33.175276
+    lng: 131.1716889
+    type: 温泉
+-
+    id: 117
+    name: 湯平温泉 銀の湯
+    url: http://www.city.yufu.oita.jp/kankou/onsen/ginnoyu/
+    map: https://maps.google.com/?cid=2058603212891039385&hl=ja
+    address: 大分県由布市湯布院町湯平
+    price: 200
+    lat: 33.1910972
+    lng: 131.3159832
+    type: 共同浴場・銭湯
+-
+    id: 118
+    name: 東町温泉
+    url: 
+    map: https://maps.google.com/?cid=17616548449528683906&hl=ja
+    address: 大分県別府市浜脇1-16-1
+    price: 100
+    lat: 33.2683366
+    lng: 131.5097703
+    type: 共同浴場・銭湯
+-
+    id: 119
+    name: 別府けいりん 競輪温泉
+    url: http://beppu-keirin.net/pc/facility/keirinonsen.html
+    map: https://maps.google.com/?cid=9207749255502585339&hl=ja
+    address: 大分県別府市亀川東町1-36
+    price: 110
+    lat: 33.3223261
+    lng: 131.4977638
+    type: 温泉
+-
+    id: 120
+    name: 家族風呂 白糸の滝温泉
+    url: http://www.gokuraku-jigoku-beppu.com/entries/shiraitonotaki-onsen
+    map: https://maps.google.com/?cid=4894806594372127502&hl=ja
+    address: 大分県別府市堀田3
+    price: 1000
+    lat: 33.2885017
+    lng: 131.4611182
+    type: 温泉
+-
+    id: 121
+    name: 白丹温泉 ふれあいの湯
+    url: https://www.taketan.jp/spots/detail/286
+    map: https://maps.google.com/?cid=8107151932850061979&hl=ja
+    address: 大分県竹田市久住町白丹4725-2
+    price: 300
+    lat: 33.0088399
+    lng: 131.2644364
+    type: 温泉
+-
+    id: 122
+    name: スーパー銭湯 花の湯
+    url: http://www.urban-pyramid.net/hananoyu/
+    map: https://maps.google.com/?cid=4506809065482252437&hl=ja
+    address: 大分県日田市友田939-1
+    price: 680
+    lat: 33.3266728
+    lng: 130.9111041
+    type: 温泉
+-
+    id: 123
+    name: 仙景望 仙景の湯
+    url: http://sinyaba.jp/
+    map: https://maps.google.com/?cid=2018481830251076994&hl=ja
+    address: 大分県中津市耶馬溪町深耶馬3155-3
+    price: 300
+    lat: 33.3744471
+    lng: 131.1660754
+    type: 温泉
+-
+    id: 124
+    name: 九日天温泉 上田の湯
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/10
+    map: https://maps.google.com/?cid=1953249226803610192&hl=ja
+    address: 大分県別府市上田の湯町15-8
+    price: 130
+    lat: 33.2783581
+    lng: 131.4954688
+    type: 共同浴場・銭湯
+-
+    id: 125
+    name: 新湊温泉
+    url: http://shinminato.strikingly.com/
+    map: https://maps.google.com/?cid=2608031349725066733&hl=ja
+    address: 大分県大分市生石4-3-15
+    price: 300
+    lat: 33.2461277
+    lng: 131.5843227
+    type: 共同浴場・銭湯
+-
+    id: 126
+    name: 春日温泉
+    url: 
+    map: https://maps.google.com/?cid=5327557153965173730&hl=ja
+    address: 大分県別府市駅前本町6-16
+    price: 100
+    lat: 33.2809449
+    lng: 131.5025877
+    type: 共同浴場・銭湯
+-
+    id: 127
+    name: 寿温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/11
+    map: https://maps.google.com/?cid=6492533534141192322&hl=ja
+    address: 大分県別府市楠町11-15
+    price: 200
+    lat: 33.2763433
+    lng: 131.5052894
+    type: 共同浴場・銭湯
+-
+    id: 128
+    name: 唄げんかの湯 木浦名水館
+    url: http://saiki-kankou.com/outdoor/kiura/
+    map: https://maps.google.com/?cid=6073525149953149347&hl=ja
+    address: 大分県佐伯市宇目木浦鉱山399
+    price: 430
+    lat: 32.8248188
+    lng: 131.5459539
+    type: 温泉
+-
+    id: 129
+    name: 別府市コミュニティセンター 芝居の湯
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/18community_community.html
+    map: https://maps.google.com/?cid=13403661600670552282&hl=ja
+    address: 大分県別府市上野口町29-13
+    price: 270
+    lat: 33.289153
+    lng: 131.4876705
+    type: 温泉
+-
+    id: 130
+    name: 長湯温泉 千寿温泉
+    url: 
+    map: https://maps.google.com/?cid=9595864028436926955&hl=ja
+    address: 大分県竹田市直入町長湯3315-4
+    price: 100
+    lat: 33.0660353
+    lng: 131.3676141
+    type: 共同浴場・銭湯
+-
+    id: 131
+    name: みしま温泉
+    url: 
+    map: https://maps.google.com/?cid=7741037988908514315&hl=ja
+    address: 大分県玖珠郡玖珠町森806-6
+    price: 250
+    lat: 33.3040605
+    lng: 131.1599972
+    type: 温泉
+-
+    id: 132
+    name: 金屋温泉
+    url: http://www.usa-kanko.jp/spots/detail/186
+    map: https://maps.google.com/?cid=14618388379010310892&hl=ja
+    address: 大分県宇佐市金屋1781-3
+    price: 330
+    lat: 33.5558818
+    lng: 131.379152
+    type: 温泉
+-
+    id: 133
+    name: 鉄輪温泉 渋の湯
+    url: https://www.owl.ne.jp/shibunoyu/index.html
+    map: https://maps.google.com/?cid=16032585212793674571&hl=ja
+    address: 大分県別府市風呂本1組
+    price: 100
+    lat: 33.315896
+    lng: 131.477165
+    type: 共同浴場・銭湯
+-
+    id: 134
+    name: 佐田温泉 佐田老人憩の家
+    url: http://www.usa-kanko.jp/spots/detail/135
+    map: https://maps.google.com/?cid=16825148780443375801&hl=ja
+    address: 大分県宇佐市安心院町佐田949-1
+    price: 300
+    lat: 33.4507694
+    lng: 131.3923118
+    type: 温泉
+-
+    id: 135
+    name: 幸温泉
+    url: 
+    map: https://maps.google.com/?cid=11618980942782321235&hl=ja
+    address: 大分県別府市幸町5-15
+    price: 100
+    lat: 33.2862731
+    lng: 131.4977833
+    type: 共同浴場・銭湯
+-
+    id: 136
+    name: 鉄輪温泉 すじ湯温泉
+    url: http://www.kannawaryokan.com/sotoyu.html
+    map: https://maps.google.com/?cid=17175045490341759352&hl=ja
+    address: 大分県別府市井田4組
+    price: 100
+    lat: 33.3165641
+    lng: 131.4784866
+    type: 共同浴場・銭湯
+-
+    id: 137
+    name: 鉄輪温泉 谷の湯
+    url: http://www.kannawaryokan.com/sotoyu.html
+    map: https://maps.google.com/?cid=14968297807441371092&hl=ja
+    address: 大分県別府市北中1組の8
+    price: 150
+    lat: 33.3134503
+    lng: 131.4773357
+    type: 共同浴場・銭湯
+-
+    id: 138
+    name: 五湯苑
+    url: 
+    map: https://maps.google.com/?cid=227098743990849908&hl=ja
+    address: 大分県別府市南立石1494-1
+    price: 500
+    lat: 33.2874934
+    lng: 131.4462559
+    type: 温泉
+-
+    id: 139
+    name: 錦谷温泉 せせらぎの郷 華じ花
+    url: https://www.sdo-japan.com/kajika/
+    map: https://maps.google.com/?cid=9253819915644405190&hl=ja
+    address: 大分県中津市耶馬溪町深耶馬1196
+    price: 400
+    lat: 33.3600947
+    lng: 131.2078561
+    type: 温泉
+-
+    id: 140
+    name: 温泉交流館 みつばちの湯
+    url: http://www.kaiseien-bungo-ohno.com/contents_ogata_mitubati.html
+    map: https://maps.google.com/?cid=12718266353401677480&hl=ja
+    address: 大分県竹田市直入町長湯3050-2
+    price: 300
+    lat: 33.0709631
+    lng: 131.3711358
+    type: 温泉
+-
+    id: 141
+    name: 天満温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/19
+    map: https://maps.google.com/?cid=11887001449291756178&hl=ja
+    address: 大分県別府市天満町11-12
+    price: 100
+    lat: 33.2867286
+    lng: 131.4958106
+    type: 共同浴場・銭湯
+-
+    id: 142
+    name: 九重やまなみ牧場 まきばの温泉館
+    url: http://www.yamanami-farm.jp/guide/onsen/
+    map: https://maps.google.com/?cid=15420280558342884267&hl=ja
+    address: 大分県玖珠郡九重町田野1681-14
+    price: 500
+    lat: 33.1416567
+    lng: 131.2336408
+    type: 温泉
+-
+    id: 143
+    name: 上恵良温泉
+    url: http://www.usa-kanko.jp/spots/detail/188
+    map: https://maps.google.com/?cid=5402185923968604646&hl=ja
+    address: 大分県宇佐市院内町上恵良780
+    price: 300
+    lat: 33.3787978
+    lng: 131.2867118
+    type: 温泉
+-
+    id: 144
+    name: 末広温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/15
+    map: https://maps.google.com/?cid=14344672343238046569&hl=ja
+    address: 大分県別府市末広町4-20
+    price: 200
+    lat: 33.2731275
+    lng: 131.5007715
+    type: 共同浴場・銭湯
+-
+    id: 145
+    name: 入江温泉
+    url: http://onsendo.beppu-navi.jp/spashttp://onsendo.beppu-navi.jp/spas/detail/8/164/index/8
+    map: https://maps.google.com/?cid=14908993886533539845&hl=ja
+    address: 大分県別府市亀川浜田町12
+    price: 100
+    lat: 33.3336436
+    lng: 131.4938574
+    type: 共同浴場・銭湯
+-
+    id: 146
+    name: 錦温泉
+    url: 
+    map: https://maps.google.com/?cid=11261478296027028195&hl=ja
+    address: 大分県大分市錦町2-3-15
+    price: 380
+    lat: 33.2333114
+    lng: 131.6200804
+    type: 銭湯
+-
+    id: 147
+    name: パルクラブ 温泉館 大地乃湯
+    url: http://hakuai-oita.com/paru/eigyo/daiti.html
+    map: https://maps.google.com/?cid=5082753078840919433&hl=ja
+    address: 大分県竹田市久住町有氏757
+    price: 360
+    lat: 33.0603269
+    lng: 131.3096919
+    type: 温泉
+-
+    id: 148
+    name: 津房温泉 津房老人憩の家
+    url: http://www.usa-kanko.jp/spots/detail/150
+    map: https://maps.google.com/?cid=810089803542941153&hl=ja
+    address: 大分県宇佐市安心院町五郎丸373-1
+    price: 300
+    lat: 33.3895392
+    lng: 131.3968628
+    type: 温泉
+-
+    id: 149
+    name: 深耶馬温泉 岩戸湯
+    url: 
+    map: https://maps.google.com/?cid=9237557875796369756&hl=ja
+    address: 大分県中津市耶馬溪町深耶馬3211
+    price: 300
+    lat: 33.3674545
+    lng: 131.1904335
+    type: 温泉
+-
+    id: 150
+    name: 上原温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/45
+    map: https://maps.google.com/?cid=15678117342255951501&hl=ja
+    address: 大分県別府市上原町1-13
+    price: 100
+    lat: 33.2781214
+    lng: 131.4883295
+    type: 共同浴場・銭湯
+-
+    id: 151
+    name: 砂原温泉
+    url: 
+    map: https://maps.google.com/?cid=14843915134816959576&hl=ja
+    address: 大分県別府市北中7組
+    price: 100
+    lat: 33.310764
+    lng: 131.480181
+    type: 共同浴場・銭湯
+-
+    id: 152
+    name: 四の湯温泉
+    url: https://www.88onsen.com/spot/detail/hid/38
+    map: https://maps.google.com/?cid=1566422872095450352&hl=ja
+    address: 大分県別府市亀川四の湯町20-4
+    price: 100
+    lat: 33.3225694
+    lng: 131.4930956
+    type: 共同浴場・銭湯
+-
+    id: 153
+    name: 東蓮田温泉
+    url: 
+    map: https://maps.google.com/?cid=6695860506577504044&hl=ja
+    address: 大分県別府市浜脇3-2-27
+    price: 100
+    lat: 33.2700011
+    lng: 131.5039548
+    type: 共同浴場・銭湯
+-
+    id: 154
+    name: 向原温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/3/166
+    map: https://maps.google.com/?cid=10842261810219596130&hl=ja
+    address: 大分県別府市南立石2区6組
+    price: 100
+    lat: 33.289527
+    lng: 131.468949
+    type: 共同浴場・銭湯
+-
+    id: 155
+    name: 祇園温泉
+    url: 
+    map: https://maps.google.com/?cid=11723543837958582912&hl=ja
+    address: 大分県別府市朝見3-9-5
+    price: 100
+    lat: 33.2733193
+    lng: 131.4904385
+    type: 共同浴場・銭湯
+-
+    id: 156
+    name: 朝見温泉
+    url: 
+    map: https://maps.google.com/?cid=5242943054013607986&hl=ja
+    address: 大分県別府市朝見2-3-25
+    price: 100
+    lat: 33.2728022
+    lng: 131.496687
+    type: 共同浴場・銭湯
+-
+    id: 157
+    name: みことピア ほのぼの温泉館
+    url: http://www.city.yufu.oita.jp/kankou/onsen/honobono/
+    map: https://maps.google.com/?cid=8927422563972000223&hl=ja
+    address: 大分県由布市庄内町庄内原355-1
+    price: 310
+    lat: 33.1834887
+    lng: 131.4000667
+    type: 温泉
+-
+    id: 158
+    name: みやざき郷温泉
+    url: 
+    map: https://maps.google.com/?cid=16079743701347193324&hl=ja
+    address: 大分県大分市宮崎
+    price: 300
+    lat: 33.1968125
+    lng: 131.608043
+    type: 共同浴場・銭湯
+-
+    id: 159
+    name: 長泉寺薬師湯
+    url: http://bepple-beppu.com/chousenji-yakushiyu
+    map: https://maps.google.com/?cid=2898008372756260627&hl=ja
+    address: 大分県別府市野田4-2
+    price: 0
+    lat: 33.3259153
+    lng: 131.4749207
+    type: 温泉
+-
+    id: 160
+    name: 健康管理センター 拍子水温泉
+    url: http://www.millennium-roman.jp/spots/detail/263
+    map: https://maps.google.com/?cid=12662546150083696710&hl=ja
+    address: 大分県東国東郡姫島村18
+    price: 300
+    lat: 33.7244961
+    lng: 131.6453198
+    type: 温泉
+-
+    id: 161
+    name: 野口温泉
+    url: 
+    map: https://maps.google.com/?cid=15441688405327119888&hl=ja
+    address: 大分県別府市野口元町4-25
+    price: 100
+    lat: 33.2825791
+    lng: 131.4998145
+    type: 共同浴場・銭湯
+-
+    id: 162
+    name: 山田温泉
+    url: 
+    map: https://maps.google.com/?cid=17590919612832941239&hl=ja
+    address: 大分県別府市朝見1-12-9
+    price: 100
+    lat: 33.2706681
+    lng: 131.4992676
+    type: 共同浴場・銭湯
+-
+    id: 163
+    name: アサダ温泉 ひまわりの湯
+    url: 
+    map: https://maps.google.com/?cid=12593464292228240355&hl=ja
+    address: 大分県玖珠郡玖珠町塚脇441-2
+    price: 300
+    lat: 33.2746977
+    lng: 131.1568979
+    type: 共同浴場・銭湯
+-
+    id: 164
+    name: 杵築市健康福祉センター
+    url: 
+    map: https://maps.google.com/?cid=11558910532581017474&hl=ja
+    address: 大分県杵築市猪尾941
+    price: 200
+    lat: 33.4037646
+    lng: 131.6086277
+    type: 温泉
+-
+    id: 165
+    name: 天瀬温泉 バラの湯
+    url: https://www.visit-oita.jp/spots/detail/4772
+    map: https://maps.google.com/?cid=5618417858956591974&hl=ja
+    address: 大分県日田市天瀬町赤岩27-1
+    price: 320
+    lat: 33.2561786
+    lng: 131.0349486
+    type: 温泉
+-
+    id: 166
+    name: 山香温泉センター
+    url: 
+    map: https://maps.google.com/?cid=12899585017126409821&hl=ja
+    address: 大分県杵築市山香町野原2028
+    price: 320
+    lat: 33.4492882
+    lng: 131.5101648
+    type: 温泉
+-
+    id: 167
+    name: 長湯温泉 しづ香温泉
+    url: 
+    map: https://maps.google.com/?cid=10855396101367542132&hl=ja
+    address: 大分県竹田市直入町長湯7655
+    price: 200
+    lat: 33.0709631
+    lng: 131.3711358
+    type: 共同浴場・銭湯
+-
+    id: 168
+    name: 亀川筋湯温泉
+    url: 
+    map: https://maps.google.com/?cid=10579376278933225103&hl=ja
+    address: 大分県別府市亀川中央町4-16
+    price: 0
+    lat: 33.3253119
+    lng: 131.4936523
+    type: 共同浴場・銭湯
+-
+    id: 169
+    name: 市の原共同温泉
+    url: 
+    map: https://maps.google.com/?cid=7489402220574523318&hl=ja
+    address: 大分県別府市新別府7
+    price: 200
+    lat: 33.3072927
+    lng: 131.4821458
+    type: 共同浴場・銭湯
+-
+    id: 170
+    name: 京町温泉
+    url: 
+    map: https://maps.google.com/?cid=2625287113161019878&hl=ja
+    address: 大分県別府市京町6-5
+    price: 100
+    lat: 33.287442
+    lng: 131.5025096
+    type: 共同浴場・銭湯
+-
+    id: 171
+    name: ひまつぶしの湯
+    url: 
+    map: https://maps.google.com/?cid=5885700219453984010&hl=ja
+    address: 大分県玖珠郡九重町湯坪85-1
+    price: 300
+    lat: 33.1362125
+    lng: 131.1997466
+    type: 温泉
+-
+    id: 172
+    name: 小倉薬師温泉 丘の湯
+    url: 
+    map: https://maps.google.com/?cid=1259907018021537994&hl=ja
+    address: 大分県別府市小倉4-2
+    price: 100
+    lat: 33.308941
+    lng: 131.463717
+    type: 共同浴場・銭湯
+-
+    id: 173
+    name: 明礬温泉 山の湯
+    url: http://www.jigoku-prin.com/hotspring/
+    map: https://maps.google.com/?cid=12134112166338421653&hl=ja
+    address: 大分県別府市明礬1組
+    price: 500
+    lat: 33.3222305
+    lng: 131.4498898
+    type: 温泉
+-
+    id: 174
+    name: 藤河内湯～とぴあ
+    url: https://www.visit-oita.jp/spots/detail/5977
+    map: https://maps.google.com/?cid=4367111239433329241&hl=ja
+    address: 大分県佐伯市宇目木浦内1317
+    price: 420
+    lat: 32.786909
+    lng: 131.5554752
+    type: 温泉
+-
+    id: 175
+    name: ゆのつぼ温泉
+    url: http://www.city.yufu.oita.jp/kankou/onsen/yunotubo/
+    map: https://maps.google.com/?cid=5874090273210022786&hl=ja
+    address: 大分県由布市湯布院町川上1087-1
+    price: 200
+    lat: 33.2661065
+    lng: 131.3631679
+    type: 共同浴場・銭湯
+-
+    id: 176
+    name: 八幡温泉
+    url: 
+    map: https://maps.google.com/?cid=7714400831887869077&hl=ja
+    address: 大分県別府市朝見1-17-12
+    price: 100
+    lat: 33.2713972
+    lng: 131.4974708
+    type: 共同浴場・銭湯
+-
+    id: 177
+    name: 太陽の湯
+    url: http://www.taiyonoie.or.jp/place/beppu/hot-spring
+    map: https://maps.google.com/?cid=874283406031367124&hl=ja
+    address: 大分県別府市内竈1393-2
+    price: 120
+    lat: 33.330387
+    lng: 131.4891241
+    type: 共同浴場・銭湯
+-
+    id: 178
+    name: 住吉温泉
+    url: 
+    map: https://maps.google.com/?cid=8786559179139613921&hl=ja
+    address: 大分県別府市松原町18-23
+    price: 200
+    lat: 33.2707854
+    lng: 131.5060053
+    type: 共同浴場・銭湯
+-
+    id: 179
+    name: 塚田温泉センター
+    url: https://www.visit-oita.jp/spots/detail/6454
+    map: https://maps.google.com/?cid=16532924303529205737&hl=ja
+    address: 大分県日田市天瀬町塚田898-1
+    price: 200
+    lat: 33.2119081
+    lng: 131.0545241
+    type: 共同浴場・銭湯
+-
+    id: 180
+    name: 南的ヶ浜温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/50
+    map: https://maps.google.com/?cid=9963015392426344886&hl=ja
+    address: 大分県別府市南的ヶ浜町4-8
+    price: 100
+    lat: 33.2829505
+    lng: 131.502929
+    type: 共同浴場・銭湯
+-
+    id: 181
+    name: やよいの湯
+    url: 
+    map: https://maps.google.com/?cid=3936803848241248586&hl=ja
+    address: 大分県別府市元町1-12
+    price: 200
+    lat: 33.2767105
+    lng: 131.5033103
+    type: 共同浴場・銭湯
+-
+    id: 182
+    name: 共同温泉 加勢の湯
+    url: 
+    map: https://maps.google.com/?cid=15673984124974747301&hl=ja
+    address: 大分県由布市湯布院町川南
+    price: 100
+    lat: 33.2494775
+    lng: 131.3560996
+    type: 共同浴場・銭湯
+-
+    id: 183
+    name: 篠原温泉
+    url: 
+    map: https://maps.google.com/?cid=5505808149338854025&hl=ja
+    address: 大分県由布市挾間町篠原426-6
+    price: 200
+    lat: 33.1931445
+    lng: 131.4852066
+    type: 共同浴場・銭湯
+-
+    id: 184
+    name: 鶴川温泉
+    url: 
+    map: https://maps.google.com/?cid=11493256869608545401&hl=ja
+    address: 大分県玖珠郡玖珠町太田川底3935-5
+    price: 300
+    lat: 33.333263
+    lng: 131.137149
+    type: 温泉
+-
+    id: 185
+    name: 錦栄温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/14
+    map: https://maps.google.com/?cid=16735117381234469735&hl=ja
+    address: 大分県別府市光町20-2
+    price: 100
+    lat: 33.2746364
+    lng: 131.4966505
+    type: 共同浴場・銭湯
+-
+    id: 186
+    name: 七ッ石温泉
+    url: 
+    map: https://maps.google.com/?cid=16631395084194667812&hl=ja
+    address: 大分県別府市荘園2-3
+    price: 200
+    lat: 33.2908496
+    lng: 131.484392
+    type: 共同浴場・銭湯
+-
+    id: 187
+    name: 的ヶ浜温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/48
+    map: https://maps.google.com/?cid=11432239521658119593&hl=ja
+    address: 大分県別府市北的ヶ浜町3-35
+    price: 100
+    lat: 33.2844333
+    lng: 131.5027944
+    type: 共同浴場・銭湯
+-
+    id: 188
+    name: 若草温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/51
+    map: https://maps.google.com/?cid=6742696884382414454&hl=ja
+    address: 大分県別府市若草町9-37
+    price: 100
+    lat: 33.2896009
+    lng: 131.5031638
+    type: 共同浴場・銭湯
+-
+    id: 189
+    name: 北乃園温泉
+    url: https://www.visit-oita.jp/spots/detail/6246
+    map: https://maps.google.com/?cid=6042093392348139132&hl=ja
+    address: 大分県玖珠郡玖珠町大字大隈字小坪231-1
+    price: 200
+    lat: 33.2687378
+    lng: 131.163826
+    type: 共同浴場・銭湯
+-
+    id: 190
+    name: 西別府団地温泉
+    url: 
+    map: https://maps.google.com/?cid=11452735479471299573&hl=ja
+    address: 大分県別府市南立石1082-321
+    price: 100
+    lat: 33.290112
+    lng: 131.4683533
+    type: 共同浴場・銭湯
+-
+    id: 191
+    name: 湯平温泉 金の湯
+    url: http://www.city.yufu.oita.jp/kankou/onsen/kinnoyu/
+    map: https://maps.google.com/?cid=14316109503542241518&hl=ja
+    address: 大分県由布市湯布院町湯平
+    price: 200
+    lat: 33.1910972
+    lng: 131.3159832
+    type: 共同浴場・銭湯
+-
+    id: 192
+    name: 前田温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/8/145
+    map: https://maps.google.com/?cid=6485768702777180605&hl=ja
+    address: 大分県別府市上人本町1-21
+    price: 100
+    lat: 33.3127694
+    lng: 131.4975782
+    type: 共同浴場・銭湯
+-
+    id: 193
+    name: 宮城温泉 出会いの湯
+    url: https://www.miyagi-deainoyu.com/
+    map: https://maps.google.com/?cid=18179639013998744439&hl=ja
+    address: 大分県竹田市上坂田12-1
+    price: 300
+    lat: 32.9932373
+    lng: 131.3042739
+    type: 温泉
+-
+    id: 194
+    name: 人形工房かじか にゃがゆん温泉
+    url: http://www.kajika-nagayu.com/yu.php
+    map: https://maps.google.com/?cid=7886751195504339254&hl=ja
+    address: 大分県竹田市直入町長湯3122-2
+    price: 1500
+    lat: 33.0673637
+    lng: 131.3722839
+    type: 温泉
+-
+    id: 195
+    name: 弓松温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/163
+    map: https://maps.google.com/?cid=1208362054940958975&hl=ja
+    address: 大分県別府市北浜3-6-16
+    price: 100
+    lat: 33.2817744
+    lng: 131.5051731
+    type: 共同浴場・銭湯
+-
+    id: 196
+    name: 湯山の里 和さび人
+    url: https://wasabijin.com/
+    map: https://maps.google.com/?cid=11181987364618798386&hl=ja
+    address: 大分県別府市湯山2組
+    price: 3000
+    lat: 33.3243776
+    lng: 131.4510259
+    type: 温泉
+-
+    id: 197
+    name: 大和温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/52
+    map: https://maps.google.com/?cid=10069856622901116781&hl=ja
+    address: 大分県別府市野口元町9-15
+    price: 100
+    lat: 33.28328
+    lng: 131.5010921
+    type: 共同浴場・銭湯
+-
+    id: 198
+    name: 深見温泉 深見老人憩いの家
+    url: http://fukami-onsen.jp/
+    map: https://maps.google.com/?cid=16386756112777967746&hl=ja
+    address: 大分県宇佐市安心院町矢畑131-1
+    price: 300
+    lat: 33.3898789
+    lng: 131.341201
+    type: 温泉
+-
+    id: 199
+    name: 平田温泉
+    url: 
+    map: https://maps.google.com/?cid=9091091407011798430&hl=ja
+    address: 大分県別府市照波園町11-36
+    price: 100
+    lat: 33.318816
+    lng: 131.4954981
+    type: 共同浴場・銭湯
+-
+    id: 200
+    name: 餅ヶ浜温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/46
+    map: https://maps.google.com/?cid=6110556928679104616&hl=ja
+    address: 大分県別府市若草町3-21
+    price: 100
+    lat: 33.2913743
+    lng: 131.5012109
+    type: 共同浴場・銭湯
+-
+    id: 201
+    name: 共同浴場 河原湯温泉
+    url: 
+    map: https://maps.google.com/?cid=1629165069377038528&hl=ja
+    address: 大分県玖珠郡九重町湯坪
+    price: 200
+    lat: 33.124868
+    lng: 131.1904335
+    type: 共同浴場・銭湯
+-
+    id: 202
+    name: 大鶴温泉 夢想乃湯
+    url: 
+    map: https://maps.google.com/?cid=606976201288639598&hl=ja
+    address: 大分県玖珠郡玖珠町帆足299-1
+    price: 100
+    lat: 33.2820067
+    lng: 131.1497265
+    type: 共同浴場・銭湯
+-
+    id: 203
+    name: 鉄輪温泉 上人湯
+    url: http://www.kannawaryokan.com/sotoyu.html
+    map: https://maps.google.com/?cid=3191834364918692457&hl=ja
+    address: 大分県別府市風呂本5組
+    price: 100
+    lat: 33.3154852
+    lng: 131.4762201
+    type: 共同浴場・銭湯
+-
+    id: 204
+    name: 筋湯温泉 薬師湯
+    url: http://www.sujiyu-onsen.com/hotspring/
+    map: https://maps.google.com/?cid=7525030684272785305&hl=ja
+    address: 大分県玖珠郡九重町湯坪
+    price: 300
+    lat: 33.124868
+    lng: 131.1904335
+    type: 共同浴場・銭湯
+-
+    id: 205
+    name: 湯平 橋本温泉
+    url: http://www.yunohira-onsen.jp/hotspring.html
+    map: https://maps.google.com/?cid=1570388630756199079&hl=ja
+    address: 大分県由布市湯布院町湯平503-7
+    price: 200
+    lat: 33.194698
+    lng: 131.3269935
+    type: 共同浴場・銭湯
+-
+    id: 206
+    name: せんしゃく湯
+    url: 
+    map: https://maps.google.com/?cid=11052730355743700293&hl=ja
+    address: 大分県玖珠郡九重町湯坪712-3
+    price: 300
+    lat: 33.1153671
+    lng: 131.1859205
+    type: 共同浴場・銭湯
+-
+    id: 207
+    name: 万寿温泉 大山住の湯
+    url: 
+    map: https://maps.google.com/?cid=16273219476746107990&hl=ja
+    address: 大分県竹田市直入町長湯3135-1
+    price: 200
+    lat: 33.0677524
+    lng: 131.3744371
+    type: 共同浴場・銭湯
+-
+    id: 208
+    name: 湯都ピア浜脇
+    url: https://www.city.beppu.oita.jp/sisetu/shieionsen/detail2.html
+    map: https://maps.google.com/?cid=3087418777615879793&hl=ja
+    address: 大分県別府市浜脇1-8-20
+    price: 520
+    lat: 33.2698418
+    lng: 131.5083893
+    type: 温泉
+-
+    id: 209
+    name: きもと温泉
+    url: 
+    map: https://maps.google.com/?cid=17403912630337021670&hl=ja
+    address: 大分県竹田市直入町長湯3273-1
+    price: 200
+    lat: 33.0706718
+    lng: 131.3832836
+    type: 共同浴場・銭湯
+-
+    id: 210
+    name: 富士見温泉
+    url: 
+    map: https://maps.google.com/?cid=7175287362863378619&hl=ja
+    address: 大分県別府市富士見町1-15
+    price: 100
+    lat: 33.2851493
+    lng: 131.5001635
+    type: 共同浴場・銭湯
+-
+    id: 211
+    name: 玖珠温泉 椿温泉
+    url: 
+    map: https://maps.google.com/?cid=9593504428661720216&hl=ja
+    address: 大分県玖珠郡玖珠町塚脇784
+    price: 200
+    lat: 33.2707316
+    lng: 131.1589782
+    type: 共同浴場・銭湯
+-
+    id: 212
+    name: 雲泉寺温泉
+    url: 
+    map: https://maps.google.com/?cid=14790074719917018916&hl=ja
+    address: 大分県別府市原町
+    price: 100
+    lat: 33.2762476
+    lng: 131.4869034
+    type: 共同浴場・銭湯
+-
+    id: 213
+    name: 恵の湯
+    url: 
+    map: https://maps.google.com/?cid=10554399043340932567&hl=ja
+    address: 大分県日田市天瀬町合田3109-2
+    price: 400
+    lat: 33.2579895
+    lng: 131.0119987
+    type: 温泉
+-
+    id: 214
+    name: ふだんぎの湯
+    url: 
+    map: https://maps.google.com/?cid=13146515552808632206&hl=ja
+    address: 大分県玖珠郡九重町湯坪890
+    price: 400
+    lat: 33.1273762
+    lng: 131.1923997
+    type: 温泉
+-
+    id: 215
+    name: 生目温泉
+    url: 
+    map: https://maps.google.com/?cid=17899088169630209459&hl=ja
+    address: 大分県別府市南立石生目町
+    price: 100
+    lat: 33.2913611
+    lng: 131.4650004
+    type: 共同浴場・銭湯
+-
+    id: 216
+    name: 湯平温泉 中の湯
+    url: http://www.city.yufu.oita.jp/kankou/onsen/nakanoyu/
+    map: https://maps.google.com/?cid=6784101514921342037&hl=ja
+    address: 大分県由布市湯布院町湯平
+    price: 200
+    lat: 33.1910972
+    lng: 131.3159832
+    type: 共同浴場・銭湯
+-
+    id: 217
+    name: いんない余温泉
+    url: http://www.usa-kanko.jp/spots/detail/189
+    map: https://maps.google.com/?cid=17467679751545265585&hl=ja
+    address: 大分県宇佐市院内町上余157-1
+    price: 300
+    lat: 33.3771503
+    lng: 131.3076557
+    type: 温泉
+-
+    id: 218
+    name: 南須賀温泉
+    url: 
+    map: https://maps.google.com/?cid=1340436030172521981&hl=ja
+    address: 大分県別府市石垣西8-3-4
+    price: 100
+    lat: 33.3010591
+    lng: 131.4935219
+    type: 共同浴場・銭湯
+-
+    id: 219
+    name: 上ノ温泉
+    url: 
+    map: https://maps.google.com/?cid=12659015177513908438&hl=ja
+    address: 大分県別府市西野口町14-9
+    price: 100
+    lat: 33.2842494
+    lng: 131.4952809
+    type: 共同浴場・銭湯
+-
+    id: 220
+    name: 高塚温泉 命の湯 鏡華
+    url: 
+    map: https://maps.google.com/?cid=15817911368438129594&hl=ja
+    address: 大分県玖珠郡玖珠町戸畑9149-3
+    price: 1500
+    lat: 33.285274
+    lng: 131.0696413
+    type: 温泉
+-
+    id: 221
+    name: 野口中央温泉
+    url: 
+    map: https://maps.google.com/?cid=8601105596688946119&hl=ja
+    address: 大分県別府市野口中町12-4
+    price: 100
+    lat: 33.2832051
+    lng: 131.4978273
+    type: 共同浴場・銭湯
+-
+    id: 222
+    name: かわら屋敷温泉
+    url: 
+    map: https://maps.google.com/?cid=2871830615650530311&hl=ja
+    address: 大分県別府市馬場
+    price: 300
+    lat: 33.3053711
+    lng: 131.4774693
+    type: 共同浴場・銭湯
+-
+    id: 223
+    name: 天瀬憩の家
+    url: 
+    map: https://maps.google.com/?cid=7101654409312687180&hl=ja
+    address: 大分県日田市天瀬町桜竹667-1
+    price: 410
+    lat: 33.2546081
+    lng: 131.0205792
+    type: 温泉
+-
+    id: 224
+    name: 此花温泉
+    url: http://onsendo.beppu-navi.jp/spas/detail/1/49
+    map: https://maps.google.com/?cid=16700409766343936408&hl=ja
+    address: 大分県別府市光町7-5
+    price: 100
+    lat: 33.2737188
+    lng: 131.4990235
+    type: 共同浴場・銭湯
+-
+    id: 225
+    name: 甚吉の湯
+    url: 
+    map: https://maps.google.com/?cid=11319948133938996943&hl=ja
+    address: 大分県大分市今津留2-5-19
+    price: 300
+    lat: 33.2417668
+    lng: 131.6253717
+    type: 共同浴場・銭湯
+-
+    id: 226
+    name: 北浜温泉
+    url: 
+    map: https://maps.google.com/?cid=6387806115541630124&hl=ja
+    address: 大分県杵築市杵築北浜751
+    price: 300
+    lat: 33.4208648
+    lng: 131.619255
+    type: 共同浴場・銭湯
+-
+    id: 227
+    name: 新光泉
+    url: 
+    map: https://maps.google.com/?cid=8710307577299609054&hl=ja
+    address: 大分県別府市中島町14-17
+    price: 100
+    lat: 33.2753851
+    lng: 131.492119
+    type: 共同浴場・銭湯
+-
+    id: 228
+    name: 塚野鉱泉 塚野霊泉
+    url: 
+    map: https://maps.google.com/?cid=4113199018183188190&hl=ja
+    address: 大分県大分市廻栖野
+    price: 200
+    lat: 33.1498499
+    lng: 131.5562478
+    type: 共同浴場・銭湯
+-
+    id: 229
+    name: 若山温泉
+    url: https://nakatsuyaba.com/?introduce=wakayama-onsen
+    map: https://maps.google.com/?cid=2933732115184314707&hl=ja
+    address: 大分県中津市耶馬溪町深耶馬3263
+    price: 300
+    lat: 33.3824713
+    lng: 131.1653453
+    type: 温泉
+-
+    id: 230
+    name: 府内温泉
+    url: https://funaionsen.com/
+    map: https://maps.google.com/?cid=18358458951016496627&hl=ja
+    address: 大分県大分市府内町3-3-8
+    price: 550
+    lat: 33.2380424
+    lng: 131.6084844
+    type: 温泉
+-
+    id: 231
+    name: クアパーク長湯
+    url: https://www.kur-nagayu.co.jp/
+    map: https://maps.google.com/?cid=8517320175095689462&hl=ja
+    address: 大分県竹田市直入町長湯3041-1
+    price: 500
+    lat: 33.0669301
+    lng: 131.37373
+    type: 温泉
+-
+    id: 232
+    name: 別府ラクテンチ 絶景の湯
+    url: https://rakutenchi.jp/
+    map: https://maps.google.com/maps?q=33.276039,131.482391
+    address: 大分県別府市流川通り18
+    price: 1300
+    lat: 33.2775173
+    lng: 131.506513
+    type: 温泉
+-
+    id: 233
+    name: 豊陽温泉
+    url: 
+    map: https://maps.google.com/?cid=11026638766673998630&hl=ja
+    address: 大分県中津市豊田町2-427-1
+    price: 350
+    lat: 33.5962108
+    lng: 131.1899333
+    type: 銭湯
+-
+    id: 234
+    name: 天然町温泉
+    url: 
+    map: https://maps.google.com/maps?q=33.227123,131.659241
+    address: 大分県大分市明野北5-1-43
+    price: 300
+    lat: 33.226978
+    lng: 131.6591466
+    type: 共同浴場・銭湯
+-
+    id: 235
+    name: 日田市大山町総合福祉保健センター 梅の香温泉つどいの湯
+    url: 
+    map: https://maps.google.com/maps?q=33.258011,130.969177
+    address: 大分県日田市大山町西大山3610-1
+    price: 300
+    lat: 33.2580023
+    lng: 130.9692749
+    type: 温泉
+-
+    id: 236
+    name: 湯平温泉 中央温泉 砂湯
+    url: http://www.city.yufu.oita.jp/kankou/onsen/sunayu/
+    map: https://maps.google.com/maps?q=33.192928,131.325562
+    address: 大分県由布市湯布院町湯平
+    price: 200
+    lat: 33.1910972
+    lng: 131.3159832
+    type: 共同浴場・銭湯
+-
+    id: 237
+    name: 筋湯温泉 露天岩ん湯
+    url: http://www.sujiyu-onsen.com/hotspring/
+    map: https://maps.google.com/maps?q=33.11401,131.185944
+    address: 大分県玖珠郡九重町湯坪
+    price: 300
+    lat: 33.124868
+    lng: 131.1904335
+    type: 共同浴場・銭湯
+-
+    id: 238
+    name: しお湯100馬力
+    url: 
+    map: https://maps.google.com/?cid=9872871589736826704&hl=ja
+    address: 大分県国東市安岐町下原3074
+    price: 400
+    lat: 33.4661445
+    lng: 131.7264662
+    type: 銭湯
+-
+    id: 239
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=16102550014036732147&hl=ja
+    address: 大分県大分市生石港町2-1-20
+    price: 350
+    lat: 33.2474179
+    lng: 131.582054
+    type: 銭湯
+-
+    id: 240
+    name: こがね湯
+    url: 
+    map: https://maps.google.com/?cid=13362494872436516477&hl=ja
+    address: 大分県大分市森町358-99-6
+    price: 380
+    lat: 33.2239379
+    lng: 131.6765565
+    type: 銭湯

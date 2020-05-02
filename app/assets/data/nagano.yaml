@@ -1,0 +1,2311 @@
+---
+-
+    id: 1
+    name: 信州健康ランド
+    url: https://www.kur-hotel.co.jp/shinsyu/
+    map: https://maps.google.com/?cid=3251667243570052159&hl=ja
+    address: 長野県塩尻市広丘吉田366-1
+    price: 1980
+    lat: 36.1707741
+    lng: 137.9542164
+    type: 温泉
+-
+    id: 2
+    name: 星野温泉 トンボの湯
+    url: http://www.hoshino-area.jp/archives/area/tonbo
+    map: https://maps.google.com/?cid=12149845572344097417&hl=ja
+    address: 長野県北佐久郡軽井沢町星野
+    price: 1350
+    lat: 36.3618036
+    lng: 138.5882398
+    type: 温泉
+-
+    id: 3
+    name: 道の駅小谷 深山の湯
+    url: http://www.otarimura.co.jp/original3.html
+    map: https://maps.google.com/?cid=3182149586628852809&hl=ja
+    address: 長野県北安曇郡小谷村北小谷1861-1
+    price: 660
+    lat: 36.8453283
+    lng: 137.9004155
+    type: 温泉
+-
+    id: 4
+    name: 地蔵温泉 十福の湯
+    url: http://www.zippuku.net/
+    map: https://maps.google.com/?cid=7781159289120952947&hl=ja
+    address: 長野県上田市真田町傍陽9097-70
+    price: 700
+    lat: 36.5021641
+    lng: 138.2296677
+    type: 温泉
+-
+    id: 5
+    name: 片倉館
+    url: http://www.katakurakan.or.jp/index.php
+    map: https://maps.google.com/?cid=12313464102928616359&hl=ja
+    address: 長野県諏訪市湖岸通り4-1-9
+    price: 750
+    lat: 36.0481478
+    lng: 138.113086
+    type: 温泉
+-
+    id: 6
+    name: 北八ヶ岳松原湖温泉 八峰の湯
+    url: http://www.yahho-onsen.jp/
+    map: https://maps.google.com/?cid=15295693861544487931&hl=ja
+    address: 長野県南佐久郡小海町豊里5918-2
+    price: 600
+    lat: 36.0593653
+    lng: 138.4401852
+    type: 温泉
+-
+    id: 7
+    name: ゴールデンセンチュリー 佐久一萬里温泉
+    url: https://www.ichimanri.co.jp/
+    map: https://maps.google.com/?cid=8872575742762852177&hl=ja
+    address: 長野県佐久市中込3150-1
+    price: 1100
+    lat: 36.2540134
+    lng: 138.4800012
+    type: 温泉
+-
+    id: 8
+    name: 湯けむり屋敷 薬師の湯
+    url: http://o-yakushinoyu.com/
+    map: https://maps.google.com/?cid=6143556368076378407&hl=ja
+    address: 長野県大町市平大町温泉郷2810
+    price: 750
+    lat: 36.5276389
+    lng: 137.8114861
+    type: 温泉
+-
+    id: 9
+    name: 林檎の湯屋 おぶ～
+    url: http://www.orchard.co.jp/obu/index.htm
+    map: https://maps.google.com/?cid=15099460754505832856&hl=ja
+    address: 長野県松本市石芝3-9-44
+    price: 750
+    lat: 36.204266
+    lng: 137.9486482
+    type: 温泉
+-
+    id: 10
+    name: こまくさの湯
+    url: http://www.komakusanoyu.com/
+    map: https://maps.google.com/?cid=2337383257784694392&hl=ja
+    address: 長野県駒ヶ根市赤穂759-4
+    price: 610
+    lat: 35.7439467
+    lng: 137.8880711
+    type: 温泉
+-
+    id: 11
+    name: 安曇野 しゃくなげの湯
+    url: http://syakunagenoyu.info/
+    map: https://maps.google.com/?cid=2342328927920786436&hl=ja
+    address: 長野県安曇野市穂高有明7726-4
+    price: 700
+    lat: 36.3479364
+    lng: 137.8395332
+    type: 温泉
+-
+    id: 12
+    name: 天然温泉 まめじま 湯ったり苑
+    url: https://www.yuttarien.com/mamejima/
+    map: https://maps.google.com/?cid=9551799410224359983&hl=ja
+    address: 長野県長野市大豆島1641
+    price: 700
+    lat: 36.6291416
+    lng: 138.2363369
+    type: 温泉
+-
+    id: 13
+    name: 湯っ蔵んど
+    url: http://www.yukkuland.jp/index.php
+    map: https://maps.google.com/?cid=13275037084189809087&hl=ja
+    address: 長野県須坂市仁礼7
+    price: 600
+    lat: 36.6145119
+    lng: 138.3381076
+    type: 温泉
+-
+    id: 14
+    name: 信州平谷温泉 ひまわりの湯
+    url: http://hiraya-himawarinoyu.com/
+    map: https://maps.google.com/?cid=825859926432350379&hl=ja
+    address: 長野県下伊那郡平谷村252
+    price: 600
+    lat: 35.3232905
+    lng: 137.6302506
+    type: 温泉
+-
+    id: 15
+    name: 乗鞍高原 湯けむり館
+    url: https://norikura.co.jp/yukemuri/
+    map: https://maps.google.com/?cid=9338973877427411215&hl=ja
+    address: 長野県松本市安曇鈴蘭4306-6
+    price: 730
+    lat: 36.1219872
+    lng: 137.6249484
+    type: 温泉
+-
+    id: 16
+    name: 湯楽里館
+    url: http://tomi-kosya.com/yurari/
+    map: https://maps.google.com/?cid=8438728147916159352&hl=ja
+    address: 長野県東御市和3875
+    price: 510
+    lat: 36.3868143
+    lng: 138.3185993
+    type: 温泉
+-
+    id: 17
+    name: 白馬八方温泉 八方の湯
+    url: http://hakuba-happo-onsen.jp/happo/
+    map: https://maps.google.com/?cid=9913727997802553123&hl=ja
+    address: 長野県北安曇郡白馬村北城5701-3
+    price: 800
+    lat: 36.7352035
+    lng: 137.8162936
+    type: 温泉
+-
+    id: 18
+    name: みみずくの湯
+    url: http://hakuba-happo-onsen.jp/mimizukunoyu/
+    map: https://maps.google.com/?cid=1204434160570708435&hl=ja
+    address: 長野県北安曇郡白馬村北城5480-1
+    price: 650
+    lat: 36.6973597
+    lng: 137.855567
+    type: 温泉
+-
+    id: 19
+    name: 湯ったり～な昼神
+    url: http://yu-tari.com/
+    map: https://maps.google.com/?cid=5560574191582079864&hl=ja
+    address: 長野県下伊那郡阿智村智里370-1
+    price: 620
+    lat: 35.4560663
+    lng: 137.7154761
+    type: 温泉
+-
+    id: 20
+    name: 湯の華銭湯 瑞祥 上山田本館
+    url: https://zuisho.com
+    map: https://maps.google.com/?cid=8517721870770224764&hl=ja
+    address: 長野県千曲市上山田温泉2-18-8
+    price: 700
+    lat: 36.4795934
+    lng: 138.1428779
+    type: 温泉
+-
+    id: 21
+    name: コトリの湯
+    url: http://www.kotorinoyu.jp/
+    map: https://maps.google.com/?cid=17300267115255220331&hl=ja
+    address: 長野県長野市松代町東条2832
+    price: 950
+    lat: 36.5664931
+    lng: 138.2244268
+    type: 温泉
+-
+    id: 22
+    name: あぐりの湯こもろ
+    url: https://www.komoron.com/agrinoyu/
+    map: https://maps.google.com/?cid=2496889647027674846&hl=ja
+    address: 長野県小諸市大久保1145-1
+    price: 500
+    lat: 36.324272
+    lng: 138.3967221
+    type: 温泉
+-
+    id: 23
+    name: すわっこランド
+    url: https://suwakko-land.com/spa/
+    map: https://maps.google.com/?cid=18142773987656879424&hl=ja
+    address: 長野県諏訪市豊田732
+    price: 630
+    lat: 36.0360487
+    lng: 138.0907681
+    type: 温泉
+-
+    id: 24
+    name: 別所温泉 相染閣 あいそめの湯
+    url: http://www.bessho-spa.jp/aisome/
+    map: https://maps.google.com/?cid=881012604358032157&hl=ja
+    address: 長野県上田市別所温泉58
+    price: 500
+    lat: 36.3530488
+    lng: 138.1629778
+    type: 温泉
+-
+    id: 25
+    name: 川中島温泉 テルメDOME
+    url: https://www.kawanakajimaonsen.com/
+    map: https://maps.google.com/?cid=199411315272529758&hl=ja
+    address: 長野県長野市川中島町今井1780-1
+    price: 700
+    lat: 36.5963013
+    lng: 138.1564781
+    type: 温泉
+-
+    id: 26
+    name: 羽広温泉 みはらしの湯
+    url: https://www.ina-city-kankou.co.jp/miharashinoyu/
+    map: https://maps.google.com/?cid=14455511301908944971&hl=ja
+    address: 長野県伊那市西箕輪3480-1
+    price: 500
+    lat: 35.8830374
+    lng: 137.9177498
+    type: 温泉
+-
+    id: 27
+    name: 遠山温泉郷 かぐらの湯
+    url: http://tohyamago.com/osusume/kaguranoyu/
+    map: https://maps.google.com/?cid=10602690771510714713&hl=ja
+    address: 長野県飯田市南信濃和田
+    price: 620
+    lat: 35.3303592
+    lng: 137.9663604
+    type: 温泉
+-
+    id: 28
+    name: 室賀温泉 ささらの湯
+    url: http://www.city.ueda.nagano.jp/nosei/tanoshimu/onsen/sasara/index.html
+    map: https://maps.google.com/?cid=1048635579670944434&hl=ja
+    address: 長野県上田市上室賀1232-1
+    price: 500
+    lat: 36.4099191
+    lng: 138.1480478
+    type: 温泉
+-
+    id: 29
+    name: 平尾温泉 みはらしの湯
+    url: http://www.hiraoonsen.jp/
+    map: https://maps.google.com/?cid=5557696502386339226&hl=ja
+    address: 長野県佐久市下平尾2682
+    price: 800
+    lat: 36.2789008
+    lng: 138.511356
+    type: 温泉
+-
+    id: 30
+    name: おぶせ温泉 穴観音の湯
+    url: http://www.obuseonsen.sakura.ne.jp/
+    map: https://maps.google.com/?cid=16274073955550621529&hl=ja
+    address: 長野県上高井郡小布施町雁田1194
+    price: 600
+    lat: 36.6879078
+    lng: 138.3277101
+    type: 温泉
+-
+    id: 31
+    name: 殿岡温泉湯元 湯～眠
+    url: http://yu-min.com/
+    map: https://maps.google.com/?cid=635764310338108176&hl=ja
+    address: 長野県飯田市上殿岡628
+    price: 700
+    lat: 35.500385
+    lng: 137.8076246
+    type: 温泉
+-
+    id: 32
+    name: 万葉超音波温泉
+    url: http://www.manyoonsen.com/
+    map: https://maps.google.com/?cid=18033334749027671346&hl=ja
+    address: 長野県千曲市磯部1125
+    price: 350
+    lat: 36.4807081
+    lng: 138.1506148
+    type: 温泉
+-
+    id: 33
+    name: 豊野温泉 りんごの湯
+    url: https://ringonoyu.co.jp/
+    map: https://maps.google.com/?cid=11788182441763957456&hl=ja
+    address: 長野県長野市豊野町石417
+    price: 410
+    lat: 36.707433
+    lng: 138.2653276
+    type: 温泉
+-
+    id: 34
+    name: 湯々庵 枇杷の湯
+    url: http://www.biwanoyu.com/
+    map: https://maps.google.com/?cid=5943025828618186464&hl=ja
+    address: 長野県松本市浅間温泉3-26-1
+    price: 800
+    lat: 36.266729
+    lng: 137.9919183
+    type: 温泉
+-
+    id: 35
+    name: うるぎ温泉 こまどりの湯
+    url: http://www.urugi.jp/db/onsen/post-18.html
+    map: https://maps.google.com/?cid=9275992973332915863&hl=ja
+    address: 長野県下伊那郡売木村45-50
+    price: 500
+    lat: 35.276358
+    lng: 137.709634
+    type: 温泉
+-
+    id: 36
+    name: おかや温泉 美肌の湯 ロマネット
+    url: https://okaya-romanet.jp/index.shtml
+    map: https://maps.google.com/?cid=18017667868329285123&hl=ja
+    address: 長野県岡谷市長地権現町4-1-24
+    price: 540
+    lat: 36.0621985
+    lng: 138.0672933
+    type: 温泉
+-
+    id: 37
+    name: びんぐし湯さん館
+    url: http://yusankan.co.jp/
+    map: https://maps.google.com/?cid=871955058940923071&hl=ja
+    address: 長野県埴科郡坂城町網掛2002-4
+    price: 550
+    lat: 36.4419808
+    lng: 138.1677917
+    type: 温泉
+-
+    id: 38
+    name: 南相木温泉 滝見の湯
+    url: http://www.takiminoyu.com/
+    map: https://maps.google.com/?cid=2360096321705521998&hl=ja
+    address: 長野県南佐久郡南相木村5633-1
+    price: 450
+    lat: 36.016891
+    lng: 138.566026
+    type: 温泉
+-
+    id: 39
+    name: 湯の華銭湯 瑞祥松本
+    url: http://zui.sakura.ne.jp/matsumoto/info.html
+    map: https://maps.google.com/?cid=9738618397767565795&hl=ja
+    address: 長野県松本市渚1-7-1
+    price: 700
+    lat: 36.2339171
+    lng: 137.9551154
+    type: 温泉
+-
+    id: 40
+    name: ゆ～とろん 水神の湯
+    url: https://yuutoron.com
+    map: https://maps.google.com/?cid=6330567637407072389&hl=ja
+    address: 長野県諏訪郡富士見町富士見9547-4
+    price: 900
+    lat: 35.9148697
+    lng: 138.2126766
+    type: 温泉
+-
+    id: 41
+    name: むれ温泉 天狗の館
+    url: http://www.organic-resort.co.jp/tengu/index.php
+    map: https://maps.google.com/?cid=3027314596709424367&hl=ja
+    address: 長野県上水内郡飯綱町川上2755-345
+    price: 600
+    lat: 36.7493901
+    lng: 138.1856171
+    type: 温泉
+-
+    id: 42
+    name: 天然日帰り温泉 ホットプラザ浅間
+    url: https://hotplaza.jp/
+    map: https://maps.google.com/?cid=2114723748727837673&hl=ja
+    address: 長野県松本市浅間温泉3-16-3
+    price: 680
+    lat: 36.2628872
+    lng: 137.9886591
+    type: 温泉
+-
+    id: 43
+    name: 白鳥園
+    url: http://www.hakuchoen.jp/
+    map: https://maps.google.com/?cid=13589341100671824269&hl=ja
+    address: 長野県千曲市戸倉2254
+    price: 600
+    lat: 36.4847185
+    lng: 138.1482039
+    type: 温泉
+-
+    id: 44
+    name: 真田温泉健康ランド ふれあいさなだ館
+    url: https://www.ueda-rpc.or.jp/facility/fureaisanadakan.html
+    map: https://maps.google.com/?cid=5271990101173772286&hl=ja
+    address: 長野県上田市真田町長7369-1
+    price: 500
+    lat: 36.4430093
+    lng: 138.3076806
+    type: 温泉
+-
+    id: 45
+    name: 中房温泉 湯原の湯
+    url: https://www.nakabusa.com/daytrip/daytrip.html
+    map: https://maps.google.com/?cid=13381816141692462724&hl=ja
+    address: 長野県安曇野市穂高有明
+    price: 700
+    lat: 36.3664174
+    lng: 137.8526097
+    type: 温泉
+-
+    id: 46
+    name: 信州原村八ヶ岳温泉 もみの湯
+    url: http://www.lcv.ne.jp/~mominoki/hotspa.html
+    map: https://maps.google.com/?cid=9663269937304901867&hl=ja
+    address: 長野県諏訪郡原村原山17217-1729
+    price: 650
+    lat: 35.968076
+    lng: 138.2526797
+    type: 温泉
+-
+    id: 47
+    name: 軽井沢 千ヶ滝温泉
+    url: https://www.princehotels.co.jp/sengataki/
+    map: https://maps.google.com/?cid=4870716948453714330&hl=ja
+    address: 長野県北佐久郡軽井沢町千ヶ滝温泉
+    price: 1200
+    lat: 36.3663889
+    lng: 138.5841667
+    type: 温泉
+-
+    id: 48
+    name: 尖石温泉 縄文の湯
+    url: https://www.city.chino.lg.jp/soshiki/chiikifukushi/1356.html
+    map: https://maps.google.com/?cid=6999566724716862295&hl=ja
+    address: 長野県茅野市豊平4734-7821
+    price: 600
+    lat: 36.0146453
+    lng: 138.2206362
+    type: 温泉
+-
+    id: 49
+    name: 大室温泉 まきばの湯
+    url: https://makibanoyu.com/
+    map: https://maps.google.com/?cid=13673040013922719158&hl=ja
+    address: 長野県長野市松代町大室4108
+    price: 550
+    lat: 36.6018871
+    lng: 138.2260795
+    type: 温泉
+-
+    id: 50
+    name: 竜島温泉 せせらぎの湯
+    url: https://ryushima-onsen.jp/
+    map: https://maps.google.com/?cid=13993383826236901712&hl=ja
+    address: 長野県松本市波田3452
+    price: 520
+    lat: 36.1703072
+    lng: 137.813101
+    type: 温泉
+-
+    id: 51
+    name: 松本クリーンセンター余熱利用施設 ラーラ松本
+    url: http://www.lala-matsumoto.jp/facility/
+    map: https://maps.google.com/?cid=2039861794278417099&hl=ja
+    address: 長野県松本市島内7412
+    price: 410
+    lat: 36.2695806
+    lng: 137.9405497
+    type: 温泉
+-
+    id: 52
+    name: みのわ温泉 ながたの湯
+    url: https://e-minowa.jp/nagatanoyu/
+    map: https://maps.google.com/?cid=6826815435851438223&hl=ja
+    address: 長野県上伊那郡箕輪町中箕輪2134-42
+    price: 500
+    lat: 35.9446127
+    lng: 137.9608716
+    type: 温泉
+-
+    id: 53
+    name: 野沢温泉 共同浴場 大湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=4394591466537584392&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 0
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 54
+    name: 白樺湖温泉 すずらんの湯
+    url: https://www.city.chino.lg.jp/soshiki/kankou/276.html
+    map: https://maps.google.com/?cid=8033516957980379714&hl=ja
+    address: 長野県茅野市北山白樺湖3419-84
+    price: 700
+    lat: 36.1042043
+    lng: 138.2381655
+    type: 温泉
+-
+    id: 55
+    name: 大谷地鉱泉
+    url: 
+    map: https://maps.google.com/?cid=17831254772635998209&hl=ja
+    address: 長野県北佐久郡御代田町塩田3145
+    price: 360
+    lat: 36.3212828
+    lng: 138.508717
+    type: 銭湯
+-
+    id: 56
+    name: ふれあい交流センター 大芝の湯
+    url: http://oshiba.jp/stay
+    map: https://maps.google.com/?cid=2585285133444017053&hl=ja
+    address: 長野県上伊那郡南箕輪村2358-5
+    price: 500
+    lat: 35.8870055
+    lng: 137.9431225
+    type: 温泉
+-
+    id: 57
+    name: 天龍温泉 おきよめの湯
+    url: http://www.vill-tenryu.jp/okiyome_spa/
+    map: https://maps.google.com/?cid=17989416145233928580&hl=ja
+    address: 長野県下伊那郡天龍村神原5786-14
+    price: 500
+    lat: 35.2493235
+    lng: 137.7806464
+    type: 温泉
+-
+    id: 58
+    name: 二本木の湯
+    url: http://www.nihongi-spa.com/
+    map: https://maps.google.com/?cid=18379804561006964681&hl=ja
+    address: 長野県木曽郡木曽町新開6013-1
+    price: 620
+    lat: 35.8921398
+    lng: 137.6616354
+    type: 温泉
+-
+    id: 59
+    name: 木曽福島温泉 せせらぎの四季
+    url: http://kiso-spa.com/
+    map: https://maps.google.com/?cid=11178315403689753961&hl=ja
+    address: 長野県木曽郡木曽町新開3968-2
+    price: 700
+    lat: 35.8612607
+    lng: 137.6948769
+    type: 温泉
+-
+    id: 60
+    name: 間山温泉 ぽんぽこの湯
+    url: https://nakano-ipc.jp/facilities/shisetsu01_1.php?p=list
+    map: https://maps.google.com/?cid=9092283979655291231&hl=ja
+    address: 長野県中野市大字間山956
+    price: 450
+    lat: 36.7100575
+    lng: 138.3862142
+    type: 温泉
+-
+    id: 61
+    name: 白馬塩の道温泉 倉下の湯
+    url: https://www.kurashitanoyu.com/
+    map: https://maps.google.com/?cid=13215121895884015822&hl=ja
+    address: 長野県北安曇郡白馬村北城9549-8
+    price: 600
+    lat: 36.7092793
+    lng: 137.8484887
+    type: 温泉
+-
+    id: 62
+    name: ひるがみの森
+    url: http://www.hirumori.co.jp
+    map: https://maps.google.com/?cid=15477330036276551421&hl=ja
+    address: 長野県下伊那郡阿智村智里567-10
+    price: 600
+    lat: 35.4541154
+    lng: 137.7127174
+    type: 温泉
+-
+    id: 63
+    name: いいやま湯滝温泉
+    url: http://www.yutakionsen.net/
+    map: https://maps.google.com/?cid=14333328631744704629&hl=ja
+    address: 長野県飯山市一山1898-1
+    price: 510
+    lat: 36.9354111
+    lng: 138.4185989
+    type: 温泉
+-
+    id: 64
+    name: 野沢温泉スパリーナ
+    url: http://www.nozawaski.com/winter/facilities/arena.php
+    map: https://maps.google.com/?cid=15963565942684074682&hl=ja
+    address: 長野県下高井郡野沢温泉村大字豊郷
+    price: 700
+    lat: 36.9160853
+    lng: 138.466838
+    type: 温泉
+-
+    id: 65
+    name: あさしな温泉 穂の香乃湯
+    url: http://www.shinkou-saku.or.jp/honoka/
+    map: https://maps.google.com/?cid=13448286284296889855&hl=ja
+    address: 長野県佐久市甲1071-1
+    price: 500
+    lat: 36.2667573
+    lng: 138.3972807
+    type: 温泉
+-
+    id: 66
+    name: ふれあい山辺館 白糸の湯
+    url: https://visitmatsumoto.com/spot/shiraitonoyu/
+    map: https://maps.google.com/?cid=80011975009678731&hl=ja
+    address: 長野県松本市里山辺85-1
+    price: 310
+    lat: 36.2459381
+    lng: 137.9988922
+    type: 温泉
+-
+    id: 67
+    name: 遊泉ハウス児湯
+    url: https://shimosuwaonsen.jp/item/684/
+    map: https://maps.google.com/?cid=7792373335304559072&hl=ja
+    address: 長野県諏訪郡下諏訪町横町木ノ下3477
+    price: 230
+    lat: 36.0754562
+    lng: 138.0901992
+    type: 共同浴場・銭湯
+-
+    id: 68
+    name: 下諏訪温泉 旦過の湯
+    url: https://shimosuwaonsen.jp/item/685/
+    map: https://maps.google.com/?cid=2326667879216822992&hl=ja
+    address: 長野県諏訪郡下諏訪町湯田町3441
+    price: 230
+    lat: 36.0774502
+    lng: 138.0889655
+    type: 共同浴場・銭湯
+-
+    id: 69
+    name: 蓼科温泉 小斉の湯
+    url: http://www.kosainoyu.jp/
+    map: https://maps.google.com/?cid=5763371950083933956&hl=ja
+    address: 長野県茅野市北山蓼科4035
+    price: 600
+    lat: 36.0531386
+    lng: 138.271728
+    type: 温泉
+-
+    id: 70
+    name: 湯田中駅前温泉 楓の湯
+    url: http://www.town.yamanouchi.nagano.jp/kaedenoyu/index.html
+    map: https://maps.google.com/?cid=3501106276016244581&hl=ja
+    address: 長野県下高井郡山ノ内町大字平穏3227-1
+    price: 300
+    lat: 36.7417329
+    lng: 138.4148454
+    type: 温泉
+-
+    id: 71
+    name: 白馬かたくり温泉 十郎の湯
+    url: https://mall.hakubamura.net/juro/
+    map: https://maps.google.com/?cid=10659135925560379083&hl=ja
+    address: 長野県北安曇郡白馬村神城25555
+    price: 600
+    lat: 36.669776
+    lng: 137.8458616
+    type: 温泉
+-
+    id: 72
+    name: 長門温泉 やすらぎの湯
+    url: https://nagawamachi.jp/publics/index/14/
+    map: https://maps.google.com/?cid=13025364431509561244&hl=ja
+    address: 長野県小県郡長和町古町2436-1
+    price: 500
+    lat: 36.2754874
+    lng: 138.257084
+    type: 温泉
+-
+    id: 73
+    name: 豊科温泉 湯多里山の神
+    url: https://www.yuttari-yamanokami.jp/index.html
+    map: https://maps.google.com/?cid=9634761268745684825&hl=ja
+    address: 長野県安曇野市豊科田沢7994
+    price: 550
+    lat: 36.3035902
+    lng: 137.9570935
+    type: 温泉
+-
+    id: 74
+    name: 高遠温泉 さくらの湯
+    url: https://www.ina-city-kankou.co.jp/sakuranoyu/
+    map: https://maps.google.com/?cid=2326396409755915910&hl=ja
+    address: 長野県伊那市高遠町西高遠928-2
+    price: 500
+    lat: 35.8394183
+    lng: 138.0606299
+    type: 温泉
+-
+    id: 75
+    name: ゆ〜ぷる木崎湖
+    url: https://www.yupuru.com/
+    map: https://maps.google.com/?cid=10943132314564833923&hl=ja
+    address: 長野県大町市平10639-1
+    price: 650
+    lat: 36.5422546
+    lng: 137.8416875
+    type: 温泉
+-
+    id: 76
+    name: 湯あそびひろば ぶらっと稲田
+    url: http://www.buratto.jp/index.html
+    map: https://maps.google.com/?cid=12990828017946236924&hl=ja
+    address: 長野県長野市稲田3-31-8
+    price: 700
+    lat: 36.6709049
+    lng: 138.2301402
+    type: 温泉
+-
+    id: 77
+    name: 桧の湯
+    url: http://www.mcci.or.jp/www/hinoki/
+    map: https://maps.google.com/?cid=17802801530827816164&hl=ja
+    address: 長野県松本市入山辺8967-4-28
+    price: 300
+    lat: 36.1876967
+    lng: 138.0805855
+    type: 温泉
+-
+    id: 78
+    name: おびなたの湯
+    url: http://hakuba-happo-onsen.jp/obinatanoyu/
+    map: https://maps.google.com/?cid=11864962238716555013&hl=ja
+    address: 長野県北安曇郡白馬村大字北城八方9346-1
+    price: 600
+    lat: 36.7196608
+    lng: 137.8267826
+    type: 温泉
+-
+    id: 79
+    name: 下條温泉郷 コスモスの湯
+    url: https://shimojo-kanko.jp/asobu/kosumosunoyu
+    map: https://maps.google.com/?cid=5258945814102154442&hl=ja
+    address: 長野県下伊那郡下條村睦沢3405
+    price: 400
+    lat: 35.4187604
+    lng: 137.8017027
+    type: 温泉
+-
+    id: 80
+    name: 木曽義仲ゆかりの葵の湯 大湯
+    url: https://www.besshoonsen-zaisanku.com/bath/
+    map: https://maps.google.com/?cid=18017120493788165761&hl=ja
+    address: 長野県上田市別所温泉
+    price: 150
+    lat: 36.3442648
+    lng: 138.1448904
+    type: 共同浴場・銭湯
+-
+    id: 81
+    name: 和田宿温泉 ふれあいの湯
+    url: https://nagawamachi.jp/publics/index/15/
+    map: https://maps.google.com/?cid=8821536045019534650&hl=ja
+    address: 長野県小県郡長和町和田4329
+    price: 500
+    lat: 36.2051178
+    lng: 138.2182537
+    type: 温泉
+-
+    id: 82
+    name: 阿南温泉 かじかの湯
+    url: https://kajikanoyu.com/
+    map: https://maps.google.com/?cid=14318348265183903818&hl=ja
+    address: 長野県下伊那郡阿南町富草4923
+    price: 500
+    lat: 35.3432416
+    lng: 137.7938577
+    type: 温泉
+-
+    id: 83
+    name: 麻釜温泉公園 ふるさとの湯
+    url: http://www.vill.nozawaonsen.nagano.jp/about/W002H0000011.html
+    map: https://maps.google.com/?cid=5118324461868228820&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 500
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 84
+    name: 布施温泉
+    url: http://www.shinkou-saku.or.jp/fuse/
+    map: https://maps.google.com/?cid=17509289225758127421&hl=ja
+    address: 長野県佐久市布施1228
+    price: 500
+    lat: 36.2559376
+    lng: 138.3730171
+    type: 温泉
+-
+    id: 85
+    name: 御嶽明神温泉 やまゆり荘
+    url: http://yamayuriso.jp
+    map: https://maps.google.com/?cid=4298621361278116447&hl=ja
+    address: 長野県木曽郡木曽町開田高原西野6321-1211
+    price: 500
+    lat: 35.9188501
+    lng: 137.5580993
+    type: 温泉
+-
+    id: 86
+    name: 信州たかもり温泉 御大の館
+    url: https://takamori-onsen.com/ontai/
+    map: https://maps.google.com/?cid=13941970127792238950&hl=ja
+    address: 長野県下伊那郡高森町牛牧832-1
+    price: 500
+    lat: 35.5496925
+    lng: 137.839555
+    type: 温泉
+-
+    id: 87
+    name: 加賀井温泉 一陽館
+    url: 
+    map: https://maps.google.com/?cid=3683000175812921872&hl=ja
+    address: 長野県長野市松代町東条55
+    price: 400
+    lat: 36.5693318
+    lng: 138.2124966
+    type: 温泉
+-
+    id: 88
+    name: 公衆浴場 湯元 かめ乃湯
+    url: http://www.kamiyamada-onsen.co.jp/kamenoyu.html
+    map: https://maps.google.com/?cid=15881315138375395362&hl=ja
+    address: 長野県千曲市上山田温泉1-27-11
+    price: 350
+    lat: 36.4820279
+    lng: 138.1409515
+    type: 共同浴場・銭湯
+-
+    id: 89
+    name: 湯川温泉 河童の湯
+    url: 
+    map: https://maps.google.com/?cid=11935208304521566781&hl=ja
+    address: 長野県茅野市北山湯川1263
+    price: 400
+    lat: 36.0381591
+    lng: 138.2259425
+    type: 温泉
+-
+    id: 90
+    name: 蓼科温泉郷 かけ流し天然温泉 音無の湯
+    url: https://www.otonashinoyu.jp/
+    map: https://maps.google.com/?cid=17019154928134808849&hl=ja
+    address: 長野県茅野市北山2977-1
+    price: 800
+    lat: 36.0654018
+    lng: 138.2220259
+    type: 温泉
+-
+    id: 91
+    name: 砂払温泉 七色の湯
+    url: http://www.sunaharai.jp/
+    map: https://maps.google.com/?cid=11888247225045767902&hl=ja
+    address: 長野県飯田市砂払町1-695
+    price: 550
+    lat: 35.521547
+    lng: 137.8082031
+    type: 温泉
+-
+    id: 92
+    name: ホテルゆだなか 湯田中ヘルスケアセンター
+    url: https://www.yudanaka.com/
+    map: https://maps.google.com/?cid=16356255069108251059&hl=ja
+    address: 長野県下高井郡山ノ内町平穏3246-2
+    price: 650
+    lat: 36.7430496
+    lng: 138.4123794
+    type: 温泉
+-
+    id: 93
+    name: 飯田健康温泉 ほっ湯アップル
+    url: http://www.hot-apple.net/index.html
+    map: https://maps.google.com/?cid=10556183699549008883&hl=ja
+    address: 長野県飯田市松尾明7513-3
+    price: 500
+    lat: 35.4925688
+    lng: 137.8556203
+    type: 温泉
+-
+    id: 94
+    name: 田沢温泉 有乳湯
+    url: http://www.vill.aoki.nagano.jp/assoc/hotsprig/hotspring2.html
+    map: https://maps.google.com/?cid=9608922759002422068&hl=ja
+    address: 長野県小県郡青木村田沢2700
+    price: 200
+    lat: 36.3691282
+    lng: 138.1048662
+    type: 共同浴場・銭湯
+-
+    id: 95
+    name: 信州高山温泉郷 子安温泉
+    url: http://www.koyasu-onsen.com/
+    map: https://maps.google.com/?cid=563294290829287789&hl=ja
+    address: 長野県上高井郡高山村大牧783
+    price: 500
+    lat: 36.6758568
+    lng: 138.3975914
+    type: 温泉
+-
+    id: 96
+    name: 山田温泉 大湯
+    url: https://www.vill.takayama.nagano.jp/docs/401.html
+    map: https://maps.google.com/?cid=11400081874452786654&hl=ja
+    address: 長野県上高井郡高山村奥山田3580
+    price: 300
+    lat: 36.6703557
+    lng: 138.4245673
+    type: 共同浴場・銭湯
+-
+    id: 97
+    name: アルプス温泉
+    url: https://www.nagano1010.com/n03.html
+    map: https://maps.google.com/?cid=17896939584231107138&hl=ja
+    address: 長野県長野市新田町1481
+    price: 380
+    lat: 36.6486262
+    lng: 138.1866261
+    type: 銭湯
+-
+    id: 98
+    name: 亀の湯
+    url: https://www.nagano1010.com/n05.html
+    map: https://maps.google.com/?cid=4744830538085208400&hl=ja
+    address: 長野県長野市諏訪町497
+    price: 400
+    lat: 36.6546205
+    lng: 138.1852411
+    type: 銭湯
+-
+    id: 99
+    name: 露天こぶしの湯
+    url: https://www.chuo-alps.com/family/kobushi/
+    map: https://maps.google.com/?cid=14017088419264987640&hl=ja
+    address: 長野県駒ヶ根市赤穂23-170
+    price: 610
+    lat: 35.730535
+    lng: 137.8975367
+    type: 温泉
+-
+    id: 100
+    name: 野沢温泉 共同浴場 中尾の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=2909050754426240668&hl=ja
+    address: 長野県下高井郡野沢温泉村豊郷6748
+    price: 0
+    lat: 36.9187896
+    lng: 138.4470504
+    type: 温泉
+-
+    id: 101
+    name: 道の駅 信州蔦木宿 つたの湯
+    url: http://www.tsutakijuku.jp/spa/index.html
+    map: https://maps.google.com/?cid=242927510243697635&hl=ja
+    address: 長野県諏訪郡富士見町落合1984-1
+    price: 700
+    lat: 35.8634696
+    lng: 138.2766085
+    type: 温泉
+-
+    id: 102
+    name: スーパー銭湯 広徳の湯
+    url: https://kotokuspa.com/
+    map: https://maps.google.com/?cid=15604781347322309608&hl=ja
+    address: 長野県長野市広田141
+    price: 600
+    lat: 36.5872828
+    lng: 138.1773997
+    type: 温泉
+-
+    id: 103
+    name: 野沢温泉 共同浴場 熊の手洗場
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=2192565990279543391&hl=ja
+    address: 長野県下高井郡野沢温泉村豊郷寺湯
+    price: 0
+    lat: 36.9239893
+    lng: 138.4438721
+    type: 温泉
+-
+    id: 104
+    name: 武石温泉 うつくしの湯
+    url: http://www.unkeiso.com/utukushi.html
+    map: https://maps.google.com/?cid=2253102878366078933&hl=ja
+    address: 長野県上田市上武石1454-3
+    price: 500
+    lat: 36.2864123
+    lng: 138.2273785
+    type: 温泉
+-
+    id: 105
+    name: 玉宮温泉 望岳の湯
+    url: https://www.city.chino.lg.jp/soshiki/chiikifukushi/1354.html
+    map: https://maps.google.com/?cid=16674789021996082721&hl=ja
+    address: 長野県茅野市玉川6154-1
+    price: 600
+    lat: 35.9817908
+    lng: 138.197116
+    type: 温泉
+-
+    id: 106
+    name: 塩類鉱泉 塩井乃湯
+    url: https://www.nagano1010.com/c08.html
+    map: https://maps.google.com/?cid=16153093951404772693&hl=ja
+    address: 長野県松本市大手3-6-3
+    price: 400
+    lat: 36.236406
+    lng: 137.9679443
+    type: 銭湯
+-
+    id: 107
+    name: 米沢温泉 塩壺の湯
+    url: https://www.city.chino.lg.jp/soshiki/chiikifukushi/1361.html
+    map: https://maps.google.com/?cid=10156169846672149346&hl=ja
+    address: 長野県茅野市米沢6845
+    price: 600
+    lat: 36.0345244
+    lng: 138.1950868
+    type: 温泉
+-
+    id: 108
+    name: 下諏訪温泉 湖畔の湯
+    url: https://shimosuwaonsen.jp/item/752/
+    map: https://maps.google.com/?cid=12356420778432951756&hl=ja
+    address: 長野県諏訪郡下諏訪町南四王6130
+    price: 280
+    lat: 36.0655415
+    lng: 138.0866908
+    type: 共同浴場・銭湯
+-
+    id: 109
+    name: 戸倉国民温泉
+    url: http://www016.upp.so-net.ne.jp/kokumin-spa/
+    map: https://maps.google.com/?cid=931469758668037233&hl=ja
+    address: 長野県千曲市戸倉2228-2
+    price: 300
+    lat: 36.4863632
+    lng: 138.1491028
+    type: 共同浴場・銭湯
+-
+    id: 110
+    name: 真田幸村公隠しの湯 石湯
+    url: https://www.besshoonsen-zaisanku.com/bath/
+    map: https://maps.google.com/?cid=1291403546848812171&hl=ja
+    address: 長野県上田市別所温泉
+    price: 150
+    lat: 36.3442648
+    lng: 138.1448904
+    type: 共同浴場・銭湯
+-
+    id: 111
+    name: 新戸倉温泉 戸倉観世温泉
+    url: 
+    map: https://maps.google.com/?cid=4251240888163820035&hl=ja
+    address: 長野県千曲市戸倉2087
+    price: 300
+    lat: 36.482067
+    lng: 138.150515
+    type: 共同浴場・銭湯
+-
+    id: 112
+    name: 望月温泉 みどりの村
+    url: http://www.midorinomura.jp/higaeri/
+    map: https://maps.google.com/?cid=7851095797374120714&hl=ja
+    address: 長野県佐久市印内561-1
+    price: 500
+    lat: 36.2857958
+    lng: 138.3640085
+    type: 温泉
+-
+    id: 113
+    name: 信州布引温泉 御牧乃湯
+    url: http://www.tomi-kosya.com/mimakinoyu/mimakinoyu.html
+    map: https://maps.google.com/?cid=1262291406786801547&hl=ja
+    address: 長野県東御市布下35-4
+    price: 510
+    lat: 36.3351207
+    lng: 138.3600384
+    type: 温泉
+-
+    id: 114
+    name: 鹿教湯温泉センター 文殊の湯
+    url: http://www.kakeyu.or.jp/sotoyu.html
+    map: https://maps.google.com/?cid=8854850667398806037&hl=ja
+    address: 長野県上田市鹿教湯温泉
+    price: 300
+    lat: 36.2979911
+    lng: 138.1101299
+    type: 温泉
+-
+    id: 115
+    name: 菅野温泉
+    url: https://shimosuwaonsen.jp/item/751/
+    map: https://maps.google.com/?cid=17323491283078099771&hl=ja
+    address: 長野県諏訪郡下諏訪町大社通3239-1
+    price: 240
+    lat: 36.0749217
+    lng: 138.0867683
+    type: 共同浴場・銭湯
+-
+    id: 116
+    name: 慈覚大師の湯 大師湯
+    url: https://www.besshoonsen-zaisanku.com/bath/
+    map: https://maps.google.com/?cid=7111545786722729806&hl=ja
+    address: 長野県上田市別所温泉
+    price: 150
+    lat: 36.3442648
+    lng: 138.1448904
+    type: 共同浴場・銭湯
+-
+    id: 117
+    name: 野沢温泉 共同浴場 十王堂の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=921429987931520732&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 0
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 118
+    name: 野沢温泉 共同浴場 麻釜の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=691486506142360926&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 0
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 119
+    name: 立科温泉 権現の湯
+    url: http://www.town.tateshina.nagano.jp/0000000172.html
+    map: https://maps.google.com/?cid=6412003849624361021&hl=ja
+    address: 長野県北佐久郡立科町山部363-2
+    price: 500
+    lat: 36.2800401
+    lng: 138.3108914
+    type: 温泉
+-
+    id: 120
+    name: 郷の湯
+    url: http://hakuba-happo-onsen.jp/satonoyu/
+    map: https://maps.google.com/?cid=7730960797331168776&hl=ja
+    address: 長野県北安曇郡白馬村北城5170
+    price: 650
+    lat: 36.7002608
+    lng: 137.8423689
+    type: 温泉
+-
+    id: 121
+    name: 布引観音温泉
+    url: https://www.nunobikikannon.com/
+    map: https://maps.google.com/?cid=9946603112793506969&hl=ja
+    address: 長野県東御市布下498-1
+    price: 400
+    lat: 36.3361413
+    lng: 138.3729167
+    type: 温泉
+-
+    id: 122
+    name: 白骨温泉 煤香庵
+    url: http://www.baikoan.net/
+    map: https://maps.google.com/?cid=962655957048775534&hl=ja
+    address: 長野県松本市安曇白骨
+    price: 700
+    lat: 36.1479769
+    lng: 137.5963285
+    type: 温泉
+-
+    id: 123
+    name: 野沢温泉 共同浴場 滝の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=1208074116571009981&hl=ja
+    address: 長野県下高井郡野沢温泉村豊郷麻釜
+    price: 0
+    lat: 36.9319547
+    lng: 138.4487366
+    type: 共同浴場・銭湯
+-
+    id: 124
+    name: 寿の湯
+    url: https://www.nagano1010.com/c10.html
+    map: https://maps.google.com/?cid=2933952547503496547&hl=ja
+    address: 長野県松本市寿北7-12-6
+    price: 400
+    lat: 36.1920073
+    lng: 137.9715945
+    type: 銭湯
+-
+    id: 125
+    name: 戸隠神告げ温泉 湯行館
+    url: https://togakushi-21.jp/spot/367/
+    map: https://maps.google.com/?cid=14476946429740459769&hl=ja
+    address: 長野県長野市戸隠3182
+    price: 600
+    lat: 36.739965
+    lng: 138.0921425
+    type: 温泉
+-
+    id: 126
+    name: 天竜峡温泉交流館 ご湯っくり
+    url: http://www.tenryukyou-onsen.com/
+    map: https://maps.google.com/?cid=18401916543056488539&hl=ja
+    address: 長野県飯田市川路4992-1
+    price: 500
+    lat: 35.4375954
+    lng: 137.8196195
+    type: 温泉
+-
+    id: 127
+    name: みやま温泉 わくわくの湯
+    url: http://www.miyama-wakuwaku.com/wakuwaku.html
+    map: https://maps.google.com/?cid=531161353567196963&hl=ja
+    address: 長野県下高井郡山ノ内町平穏821
+    price: 500
+    lat: 36.7303992
+    lng: 138.437627
+    type: 温泉
+-
+    id: 128
+    name: 蓼科温泉 石遊の湯
+    url: http://www001.upp.so-net.ne.jp/ishiyasu/
+    map: https://maps.google.com/?cid=15448509385492976434&hl=ja
+    address: 長野県茅野市北山5490-5
+    price: 520
+    lat: 36.0420967
+    lng: 138.2623679
+    type: 温泉
+-
+    id: 129
+    name: 心笑館 こまどめの湯
+    url: http://cocoekan.jp/onsen/onsen.html
+    map: https://maps.google.com/?cid=10793991459991564348&hl=ja
+    address: 長野県大町市平高瀬入2112-316
+    price: 500
+    lat: 36.5191695
+    lng: 137.7931174
+    type: 温泉
+-
+    id: 130
+    name: 野沢温泉 共同浴場 真湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=9361438605808155997&hl=ja
+    address: 長野県下高井郡野沢温泉村豊郷8888
+    price: 0
+    lat: 36.9254759
+    lng: 138.4449763
+    type: 温泉
+-
+    id: 131
+    name: 野沢温泉 共同浴場 新田の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=15307480955366306117&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 0
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 132
+    name: 蓼科温泉共同浴場
+    url: https://tateshina.ne.jp/onsen/tateshina_onsen.html
+    map: https://maps.google.com/?cid=7072650453396530370&hl=ja
+    address: 長野県茅野市北山4035-170
+    price: 500
+    lat: 36.0565036
+    lng: 138.2717675
+    type: 共同浴場・銭湯
+-
+    id: 133
+    name: 若槻温泉
+    url: 
+    map: https://maps.google.com/?cid=7121355853326300769&hl=ja
+    address: 長野県長野市若槻東条1300-3
+    price: 500
+    lat: 36.6906751
+    lng: 138.2206479
+    type: 温泉
+-
+    id: 134
+    name: 温湯温泉 湯〜ぱれあ
+    url: http://www.u-parea.jp/
+    map: https://maps.google.com/?cid=13961739877195822559&hl=ja
+    address: 長野県長野市若穂綿内1330-3
+    price: 510
+    lat: 36.627399
+    lng: 138.2754968
+    type: 温泉
+-
+    id: 135
+    name: しなの木温泉 ひな詩の湯
+    url: http://www.shinanoki-onsen.co.jp/
+    map: https://maps.google.com/?cid=7743927026702454355&hl=ja
+    address: 長野県上田市住吉86-2
+    price: 750
+    lat: 36.4035421
+    lng: 138.2725235
+    type: 温泉
+-
+    id: 136
+    name: 小赤沢温泉 楽養館
+    url: http://sakae-akiyamago.com/eat/349/
+    map: https://maps.google.com/?cid=12307463495639134463&hl=ja
+    address: 長野県下水内郡栄村小赤沢
+    price: 500
+    lat: 36.8552307
+    lng: 138.6558726
+    type: 温泉
+-
+    id: 137
+    name: ハイウェイ温泉 諏訪湖SA上り線
+    url: https://sapa.c-nexco.co.jp/sapa?sapainfoid=119
+    map: https://maps.google.com/?cid=11562912614643230793&hl=ja
+    address: 長野県諏訪市豊田
+    price: 610
+    lat: 36.0180264
+    lng: 138.0753917
+    type: 温泉
+-
+    id: 138
+    name: ゆうふるtanaka
+    url: http://www.tomi-kosya.com/tanaka/
+    map: https://maps.google.com/?cid=8739192670724960434&hl=ja
+    address: 長野県東御市田中278-18
+    price: 510
+    lat: 36.35406
+    lng: 138.3306306
+    type: 温泉
+-
+    id: 139
+    name: 金沢温泉 金鶏の湯
+    url: https://www.city.chino.lg.jp/soshiki/chiikifukushi/1359.html
+    map: https://maps.google.com/?cid=13449807251049679759&hl=ja
+    address: 長野県茅野市金沢2316-1
+    price: 600
+    lat: 35.9489143
+    lng: 138.188955
+    type: 温泉
+-
+    id: 140
+    name: 上諏訪温泉 大和温泉
+    url: 
+    map: https://maps.google.com/?cid=1138000677170523907&hl=ja
+    address: 長野県諏訪市小和田17-5
+    price: 300
+    lat: 36.0385501
+    lng: 138.1194793
+    type: 共同浴場・銭湯
+-
+    id: 141
+    name: エスカルプラザ 竜神の湯
+    url: https://www.hakubaescal.com/winter/escal/spa/
+    map: https://maps.google.com/?cid=2610177946273263994&hl=ja
+    address: 長野県北安曇郡白馬村神城22184-10
+    price: 650
+    lat: 36.6637838
+    lng: 137.8144761
+    type: 温泉
+-
+    id: 142
+    name: 野沢温泉 共同浴場  河原湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=4085051773771532259&hl=ja
+    address: 長野県下高井郡野沢温泉村豊郷
+    price: 0
+    lat: 36.9160853
+    lng: 138.466838
+    type: 温泉
+-
+    id: 143
+    name: 野沢温泉 共同浴場 松葉の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=15586245048415864160&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 0
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 144
+    name: 戸狩温泉 暁の湯
+    url: https://togari.jp/summer/hotspring/#lnk_akatsuki
+    map: https://maps.google.com/?cid=13311163418050781242&hl=ja
+    address: 長野県飯山市豊田6530-2
+    price: 550
+    lat: 36.9302033
+    lng: 138.3888384
+    type: 温泉
+-
+    id: 145
+    name: 多世代健康交流プラザ つるの湯
+    url: https://xn--nbky10g1lb96w47b26ik6ggnpr4c87y.com/
+    map: https://maps.google.com/?cid=4325259102503512608&hl=ja
+    address: 長野県千曲市上山田温泉3-43-1
+    price: 350
+    lat: 36.4755356
+    lng: 138.1445411
+    type: 温泉
+-
+    id: 146
+    name: 元湯箱山温泉
+    url: http://www.shinetsu-shizenkyo.com/sightseeings/detail/962
+    map: https://maps.google.com/?cid=6837722188462806910&hl=ja
+    address: 長野県下高井郡山ノ内町戸狩405-1
+    price: 500
+    lat: 36.7443824
+    lng: 138.392152
+    type: 温泉
+-
+    id: 147
+    name: 姫川温泉 瘡の湯
+    url: http://www.vill.otari.nagano.jp/kanko/spa/himekawaonsen/
+    map: https://maps.google.com/?cid=12528251330452129415&hl=ja
+    address: 長野県北安曇郡小谷村北小谷9922-3
+    price: 600
+    lat: 36.8895472
+    lng: 137.8639841
+    type: 温泉
+-
+    id: 148
+    name: 高浜健康温泉センター ゆたん歩°
+    url: https://shimosuwaonsen.jp/item/769/
+    map: https://maps.google.com/?cid=14743371010474810237&hl=ja
+    address: 長野県諏訪郡下諏訪町10616-90
+    price: 400
+    lat: 36.0682434
+    lng: 138.0974329
+    type: 温泉
+-
+    id: 149
+    name: 野沢温泉 共同浴場 上寺湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=10607502560906894232&hl=ja
+    address: 長野県下高井郡野沢温泉村豊郷寺湯
+    price: 0
+    lat: 36.9239893
+    lng: 138.4438721
+    type: 温泉
+-
+    id: 150
+    name: 野沢温泉 共同浴場 横落の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=12196076567594382867&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 0
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 151
+    name: 栂池高原 栂の湯
+    url: https://www.tsugaike.gr.jp/townguide/hot-spring
+    map: https://maps.google.com/?cid=6072731187576736576&hl=ja
+    address: 長野県小谷村栂池高原12840-1
+    price: 700
+    lat: 36.7476939
+    lng: 137.8713056
+    type: 温泉
+-
+    id: 152
+    name: 大岡温泉
+    url: http://oookaonsen.com/
+    map: https://maps.google.com/?cid=17737509364055551056&hl=ja
+    address: 長野県長野市大岡中牧1142
+    price: 360
+    lat: 36.5208053
+    lng: 138.0076641
+    type: 温泉
+-
+    id: 153
+    name: さわんど温泉 梓湖畔の湯
+    url: https://azusakohaann.jimdo.com/
+    map: https://maps.google.com/?cid=4837738650496603588&hl=ja
+    address: 長野県松本市安曇4519-14
+    price: 730
+    lat: 36.2140762
+    lng: 137.6455169
+    type: 温泉
+-
+    id: 154
+    name: 湯原温泉 猫鼻の湯
+    url: 
+    map: https://maps.google.com/?cid=12288837931315163277&hl=ja
+    address: 長野県北安曇郡小谷村北小谷道筋3634-2
+    price: 500
+    lat: 36.8715767
+    lng: 137.9024822
+    type: 温泉
+-
+    id: 155
+    name: 野沢温泉 共同浴場 秋葉の湯
+    url: https://www.nozawakanko.jp/about/hot_spring/sotoyu/
+    map: https://maps.google.com/?cid=15129342709577538330&hl=ja
+    address: 長野県下高井郡野沢温泉村
+    price: 0
+    lat: 36.9228462
+    lng: 138.4405097
+    type: 温泉
+-
+    id: 156
+    name: 荒神山温泉 湯にいくセンター
+    url: https://yuniiku.com/
+    map: https://maps.google.com/?cid=9347186455050579437&hl=ja
+    address: 長野県上伊那郡辰野町樋口2273
+    price: 500
+    lat: 35.9631995
+    lng: 137.9894762
+    type: 温泉
+-
+    id: 157
+    name: 千古温泉
+    url: 
+    map: https://maps.google.com/?cid=15366349454251204087&hl=ja
+    address: 長野県上田市真田町長6395-1
+    price: 500
+    lat: 36.4400244
+    lng: 138.2953725
+    type: 温泉
+-
+    id: 158
+    name: すいれんどう温泉
+    url: https://ja-jp.facebook.com/suirendou
+    map: https://maps.google.com/?cid=13064475472738561960&hl=ja
+    address: 長野県飯田市中村2028-3
+    price: 600
+    lat: 35.4771486
+    lng: 137.7981001
+    type: 温泉
+-
+    id: 159
+    name: 若穂いこいの家 保科温泉
+    url: http://www.spa-hoshina.jp/
+    map: https://maps.google.com/?cid=8934269138484541734&hl=ja
+    address: 長野県長野市若穂保科1185
+    price: 410
+    lat: 36.5802504
+    lng: 138.2809331
+    type: 温泉
+-
+    id: 160
+    name: 大町市コミュニティセンター 上原の湯
+    url: https://www.s-seiun.co.jp/shisetsu/wappara/index.html
+    map: https://maps.google.com/?cid=4129010064080649530&hl=ja
+    address: 長野県大町市平上原1955-446
+    price: 500
+    lat: 36.5181031
+    lng: 137.8097454
+    type: 温泉
+-
+    id: 161
+    name: 下諏訪温泉 新湯
+    url: https://shimosuwaonsen.jp/item/686/
+    map: https://maps.google.com/?cid=11807313282323983296&hl=ja
+    address: 長野県諏訪郡下諏訪町3154-3
+    price: 240
+    lat: 36.0764138
+    lng: 138.0860643
+    type: 共同浴場・銭湯
+-
+    id: 162
+    name: 森林公園 You遊ランド
+    url: http://members.stvnet.home.ne.jp/youyouland/
+    map: https://maps.google.com/?cid=3445992810563575004&hl=ja
+    address: 長野県上高井郡高山村牧73
+    price: 350
+    lat: 36.6810598
+    lng: 138.372202
+    type: 温泉
+-
+    id: 163
+    name: 中野市豊田温泉公園 もみじ荘
+    url: https://www.momijisou.com/
+    map: https://maps.google.com/?cid=5892767675248193498&hl=ja
+    address: 長野県中野市上今井3460-1
+    price: 450
+    lat: 36.7684234
+    lng: 138.3144318
+    type: 温泉
+-
+    id: 164
+    name: 雨飾高原露天風呂
+    url: https://www.amakazari.jp/spa/
+    map: https://maps.google.com/?cid=469620294992080047&hl=ja
+    address: 長野県北安曇郡小谷村中土
+    price: 0
+    lat: 36.8411411
+    lng: 137.9777673
+    type: 温泉
+-
+    id: 165
+    name: ハイウェイ温泉 諏訪湖SA下り線
+    url: https://sapa.c-nexco.co.jp/sapa?sapainfoid=120
+    map: https://maps.google.com/?cid=3538571823803148146&hl=ja
+    address: 長野県岡谷市湊
+    price: 600
+    lat: 36.0365433
+    lng: 138.0555514
+    type: 温泉
+-
+    id: 166
+    name: 蕨温泉 ふれあいの湯
+    url: https://www.vill.takayama.nagano.jp/docs/400.html
+    map: https://maps.google.com/?cid=16053256398716869863&hl=ja
+    address: 長野県上高井郡高山村奥山田蕨平1321-1
+    price: 300
+    lat: 36.6813365
+    lng: 138.3988007
+    type: 温泉
+-
+    id: 167
+    name: テルメリゾートINA
+    url: https://www.e-isc.co.jp/spa/spa.html
+    map: https://maps.google.com/?cid=6052826709700079294&hl=ja
+    address: 長野県伊那市西春近2870-1
+    price: 1800
+    lat: 35.8129257
+    lng: 137.9426776
+    type: 温泉
+-
+    id: 168
+    name: 戸隠交流施設 森林囃子
+    url: http://www.nagano-koureikyo.jp/2015/05/20/506/
+    map: https://maps.google.com/?cid=8959976002326098570&hl=ja
+    address: 長野県長野市戸隠祖山31-1
+    price: 410
+    lat: 36.6718787
+    lng: 138.0781545
+    type: 温泉
+-
+    id: 169
+    name: アクアランド茅野
+    url: https://www.city.chino.lg.jp/soshiki/chiikifukushi/1358.html
+    map: https://maps.google.com/?cid=12689536841741181428&hl=ja
+    address: 長野県茅野市ちの上原263-4
+    price: 600
+    lat: 36.0036336
+    lng: 138.1405053
+    type: 温泉
+-
+    id: 170
+    name: 天照石温熱浴 みゆき野癒
+    url: http://miyukino.com/
+    map: https://maps.google.com/?cid=4546679053517354723&hl=ja
+    address: 長野県飯山市大字蓮263
+    price: 600
+    lat: 36.8242911
+    lng: 138.3526359
+    type: 温泉
+-
+    id: 171
+    name: 宮桜の湯
+    url: https://www.nagano1010.com/e02.html
+    map: https://maps.google.com/?cid=7879880092425246343&hl=ja
+    address: 長野県上田市常田3-14-15
+    price: 400
+    lat: 36.3931755
+    lng: 138.2599606
+    type: 銭湯
+-
+    id: 172
+    name: 河原温泉 河原の湯
+    url: https://www.city.chino.lg.jp/soshiki/chiikifukushi/1355.html
+    map: https://maps.google.com/?cid=15805630622121980579&hl=ja
+    address: 長野県茅野市泉野1616-2
+    price: 600
+    lat: 35.9954449
+    lng: 138.227813
+    type: 温泉
+-
+    id: 173
+    name: あづみ野ランド
+    url: http://www.anc-tv.ne.jp/~a-land/ryokin.html
+    map: https://maps.google.com/?cid=4782252202441553585&hl=ja
+    address: 長野県安曇野市穂高北穂高995-1
+    price: 300
+    lat: 36.3450244
+    lng: 137.9081411
+    type: 温泉
+-
+    id: 174
+    name: 浅間温泉 仙気の湯
+    url: 
+    map: https://maps.google.com/?cid=16039681119520149303&hl=ja
+    address: 長野県松本市浅間温泉3-4-22
+    price: 400
+    lat: 36.2623939
+    lng: 137.9907195
+    type: 共同浴場・銭湯
+-
+    id: 175
+    name: おかや総合福祉センター 諏訪湖ハイツ
+    url: http://www.suwako-haitsu.jp/
+    map: https://maps.google.com/?cid=10272371944436191519&hl=ja
+    address: 長野県岡谷市長地権現町4-11-50
+    price: 420
+    lat: 36.0602595
+    lng: 138.068532
+    type: 温泉
+-
+    id: 176
+    name: 諏訪市総合福祉センター 湯小路いきいき元気館
+    url: http://www.suwacity-shakyo.or.jp/facility/genki
+    map: https://maps.google.com/?cid=2258346786595912808&hl=ja
+    address: 長野県諏訪市小和田19-3
+    price: 310
+    lat: 36.0382648
+    lng: 138.1202531
+    type: 温泉
+-
+    id: 177
+    name: くつろぎの湯
+    url: http://www.vill.aoki.nagano.jp/assoc/hotsprig/hotspring2.html
+    map: https://maps.google.com/?cid=8733709828306915094&hl=ja
+    address: 長野県小県郡青木村田沢3231
+    price: 300
+    lat: 36.3707909
+    lng: 138.1214028
+    type: 温泉
+-
+    id: 178
+    name: 町・高梨共同浴場
+    url: http://www.city.ueda.nagano.jp/kankojoho/shisetsu/onsen/013.html
+    map: https://maps.google.com/?cid=9655445808600502713&hl=ja
+    address: 長野県上田市鹿教湯温泉1295-2
+    price: 200
+    lat: 36.3032672
+    lng: 138.1371536
+    type: 共同浴場・銭湯
+-
+    id: 179
+    name: 菊の湯
+    url: https://www.facebook.com/kikunoyu.genchi/
+    map: https://maps.google.com/?cid=8192493399581353813&hl=ja
+    address: 長野県松本市中央3-8-30
+    price: 400
+    lat: 36.2314728
+    lng: 137.9738426
+    type: 銭湯
+-
+    id: 180
+    name: 桑の湯
+    url: https://www.nagano1010.com/c02.html
+    map: https://maps.google.com/?cid=14346312260547104037&hl=ja
+    address: 長野県塩尻市大門一番町15-17
+    price: 400
+    lat: 36.1121026
+    lng: 137.9538684
+    type: 銭湯
+-
+    id: 181
+    name: 東の湯
+    url: https://www.nagano1010.com/n01.html
+    map: https://maps.google.com/?cid=3943353976610334274&hl=ja
+    address: 長野県長野市柳町64
+    price: 400
+    lat: 36.6529602
+    lng: 138.2009217
+    type: 銭湯
+-
+    id: 182
+    name: 松代温泉公民館
+    url: 
+    map: https://maps.google.com/?cid=15645118553290284134&hl=ja
+    address: 長野県長野市松代温泉151-2
+    price: 250
+    lat: 36.5723978
+    lng: 138.2098562
+    type: 共同浴場・銭湯
+-
+    id: 183
+    name: 上諏訪温泉 宮の湯
+    url: 
+    map: https://maps.google.com/?cid=15021849609175972783&hl=ja
+    address: 長野県諏訪市湖南1612
+    price: 400
+    lat: 36.0006902
+    lng: 138.1162111
+    type: 共同浴場・銭湯
+-
+    id: 184
+    name: 霊泉寺共同浴場
+    url: http://www.city.ueda.nagano.jp/msangyo/tanoshimu/onsen/resenji.html
+    map: https://maps.google.com/?cid=18209010324283253520&hl=ja
+    address: 長野県上田市平井2515-2
+    price: 200
+    lat: 36.295221
+    lng: 138.1732316
+    type: 共同浴場・銭湯
+-
+    id: 185
+    name: あららぎ温泉 湯元館
+    url: http://www.araragi-onsen.com/
+    map: https://maps.google.com/?cid=2280813897676208781&hl=ja
+    address: 長野県木曽郡南木曽町吾妻2333
+    price: 550
+    lat: 35.5583231
+    lng: 137.6211773
+    type: 温泉
+-
+    id: 186
+    name: テルメDOME
+    url: http://terumedome.com/shisetu/onsen/
+    map: https://maps.google.com/?cid=6559115289512633608&hl=ja
+    address: 長野県長野市権堂町1437-5
+    price: 680
+    lat: 36.6518101
+    lng: 138.1893155
+    type: 温泉
+-
+    id: 187
+    name: 渋大湯（九番湯）
+    url: https://www.shibuonsen.net/onsen/
+    map: https://maps.google.com/?cid=15201061529898196638&hl=ja
+    address: 長野県下高井郡山ノ内町平穏
+    price: 500
+    lat: 36.722613
+    lng: 138.5387323
+    type: 共同浴場・銭湯
+-
+    id: 188
+    name: 大塩温泉 共同浴場
+    url: http://www.city.ueda.nagano.jp/msangyo/tanoshimu/onsen/oshio.html
+    map: https://maps.google.com/?cid=292395102828716596&hl=ja
+    address: 長野県上田市西内150
+    price: 200
+    lat: 36.3032031
+    lng: 138.153459
+    type: 共同浴場・銭湯
+-
+    id: 189
+    name: 佐野川温泉 竹林の湯
+    url: https://www.nem-shiteikanri.jp/shisetsu/tikurinnoyu/
+    map: https://maps.google.com/?cid=10762627755701354110&hl=ja
+    address: 長野県千曲市大字桑原1551
+    price: 350
+    lat: 36.5206744
+    lng: 138.0839346
+    type: 温泉
+-
+    id: 190
+    name: おんたけ高原温泉 こもれびの湯
+    url: http://ontake-kyukamura.net/facilities/
+    map: https://maps.google.com/?cid=6513372827572363096&hl=ja
+    address: 長野県木曽郡王滝村3159-25
+    price: 500
+    lat: 35.857047
+    lng: 137.541068
+    type: 温泉
+-
+    id: 191
+    name: 百合居温泉
+    url: http://sakaemura-kankou.sakura.ne.jp/shousai/sisetu/yurii.html
+    map: https://maps.google.com/?cid=16162490454515941695&hl=ja
+    address: 長野県下水内郡栄村箕作
+    price: 200
+    lat: 36.9799096
+    lng: 138.5431325
+    type: 共同浴場・銭湯
+-
+    id: 192
+    name: みのるの湯
+    url: https://www.nagano1010.com/c11.html
+    map: https://maps.google.com/?cid=5381114655160273017&hl=ja
+    address: 長野県松本市南松本1-8-8
+    price: 400
+    lat: 36.2130712
+    lng: 137.9696334
+    type: 銭湯
+-
+    id: 193
+    name: 矢木温泉
+    url: https://shimosuwaonsen.jp/item/754/
+    map: https://maps.google.com/?cid=1210675227684905927&hl=ja
+    address: 長野県諏訪郡下諏訪町矢木東225
+    price: 230
+    lat: 36.0749721
+    lng: 138.0821166
+    type: 共同浴場・銭湯
+-
+    id: 194
+    name: みなみ温泉
+    url: https://shimosuwaonsen.jp/item/753/
+    map: https://maps.google.com/?cid=7772217574383735769&hl=ja
+    address: 長野県諏訪郡下諏訪町西四王4971-7
+    price: 240
+    lat: 36.0689133
+    lng: 138.0840548
+    type: 共同浴場・銭湯
+-
+    id: 195
+    name: 沓掛温泉 小倉乃湯
+    url: http://www.vill.aoki.nagano.jp/assoc/hotsprig/hotspring2.html
+    map: https://maps.google.com/?cid=15378681003587272997&hl=ja
+    address: 長野県小県郡青木村沓掛419-1
+    price: 200
+    lat: 36.3496726
+    lng: 138.1139283
+    type: 共同浴場・銭湯
+-
+    id: 196
+    name: 戸狩温泉 望の湯
+    url: https://togari.jp/summer/hotspring/#lnk_nozomi
+    map: https://maps.google.com/?cid=6311712615834302388&hl=ja
+    address: 長野県飯山市豊田7033-3
+    price: 550
+    lat: 36.9373723
+    lng: 138.3937434
+    type: 温泉
+-
+    id: 197
+    name: 上田市鹿教湯健康センター クアハウスかけゆ
+    url: http://www2.marukotv.jp/~kurhaus/
+    map: https://maps.google.com/?cid=7225713929487830140&hl=ja
+    address: 長野県上田市鹿教湯温泉1293
+    price: 710
+    lat: 36.3033148
+    lng: 138.1366083
+    type: 温泉
+-
+    id: 198
+    name: 木もれ陽の里
+    url: https://www.town.karuizawa.lg.jp/www/genre/0000000000000/1000100000024/index.html
+    map: https://maps.google.com/?cid=16742882877131785486&hl=ja
+    address: 長野県北佐久郡軽井沢町長倉4844-1
+    price: 300
+    lat: 36.3356135
+    lng: 138.5614862
+    type: 温泉
+-
+    id: 199
+    name: 差切峡温泉保養センター 坂北荘
+    url: http://chikuhoku.jp/sakakitasou/
+    map: https://maps.google.com/?cid=4553619184868686042&hl=ja
+    address: 長野県東筑摩郡筑北村坂北9828
+    price: 410
+    lat: 36.4477174
+    lng: 137.9814502
+    type: 温泉
+-
+    id: 200
+    name: 角間温泉 大湯
+    url: 
+    map: https://maps.google.com/?cid=6449798027549463799&hl=ja
+    address: 長野県松本市浅間温泉3-31-10
+    price: 300
+    lat: 36.2651519
+    lng: 137.9922237
+    type: 共同浴場・銭湯
+-
+    id: 201
+    name: すみれ野湯
+    url: https://www.nagano1010.com/s01.html
+    map: https://maps.google.com/?cid=2331840202296623494&hl=ja
+    address: 長野県駒ケ根市経塚11-30
+    price: 400
+    lat: 35.7303608
+    lng: 137.9407323
+    type: 銭湯
+-
+    id: 202
+    name: 柳の湯
+    url: https://www.nagano1010.com/e03.html
+    map: https://maps.google.com/?cid=3098791899762247486&hl=ja
+    address: 長野県上田市中央4-10-1
+    price: 400
+    lat: 36.4069144
+    lng: 138.2540315
+    type: 銭湯
+-
+    id: 203
+    name: 松の湯
+    url: https://www.nagano1010.com/c05.html
+    map: https://maps.google.com/?cid=15338131357775467233&hl=ja
+    address: 長野県松本市深志1-10-6
+    price: 400
+    lat: 36.2299013
+    lng: 137.9657415
+    type: 銭湯
+-
+    id: 204
+    name: 角間温泉 滝の湯
+    url: 
+    map: https://maps.google.com/?cid=4725363069891488987&hl=ja
+    address: 長野県上高井郡高山村奥山田3681-377
+    price: 300
+    lat: 36.6594579
+    lng: 138.4547117
+    type: 共同浴場・銭湯
+-
+    id: 205
+    name: 桜の湯
+    url: https://www.nagano1010.com/c07.html
+    map: https://maps.google.com/?cid=10692306099887207188&hl=ja
+    address: 長野県松本市女鳥羽1-4-14
+    price: 400
+    lat: 36.2381971
+    lng: 137.9783027
+    type: 銭湯
+-
+    id: 206
+    name: 湯の脇 平温泉
+    url: 
+    map: https://maps.google.com/?cid=722488932940784963&hl=ja
+    address: 長野県諏訪市湯の脇2-5-8
+    price: 200
+    lat: 36.0517659
+    lng: 138.1163622
+    type: 共同浴場・銭湯
+-
+    id: 207
+    name: さわんど温泉 木漏れ日の湯
+    url: http://www.ja-azm.iijan.or.jp/tourist/map/2010/03/post-119.php
+    map: https://maps.google.com/?cid=17098445667560111482&hl=ja
+    address: 長野県松本市安曇沢渡4171-6
+    price: 600
+    lat: 36.1678714
+    lng: 137.6509598
+    type: 温泉
+-
+    id: 208
+    name: 角間温泉 新田の湯
+    url: 
+    map: https://maps.google.com/?cid=6141699393011925681&hl=ja
+    address: 長野県下高井郡野沢温泉村豊郷
+    price: 300
+    lat: 36.9160853
+    lng: 138.466838
+    type: 共同浴場・銭湯
+-
+    id: 209
+    name: 麻績村福祉センター みたらし温泉
+    url: http://www.vill.omi.nagano.jp/institution/facility/000109.php
+    map: https://maps.google.com/?cid=6803390764499408364&hl=ja
+    address: 長野県東筑摩郡麻績村麻積村麻積4335
+    price: 300
+    lat: 36.4560968
+    lng: 138.0452466
+    type: 温泉
+-
+    id: 210
+    name: 上諏訪温泉 平温泉
+    url: 
+    map: https://maps.google.com/?cid=1320641461305252472&hl=ja
+    address: 長野県諏訪市湯の脇
+    price: 220
+    lat: 36.0514874
+    lng: 138.1181973
+    type: 共同浴場・銭湯
+-
+    id: 211
+    name: 渋温泉 石の湯
+    url: https://search.shibuonsen.net/facilities/detail/ishinoyu/
+    map: https://maps.google.com/?cid=5635100629505786389&hl=ja
+    address: 長野県下高井郡山ノ内町平穏2111-1
+    price: 500
+    lat: 36.722613
+    lng: 138.5387323
+    type: 温泉
+-
+    id: 212
+    name: 湯の沢温泉 小川の湯
+    url: http://www.vill.ogawa.nagano.jp/shisetsu/ogawanoyu.htm
+    map: https://maps.google.com/?cid=17773691528952080313&hl=ja
+    address: 長野県上水内郡小川村小根山4222
+    price: 300
+    lat: 36.6123857
+    lng: 137.944037
+    type: 温泉
+-
+    id: 213
+    name: ふれあいセンターふじみ
+    url: http://fujimimachi-shakyo.jp/publics/index/32/
+    map: https://maps.google.com/?cid=4551219331734919671&hl=ja
+    address: 長野県諏訪郡富士見町富士見8988-1
+    price: 600
+    lat: 35.9139099
+    lng: 138.2148779
+    type: 温泉
+-
+    id: 214
+    name: 大塩温泉 コミュニティセンター西内
+    url: http://www.city.ueda.nagano.jp/kankojoho/shisetsu/onsen/019.html
+    map: https://maps.google.com/?cid=6780408790269747200&hl=ja
+    address: 長野県上田市平井1764
+    price: 200
+    lat: 36.3017572
+    lng: 138.1618546
+    type: 共同浴場・銭湯
+-
+    id: 215
+    name: 千曲市健康プラザ
+    url: https://www.city.chikuma.lg.jp/docs/2013020700063/
+    map: https://maps.google.com/?cid=4741530619982290951&hl=ja
+    address: 長野県千曲市倉科76-1
+    price: 200
+    lat: 36.5327046
+    lng: 138.1564951
+    type: 温泉
+-
+    id: 216
+    name: 北尾根の湯
+    url: http://hakuba-happo-onsen.jp/kitaone/
+    map: https://maps.google.com/?cid=1807624993687170517&hl=ja
+    address: 長野県北安曇郡白馬村北城4487-4
+    price: 600
+    lat: 36.70285
+    lng: 137.8205916
+    type: 温泉
+-
+    id: 217
+    name: ルグラン軽井沢ホテル＆リゾート 八風温泉
+    url: http://www.legrand-karuizawaresort.jp/happu_onsen/
+    map: https://maps.google.com/?cid=11915474981960240085&hl=ja
+    address: 長野県北佐久郡軽井沢町発地864-4
+    price: 1300
+    lat: 36.2942923
+    lng: 138.607269
+    type: 温泉
+-
+    id: 218
+    name: 川の駅 さざなみ
+    url: http://omachi.lion-adventure.com/
+    map: https://maps.google.com/?cid=3201210968582976282&hl=ja
+    address: 長野県大町市八坂舟場15719
+    price: 500
+    lat: 36.5024496
+    lng: 137.9557404
+    type: 温泉
+-
+    id: 219
+    name: 複合福祉施設 清泉荘
+    url: http://fujimimachi-shakyo.jp/publics/index/32/
+    map: https://maps.google.com/?cid=2404564490116636703&hl=ja
+    address: 長野県諏訪郡富士見町境7276
+    price: 600
+    lat: 35.8823681
+    lng: 138.2784174
+    type: 共同浴場・銭湯
+-
+    id: 220
+    name: 竜王温泉 三ヶ月の湯
+    url: https://www.ryuoo.com/snow/facility/
+    map: https://maps.google.com/?cid=8512895763541310584&hl=ja
+    address: 長野県下高井郡山ノ内町夜間瀬11700
+    price: 600
+    lat: 36.7873081
+    lng: 138.4480924
+    type: 温泉
+-
+    id: 221
+    name: X-JAM 高井富士 高井富士乃湯
+    url: http://x-jam.jp/facility/
+    map: https://maps.google.com/maps?q=36.79937,138.426773
+    address: 長野県下高井郡山ノ内町
+    price: 500
+    lat: 36.7446479
+    lng: 138.4128175
+    type: 温泉
+-
+    id: 222
+    name: ふれあいトロンセンター ほたるの湯
+    url: https://www.city.tomi.nagano.jp/category/onsen/130513.html
+    map: https://maps.google.com/maps?q=36.310137,138.366604
+    address: 長野県東御市御牧原1406-1
+    price: 300
+    lat: 36.3102562
+    lng: 138.3667116
+    type: 温泉
+-
+    id: 223
+    name: 菊の湯
+    url: https://www.nagano1010.com/c01.html
+    map: https://maps.google.com/?cid=10277133431447210642&hl=ja
+    address: 長野県安曇野市豊科4492-18
+    price: 400
+    lat: 36.2964093
+    lng: 137.9053912
+    type: 銭湯
+-
+    id: 224
+    name: 田川の湯
+    url: https://www.nagano1010.com/n06.html
+    map: https://maps.google.com/?cid=13080699183899550859&hl=ja
+    address: 長野県長野市稲葉628
+    price: 400
+    lat: 36.6301556
+    lng: 138.2035232
+    type: 銭湯
+-
+    id: 225
+    name: 初の湯
+    url: https://www.nagano1010.com/n07.html
+    map: https://maps.google.com/?cid=6415657213516928109&hl=ja
+    address: 長野県長野市吉田2-11-32
+    price: 400
+    lat: 36.6699106
+    lng: 138.2134098
+    type: 銭湯
+-
+    id: 226
+    name: 滝の湯
+    url: https://www.nagano1010.com/n02.html
+    map: https://maps.google.com/?cid=10578972662688256911&hl=ja
+    address: 長野県長野市吉田3-10-7
+    price: 400
+    lat: 36.6681507
+    lng: 138.2209857
+    type: 銭湯
+-
+    id: 227
+    name: 梅の湯
+    url: https://www.nagano1010.com/n04.html
+    map: https://maps.google.com/?cid=2387108422574781872&hl=ja
+    address: 長野県長野市松代町松代940-2
+    price: 390
+    lat: 36.5634323
+    lng: 138.2026281
+    type: 銭湯
+-
+    id: 228
+    name: アルプスの湯
+    url: 
+    map: https://maps.google.com/?cid=5895249392563802366&hl=ja
+    address: 長野県安曇野市豊科3770-7
+    price: 400
+    lat: 36.2902601
+    lng: 137.9094547
+    type: 銭湯
+-
+    id: 229
+    name: 駒形の湯
+    url: https://www.nagano1010.com/c04.html
+    map: https://maps.google.com/maps?q=36.240132,137.960288
+    address: 長野県松本市宮渕1-4-13
+    price: 400
+    lat: 36.2401754
+    lng: 137.9603273
+    type: 銭湯
+-
+    id: 230
+    name: 富士の湯
+    url: 
+    map: https://maps.google.com/maps?q=36.227957,137.974605
+    address: 長野県松本市本庄2-9-8
+    price: 400
+    lat: 36.2279424
+    lng: 137.974604
+    type: 銭湯
+-
+    id: 231
+    name: ばらの湯
+    url: https://www.nagano1010.com/c03.html
+    map: https://maps.google.com/maps?q=36.241498,137.966032
+    address: 長野県松本市蟻ヶ崎2-2-18
+    price: 400
+    lat: 36.2414921
+    lng: 137.9660037
+    type: 銭湯

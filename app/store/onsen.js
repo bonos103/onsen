@@ -1,12 +1,8 @@
 import prefectures from '@/assets/data/prefectures'
-import hokkaido from '@/assets/data/hokkaido.yaml'
-
-const data = {
-  hokkaido,
-}
+import prefecturesData from '@/assets/data/prefecturesData'
 
 // 都道府県のCSVデータをマージ＆正規化
-const list = Object.entries(data).map(o => (
+const list = Object.entries(prefecturesData).map(o => (
   o[1].map((i) => {
     i.pref = o[0]
     return i
@@ -15,7 +11,7 @@ const list = Object.entries(data).map(o => (
 
 export const state = () => ({
   list,
-  ...data,
+  ...prefecturesData,
   prefectures,
 })
 
