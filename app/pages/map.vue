@@ -3,7 +3,7 @@
     div(:style="mapStyle")
       google-map(@click-marker="handleClickMarker")
       map-filter
-    div(v-for="item in items", :key="`${item.pref}${item.id}`")
+    div(v-for="item in items.slice(0, 10)", :key="`${item.pref}${item.id}`")
       div {{item.name}}
       div {{item.url}}
       div {{item.address}}
