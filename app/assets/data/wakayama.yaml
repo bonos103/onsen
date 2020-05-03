@@ -1,0 +1,741 @@
+---
+-
+    id: 1
+    name: 白浜温泉 崎の湯
+    url: http://www.town.shirahama.wakayama.jp/kanko/onsen/1454046714439.html
+    map: https://maps.google.com/?cid=17602803442712138027&hl=ja
+    address: 和歌山県西牟婁郡白浜町湯崎1668
+    price: 500
+    lat: 33.6768139
+    lng: 135.3369833
+    type: 共同浴場・銭湯
+-
+    id: 2
+    name: 白浜温泉 とれとれの湯
+    url: https://toretore.com/yu/
+    map: https://maps.google.com/?cid=14416623046121273820&hl=ja
+    address: 和歌山県西牟婁郡白浜町堅田2508
+    price: 770
+    lat: 33.6813943
+    lng: 135.3732138
+    type: 温泉
+-
+    id: 3
+    name: 龍神温泉元湯
+    url: https://www.motoyu-ryujin.com/
+    map: https://maps.google.com/?cid=4870534796107621433&hl=ja
+    address: 和歌山県田辺市龍神村龍神37
+    price: 800
+    lat: 33.9563841
+    lng: 135.562084
+    type: 温泉
+-
+    id: 4
+    name: 極楽温泉 幸の湯
+    url: http://www.sachinoyu.jp/
+    map: https://maps.google.com/?cid=3961102067286794131&hl=ja
+    address: 和歌山県岩出市中島858
+    price: 590
+    lat: 34.2607633
+    lng: 135.2982496
+    type: 温泉
+-
+    id: 5
+    name: 紀州黒潮温泉
+    url: https://www.marinacity.com/spa/
+    map: https://maps.google.com/?cid=926606094869110530&hl=ja
+    address: 和歌山県和歌山市毛見1525
+    price: 880
+    lat: 34.1547939
+    lng: 135.1763019
+    type: 温泉
+-
+    id: 6
+    name: 紀州椿温泉 椿はなの湯
+    url: http://www.tsubaki-hananoyu.com/
+    map: https://maps.google.com/?cid=12851847083348995796&hl=ja
+    address: 和歌山県西牟婁郡白浜町椿1058-1
+    price: 500
+    lat: 33.6032963
+    lng: 135.3918077
+    type: 温泉
+-
+    id: 7
+    name: 天然温泉 ゆの里
+    url: https://www.spa-yunosato.com/
+    map: https://maps.google.com/?cid=3992589332566746548&hl=ja
+    address: 和歌山県橋本市神野々898
+    price: 1000
+    lat: 34.30557599999999
+    lng: 135.5792394
+    type: 温泉
+-
+    id: 8
+    name: かなや明恵峡温泉
+    url: http://www.wakayama-onsen.jp/area/kichu/%E3%81%8B%E3%81%AA%E3%82%84%E6%98%8E%E6%81%B5%E5%B3%A1%E6%B8%A9%E6%B3%89.html
+    map: https://maps.google.com/?cid=7635169491404804973&hl=ja
+    address: 和歌山県有田郡有田川町修理川81-3
+    price: 700
+    lat: 34.0374356
+    lng: 135.2736609
+    type: 温泉
+-
+    id: 9
+    name: とれとれ亭 カタタの湯
+    url: https://toretore.com/tei/katata.html
+    map: https://maps.google.com/?cid=9950433315690114258&hl=ja
+    address: 和歌山県西牟婁郡白浜町堅田2498-1
+    price: 620
+    lat: 33.680829
+    lng: 135.3772451
+    type: 温泉
+-
+    id: 10
+    name: 長生の湯
+    url: https://choseinoyu.jp/
+    map: https://maps.google.com/?cid=7426589380844719639&hl=ja
+    address: 和歌山県西牟婁郡白浜町古賀浦2763
+    price: 600
+    lat: 33.68015
+    lng: 135.3574583
+    type: 温泉
+-
+    id: 11
+    name: 滝原温泉 ほたるの湯
+    url: http://www.hotaruno-yu.com/
+    map: https://maps.google.com/?cid=804715433357620762&hl=ja
+    address: 和歌山県有田郡広川町下津木1539
+    price: 500
+    lat: 33.9723412
+    lng: 135.2279522
+    type: 温泉
+-
+    id: 12
+    name: 湯の峰温泉 つぼ湯
+    url: http://www.hongu.jp/onsen/yunomine/tuboyu/
+    map: https://maps.google.com/?cid=3736848698486491382&hl=ja
+    address: 和歌山県田辺市本宮町湯峯110
+    price: 780
+    lat: 33.8288847
+    lng: 135.7577927
+    type: 共同浴場・銭湯
+-
+    id: 13
+    name: 川辺の湯 安庵
+    url: http://www.yasuda-kousan.com/kawanobe-an.html
+    map: https://maps.google.com/?cid=9429752326488975380&hl=ja
+    address: 和歌山県岩出市中島1283-144
+    price: 650
+    lat: 34.2567197
+    lng: 135.2729219
+    type: 温泉
+-
+    id: 14
+    name: きらくゆ(和歌山店)
+    url: http://www.kirakuyu.com/wakayama/
+    map: https://maps.google.com/?cid=10944182876241391895&hl=ja
+    address: 和歌山県和歌山市梶取251-1
+    price: 650
+    lat: 34.2496364
+    lng: 135.1565514
+    type: 温泉
+-
+    id: 15
+    name: 湯川温泉 きよもん湯
+    url: http://www.ichinotaki.co.jp/kiyomon.htm
+    map: https://maps.google.com/?cid=16625012560633952083&hl=ja
+    address: 和歌山県東牟婁郡那智勝浦町湯川1062
+    price: 500
+    lat: 33.617035
+    lng: 135.9266833
+    type: 共同浴場・銭湯
+-
+    id: 16
+    name: きらくゆ(橋本店)
+    url: http://www.kirakuyu.com/hashimoto/
+    map: https://maps.google.com/?cid=2295125829333843105&hl=ja
+    address: 和歌山県橋本市あやの台1-4-1
+    price: 650
+    lat: 34.3383119
+    lng: 135.6492235
+    type: 温泉
+-
+    id: 17
+    name: 神通温泉
+    url: http://www.wakayama.tv/detail/index_99.html
+    map: https://maps.google.com/?cid=15728076529473400196&hl=ja
+    address: 和歌山県紀の川市神通150-1
+    price: 700
+    lat: 34.3226294
+    lng: 135.3767381
+    type: 温泉
+-
+    id: 18
+    name: 温泉館 海の里 みちしおの湯
+    url: http://www.town.wakayama-hidaka.lg.jp/docs/2014090300085/
+    map: https://maps.google.com/?cid=16498789803696991132&hl=ja
+    address: 和歌山県日高郡日高町方杭100
+    price: 600
+    lat: 33.9382349
+    lng: 135.0871265
+    type: 温泉
+-
+    id: 19
+    name: わたらせ温泉 大露天風呂
+    url: https://www.watarase-onsen.jp/spa
+    map: https://maps.google.com/?cid=1660794021612552614&hl=ja
+    address: 和歌山県田辺市本宮町渡瀬1020
+    price: 900
+    lat: 33.8182825
+    lng: 135.7644121
+    type: 温泉
+-
+    id: 20
+    name: ふくろうの湯
+    url: http://www.fukurou-yu.com/
+    map: https://maps.google.com/?cid=17691752359799119616&hl=ja
+    address: 和歌山県和歌山市本町2-1
+    price: 1000
+    lat: 34.2342039
+    lng: 135.1740892
+    type: 温泉
+-
+    id: 21
+    name: ユーバス(和歌山店)
+    url: https://yu-bath.com/w-bath/
+    map: https://maps.google.com/?cid=7808177781275090983&hl=ja
+    address: 和歌山県和歌山市湊20
+    price: 850
+    lat: 34.2124445
+    lng: 135.156651
+    type: 温泉
+-
+    id: 22
+    name: 野天風呂 宝の湯
+    url: https://www.takaranoyu.com
+    map: https://maps.google.com/?cid=2123270632894980150&hl=ja
+    address: 和歌山県御坊市湯川町財部1118-1
+    price: 650
+    lat: 33.9007686
+    lng: 135.1632305
+    type: 温泉
+-
+    id: 23
+    name: 鶴の湯温泉
+    url: http://tsurunoyuonsen.jp/
+    map: https://maps.google.com/?cid=1622013026617428828&hl=ja
+    address: 和歌山県日高郡みなべ町熊瀬川47
+    price: 600
+    lat: 33.8350822
+    lng: 135.3204545
+    type: 温泉
+-
+    id: 24
+    name: 串本温泉 サンゴの湯
+    url: http://www.kushimoto-furusato-ppc.jp/sangonoyu/
+    map: https://maps.google.com/?cid=404642097576498685&hl=ja
+    address: 和歌山県東牟婁郡串本町サンゴ台1123
+    price: 500
+    lat: 33.4796529
+    lng: 135.7837257
+    type: 温泉
+-
+    id: 25
+    name: 白浜温泉 牟婁の湯
+    url: http://www.town.shirahama.wakayama.jp/kanko/onsen/1454046683492.html
+    map: https://maps.google.com/?cid=11020651462547532399&hl=ja
+    address: 和歌山県西牟婁郡白浜町湯崎1665
+    price: 420
+    lat: 33.6772703
+    lng: 135.342065
+    type: 共同浴場・銭湯
+-
+    id: 26
+    name: 湯の峰温泉 湯の峰共同浴場
+    url: http://www.hongu.jp/onsen/yunomine/tuboyu/
+    map: https://maps.google.com/?cid=7352074924403095334&hl=ja
+    address: 和歌山県田辺市本宮町湯峯
+    price: 260
+    lat: 33.8363066
+    lng: 135.7532831
+    type: 共同浴場・銭湯
+-
+    id: 27
+    name: ゆりの山温泉
+    url: https://www.nachikan.jp/onsen/public/
+    map: https://maps.google.com/?cid=14413778000193371573&hl=ja
+    address: 和歌山県東牟婁郡那智勝浦町二河8
+    price: 300
+    lat: 33.615227
+    lng: 135.9208123
+    type: 共同浴場・銭湯
+-
+    id: 28
+    name: 口熊野天然温泉 弁慶のさと湯
+    url: https://www.benkeinoyu.jp/
+    map: https://maps.google.com/?cid=13655941604728339885&hl=ja
+    address: 和歌山県田辺市秋津町859
+    price: 750
+    lat: 33.7427642
+    lng: 135.3825878
+    type: 温泉
+-
+    id: 29
+    name: えびね温泉
+    url: http://www.wakayama-onsen.jp/area/kinan/%E3%81%88%E3%81%B3%E3%81%AD%E6%B8%A9%E6%B3%89.html
+    map: https://maps.google.com/?cid=5366572858543443690&hl=ja
+    address: 和歌山県西牟婁郡白浜町向平504
+    price: 600
+    lat: 33.630692
+    lng: 135.4683533
+    type: 温泉
+-
+    id: 30
+    name: 白浜温泉 白良湯
+    url: http://www.town.shirahama.wakayama.jp/kanko/onsen/1454045443064.html
+    map: https://maps.google.com/?cid=6419927710745093440&hl=ja
+    address: 和歌山県西牟婁郡白浜町白浜3313-1
+    price: 420
+    lat: 33.683122
+    lng: 135.344526
+    type: 共同浴場・銭湯
+-
+    id: 31
+    name: 紀州 忍びの湯 ニノ丸温泉
+    url: http://ninomaru-onsen.jp/
+    map: https://maps.google.com/?cid=5232027386245434661&hl=ja
+    address: 和歌山県有田郡湯浅町山田1638-1
+    price: 700
+    lat: 34.015434
+    lng: 135.2228112
+    type: 温泉
+-
+    id: 32
+    name: しみず温泉 しみず温泉健康館
+    url: http://www.shimizu-onsen.ne.jp/facilities/spa-shimizu.html
+    map: https://maps.google.com/?cid=9633769128241665476&hl=ja
+    address: 和歌山県有田郡有田川町清水1225-1
+    price: 600
+    lat: 34.0827053
+    lng: 135.4315164
+    type: 温泉
+-
+    id: 33
+    name: 天然温泉公衆浴場 はまゆ
+    url: http://www.wakayama-onsen.jp/area/katsuura/%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89%E5%85%AC%E8%A1%86%E6%B5%B4%E5%A0%B4%E3%80%80%E3%81%AF%E3%81%BE%E3%82%86.html
+    map: https://maps.google.com/?cid=6933982355517413266&hl=ja
+    address: 和歌山県東牟婁郡那智勝浦町勝浦970
+    price: 320
+    lat: 33.6306452
+    lng: 135.9491162
+    type: 共同浴場・銭湯
+-
+    id: 34
+    name: 川湯温泉 公衆浴場
+    url: http://www.hongu.jp/onsen/kawayu/kawayu-kousyuu/
+    map: https://maps.google.com/?cid=1340117698886662730&hl=ja
+    address: 和歌山県田辺市本宮町川湯1423
+    price: 250
+    lat: 33.8134595
+    lng: 135.7725737
+    type: 共同浴場・銭湯
+-
+    id: 35
+    name: きのくに温泉
+    url: http://www.w428.jp/kinokuni/
+    map: https://maps.google.com/?cid=15482431718364550121&hl=ja
+    address: 和歌山県海南市日方1274-76
+    price: 730
+    lat: 34.1569257
+    lng: 135.2061346
+    type: 温泉
+-
+    id: 36
+    name: 大正温泉
+    url: 
+    map: https://maps.google.com/?cid=7360494756910143638&hl=ja
+    address: 和歌山県海南市船尾115-20
+    price: 440
+    lat: 34.1605954
+    lng: 135.2000661
+    type: 銭湯
+-
+    id: 37
+    name: 美山温泉 愛徳荘
+    url: http://www.hidakagawa.net/aitokushou/#spa
+    map: https://maps.google.com/?cid=3232347160796618841&hl=ja
+    address: 和歌山県日高郡日高川町初湯川202
+    price: 600
+    lat: 33.9594592
+    lng: 135.3864393
+    type: 温泉
+-
+    id: 38
+    name: 中津温泉 あやめの湯 鳴滝
+    url: http://www.hidakagawa.net/ayamenoyu-narutaki/
+    map: https://maps.google.com/?cid=15475899188695634637&hl=ja
+    address: 和歌山県日高郡日高川町高津尾852
+    price: 650
+    lat: 33.9573251
+    lng: 135.2956667
+    type: 温泉
+-
+    id: 39
+    name: 丹生ノ川温泉 丹生ヤマセミの郷温泉館
+    url: http://www.ryujin-kanko.jp/contents/spa/yamasemi.html
+    map: https://maps.google.com/?cid=12608182052764302110&hl=ja
+    address: 和歌山県田辺市龍神村丹生ノ川275-2
+    price: 800
+    lat: 33.9023055
+    lng: 135.5809265
+    type: 温泉
+-
+    id: 40
+    name: 那智駅交流センター 丹敷の湯
+    url: https://www.town.nachikatsuura.wakayama.jp/forms/info/info.aspx?info_id=9406
+    map: https://maps.google.com/?cid=16300249726648581333&hl=ja
+    address: 和歌山県東牟婁郡那智勝浦町浜の宮361-2
+    price: 600
+    lat: 33.6446056
+    lng: 135.9365484
+    type: 温泉
+-
+    id: 41
+    name: 天然温泉 網の湯
+    url: http://www.nanki-shirahama.com/search/details.php?log=1332746596
+    map: https://maps.google.com/?cid=5128641821007586875&hl=ja
+    address: 和歌山県西牟婁郡白浜町3354-1
+    price: 400
+    lat: 33.6850718
+    lng: 135.3552163
+    type: 共同浴場・銭湯
+-
+    id: 42
+    name: かまセン 熊野の郷
+    url: https://www.kamasen.jp.net/guide.php#anchor3
+    map: https://maps.google.com/?cid=5696494969819358559&hl=ja
+    address: 和歌山県東牟婁郡那智勝浦町市野々3917
+    price: 500
+    lat: 33.6644085
+    lng: 135.9088571
+    type: 温泉
+-
+    id: 43
+    name: グランパスリゾート白浜 千畳の湯
+    url: http://www.grampus.biz/
+    map: https://maps.google.com/?cid=16392005831981484788&hl=ja
+    address: 和歌山県西牟婁郡白浜町千畳敷2953-3
+    price: 750
+    lat: 33.6708154
+    lng: 135.3343668
+    type: 温泉
+-
+    id: 44
+    name: 姫温泉 弘法の湯
+    url: https://kankou-kushimoto.jp/spots/弘法の湯
+    map: https://maps.google.com/?cid=3795612164604870134&hl=ja
+    address: 和歌山県東牟婁郡串本町姫571-1
+    price: 500
+    lat: 33.4898115
+    lng: 135.7950838
+    type: 共同浴場・銭湯
+-
+    id: 45
+    name: アイリスパーク 奥熊野温泉 女神の湯
+    url: http://irispark.jp/%E5%A5%B3%E7%A5%9E%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=15589571900054371635&hl=ja
+    address: 和歌山県田辺市中辺路町近露128-1
+    price: 650
+    lat: 33.8197606
+    lng: 135.6119877
+    type: 温泉
+-
+    id: 46
+    name: 美女湯温泉
+    url: https://www.wakayama-kanko.or.jp/spot/detail.php?id=97
+    map: https://maps.google.com/?cid=9864830972511227474&hl=ja
+    address: 和歌山県東牟婁郡古座川町長追257
+    price: 300
+    lat: 33.5846503
+    lng: 135.6716137
+    type: 共同浴場・銭湯
+-
+    id: 47
+    name: 橋本市エコパーク 紀望の里
+    url: https://www.pref.wakayama.lg.jp/prefg/070300/syokuiku1/tyokubaijyojyouhou/kibounosato.html
+    map: https://maps.google.com/?cid=10907403163040935763&hl=ja
+    address: 和歌山県橋本市高野口町大野1807-1
+    price: 300
+    lat: 34.3199161
+    lng: 135.544839
+    type: 温泉
+-
+    id: 48
+    name: 四季の郷温泉
+    url: https://www.nachikan.jp/onsen/public/
+    map: https://maps.google.com/?cid=17209733251617549445&hl=ja
+    address: 和歌山県東牟婁郡那智勝浦町橋ノ川287
+    price: 500
+    lat: 33.6179996
+    lng: 135.9205865
+    type: 共同浴場・銭湯
+-
+    id: 49
+    name: 幸福湯
+    url: 
+    map: https://maps.google.com/?cid=13732587524042774274&hl=ja
+    address: 和歌山県和歌山市北休賀町31
+    price: 440
+    lat: 34.2317697
+    lng: 135.1794587
+    type: 銭湯
+-
+    id: 50
+    name: 富里温泉 乙女の湯
+    url: http://www.otokotsusya.co.jp/otome_spa/
+    map: https://maps.google.com/?cid=11509489421231094224&hl=ja
+    address: 和歌山県田辺市下川下982
+    price: 500
+    lat: 33.7422623
+    lng: 135.5849919
+    type: 温泉
+-
+    id: 51
+    name: 新町温泉
+    url: http://www.citydo.com/prf/wakayama/guide/sg/365001416.html?c=0418001
+    map: https://maps.google.com/?cid=6618107547727752609&hl=ja
+    address: 和歌山県和歌山市加太1070-31
+    price: 440
+    lat: 34.2743942
+    lng: 135.0787146
+    type: 銭湯
+-
+    id: 52
+    name: ピーアップシングウ
+    url: http://pupshingu.web.fc2.com
+    map: https://maps.google.com/?cid=10505793912568613330&hl=ja
+    address: 和歌山県新宮市蜂伏13-36
+    price: 1000
+    lat: 33.6845896
+    lng: 135.9613048
+    type: 温泉
+-
+    id: 53
+    name: 渡瀬温泉センター おとなしの郷
+    url: http://hongu-otonashi.com/
+    map: https://maps.google.com/?cid=16090232344534846439&hl=ja
+    address: 和歌山県田辺市本宮町渡瀬45-1
+    price: 620
+    lat: 33.8187316
+    lng: 135.7662544
+    type: 温泉
+-
+    id: 54
+    name: かわべ温泉 きさくの湯
+    url: http://hidakagawa-kanko.jp/spa/kisakunoyu.html
+    map: https://maps.google.com/?cid=4707947669771650184&hl=ja
+    address: 和歌山県日高郡日高川町平川894-1
+    price: 700
+    lat: 33.9273021
+    lng: 135.2345073
+    type: 温泉
+-
+    id: 55
+    name: 美山療養温泉館
+    url: http://hidakagawa-kanko.jp/spa/miyamaryoyoonsenkan.html
+    map: https://maps.google.com/?cid=14446291216684617071&hl=ja
+    address: 和歌山県日高郡日高川町初湯川1587
+    price: 650
+    lat: 33.9676844
+    lng: 135.42249
+    type: 温泉
+-
+    id: 56
+    name: 山吹湯
+    url: 
+    map: https://maps.google.com/?cid=14913591201227982462&hl=ja
+    address: 和歌山県和歌山市山吹丁40
+    price: 440
+    lat: 34.2370394
+    lng: 135.1733396
+    type: 銭湯
+-
+    id: 57
+    name: 神明湯
+    url: 
+    map: https://maps.google.com/?cid=12526501515269683294&hl=ja
+    address: 和歌山県和歌山市今福1-10-1
+    price: 440
+    lat: 34.2138143
+    lng: 135.1662831
+    type: 銭湯
+-
+    id: 58
+    name: 松乃湯
+    url: http://www.nanki-shirahama.com/search/details.php?log=1332745578
+    map: https://maps.google.com/?cid=13199740552805190233&hl=ja
+    address: 和歌山県西牟婁郡白浜町瀬戸743-1
+    price: 300
+    lat: 33.6861964
+    lng: 135.3439733
+    type: 共同浴場・銭湯
+-
+    id: 59
+    name: 杭の瀬共同浴場
+    url: 
+    map: https://maps.google.com/?cid=8532458813510399825&hl=ja
+    address: 和歌山県和歌山市杭ノ瀬79-10
+    price: 200
+    lat: 34.2137621
+    lng: 135.1946469
+    type: 共同浴場・銭湯
+-
+    id: 60
+    name: 芦原共同浴場
+    url: 
+    map: https://maps.google.com/?cid=11280056872731944219&hl=ja
+    address: 和歌山県和歌山市雄松町3-50
+    price: 250
+    lat: 34.2212658
+    lng: 135.1813163
+    type: 共同浴場・銭湯
+-
+    id: 61
+    name: 上小野温泉 ひすいの湯
+    url: https://ameblo.jp/chikatsuyu/
+    map: https://maps.google.com/?cid=9839355998319869596&hl=ja
+    address: 和歌山県田辺市中辺路町近露401
+    price: 600
+    lat: 33.8169834
+    lng: 135.6059943
+    type: 温泉
+-
+    id: 62
+    name: 本宮保険福祉総合センター うらら館 蘇生の湯
+    url: 
+    map: https://maps.google.com/?cid=5739984585963054461&hl=ja
+    address: 和歌山県田辺市本宮町本宮921-2
+    price: 200
+    lat: 33.8380312
+    lng: 135.7718728
+    type: 温泉
+-
+    id: 63
+    name: 手平温泉
+    url: 
+    map: https://maps.google.com/?cid=2193442634795411237&hl=ja
+    address: 和歌山県和歌山市手平3-3-27
+    price: 400
+    lat: 34.2156979
+    lng: 135.187132
+    type: 銭湯
+-
+    id: 64
+    name: 紀和湯
+    url: 
+    map: https://maps.google.com/?cid=11980626908983125912&hl=ja
+    address: 和歌山県和歌山市中之島829-23
+    price: 440
+    lat: 34.2427298
+    lng: 135.1810244
+    type: 銭湯
+-
+    id: 65
+    name: 今福湯
+    url: 
+    map: https://maps.google.com/?cid=3730166413859060586&hl=ja
+    address: 和歌山県和歌山市今福3-5-7
+    price: 380
+    lat: 34.2115034
+    lng: 135.164181
+    type: 銭湯
+-
+    id: 66
+    name: 内海湯
+    url: 
+    map: https://maps.google.com/?cid=12342969321144914492&hl=ja
+    address: 和歌山県海南市名高355
+    price: 440
+    lat: 34.1498159
+    lng: 135.2130271
+    type: 銭湯
+-
+    id: 67
+    name: 浜湯温泉
+    url: 
+    map: https://maps.google.com/?cid=8349602100917311449&hl=ja
+    address: 和歌山県和歌山市和歌浦南2-4-14
+    price: 440
+    lat: 34.1880938
+    lng: 135.1673068
+    type: 銭湯
+-
+    id: 68
+    name: 宝湯
+    url: 
+    map: https://maps.google.com/?cid=10515982071716576443&hl=ja
+    address: 和歌山県海南市船尾172
+    price: 440
+    lat: 34.1598943
+    lng: 135.2070084
+    type: 銭湯
+-
+    id: 69
+    name: いわで御殿
+    url: http://www.city.iwade.lg.jp/fukushi/iwadegoten.html
+    map: https://maps.google.com/?cid=5583680610496372249&hl=ja
+    address: 和歌山県岩出市清水5-1
+    price: 310
+    lat: 34.2508127
+    lng: 135.3192993
+    type: 銭湯
+-
+    id: 70
+    name: 万才湯
+    url: 
+    map: https://maps.google.com/?cid=17965351820251808110&hl=ja
+    address: 和歌山県和歌山市北中島1-1-25
+    price: 400
+    lat: 34.2140515
+    lng: 135.1873462
+    type: 銭湯
+-
+    id: 71
+    name: 大万湯
+    url: 
+    map: https://maps.google.com/?cid=6702354765017699153&hl=ja
+    address: 和歌山県田辺市江川3-41
+    price: 440
+    lat: 33.7334911
+    lng: 135.3686237
+    type: 銭湯
+-
+    id: 72
+    name: 新宮市公衆浴場 なぎの湯
+    url: https://www.shinguu.jp/spots/detail/D0098
+    map: https://maps.google.com/?cid=15450750183200094169&hl=ja
+    address: 和歌山県新宮市阿須賀2-518
+    price: 400
+    lat: 33.7270695
+    lng: 135.9976443
+    type: 銭湯
+-
+    id: 73
+    name: サウナ金太郎
+    url: 
+    map: https://maps.google.com/maps?q=34.238316,135.185112
+    address: 和歌山県和歌山市中之島1533
+    price: 800
+    lat: 34.238309
+    lng: 135.1851151
+    type: 銭湯
+-
+    id: 74
+    name: 信節温泉
+    url: 
+    map: https://maps.google.com/maps?q=34.239155,135.197617
+    address: 和歌山県和歌山市黒田315
+    price: 440
+    lat: 34.239156
+    lng: 135.1975501
+    type: 銭湯

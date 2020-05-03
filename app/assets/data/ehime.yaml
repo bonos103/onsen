@@ -1,0 +1,841 @@
+---
+-
+    id: 1
+    name: 道後温泉本館
+    url: https://dogo.jp/onsen/honkan
+    map: https://maps.google.com/?cid=8960290296722600313&hl=ja
+    address: 愛媛県松山市道後湯之町5-6
+    price: 420
+    lat: 33.8521067
+    lng: 132.7864092
+    type: 温泉
+-
+    id: 2
+    name: マイントピア別子 別子温泉 天空の湯
+    url: https://besshi.com/onsen/
+    map: https://maps.google.com/?cid=2993234207820055250&hl=ja
+    address: 愛媛県新居浜市立川町707-3
+    price: 500
+    lat: 33.9015258
+    lng: 133.309451
+    type: 温泉
+-
+    id: 3
+    name: 東道後のそらともり
+    url: http://www.soratomori.com/
+    map: https://maps.google.com/?cid=6679589798134523164&hl=ja
+    address: 愛媛県松山市南久米町3-1
+    price: 1100
+    lat: 33.8186137
+    lng: 132.8049198
+    type: 温泉
+-
+    id: 4
+    name: 道後温泉別館 飛鳥乃湯泉
+    url: https://dogo.jp/onsen/asuka
+    map: https://maps.google.com/?cid=10311407639307151797&hl=ja
+    address: 愛媛県松山市道後湯之町19-22
+    price: 610
+    lat: 33.8523843
+    lng: 132.7850149
+    type: 温泉
+-
+    id: 5
+    name: たかのこの湯
+    url: http://takanokono.jp/hotspring_takanoko/
+    map: https://maps.google.com/?cid=2004732607180146324&hl=ja
+    address: 愛媛県松山市鷹子町737-2
+    price: 700
+    lat: 33.8135924
+    lng: 132.8082846
+    type: 温泉
+-
+    id: 6
+    name: 見奈良天然温泉 利楽
+    url: http://www.spa-riraku.com
+    map: https://maps.google.com/?cid=13872468671918849942&hl=ja
+    address: 愛媛県東温市見奈良1110
+    price: 900
+    lat: 33.7905474
+    lng: 132.8785545
+    type: 温泉
+-
+    id: 7
+    name: 伊予の湯治場 喜助の湯
+    url: http://www.kisuke.com/yu-matsuyama/
+    map: https://maps.google.com/?cid=1627885297304274361&hl=ja
+    address: 愛媛県松山市宮田町4
+    price: 650
+    lat: 33.8413062
+    lng: 132.75292
+    type: 温泉
+-
+    id: 8
+    name: 媛彦温泉
+    url: http://himehiko.jp/
+    map: https://maps.google.com/?cid=3198974302829596803&hl=ja
+    address: 愛媛県松山市畑寺3-4-5
+    price: 550
+    lat: 33.8274725
+    lng: 132.8008838
+    type: 温泉
+-
+    id: 9
+    name: しまなみ温泉 喜助の湯
+    url: http://kisuke.com/yu-imabari/
+    map: https://maps.google.com/?cid=8440831258299026451&hl=ja
+    address: 愛媛県今治市中日吉町1-2-30
+    price: 650
+    lat: 34.062923
+    lng: 132.992309
+    type: 温泉
+-
+    id: 10
+    name: 道後温泉 椿の湯
+    url: https://www.dogo.or.jp/pc/time/#tsubaki
+    map: https://maps.google.com/?cid=8333496789398548881&hl=ja
+    address: 愛媛県松山市道後湯之町19-22
+    price: 400
+    lat: 33.8523843
+    lng: 132.7850149
+    type: 共同浴場・銭湯
+-
+    id: 11
+    name: 東道後温泉 久米之癒
+    url: https://www.kumenoyu.com/
+    map: https://maps.google.com/?cid=17655878896876897055&hl=ja
+    address: 愛媛県松山市南久米町325-1
+    price: 500
+    lat: 33.8140013
+    lng: 132.8030739
+    type: 温泉
+-
+    id: 12
+    name: 南道後温泉 ていれぎの湯
+    url: http://www.teiregi.jp/
+    map: https://maps.google.com/?cid=16474707061261917678&hl=ja
+    address: 愛媛県松山市中野町甲853
+    price: 600
+    lat: 33.7802827
+    lng: 132.8185842
+    type: 温泉
+-
+    id: 13
+    name: 津島やすらぎの里
+    url: http://www.yasuragi-egao.jp/
+    map: https://maps.google.com/?cid=14022602146270424610&hl=ja
+    address: 愛媛県宇和島市津島町高田甲830-1
+    price: 650
+    lat: 33.13984000000001
+    lng: 132.52041
+    type: 温泉
+-
+    id: 14
+    name: ふるさと交流館 さくらの湯
+    url: http://www.city.toon.ehime.jp/shisetsu/bunka/kawauchi/sakura_yu.html
+    map: https://maps.google.com/?cid=6048703966728248192&hl=ja
+    address: 愛媛県東温市北方甲2081-1
+    price: 410
+    lat: 33.8030958
+    lng: 132.9145451
+    type: 温泉
+-
+    id: 15
+    name: 海洋温浴施設 マーレグラッシア大三島
+    url: https://www.iyokannet.jp/spot/271
+    map: https://maps.google.com/?cid=3645290082421581028&hl=ja
+    address: 愛媛県今治市大三島町宮浦5902
+    price: 510
+    lat: 34.2415443
+    lng: 132.9938316
+    type: 温泉
+-
+    id: 16
+    name: 天然温泉 かみとくの湯
+    url: 
+    map: https://maps.google.com/?cid=4074470402425370594&hl=ja
+    address: 愛媛県今治市上徳甲711-1
+    price: 550
+    lat: 34.0397548
+    lng: 133.0120688
+    type: 温泉
+-
+    id: 17
+    name: 伊方町健康交流施設 亀ヶ池温泉
+    url: http://www.kamegaike.com/
+    map: https://maps.google.com/?cid=2915368271037057218&hl=ja
+    address: 愛媛県西宇和郡伊方町二見甲1289
+    price: 600
+    lat: 33.4624194
+    lng: 132.2806144
+    type: 温泉
+-
+    id: 18
+    name: 八幡浜黒湯温泉 みなと湯
+    url: http://www.yawa-minatoyu.jp/
+    map: https://maps.google.com/?cid=14339464489081688936&hl=ja
+    address: 愛媛県八幡浜市北浜1-7-39
+    price: 600
+    lat: 33.4634868
+    lng: 132.4226314
+    type: 温泉
+-
+    id: 19
+    name: 東予温泉 いやしのリゾート
+    url: http://www.touyoonsen.com/
+    map: https://maps.google.com/?cid=7489043594152041396&hl=ja
+    address: 愛媛県西条市周布687-1
+    price: 600
+    lat: 33.9225838
+    lng: 133.0800129
+    type: 温泉
+-
+    id: 20
+    name: 竹庭 清正乃湯
+    url: http://www.kiyomasanoyu.com
+    map: https://maps.google.com/?cid=10017133200902772016&hl=ja
+    address: 愛媛県今治市高橋高橋向谷乙26
+    price: 1000
+    lat: 34.0417114
+    lng: 132.9656894
+    type: 温泉
+-
+    id: 21
+    name: 西条天然温泉 ひうちの湯
+    url: http://hiuchinoyu.com/
+    map: https://maps.google.com/?cid=14148406336558292350&hl=ja
+    address: 愛媛県西条市船屋甲683
+    price: 600
+    lat: 33.9331973
+    lng: 133.199543
+    type: 温泉
+-
+    id: 22
+    name: 潮の香りの天然温泉 シーパMAKOTO
+    url: http://www.seapa.jp/
+    map: https://maps.google.com/?cid=7201051334819359639&hl=ja
+    address: 愛媛県松山市北条1180
+    price: 550
+    lat: 33.9776218
+    lng: 132.7713995
+    type: 温泉
+-
+    id: 23
+    name: 少彦名温泉 大洲 臥龍の湯
+    url: http://www.garyunoyu.com/
+    map: https://maps.google.com/?cid=2970510339489145589&hl=ja
+    address: 愛媛県大洲市柚木388-1
+    price: 560
+    lat: 33.5032805
+    lng: 132.5496197
+    type: 温泉
+-
+    id: 24
+    name: 新居浜温泉 パナス
+    url: http://www.panas-kaja.com/
+    map: https://maps.google.com/?cid=1381659189056656671&hl=ja
+    address: 愛媛県新居浜市篠場町11-60
+    price: 600
+    lat: 33.9219009
+    lng: 133.2937678
+    type: 温泉
+-
+    id: 25
+    name: 寿温泉
+    url: http://1010ehime.com/cms/?p=6
+    map: https://maps.google.com/?cid=12430248609651299780&hl=ja
+    address: 愛媛県松山市緑町2-6-20
+    price: 400
+    lat: 33.8466423
+    lng: 132.7718185
+    type: 銭湯
+-
+    id: 26
+    name: 光温泉
+    url: http://1010ehime.com/cms/?p=115
+    map: https://maps.google.com/?cid=3634044326219725299&hl=ja
+    address: 愛媛県新居浜市久保田1-10-28
+    price: 400
+    lat: 33.9555058
+    lng: 133.2813467
+    type: 銭湯
+-
+    id: 27
+    name: 星乃岡温泉
+    url: http://hoshinooka.net/
+    map: https://maps.google.com/?cid=10911697575265317822&hl=ja
+    address: 愛媛県松山市星岡1-3-3
+    price: 600
+    lat: 33.8178866
+    lng: 132.7864447
+    type: 温泉
+-
+    id: 28
+    name: ゆらり内海
+    url: http://yurariuchiumi.com/
+    map: https://maps.google.com/?cid=11469912816353184897&hl=ja
+    address: 愛媛県南宇和郡愛南町須ノ川286
+    price: 500
+    lat: 33.040142
+    lng: 132.4881599
+    type: 温泉
+-
+    id: 29
+    name: 道後さや温泉 ゆらら
+    url: https://onsen-yurara.jp/main-spa/
+    map: https://maps.google.com/?cid=625094450575967587&hl=ja
+    address: 愛媛県松山市高岡町125-1
+    price: 600
+    lat: 33.8314631
+    lng: 132.7243923
+    type: 温泉
+-
+    id: 30
+    name: 椿交流館 椿温泉こまつ
+    url: https://tsubakionsen-komatsu.com
+    map: https://maps.google.com/?cid=14155986852826084924&hl=ja
+    address: 愛媛県西条市小松町新屋敷乙22-29
+    price: 400
+    lat: 33.8839407
+    lng: 133.1082712
+    type: 温泉
+-
+    id: 31
+    name: 森の国 ぽっぽ温泉
+    url: http://poppoonsen.com/
+    map: https://maps.google.com/?cid=11755033275640164603&hl=ja
+    address: 愛媛県北宇和郡松野町松丸1661-13
+    price: 520
+    lat: 33.2283174
+    lng: 132.7085796
+    type: 温泉
+-
+    id: 32
+    name: 天然温泉 武丈の湯
+    url: http://www.ja-saijyo.or.jp/bujyo/
+    map: https://maps.google.com/?cid=14061698141841299039&hl=ja
+    address: 愛媛県西条市大町209
+    price: 550
+    lat: 33.9088977
+    lng: 133.1914004
+    type: 温泉
+-
+    id: 33
+    name: 鈍川せせらぎ交流館
+    url: http://www.nibukawa.net/stay/seseragi.html
+    map: https://maps.google.com/?cid=910637696638528111&hl=ja
+    address: 愛媛県今治市玉川町鈍川甲218-1
+    price: 410
+    lat: 33.9847264
+    lng: 132.940399
+    type: 温泉
+-
+    id: 34
+    name: つるの湯
+    url: http://1010ehime.com/cms/?p=163
+    map: https://maps.google.com/?cid=2508426594497044007&hl=ja
+    address: 愛媛県宇和島市鶴島1-11
+    price: 400
+    lat: 33.2255978
+    lng: 132.5654589
+    type: 銭湯
+-
+    id: 35
+    name: 天山トロン温泉
+    url: http://www.fuji-ko.jp/toron/
+    map: https://maps.google.com/?cid=14622688585593611065&hl=ja
+    address: 愛媛県松山市福音寺町750
+    price: 550
+    lat: 33.8239335
+    lng: 132.7816491
+    type: 温泉
+-
+    id: 36
+    name: 久万の台温泉
+    url: http://e-hime.jp/onsen/
+    map: https://maps.google.com/?cid=16097102487214662137&hl=ja
+    address: 愛媛県松山市久万ノ台1218
+    price: 500
+    lat: 33.8568209
+    lng: 132.7443666
+    type: 温泉
+-
+    id: 37
+    name: 星乃岡温泉 千湯館
+    url: http://hoshinooka.net/senyukan.html
+    map: https://maps.google.com/?cid=8082952215593429998&hl=ja
+    address: 愛媛県松山市星岡1-2-16
+    price: 750
+    lat: 33.8169866
+    lng: 132.7860598
+    type: 温泉
+-
+    id: 38
+    name: 谷町リゾート ゆとりあ温泉
+    url: http://www.fuji-ko.jp/yutoria/
+    map: https://maps.google.com/?cid=12116585574802501541&hl=ja
+    address: 愛媛県松山市谷町172-3
+    price: 450
+    lat: 33.8784451
+    lng: 132.7523631
+    type: 温泉
+-
+    id: 39
+    name: 一本松温泉 あけぼの荘
+    url: https://www.town.ainan.ehime.jp/kanko/sightseeing/shukuhaku/akebonoso.html
+    map: https://maps.google.com/?cid=16969587983895397254&hl=ja
+    address: 愛媛県南宇和郡愛南町増田5470
+    price: 510
+    lat: 32.9681549
+    lng: 132.6580393
+    type: 温泉
+-
+    id: 40
+    name: 薬草湯温泉 元気人村
+    url: http://genkijinmura.jp
+    map: https://maps.google.com/?cid=4612449921421103784&hl=ja
+    address: 愛媛県伊予郡松前町北黒田912-12
+    price: 550
+    lat: 33.7779521
+    lng: 132.698789
+    type: 温泉
+-
+    id: 41
+    name: 宝泉坊温泉
+    url: https://www.shirokawa.jp/onsen/eigyou.html
+    map: https://maps.google.com/?cid=9614213746603461818&hl=ja
+    address: 愛媛県西予市城川町高野子75
+    price: 600
+    lat: 33.3642936
+    lng: 132.793804
+    type: 温泉
+-
+    id: 42
+    name: 湯の里小町温泉 しこくや
+    url: https://www.rinrinpark.com/shikokuya.html
+    map: https://maps.google.com/?cid=856395381854974721&hl=ja
+    address: 愛媛県西条市小松町明穂甲47
+    price: 480
+    lat: 33.8700631
+    lng: 133.0607682
+    type: 温泉
+-
+    id: 43
+    name: とべ温泉 湯砥里館
+    url: https://www.town.tobe.ehime.jp/soshiki/34/tobeonsen.html
+    map: https://maps.google.com/?cid=8843780786728927132&hl=ja
+    address: 愛媛県伊予郡砥部町宮内1902-3
+    price: 500
+    lat: 33.7484693
+    lng: 132.7974627
+    type: 温泉
+-
+    id: 44
+    name: クアハウス今治
+    url: http://www.k-ispa.server-shared.com
+    map: https://maps.google.com/?cid=1102519073904885639&hl=ja
+    address: 愛媛県今治市湯ノ浦36
+    price: 730
+    lat: 33.9942221
+    lng: 133.0532586
+    type: 温泉
+-
+    id: 45
+    name: 道後さや温泉ゆらら 家族の湯
+    url: https://onsen-yurara.jp/family-spa/
+    map: https://maps.google.com/?cid=389154888859868196&hl=ja
+    address: 愛媛県松山市高岡町130
+    price: 2700
+    lat: 33.8306248
+    lng: 132.7244709
+    type: 温泉
+-
+    id: 46
+    name: 海から生まれた健康湯 はま湯
+    url: http://akehama.com/hamayu/
+    map: https://maps.google.com/?cid=16848382378466866160&hl=ja
+    address: 愛媛県西予市明浜町高山甲297-2
+    price: 500
+    lat: 33.3226809
+    lng: 132.4319555
+    type: 温泉
+-
+    id: 47
+    name: 游の里温泉 ユートピア宇和
+    url: http://www.seiyofukushi.com/utopia/
+    map: https://maps.google.com/?cid=17950409493654659560&hl=ja
+    address: 愛媛県西予市宇和町明間6125
+    price: 400
+    lat: 33.3585117
+    lng: 132.6172602
+    type: 温泉
+-
+    id: 48
+    name: クアテルメ宝泉坊
+    url: http://www.shirokawa.jp/kuaterume/
+    map: https://maps.google.com/?cid=17058280388961920606&hl=ja
+    address: 愛媛県西予市城川町高野子46
+    price: 600
+    lat: 33.3647454
+    lng: 132.7918726
+    type: 温泉
+-
+    id: 49
+    name: 古川温泉 湯楽
+    url: https://www.iyokannet.jp/spot/4220
+    map: https://maps.google.com/?cid=10305699200991174432&hl=ja
+    address: 愛媛県松山市古川西2-8-9
+    price: 450
+    lat: 33.8088747
+    lng: 132.7580719
+    type: 温泉
+-
+    id: 50
+    name: 湯ノ浦温泉 四季の湯 ビア工房
+    url: http://gourmet.l-navi.co.jp/shikinoyu/
+    map: https://maps.google.com/?cid=9402198052222218112&hl=ja
+    address: 愛媛県今治市湯ノ浦26
+    price: 450
+    lat: 33.9952039
+    lng: 133.0550301
+    type: 温泉
+-
+    id: 51
+    name: 大正湯
+    url: https://www.facebook.com/taisyoyu/
+    map: https://maps.google.com/?cid=9990128664996552534&hl=ja
+    address: 愛媛県八幡浜市大正町
+    price: 400
+    lat: 33.4571566
+    lng: 132.4293234
+    type: 銭湯
+-
+    id: 52
+    name: 自然に囲まれた秘湯 祓川温泉
+    url: https://www.city.uwajima.ehime.jp/soshiki/22/haraigawa-onsen.html
+    map: https://maps.google.com/?cid=4423585566503225218&hl=ja
+    address: 愛媛県宇和島市津島町槇川203-1
+    price: 400
+    lat: 33.0832325
+    lng: 132.6543434
+    type: 温泉
+-
+    id: 53
+    name: 多々羅しまなみドーム 三島の湯
+    url: https://www.shimacon.jp/play/tataradome_onsen.html
+    map: https://maps.google.com/?cid=6647836374487911391&hl=ja
+    address: 愛媛県今治市上浦町井口7074-20
+    price: 500
+    lat: 34.2613689
+    lng: 133.0472785
+    type: 温泉
+-
+    id: 54
+    name: 上島町海水温浴施設 潮湯
+    url: https://www.town.kamijima.lg.jp/site/publicfacilities/81.html
+    map: https://maps.google.com/?cid=11500457493468190042&hl=ja
+    address: 愛媛県越智郡上島町弓削上弓削1907-1
+    price: 520
+    lat: 34.2788765
+    lng: 133.2107881
+    type: 温泉
+-
+    id: 55
+    name: 長浜なぎさの湯
+    url: https://www.city.ozu.ehime.jp/site/kanko/1217.html
+    map: https://maps.google.com/?cid=5989231713000402022&hl=ja
+    address: 愛媛県大洲市長浜甲576
+    price: 350
+    lat: 33.6154809
+    lng: 132.4791811
+    type: 温泉
+-
+    id: 56
+    name: 道前渓温泉
+    url: https://www.iyokannet.jp/spot/170
+    map: https://maps.google.com/?cid=14704955954379195544&hl=ja
+    address: 愛媛県西条市丹原町来見897-1
+    price: 400
+    lat: 33.8556061
+    lng: 133.0119596
+    type: 温泉
+-
+    id: 57
+    name: ふもと温泉 友愛館
+    url: https://www.iyokannet.jp/spot/442
+    map: https://maps.google.com/?cid=11051758642737075617&hl=ja
+    address: 愛媛県上浮穴郡久万高原町直瀬甲518-2
+    price: 400
+    lat: 33.714724
+    lng: 132.949674
+    type: 温泉
+-
+    id: 58
+    name: 宮窪町保健福祉総合センター
+    url: https://www.imabari-shakyo.jp/branchs/miyakubo.htm
+    map: https://maps.google.com/?cid=15462784736151996635&hl=ja
+    address: 愛媛県今治市宮窪町宮窪3544-2
+    price: 300
+    lat: 34.1617197
+    lng: 133.0719687
+    type: 温泉
+-
+    id: 59
+    name: 吉海町老人福祉センター
+    url: https://www.imabari-shakyo.jp/branchs/yoshiumi.htm
+    map: https://maps.google.com/?cid=10227843168790038108&hl=ja
+    address: 愛媛県今治市吉海町名1466
+    price: 200
+    lat: 34.1335061
+    lng: 133.0409733
+    type: 温泉
+-
+    id: 60
+    name: 湯あそびひろば 三島乃湯
+    url: https://www.iyokannet.jp/spot/2795
+    map: https://maps.google.com/?cid=66830160599244231&hl=ja
+    address: 愛媛県四国中央市三島中央1-16-5
+    price: 580
+    lat: 33.9843462
+    lng: 133.5403586
+    type: 温泉
+-
+    id: 61
+    name: スパ星乃岡
+    url: http://hoshinooka.net/spa.html
+    map: https://maps.google.com/maps?q=33.8176078796387,132.786178588867
+    address: 愛媛県松山市星岡1-3-3
+    price: 3000
+    lat: 33.8178866
+    lng: 132.7864447
+    type: 温泉
+-
+    id: 62
+    name: 中間温泉 三間町老人憩いの家
+    url: 
+    map: https://maps.google.com/?cid=3079726708879194667&hl=ja
+    address: 愛媛県宇和島市三間町中間481
+    price: 200
+    lat: 33.2842952
+    lng: 132.6656455
+    type: 温泉
+-
+    id: 63
+    name: 大黒湯
+    url: http://1010ehime.com/cms/?p=150
+    map: https://maps.google.com/?cid=6741358081980520318&hl=ja
+    address: 愛媛県今治市本町6-4-9
+    price: 400
+    lat: 34.0750855
+    lng: 132.9977328
+    type: 銭湯
+-
+    id: 64
+    name: 霜村温泉 老人保養センター 清水荘
+    url: http://www.ai-kihoku.jp/info/shimizu.html
+    map: https://maps.google.com/maps?q=33.303908,132.691555
+    address: 愛媛県北宇和郡鬼北町清水1043
+    price: 105
+    lat: 33.3028995
+    lng: 132.6910092
+    type: 温泉
+-
+    id: 65
+    name: 松乃湯
+    url: http://1010ehime.com/cms/?p=159
+    map: https://maps.google.com/?cid=7907325904861901766&hl=ja
+    address: 愛媛県宇和島市泉町1-1-26
+    price: 400
+    lat: 33.2322205
+    lng: 132.5718666
+    type: 銭湯
+-
+    id: 66
+    name: 鯉池温泉
+    url: http://1010ehime.com/cms/?p=125
+    map: https://maps.google.com/?cid=1232491854692756700&hl=ja
+    address: 愛媛県今治市鯉池2-1-7
+    price: 400
+    lat: 34.0534281
+    lng: 132.9898197
+    type: 銭湯
+-
+    id: 67
+    name: 新開温泉
+    url: http://1010ehime.com/cms/?p=89
+    map: https://maps.google.com/?cid=1038574294310241448&hl=ja
+    address: 愛媛県松山市雄郡1-6-16
+    price: 400
+    lat: 33.8300198
+    lng: 132.7561369
+    type: 銭湯
+-
+    id: 68
+    name: 黄金湯
+    url: http://1010ehime.com/cms/?p=148
+    map: https://maps.google.com/?cid=12593431650333090796&hl=ja
+    address: 愛媛県今治市黄金2-5-19
+    price: 400
+    lat: 34.0640474
+    lng: 133.0048179
+    type: 銭湯
+-
+    id: 69
+    name: よしの湯
+    url: 
+    map: https://maps.google.com/?cid=5080814019998168912&hl=ja
+    address: 愛媛県大洲市中村473
+    price: 400
+    lat: 33.5143097
+    lng: 132.5446974
+    type: 銭湯
+-
+    id: 70
+    name: 白鷺温泉
+    url: http://1010ehime.com/cms/?p=145
+    map: https://maps.google.com/?cid=14449200627765895330&hl=ja
+    address: 愛媛県今治市立花1-10-21
+    price: 400
+    lat: 34.0526526
+    lng: 132.9974401
+    type: 銭湯
+-
+    id: 71
+    name: 祇園湯
+    url: http://1010ehime.com/cms/?p=72
+    map: https://maps.google.com/?cid=4363629524676040394&hl=ja
+    address: 愛媛県松山市祇園町9-23
+    price: 400
+    lat: 33.8315933
+    lng: 132.7742993
+    type: 銭湯
+-
+    id: 72
+    name: 大黒湯
+    url: http://1010ehime.com/cms/?p=161
+    map: https://maps.google.com/?cid=12160467457654359537&hl=ja
+    address: 愛媛県宇和島市元結掛2-6-25
+    price: 400
+    lat: 33.2117726
+    lng: 132.5603366
+    type: 銭湯
+-
+    id: 73
+    name: さくら湯
+    url: http://1010ehime.com/cms/?p=110
+    map: https://maps.google.com/?cid=12994762952186914830&hl=ja
+    address: 愛媛県新居浜市中須賀1-4-35
+    price: 400
+    lat: 33.96364
+    lng: 133.2719966
+    type: 銭湯
+-
+    id: 74
+    name: 宝来湯
+    url: http://1010ehime.com/cms/?p=143
+    map: https://maps.google.com/?cid=5542262104352745633&hl=ja
+    address: 愛媛県今治市常盤町4-8-23
+    price: 400
+    lat: 34.0629967
+    lng: 132.9961802
+    type: 銭湯
+-
+    id: 75
+    name: 清水湯
+    url: http://1010ehime.com/cms/?p=39
+    map: https://maps.google.com/?cid=3837396485538292556&hl=ja
+    address: 愛媛県松山市清水町2-14-5
+    price: 400
+    lat: 33.849583
+    lng: 132.7651073
+    type: 銭湯
+-
+    id: 76
+    name: 古城温泉
+    url: http://1010ehime.com/cms/?p=108
+    map: https://maps.google.com/?cid=8953913950058217591&hl=ja
+    address: 愛媛県伊予郡松前町筒井1402-1
+    price: 400
+    lat: 33.7938442
+    lng: 132.7031921
+    type: 銭湯
+-
+    id: 77
+    name: 天野屋温泉
+    url: http://1010ehime.com/cms/?p=106
+    map: https://maps.google.com/?cid=15098137380280460599&hl=ja
+    address: 愛媛県松山市北条辻1407-1
+    price: 400
+    lat: 33.97414
+    lng: 132.7736028
+    type: 銭湯
+-
+    id: 78
+    name: 本町温泉
+    url: http://1010ehime.com/cms/?p=152
+    map: https://maps.google.com/?cid=12035521591032051108&hl=ja
+    address: 愛媛県今治市本町5-6-1
+    price: 400
+    lat: 34.0733834
+    lng: 132.9989803
+    type: 銭湯
+-
+    id: 79
+    name: 小富士温泉
+    url: http://1010ehime.com/cms/?p=104
+    map: https://maps.google.com/?cid=17642256127741504570&hl=ja
+    address: 愛媛県松山市高浜2-1458-6
+    price: 400
+    lat: 33.8842139
+    lng: 132.7023551
+    type: 銭湯
+-
+    id: 80
+    name: 水晶湯
+    url: http://1010ehime.com/cms/?p=100
+    map: https://maps.google.com/?cid=8461564878896605700&hl=ja
+    address: 愛媛県松山市柳井町1-8-13
+    price: 400
+    lat: 33.8333669
+    lng: 132.7694782
+    type: 銭湯
+-
+    id: 81
+    name: 敷島湯
+    url: http://1010ehime.com/cms/?p=154
+    map: https://maps.google.com/?cid=16216905334199055291&hl=ja
+    address: 愛媛県今治市共栄町1-4-9
+    price: 400
+    lat: 34.0675734
+    lng: 133.0009573
+    type: 銭湯
+-
+    id: 82
+    name: 白泉湯
+    url: http://1010ehime.com/cms/?p=68
+    map: https://maps.google.com/?cid=2480786500530785723&hl=ja
+    address: 愛媛県松山市南斎院町1154-1
+    price: 400
+    lat: 33.8347058
+    lng: 132.7366437
+    type: 銭湯
+-
+    id: 83
+    name: 宝湯
+    url: http://1010ehime.com/cms/?p=121
+    map: https://maps.google.com/maps?q=33.936819,133.084863
+    address: 愛媛県西条市壬生川263
+    price: 200
+    lat: 33.9368285
+    lng: 133.0848595
+    type: 銭湯
+-
+    id: 84
+    name: 明神湯
+    url: http://1010ehime.com/cms/?p=117
+    map: https://maps.google.com/maps?q=33.945795,133.05946
+    address: 愛媛県西条市高田916-92
+    price: 400
+    lat: 33.9458305
+    lng: 133.0594598
+    type: 銭湯

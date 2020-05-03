@@ -1,0 +1,1601 @@
+---
+-
+    id: 1
+    name: 船岡温泉
+    url: http://funaokaonsen.net/
+    map: https://maps.google.com/?cid=6032498071586382824&hl=ja
+    address: 京都府京都市北区紫野南舟岡町82-1
+    price: 450
+    lat: 35.0369421
+    lng: 135.7445264
+    type: 銭湯
+-
+    id: 2
+    name: 梅湯
+    url: http://www.kyo1010.com/ume-yu/
+    map: https://maps.google.com/?cid=815649983193598200&hl=ja
+    address: 京都府京都市下京区岩滝町175
+    price: 450
+    lat: 34.9929555
+    lng: 135.7657419
+    type: 銭湯
+-
+    id: 3
+    name: 錦湯
+    url: http://www.kyo1010.com/nishiki-yu/
+    map: https://maps.google.com/?cid=5054524736879410412&hl=ja
+    address: 京都府京都市中京区八百屋町535
+    price: 450
+    lat: 35.004792
+    lng: 135.7634669
+    type: 銭湯
+-
+    id: 4
+    name: 五香湯
+    url: https://www.gokouyu.net
+    map: https://maps.google.com/?cid=6567048369656917796&hl=ja
+    address: 京都府京都市下京区柿本町590-12
+    price: 450
+    lat: 34.9969297
+    lng: 135.749815
+    type: 銭湯
+-
+    id: 5
+    name: さがの温泉 天山の湯
+    url: http://www.ndg.jp/tenzan/
+    map: https://maps.google.com/?cid=10802207503343859489&hl=ja
+    address: 京都府京都市右京区嵯峨野宮ノ元町55-4-7
+    price: 1050
+    lat: 35.0140324
+    lng: 135.6932511
+    type: 温泉
+-
+    id: 6
+    name: 天然温泉 天翔の湯
+    url: http://tensyonoyu.web.fc2.com/
+    map: https://maps.google.com/?cid=2851798079087006429&hl=ja
+    address: 京都府京都市右京区西京極大門町18
+    price: 450
+    lat: 34.9891329
+    lng: 135.7265189
+    type: 銭湯
+-
+    id: 7
+    name: 宇治天然温泉 源氏の湯
+    url: http://genji-yu.jp/
+    map: https://maps.google.com/?cid=16244680546904306541&hl=ja
+    address: 京都府宇治市大久保町大竹52
+    price: 1000
+    lat: 34.8696544
+    lng: 135.7785003
+    type: 温泉
+-
+    id: 8
+    name: 伏見 力の湯
+    url: https://www.chikara-u.com/
+    map: https://maps.google.com/?cid=3720645067560006216&hl=ja
+    address: 京都府京都市伏見区竹田青池町3
+    price: 700
+    lat: 34.9568472
+    lng: 135.7503216
+    type: 温泉
+-
+    id: 9
+    name: 白山湯(六条店)
+    url: http://www.eonet.ne.jp/~hakusanyu/6top.htm
+    map: https://maps.google.com/?cid=3173828844373036517&hl=ja
+    address: 京都府京都市下京区舟屋町665
+    price: 450
+    lat: 34.9995678
+    lng: 135.7543173
+    type: 銭湯
+-
+    id: 10
+    name: 壬生温泉 はなの湯
+    url: https://hanano-yu.jp/
+    map: https://maps.google.com/?cid=6234745407433227892&hl=ja
+    address: 京都府京都市中京区壬生松原町15-3
+    price: 700
+    lat: 34.999779
+    lng: 135.7424884
+    type: 温泉
+-
+    id: 11
+    name: 京都 嵐山温泉 湯浴み処 風風の湯
+    url: https://www.hotespa.net/spa/fufu/
+    map: https://maps.google.com/?cid=5905541714921882047&hl=ja
+    address: 京都府京都市西京区嵐山上河原町1
+    price: 1000
+    lat: 35.0117117
+    lng: 135.6799981
+    type: 温泉
+-
+    id: 12
+    name: 日の出湯
+    url: http://www.eonet.ne.jp/~hinodeyu/index.htm
+    map: https://maps.google.com/?cid=3802317608718918850&hl=ja
+    address: 京都府京都市南区西九条唐橋町26-6
+    price: 450
+    lat: 34.9814819
+    lng: 135.7516583
+    type: 銭湯
+-
+    id: 13
+    name: 上方温泉 一休 京都本館
+    url: http://www.onsen19.jp/
+    map: https://maps.google.com/?cid=3378667999301914012&hl=ja
+    address: 京都府城陽市中芦原25-2
+    price: 1234
+    lat: 34.8356144
+    lng: 135.8252825
+    type: 温泉
+-
+    id: 14
+    name: 京都桂温泉 仁左衛門の湯
+    url: http://www.nizaemon.com/
+    map: https://maps.google.com/?cid=11064510630759565431&hl=ja
+    address: 京都府京都市西京区樫原盆山5
+    price: 700
+    lat: 34.9756931
+    lng: 135.6878244
+    type: 温泉
+-
+    id: 15
+    name: 玉の湯
+    url: http://kyoto-tamanoyu.com/
+    map: https://maps.google.com/?cid=13742429096451970071&hl=ja
+    address: 京都府京都市中京区亀屋町401
+    price: 450
+    lat: 35.012067
+    lng: 135.7663555
+    type: 銭湯
+-
+    id: 16
+    name: 湯ーとぴあダイゴ
+    url: http://yutopia-daigo.jp/
+    map: https://maps.google.com/?cid=13012345819334865959&hl=ja
+    address: 京都府京都市伏見区石田大受町31-4
+    price: 450
+    lat: 34.9421354
+    lng: 135.8061269
+    type: 銭湯
+-
+    id: 17
+    name: トロン温泉稲荷
+    url: http://www.kyo1010.com/tron-onsen/
+    map: https://maps.google.com/?cid=15556643552568255234&hl=ja
+    address: 京都府京都市中京区今新在家町4
+    price: 450
+    lat: 35.008222
+    lng: 135.746562
+    type: 銭湯
+-
+    id: 18
+    name: 大正湯
+    url: http://www.kyo1010.com/taisyo-yu02/
+    map: https://maps.google.com/?cid=7261322134820989297&hl=ja
+    address: 京都府京都市南区西九条院町22
+    price: 450
+    lat: 34.982508
+    lng: 135.7565502
+    type: 銭湯
+-
+    id: 19
+    name: やしろ湯
+    url: http://www.kyo1010.com/yashiro-yu/
+    map: https://maps.google.com/?cid=2370533763641947891&hl=ja
+    address: 京都府京都市右京区太秦森ヶ前町19-9
+    price: 450
+    lat: 35.0108351
+    lng: 135.7131187
+    type: 銭湯
+-
+    id: 20
+    name: 玉光湯 ひじりのね(伏見店)
+    url: https://hijirinone.com/hijirinone/fushimi/
+    map: https://maps.google.com/?cid=13089300284351671998&hl=ja
+    address: 京都府京都市伏見区羽束師菱川町678
+    price: 700
+    lat: 34.9332575
+    lng: 135.7242632
+    type: 温泉
+-
+    id: 21
+    name: 天然温泉 金閣寺湯
+    url: http://kinkakujiyu.web.fc2.com/
+    map: https://maps.google.com/?cid=10359207853184438898&hl=ja
+    address: 京都府京都市北区衣笠北天神森34
+    price: 450
+    lat: 35.0379555
+    lng: 135.7332525
+    type: 銭湯
+-
+    id: 22
+    name: 白山湯(高辻店)
+    url: http://www.kyo1010.com/hakusan-yu03/
+    map: https://maps.google.com/?cid=407547132737729046&hl=ja
+    address: 京都府京都市下京区舟屋町665
+    price: 450
+    lat: 34.9995678
+    lng: 135.7543173
+    type: 銭湯
+-
+    id: 23
+    name: 衣笠温泉
+    url: http://www.kyo1010.com/kinugasa-onsen/
+    map: https://maps.google.com/?cid=499117273363089807&hl=ja
+    address: 京都府京都市北区大将軍一条町50
+    price: 450
+    lat: 35.0249777
+    lng: 135.7271729
+    type: 銭湯
+-
+    id: 24
+    name: 大黒湯
+    url: http://www.kyo1010.com/daikoku-yu/
+    map: https://maps.google.com/?cid=6183786114759946723&hl=ja
+    address: 京都府京都市東山区山城町284
+    price: 450
+    lat: 34.9972839
+    lng: 135.7712215
+    type: 銭湯
+-
+    id: 25
+    name: 福知山温泉 養老の湯
+    url: http://www.fukuchiyamaonsen.com/
+    map: https://maps.google.com/?cid=16263686117316845108&hl=ja
+    address: 京都府福知山市長田81-13
+    price: 800
+    lat: 35.2805712
+    lng: 135.1581859
+    type: 温泉
+-
+    id: 26
+    name: 旭湯
+    url: http://www.kyo1010.com/asahi-yu02/
+    map: https://maps.google.com/?cid=9035857723492361173&hl=ja
+    address: 京都府京都市南区唐橋羅城門町20
+    price: 450
+    lat: 34.978266
+    lng: 135.7405265
+    type: 銭湯
+-
+    id: 27
+    name: 山城温泉
+    url: http://www.yamashiro-onsen.com/index.html
+    map: https://maps.google.com/?cid=11024295056280780919&hl=ja
+    address: 京都府京都市上京区下横218
+    price: 410
+    lat: 35.0241471
+    lng: 135.7347005
+    type: 銭湯
+-
+    id: 28
+    name: 加茂湯
+    url: https://twitter.com/kamoyu_kyoto
+    map: https://maps.google.com/?cid=2954623032984098545&hl=ja
+    address: 京都府京都市北区小山西元町45
+    price: 450
+    lat: 35.0490763
+    lng: 135.7548565
+    type: 銭湯
+-
+    id: 29
+    name: 東山湯
+    url: http://www.kyo1010.com/higashiyama-yu/
+    map: https://maps.google.com/?cid=9322829711837875876&hl=ja
+    address: 京都府京都市左京区田中門前町27
+    price: 450
+    lat: 35.0292314
+    lng: 135.7786021
+    type: 銭湯
+-
+    id: 30
+    name: スプリングスひよし
+    url: http://www.springs-hiyoshi.co.jp/
+    map: https://maps.google.com/?cid=17878682508805706919&hl=ja
+    address: 京都府南丹市日吉町中宮ノ向8
+    price: 800
+    lat: 35.1528183
+    lng: 135.5161939
+    type: 温泉
+-
+    id: 31
+    name: 宇川温泉 よし野の里
+    url: https://ukawaonsen.jp
+    map: https://maps.google.com/?cid=9524061552539987018&hl=ja
+    address: 京都府京丹後市丹後町久僧1562
+    price: 600
+    lat: 35.7540109
+    lng: 135.1765703
+    type: 温泉
+-
+    id: 32
+    name: 夕日ヶ浦温泉 花ゆうみ
+    url: https://www.hanayuumi.com
+    map: https://maps.google.com/?cid=13314073647999220356&hl=ja
+    address: 京都府京丹後市網野町浜詰256-1
+    price: 700
+    lat: 35.6579992
+    lng: 134.9628412
+    type: 温泉
+-
+    id: 33
+    name: たかお温泉 光の湯
+    url: http://www.hikarinoyu.com/
+    map: https://maps.google.com/?cid=1234833375745405016&hl=ja
+    address: 京都府舞鶴市十倉71
+    price: 720
+    lat: 35.4210409
+    lng: 135.3306204
+    type: 温泉
+-
+    id: 34
+    name: 天然わかさぎ温泉 笠置いこいの館
+    url: http://kasagi-ikoi.com/
+    map: https://maps.google.com/?cid=11268677679596058336&hl=ja
+    address: 京都府相楽郡笠置町隅田24
+    price: 800
+    lat: 34.7570448
+    lng: 135.9342076
+    type: 温泉
+-
+    id: 35
+    name: 弥栄あしぎぬ温泉
+    url: http://www.ashiginu.com/
+    map: https://maps.google.com/?cid=7161497045701886695&hl=ja
+    address: 京都府京丹後市弥栄町木橋548
+    price: 600
+    lat: 35.6684535
+    lng: 135.0796354
+    type: 温泉
+-
+    id: 36
+    name: 京乃湯
+    url: http://www.kyo1010.com/kyono-yu/
+    map: https://maps.google.com/?cid=3431326377173570891&hl=ja
+    address: 京都府京都市右京区田町47-1
+    price: 450
+    lat: 35.0028141
+    lng: 135.7050893
+    type: 銭湯
+-
+    id: 37
+    name: 若の湯
+    url: 
+    map: https://maps.google.com/?cid=15787641404379844997&hl=ja
+    address: 京都府舞鶴市字本58
+    price: 450
+    lat: 35.4483834
+    lng: 135.3274901
+    type: 銭湯
+-
+    id: 38
+    name: 松葉湯
+    url: http://www.kyo1010.com/matsuba-yu/
+    map: https://maps.google.com/?cid=3898770167138614581&hl=ja
+    address: 京都府京都市上京区西東356
+    price: 450
+    lat: 35.0203651
+    lng: 135.7370694
+    type: 銭湯
+-
+    id: 39
+    name: しののめ湯
+    url: http://www.sinonomeyu.com/
+    map: https://maps.google.com/?cid=13247781813066741631&hl=ja
+    address: 京都府京都市左京区田中里ノ前町20
+    price: 450
+    lat: 35.0332141
+    lng: 135.7798893
+    type: 銭湯
+-
+    id: 40
+    name: 孫橋湯
+    url: http://www.kyo1010.com/magohashi-yu/
+    map: https://maps.google.com/?cid=142211189576083775&hl=ja
+    address: 京都府京都市左京区法林寺門前町36
+    price: 450
+    lat: 35.0098761
+    lng: 135.773185
+    type: 銭湯
+-
+    id: 41
+    name: 大黒湯
+    url: http://www.kyo1010.com/daikoku-yu03/
+    map: https://maps.google.com/?cid=8401080962224150709&hl=ja
+    address: 京都府京都市左京区山端柳ケ坪町16-3
+    price: 450
+    lat: 35.04892
+    lng: 135.7895578
+    type: 銭湯
+-
+    id: 42
+    name: 鶴の湯
+    url: http://www.turunoyu.com/
+    map: https://maps.google.com/?cid=15728044667659469531&hl=ja
+    address: 京都府京都市伏見区景勝町33-5
+    price: 450
+    lat: 34.9436643
+    lng: 135.7576034
+    type: 銭湯
+-
+    id: 43
+    name: SPA＆HOTEL水春 松井山手
+    url: https://suisyun.jp/matsuiyamate/
+    map: https://maps.google.com/?cid=613368841522171723&hl=ja
+    address: 京都府京田辺市山手中央5-1
+    price: 1000
+    lat: 34.8342587
+    lng: 135.7254524
+    type: 温泉
+-
+    id: 44
+    name: 京都タワー大浴場
+    url: https://www.keihanhotels-resorts.co.jp/kyoto-tower/floorguide/spa.html
+    map: https://maps.google.com/?cid=1956672730087322552&hl=ja
+    address: 京都府京都市下京区東塩小路町527-1
+    price: 770
+    lat: 34.9881438
+    lng: 135.7609881
+    type: 温泉
+-
+    id: 45
+    name: 柳湯
+    url: http://www.kyo1010.com/yanagi-yu/
+    map: https://maps.google.com/?cid=9078187254833583093&hl=ja
+    address: 京都府京都市左京区菊鉾町332
+    price: 450
+    lat: 35.0102752
+    lng: 135.7754267
+    type: 銭湯
+-
+    id: 46
+    name: 龍宮温泉
+    url: http://www.ny.airnet.ne.jp/ryuguu/
+    map: https://maps.google.com/?cid=4682697739043656671&hl=ja
+    address: 京都府京都市上京区り主税町1054
+    price: 450
+    lat: 35.0175488
+    lng: 135.7445805
+    type: 銭湯
+-
+    id: 47
+    name: 平安湯
+    url: http://www.kyo1010.com/heian-yu/
+    map: https://maps.google.com/?cid=17778589009511123002&hl=ja
+    address: 京都府京都市左京区吉田下大路町22
+    price: 450
+    lat: 35.021114
+    lng: 135.7826489
+    type: 銭湯
+-
+    id: 48
+    name: 初音湯
+    url: http://www.kyo1010.com/hatsune-yu/
+    map: https://maps.google.com/?cid=2625098864682518551&hl=ja
+    address: 京都府京都市中京区左京町143
+    price: 450
+    lat: 35.0121906
+    lng: 135.7623125
+    type: 銭湯
+-
+    id: 49
+    name: 長者湯
+    url: http://www.kyo1010.com/choja-yu/
+    map: https://maps.google.com/?cid=14366032879761861047&hl=ja
+    address: 京都府京都市上京区須浜東町450
+    price: 450
+    lat: 35.0233137
+    lng: 135.7481099
+    type: 銭湯
+-
+    id: 50
+    name: 桜湯
+    url: http://www.kyo1010.com/sakura-yu/
+    map: https://maps.google.com/?cid=13341079032999528697&hl=ja
+    address: 京都府京都市上京区俵屋町454
+    price: 450
+    lat: 35.0178553
+    lng: 135.7695621
+    type: 銭湯
+-
+    id: 51
+    name: 紫野温泉
+    url: http://www.kyo1010.com/murasakino-onsen/
+    map: https://maps.google.com/?cid=4924123062850126874&hl=ja
+    address: 京都府京都市北区紫野上門前町16-1
+    price: 450
+    lat: 35.0445933
+    lng: 135.7477773
+    type: 銭湯
+-
+    id: 52
+    name: 旭湯
+    url: http://www.kyo1010.com/asahi-yu03/
+    map: https://maps.google.com/?cid=13472501901944642765&hl=ja
+    address: 京都府京都市東山区大和大路通五条上ル門脇町182
+    price: 450
+    lat: 34.995974
+    lng: 135.772885
+    type: 銭湯
+-
+    id: 53
+    name: 船戸湯
+    url: http://funatoyu.com/
+    map: https://maps.google.com/?cid=1375367163842414534&hl=ja
+    address: 京都府京都市南区吉祥院里ノ内町76
+    price: 450
+    lat: 34.9741003
+    lng: 135.7336765
+    type: 銭湯
+-
+    id: 54
+    name: ニコニコプラザ ニコニコ温泉
+    url: http://2525jp.net/capsule/hotsprings.html
+    map: https://maps.google.com/?cid=1749805561761310839&hl=ja
+    address: 京都府福知山市広峯町22
+    price: 630
+    lat: 35.2916209
+    lng: 135.1190218
+    type: 温泉
+-
+    id: 55
+    name: 天の橋立 岩滝温泉 クアハウス岩滝
+    url: http://www.dolphin-group.co.jp/kurhaus-iwataki/
+    map: https://maps.google.com/?cid=16429208321295196597&hl=ja
+    address: 京都府与謝郡与謝野町字岩滝470
+    price: 500
+    lat: 35.572416
+    lng: 135.1535758
+    type: 温泉
+-
+    id: 56
+    name: やわた流れ橋交流プラザ 四季彩館
+    url: http://www.shikisaikan.co.jp/
+    map: https://maps.google.com/?cid=8928640402432934346&hl=ja
+    address: 京都府八幡市上津屋里垣内56-1
+    price: 430
+    lat: 34.866003
+    lng: 135.7437913
+    type: 温泉
+-
+    id: 57
+    name: 浅茂川温泉 静の里
+    url: https://www.shizukanosato.com/
+    map: https://maps.google.com/?cid=7161691999707438673&hl=ja
+    address: 京都府京丹後市網野町浅茂川1449
+    price: 600
+    lat: 35.6890609
+    lng: 135.0141262
+    type: 温泉
+-
+    id: 58
+    name: 夜久野高原温泉 ほっこり館
+    url: http://farmgarden-yakuno.com/hokkori/
+    map: https://maps.google.com/?cid=5450416106285124785&hl=ja
+    address: 京都府福知山市夜久野町平野2150
+    price: 600
+    lat: 35.3383933
+    lng: 134.929715
+    type: 温泉
+-
+    id: 59
+    name: 井筒湯
+    url: http://www.kyo1010.com/idutsu-yu/
+    map: https://maps.google.com/?cid=5650607125653798869&hl=ja
+    address: 京都府京都市中京区弁財天町288
+    price: 450
+    lat: 35.0161422
+    lng: 135.7564446
+    type: 銭湯
+-
+    id: 60
+    name: 東湯
+    url: http://www.kyo1010.com/azuma-yu/
+    map: https://maps.google.com/?cid=3832726479594709477&hl=ja
+    address: 京都府京都市下京区東塩小路町684
+    price: 450
+    lat: 34.9873743
+    lng: 135.762215
+    type: 銭湯
+-
+    id: 61
+    name: むらさき湯
+    url: http://www.kyo1010.com/kinryu-yu/
+    map: https://maps.google.com/?cid=8296578354920918783&hl=ja
+    address: 京都府京都市北区紫野東御所田町15
+    price: 450
+    lat: 35.04023129999999
+    lng: 135.752215
+    type: 銭湯
+-
+    id: 62
+    name: 新シ湯
+    url: http://www.kyo1010.com/atarashi-yu/
+    map: https://maps.google.com/?cid=11702153098856313871&hl=ja
+    address: 京都府京都市東山区古西316
+    price: 450
+    lat: 35.00709
+    lng: 135.7766605
+    type: 銭湯
+-
+    id: 63
+    name: 天橋立温泉 智恵の湯
+    url: http://www.viewland.jp/chienoyu/
+    map: https://maps.google.com/?cid=14319746837540641189&hl=ja
+    address: 京都府宮津市文珠640-73
+    price: 700
+    lat: 35.5574343
+    lng: 135.1830462
+    type: 温泉
+-
+    id: 64
+    name: 栄盛湯
+    url: http://www.kyo1010.com/eisei-yu/
+    map: https://maps.google.com/?cid=5395744887307058738&hl=ja
+    address: 京都府京都市左京区下鴨膳部町1
+    price: 450
+    lat: 35.0416735
+    lng: 135.7715929
+    type: 銭湯
+-
+    id: 65
+    name: 山ノ内湯
+    url: http://www.kyo1010.com/yamanouchi-yu/
+    map: https://maps.google.com/?cid=1698806130984861544&hl=ja
+    address: 京都府京都市右京区山ノ内山ノ下町14-2
+    price: 450
+    lat: 35.0060597
+    lng: 135.7224742
+    type: 銭湯
+-
+    id: 66
+    name: 御三軒湯
+    url: http://www.kyo1010.com/gosangen-yu/
+    map: https://maps.google.com/?cid=14330546845019270174&hl=ja
+    address: 京都府京都市上京区御三軒町38
+    price: 450
+    lat: 35.0320923
+    lng: 135.7538071
+    type: 銭湯
+-
+    id: 67
+    name: 小町湯
+    url: http://www.kyo1010.com/komachi-yu/
+    map: https://maps.google.com/?cid=9079445275228056745&hl=ja
+    address: 京都府京都市下京区西七条市部町43
+    price: 450
+    lat: 34.9912266
+    lng: 135.7343113
+    type: 銭湯
+-
+    id: 68
+    name: 銀水湯
+    url: http://www.kyo1010.com/ginsui-yu/
+    map: https://maps.google.com/?cid=10015499075944839549&hl=ja
+    address: 京都府京都市左京区浄土寺下南田町122
+    price: 450
+    lat: 35.0241934
+    lng: 135.7949969
+    type: 銭湯
+-
+    id: 69
+    name: 伏見温泉
+    url: 
+    map: https://maps.google.com/?cid=11433493441989165952&hl=ja
+    address: 京都府京都市伏見区深草ヲカヤ町24-1
+    price: 450
+    lat: 34.9637928
+    lng: 135.7634574
+    type: 銭湯
+-
+    id: 70
+    name: 鈴成湯
+    url: http://www.kyo1010.com/suzunari-yu/
+    map: https://maps.google.com/?cid=14479000492820259632&hl=ja
+    address: 京都府京都市左京区一乗寺西杉ノ宮町3
+    price: 450
+    lat: 35.0470104
+    lng: 135.7862499
+    type: 銭湯
+-
+    id: 71
+    name: 鴨川湯
+    url: http://www.kyo1010.com/kamogawa-yu/
+    map: https://maps.google.com/?cid=15473796034352920128&hl=ja
+    address: 京都府京都市左京区下鴨上川原町56
+    price: 450
+    lat: 35.0435562
+    lng: 135.764557
+    type: 銭湯
+-
+    id: 72
+    name: 京極湯
+    url: http://www.kyo1010.com/nagura-yu/
+    map: https://maps.google.com/?cid=14491341268813829364&hl=ja
+    address: 京都府京都市右京区西京極西川町39-7
+    price: 450
+    lat: 34.988796
+    lng: 135.718423
+    type: 銭湯
+-
+    id: 73
+    name: 竹殿湯
+    url: http://www.kyo1010.com/takedono-yu/
+    map: https://maps.google.com/?cid=10113313514683692032&hl=ja
+    address: 京都府京都市北区紫竹上竹殿町34
+    price: 450
+    lat: 35.0537594
+    lng: 135.7485634
+    type: 銭湯
+-
+    id: 74
+    name: 軍人湯
+    url: http://www.kyo1010.com/gunjin-yu/
+    map: https://maps.google.com/?cid=9063958607573791230&hl=ja
+    address: 京都府京都市伏見区深草極楽町775-1
+    price: 450
+    lat: 34.9552937
+    lng: 135.7706196
+    type: 銭湯
+-
+    id: 75
+    name: 島原温泉
+    url: http://www.kyo1010.com/shimabara-onsen/
+    map: https://maps.google.com/?cid=1191851967740412044&hl=ja
+    address: 京都府京都市下京区西新屋敷中堂寺町69
+    price: 450
+    lat: 34.9929366
+    lng: 135.7442049
+    type: 銭湯
+-
+    id: 76
+    name: 芋松温泉
+    url: http://www.kyo1010.com/imomatsu-onsen/
+    map: https://maps.google.com/?cid=10450854325792826516&hl=ja
+    address: 京都府京都市中京区壬生森町40-9
+    price: 450
+    lat: 35.0060438
+    lng: 135.7382363
+    type: 銭湯
+-
+    id: 77
+    name: 京都北白川 不動温泉
+    url: https://www.fudouonsen.com/
+    map: https://maps.google.com/?cid=14399563898232592103&hl=ja
+    address: 京都府京都市左京区北白川地蔵谷町1-244
+    price: 1300
+    lat: 35.0382202
+    lng: 135.8090859
+    type: 温泉
+-
+    id: 78
+    name: 泉湯
+    url: http://www.kyo1010.com/izumi-yu02/
+    map: https://maps.google.com/?cid=14370147302758882066&hl=ja
+    address: 京都府京都市東山区本町10-192
+    price: 450
+    lat: 34.98289949999999
+    lng: 135.7705988
+    type: 銭湯
+-
+    id: 79
+    name: 観月湯
+    url: http://www.kyo1010.com/kangetsu-yu/
+    map: https://maps.google.com/?cid=10822899144892525865&hl=ja
+    address: 京都府京都市伏見区向島庚申町45
+    price: 450
+    lat: 34.9241732
+    lng: 135.7735928
+    type: 銭湯
+-
+    id: 80
+    name: 笠の湯
+    url: http://www.kyo1010.com/kasano-yu/
+    map: https://maps.google.com/?cid=18359950419991695699&hl=ja
+    address: 京都府京都市上京区田中町436
+    price: 450
+    lat: 35.0202838
+    lng: 135.7434707
+    type: 銭湯
+-
+    id: 81
+    name: 寿湯
+    url: http://www.kyo1010.com/kotobuki-yu02/
+    map: https://maps.google.com/?cid=16463232448543499380&hl=ja
+    address: 京都府京都市右京区山ノ内御堂殿町3
+    price: 450
+    lat: 35.0111111
+    lng: 135.7240112
+    type: 銭湯
+-
+    id: 82
+    name: 栄温泉 うし乃湯
+    url: http://manekineko-k.com/shops/stay/sakae/index.html
+    map: https://maps.google.com/?cid=11955283362163607255&hl=ja
+    address: 京都府綾部市幸通7-6
+    price: 600
+    lat: 35.301991
+    lng: 135.251701
+    type: 温泉
+-
+    id: 83
+    name: 洛陽湯
+    url: http://www.kyo1010.com/rakuyou-yu/
+    map: https://maps.google.com/?cid=10762238213313741594&hl=ja
+    address: 京都府京都市南区唐橋平垣町68-6
+    price: 450
+    lat: 34.9807248
+    lng: 135.7354269
+    type: 銭湯
+-
+    id: 84
+    name: 鞍馬湯
+    url: http://www.kyo1010.com/kurama-yu01/
+    map: https://maps.google.com/?cid=6441612111700535512&hl=ja
+    address: 京都府京都市伏見区大津町730
+    price: 450
+    lat: 34.9367824
+    lng: 135.7559039
+    type: 銭湯
+-
+    id: 85
+    name: みどり湯
+    url: http://www.kyo1010.com/midori-yu/
+    map: https://maps.google.com/?cid=5899622238526303681&hl=ja
+    address: 京都府京都市山科区北花山中道町32-5
+    price: 450
+    lat: 34.9863534
+    lng: 135.8011381
+    type: 銭湯
+-
+    id: 86
+    name: 弥生湯
+    url: http://www.kyo1010.com/yayoi-yu/
+    map: https://maps.google.com/?cid=5400991827635813737&hl=ja
+    address: 京都府京都市中京区壬生西土居ノ内町25
+    price: 450
+    lat: 35.0028948
+    lng: 135.7333543
+    type: 銭湯
+-
+    id: 87
+    name: 錦生湯
+    url: http://www.kyo1010.com/kinsei-yu01/
+    map: https://maps.google.com/?cid=921564549273987308&hl=ja
+    address: 京都府京都市中京区壬生坊城町8-20
+    price: 450
+    lat: 35.00422
+    lng: 135.7470717
+    type: 銭湯
+-
+    id: 88
+    name: 宝湯
+    url: http://www.kyo1010.com/takara-yu/
+    map: https://maps.google.com/?cid=16686760140089356489&hl=ja
+    address: 京都府京都市伏見区深草大亀谷西久宝寺町18
+    price: 450
+    lat: 34.9539934
+    lng: 135.7765113
+    type: 銭湯
+-
+    id: 89
+    name: 春日湯
+    url: http://www.kyo1010.com/kasuga-yu/
+    map: https://maps.google.com/?cid=1612822115278342707&hl=ja
+    address: 京都府京都市左京区吉田中阿達町36
+    price: 450
+    lat: 35.0256214
+    lng: 135.7763167
+    type: 銭湯
+-
+    id: 90
+    name: 源湯
+    url: http://www.kyo1010.com/minamoto-yu/
+    map: https://maps.google.com/?cid=15605854012495770517&hl=ja
+    address: 京都府京都市上京区北町604
+    price: 450
+    lat: 35.0336456
+    lng: 135.7358145
+    type: 銭湯
+-
+    id: 91
+    name: 明田湯
+    url: http://www.kyo1010.com/aketa-yu/
+    map: https://maps.google.com/?cid=11223013070726604441&hl=ja
+    address: 京都府京都市南区東九条明田町10
+    price: 450
+    lat: 34.9763581
+    lng: 135.7593733
+    type: 銭湯
+-
+    id: 92
+    name: 宇治･三室戸 銭湯 奥の湯
+    url: http://www.g2kyoto.com/oku/index2.htm
+    map: https://maps.google.com/?cid=13849071643204860288&hl=ja
+    address: 京都府宇治市莵道藪里23
+    price: 600
+    lat: 34.9028696
+    lng: 135.8078444
+    type: 温泉
+-
+    id: 93
+    name: 梅湯
+    url: 
+    map: https://maps.google.com/?cid=14507192543781661373&hl=ja
+    address: 京都府城陽市寺田垣内後48-1
+    price: 450
+    lat: 34.8560331
+    lng: 135.7774303
+    type: 銭湯
+-
+    id: 94
+    name: 竹の湯
+    url: http://www.kyo1010.com/takeno-yu/
+    map: https://maps.google.com/?cid=7394447140825019132&hl=ja
+    address: 京都府京都市北区上賀茂大路町38
+    price: 450
+    lat: 35.055651
+    lng: 135.7550826
+    type: 銭湯
+-
+    id: 95
+    name: 門前温泉
+    url: http://www.kyo1010.com/monzen-onsen/
+    map: https://maps.google.com/?cid=8671885699831184337&hl=ja
+    address: 京都府京都市北区紫野門前町29
+    price: 450
+    lat: 35.04286099999999
+    lng: 135.7483135
+    type: 銭湯
+-
+    id: 96
+    name: 桂湯
+    url: https://www.elitz.co.jp/kyoto/live/live_detail_03_03.html
+    map: https://maps.google.com/?cid=12990829918492247742&hl=ja
+    address: 京都府京都市西京区桂木ノ下町21-2
+    price: 450
+    lat: 34.9791858
+    lng: 135.7071326
+    type: 銭湯
+-
+    id: 97
+    name: 金山湯
+    url: http://www.kyo1010.com/kinzan-yu/
+    map: https://maps.google.com/?cid=5071969848464557345&hl=ja
+    address: 京都府京都市中京区壬生西土居ノ内町44
+    price: 450
+    lat: 35.0009547
+    lng: 135.7335094
+    type: 銭湯
+-
+    id: 98
+    name: 雲母湯
+    url: http://www.kyo1010.com/kirara-yu/
+    map: https://maps.google.com/?cid=8742491724104896406&hl=ja
+    address: 京都府京都市左京区一乗寺西浦畑町53
+    price: 450
+    lat: 35.045817
+    lng: 135.7941403
+    type: 銭湯
+-
+    id: 99
+    name: 旭湯
+    url: http://www.kyo1010.com/asahi-yu01/
+    map: https://maps.google.com/?cid=16040466990377217077&hl=ja
+    address: 京都府京都市右京区西院東今田町9-1
+    price: 450
+    lat: 35.0064648
+    lng: 135.731613
+    type: 銭湯
+-
+    id: 100
+    name: 太秦温泉
+    url: http://www.kyo1010.com/uzumasa-onsen/
+    map: https://maps.google.com/?cid=6189938151722438632&hl=ja
+    address: 京都府京都市右京区太秦多藪町45
+    price: 450
+    lat: 35.013463
+    lng: 135.7034714
+    type: 銭湯
+-
+    id: 101
+    name: 長岡京市営浴場 ふれあいの湯
+    url: http://www.city.nagaokakyo.lg.jp/0000001855.html
+    map: https://maps.google.com/?cid=4783641588875410612&hl=ja
+    address: 京都府長岡京市長岡1-47-8
+    price: 200
+    lat: 34.9325051
+    lng: 135.694244
+    type: 共同浴場・銭湯
+-
+    id: 102
+    name: 京極湯
+    url: http://www.kyo1010.com/kyogoku-yu02/
+    map: https://maps.google.com/?cid=3390737746245926052&hl=ja
+    address: 京都府京都市上京区東西俵屋町666
+    price: 450
+    lat: 35.0260481
+    lng: 135.7438571
+    type: 銭湯
+-
+    id: 103
+    name: 東野湯
+    url: http://www.kyo1010.com/higashino-yu/
+    map: https://maps.google.com/?cid=4404712828089594216&hl=ja
+    address: 京都府京都市山科区百拍子町27-3
+    price: 450
+    lat: 34.97818
+    lng: 135.8148312
+    type: 銭湯
+-
+    id: 104
+    name: 栄湯
+    url: http://www.kyo1010.com/sakae-yu/
+    map: https://maps.google.com/?cid=2836371041570500896&hl=ja
+    address: 京都府京都市中京区西ノ京伯楽町4-5
+    price: 450
+    lat: 35.0209427
+    lng: 135.7276261
+    type: 銭湯
+-
+    id: 105
+    name: 寿湯
+    url: http://www.kyo1010.com/kotobuki-yu01/
+    map: https://maps.google.com/?cid=621803815832036924&hl=ja
+    address: 京都府京都市伏見区弾正町117
+    price: 450
+    lat: 34.9275583
+    lng: 135.7654086
+    type: 銭湯
+-
+    id: 106
+    name: 花の湯
+    url: http://www.kyo1010.com/hanano-yu01/
+    map: https://maps.google.com/?cid=7524918335673351434&hl=ja
+    address: 京都府京都市中京区西ノ京内畑町20
+    price: 450
+    lat: 35.0138061
+    lng: 135.7379409
+    type: 銭湯
+-
+    id: 107
+    name: 松湯
+    url: http://www.kyo1010.com/matsu-yu/
+    map: https://maps.google.com/?cid=15114811641134453469&hl=ja
+    address: 京都府京都市南区東九条宇賀辺町60
+    price: 450
+    lat: 34.9775935
+    lng: 135.7644454
+    type: 銭湯
+-
+    id: 108
+    name: 鞍馬湯
+    url: http://www.kyo1010.com/kurama-yu02/
+    map: https://maps.google.com/?cid=14975773263828050617&hl=ja
+    address: 京都府京都市北区新御霊口町285-21
+    price: 450
+    lat: 35.0377545
+    lng: 135.7628156
+    type: 銭湯
+-
+    id: 109
+    name: 八幡市営南ケ丘浴場
+    url: 
+    map: https://maps.google.com/?cid=7482065031838430300&hl=ja
+    address: 京都府八幡市八幡長田97
+    price: 200
+    lat: 34.8670275
+    lng: 135.7045697
+    type: 共同浴場・銭湯
+-
+    id: 110
+    name: 加茂共同浴場 やすらぎの湯
+    url: 
+    map: https://maps.google.com/?cid=7186529534638792561&hl=ja
+    address: 京都府木津川市加茂町北広25-2
+    price: 400
+    lat: 34.76150640000001
+    lng: 135.8811164
+    type: 共同浴場・銭湯
+-
+    id: 111
+    name: 春日湯
+    url: http://www.kyo1010.com/kasuga-yu02/
+    map: https://maps.google.com/?cid=293278053669389134&hl=ja
+    address: 京都府京都市南区吉祥院西ノ庄東屋敷町35
+    price: 450
+    lat: 34.9837756
+    lng: 135.7303847
+    type: 銭湯
+-
+    id: 112
+    name: 田原湯
+    url: http://www.kyo1010.com/tahara-yu/
+    map: https://maps.google.com/?cid=9757052360884775297&hl=ja
+    address: 京都府京都市中京区壬生坊城町48
+    price: 450
+    lat: 35.0053205
+    lng: 135.7453333
+    type: 銭湯
+-
+    id: 113
+    name: 長池湯
+    url: http://www.kyo1010.com/nagaike-yu/
+    map: https://maps.google.com/?cid=15943920057786238871&hl=ja
+    address: 京都府京都市中京区西ノ京池ノ内町24
+    price: 450
+    lat: 35.0102864
+    lng: 135.7450562
+    type: 銭湯
+-
+    id: 114
+    name: 新地湯
+    url: http://www.kyo1010.com/shinchi-yu/
+    map: https://maps.google.com/?cid=13131377799813609871&hl=ja
+    address: 京都府京都市伏見区南新地4-31
+    price: 450
+    lat: 34.9275378
+    lng: 135.7599657
+    type: 銭湯
+-
+    id: 115
+    name: 木津共同浴場 いずみ湯
+    url: 
+    map: https://maps.google.com/?cid=16968125476283781057&hl=ja
+    address: 京都府木津川市木津清水107-1
+    price: 400
+    lat: 34.7346114
+    lng: 135.8196131
+    type: 共同浴場・銭湯
+-
+    id: 116
+    name: 大久保湯
+    url: 
+    map: https://maps.google.com/?cid=11799660127899585587&hl=ja
+    address: 京都府宇治市広野町西裏107
+    price: 450
+    lat: 34.8733949
+    lng: 135.7790373
+    type: 銭湯
+-
+    id: 117
+    name: 桜湯
+    url: http://www.kyo1010.com/sakura-yu03/
+    map: https://maps.google.com/?cid=965679612457765707&hl=ja
+    address: 京都府京都市下京区中堂寺前田町13
+    price: 450
+    lat: 34.9949689
+    lng: 135.7467375
+    type: 銭湯
+-
+    id: 118
+    name: 寿湯
+    url: http://www.kyo1010.com/kotobuki-yu03/
+    map: https://maps.google.com/?cid=15353012388651719708&hl=ja
+    address: 京都府京都市右京区嵯峨折戸町18-3
+    price: 450
+    lat: 35.0167722
+    lng: 135.6877848
+    type: 銭湯
+-
+    id: 119
+    name: 石田湯
+    url: http://www.kyo1010.com/ishida-yu/
+    map: https://maps.google.com/?cid=14862580382264601138&hl=ja
+    address: 京都府京都市南区東九条南石田町35
+    price: 450
+    lat: 34.9724024
+    lng: 135.760521
+    type: 銭湯
+-
+    id: 120
+    name: 名倉湯
+    url: http://www.kyo1010.com/nagura-yu/
+    map: https://maps.google.com/?cid=10717359378378197592&hl=ja
+    address: 京都府京都市下京区西七条八幡町33
+    price: 450
+    lat: 34.9924225
+    lng: 135.7306512
+    type: 銭湯
+-
+    id: 121
+    name: 竹取温泉 灯りの湯
+    url: http://www.akarinoyu.com/
+    map: https://maps.google.com/?cid=13717868065037359792&hl=ja
+    address: 京都府八幡市八幡中ノ山82-1
+    price: 920
+    lat: 34.861667
+    lng: 135.7020754
+    type: 温泉
+-
+    id: 122
+    name: 大黒湯
+    url: http://www.kyo1010.com/daikoku-yu02/
+    map: https://maps.google.com/?cid=9891335525935481645&hl=ja
+    address: 京都府京都市東山区本町新6-220
+    price: 450
+    lat: 34.9896221
+    lng: 135.7694265
+    type: 銭湯
+-
+    id: 123
+    name: 上野湯
+    url: http://www.kyo1010.com/ueno-yu/
+    map: https://maps.google.com/?cid=5601610884247787931&hl=ja
+    address: 京都府京都市北区紫野東泉堂町35
+    price: 450
+    lat: 35.0479929
+    lng: 135.7422433
+    type: 銭湯
+-
+    id: 124
+    name: 大正湯
+    url: http://www.kyo1010.com/taisyo-yu03/
+    map: https://maps.google.com/?cid=15130671545196124564&hl=ja
+    address: 京都府京都市下京区西七条北東野町26
+    price: 450
+    lat: 34.9893516
+    lng: 135.7375277
+    type: 銭湯
+-
+    id: 125
+    name: 大徳寺温泉
+    url: http://www.kyo1010.com/daitokuji-onsen/
+    map: https://maps.google.com/?cid=10116827830535254136&hl=ja
+    address: 京都府京都市北区紫竹西高縄町58
+    price: 450
+    lat: 35.0464637
+    lng: 135.747712
+    type: 銭湯
+-
+    id: 126
+    name: 竹の湯
+    url: https://takenoyukameoka.wixsite.com/sentou
+    map: https://maps.google.com/?cid=4958987839217928684&hl=ja
+    address: 京都府亀岡市西町60
+    price: 450
+    lat: 35.0148166
+    lng: 135.5759753
+    type: 銭湯
+-
+    id: 127
+    name: 壬生湯
+    url: http://www.kyo1010.com/mibu-yu/
+    map: https://maps.google.com/?cid=9150964710461658483&hl=ja
+    address: 京都府京都市中京区壬生辻町3
+    price: 450
+    lat: 35.0009867
+    lng: 135.7442058
+    type: 銭湯
+-
+    id: 128
+    name: 柊湯
+    url: http://www.kyo1010.com/hiiragi-yu/
+    map: https://maps.google.com/?cid=740873922098662571&hl=ja
+    address: 京都府京都市北区上賀茂葵之森町5-23
+    price: 450
+    lat: 35.0634653
+    lng: 135.75025
+    type: 銭湯
+-
+    id: 129
+    name: 大正湯
+    url: http://www.kyo1010.com/taisyo-yu01/
+    map: https://maps.google.com/?cid=10349567103582037843&hl=ja
+    address: 京都府京都市伏見区新町13-290
+    price: 450
+    lat: 34.9423178
+    lng: 135.7637252
+    type: 銭湯
+-
+    id: 130
+    name: 稲住湯
+    url: http://www.kyo1010.com/inazumi-yu/
+    map: https://maps.google.com/?cid=3908007180341617134&hl=ja
+    address: 京都府京都市下京区梅小路西中町60
+    price: 450
+    lat: 34.9854925
+    lng: 135.7360911
+    type: 銭湯
+-
+    id: 131
+    name: 桜湯
+    url: 
+    map: https://maps.google.com/?cid=18377331194267604536&hl=ja
+    address: 京都府宇治市小倉町南浦21-87
+    price: 450
+    lat: 34.8917814
+    lng: 135.7797781
+    type: 銭湯
+-
+    id: 132
+    name: 一の湯
+    url: 
+    map: https://maps.google.com/?cid=13785801681789663395&hl=ja
+    address: 京都府綾部市幸通27
+    price: 450
+    lat: 35.3013583
+    lng: 135.2504281
+    type: 銭湯
+-
+    id: 133
+    name: 京都市立 崇仁第二浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/?cid=13996674567311594662&hl=ja
+    address: 京都府京都市下京区屋形町6-1
+    price: 450
+    lat: 34.9853244
+    lng: 135.7663301
+    type: 銭湯
+-
+    id: 134
+    name: 山科湯
+    url: 
+    map: https://maps.google.com/?cid=2924195205281955230&hl=ja
+    address: 京都府京都市山科区東野南井ノ上町9-8
+    price: 450
+    lat: 34.97544329999999
+    lng: 135.8211701
+    type: 銭湯
+-
+    id: 135
+    name: 鹿王湯
+    url: http://www.kyo1010.com/rokuou-yu/
+    map: https://maps.google.com/?cid=5470768115290098112&hl=ja
+    address: 京都府京都市右京区嵯峨北堀町13
+    price: 450
+    lat: 35.0154113
+    lng: 135.6856314
+    type: 銭湯
+-
+    id: 136
+    name: 五色湯
+    url: http://www.kyo1010.com/goshiki-yu/
+    map: https://maps.google.com/?cid=11504371044696569336&hl=ja
+    address: 京都府京都市中京区壬生東大竹町2-1
+    price: 450
+    lat: 35.0060147
+    lng: 135.7346473
+    type: 銭湯
+-
+    id: 137
+    name: 大成温泉
+    url: 
+    map: https://maps.google.com/?cid=10817505083627044471&hl=ja
+    address: 京都府宇治市大久保町南ノ口40-4
+    price: 450
+    lat: 34.8688555
+    lng: 135.7697042
+    type: 銭湯
+-
+    id: 138
+    name: 寿湯
+    url: 
+    map: https://maps.google.com/?cid=14219724070211766492&hl=ja
+    address: 京都府京都市南区西九条比永城町17
+    price: 450
+    lat: 34.9771872
+    lng: 135.7492667
+    type: 銭湯
+-
+    id: 139
+    name: 若松湯
+    url: http://www.kyo1010.com/wakamatsu-yu/
+    map: https://maps.google.com/?cid=15651520525514293442&hl=ja
+    address: 京都府京都市中京区西ノ京左馬寮町11-7
+    price: 450
+    lat: 35.0162226
+    lng: 135.7363976
+    type: 銭湯
+-
+    id: 140
+    name: 菊湯
+    url: http://www.kyo1010.com/kiku-yu/
+    map: https://maps.google.com/?cid=17249071654946746324&hl=ja
+    address: 京都府京都市伏見区菊屋町849
+    price: 450
+    lat: 34.9418522
+    lng: 135.7581306
+    type: 銭湯
+-
+    id: 141
+    name: 盛好湯
+    url: http://www.kyo1010.com/seikou-yu/
+    map: https://maps.google.com/?cid=12482971539738173487&hl=ja
+    address: 京都府京都市中京区壬生松原町54
+    price: 450
+    lat: 35.0009097
+    lng: 135.7398931
+    type: 銭湯
+-
+    id: 142
+    name: 梅の宮湯
+    url: http://www.kyo1010.com/umenomiya-yu/
+    map: https://maps.google.com/?cid=4131782434596609792&hl=ja
+    address: 京都府京都市右京区梅津林口町5-68
+    price: 450
+    lat: 35.0040649
+    lng: 135.6988452
+    type: 銭湯
+-
+    id: 143
+    name: 戎湯
+    url: http://www.kyo1010.com/ebisu-yu/
+    map: https://maps.google.com/?cid=5704321742564056816&hl=ja
+    address: 京都府京都市中京区中川町6-1
+    price: 450
+    lat: 35.0081951
+    lng: 135.7370765
+    type: 銭湯
+-
+    id: 144
+    name: 金竜湯
+    url: http://www.kyo1010.com/kinryu-yu/
+    map: https://maps.google.com/?cid=10446782159224024623&hl=ja
+    address: 京都府京都市北区紫野下石龍町1-3
+    price: 450
+    lat: 35.0413959
+    lng: 135.7494501
+    type: 銭湯
+-
+    id: 145
+    name: 大宮温泉
+    url: http://www.kyo1010.com/oomiya-onsen/
+    map: https://maps.google.com/?cid=14220296231575823581&hl=ja
+    address: 京都府京都市上京区大宮寺ノ内上4
+    price: 450
+    lat: 35.0337865
+    lng: 135.7486004
+    type: 銭湯
+-
+    id: 146
+    name: 向島湯
+    url: http://www.kyo1010.com/mukaijima-yu/
+    map: https://maps.google.com/?cid=2889879201411280913&hl=ja
+    address: 京都府京都市伏見区向島善阿弥町43
+    price: 450
+    lat: 34.9244246
+    lng: 135.7704727
+    type: 銭湯
+-
+    id: 147
+    name: 明治湯
+    url: http://www.kyo1010.com/meiji-yu02/
+    map: https://maps.google.com/?cid=3125691768955242031&hl=ja
+    address: 京都府京都市北区紫野西藤ノ森町1
+    price: 450
+    lat: 35.0361005
+    lng: 135.7460556
+    type: 銭湯
+-
+    id: 148
+    name: ゆーゆーらんど 神明湯
+    url: 
+    map: https://maps.google.com/?cid=961196845520015459&hl=ja
+    address: 京都府宇治市神明町宮東97-2
+    price: 450
+    lat: 34.8788481
+    lng: 135.7936147
+    type: 銭湯
+-
+    id: 149
+    name: 京都市立 壬生浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=35.009704,135.732964
+    address: 京都府京都市中京区西ノ京新建町12
+    price: 450
+    lat: 35.0097457
+    lng: 135.7327324
+    type: 銭湯
+-
+    id: 150
+    name: 京都市立 三条浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=35.008122,135.775667
+    address: 京都府京都市東山区教業町696
+    price: 450
+    lat: 35.0081471
+    lng: 135.7756828
+    type: 銭湯
+-
+    id: 151
+    name: 京都市立 養正浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=35.032666,135.775389
+    address: 京都府京都市左京区田中馬場町77
+    price: 450
+    lat: 35.0326213
+    lng: 135.7753715
+    type: 銭湯
+-
+    id: 152
+    name: 京都市立 改進浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=34.948543,135.756319
+    address: 京都府京都市伏見区竹田狩賀町131
+    price: 450
+    lat: 34.9485429
+    lng: 135.7563189
+    type: 銭湯
+-
+    id: 153
+    name: 京都市立 崇仁第三浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=34.986622,135.763816
+    address: 京都府京都市下京区下之町56
+    price: 450
+    lat: 34.9864317
+    lng: 135.7636817
+    type: 銭湯
+-
+    id: 154
+    name: 白山湯
+    url: http://www.kyo1010.com/hakusan-yu02/
+    map: https://maps.google.com/maps?q=35.026283,135.75
+    address: 京都府京都市上京区飛弾殿町150
+    price: 450
+    lat: 35.0262699
+    lng: 135.7500467
+    type: 銭湯
+-
+    id: 155
+    name: 京都市立辰巳浴場
+    url: https://ja-jp.facebook.com/pages/category/Health-Beauty/%E8%BE%B0%E5%B7%B3%E6%B5%B4%E5%A0%B4-767061356800282/
+    map: https://maps.google.com/maps?q=34.940455,135.813552
+    address: 京都府京都市伏見区醍醐外山街道町21-11
+    price: 450
+    lat: 34.9404365
+    lng: 135.8135559
+    type: 銭湯
+-
+    id: 156
+    name: 京都市立 錦林浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=35.016254,135.7933
+    address: 京都府京都市左京区鹿ケ谷高岸町2-1
+    price: 450
+    lat: 35.0162037
+    lng: 135.7928979
+    type: 銭湯
+-
+    id: 157
+    name: 京都市立 楽只浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=35.042232,135.738663
+    address: 京都府京都市北区紫野上御輿町25
+    price: 450
+    lat: 35.04223169999999
+    lng: 135.7386626
+    type: 銭湯
+-
+    id: 158
+    name: 勝山温泉
+    url: 
+    map: https://maps.google.com/maps?q=34.946191,135.70091
+    address: 京都府向日市寺戸町中ノ段16
+    price: 450
+    lat: 34.9459873
+    lng: 135.7008643
+    type: 銭湯
+-
+    id: 159
+    name: 京都市立 久世浴場
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000258383.html
+    map: https://maps.google.com/maps?q=34.960349,135.722382
+    address: 京都府京都市南区久世大築町66
+    price: 450
+    lat: 34.9603595
+    lng: 135.7223207
+    type: 銭湯
+-
+    id: 160
+    name: 日ノ出湯
+    url: 
+    map: https://maps.google.com/maps?q=35.45594,135.32962
+    address: 京都府舞鶴市字東吉原297-2
+    price: 450
+    lat: 35.4559913
+    lng: 135.3295986
+    type: 銭湯

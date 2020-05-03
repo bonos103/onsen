@@ -1,0 +1,1221 @@
+---
+-
+    id: 1
+    name: 草津温泉 大滝乃湯
+    url: http://ohtakinoyu.com/
+    map: https://maps.google.com/?cid=6321708576006362035&hl=ja
+    address: 群馬県吾妻郡草津町596-13
+    price: 900
+    lat: 36.6229722
+    lng: 138.6018738
+    type: 温泉
+-
+    id: 2
+    name: 草津温泉 西の河原露天風呂
+    url: http://sainokawara.com/
+    map: https://maps.google.com/?cid=9936023367854808022&hl=ja
+    address: 群馬県吾妻郡草津町草津521-3
+    price: 600
+    lat: 36.6242728
+    lng: 138.5884452
+    type: 温泉
+-
+    id: 3
+    name: 宝川温泉 汪泉閣 宝川山荘
+    url: https://www.takaragawa.com/higaeri.html
+    map: https://maps.google.com/?cid=18150570749271350365&hl=ja
+    address: 群馬県利根郡みなかみ町藤原1899
+    price: 2000
+    lat: 36.8479513
+    lng: 139.0468675
+    type: 温泉
+-
+    id: 4
+    name: 京ヶ島天然温泉 湯都里
+    url: https://www.yu-tori.jp/
+    map: https://maps.google.com/?cid=14905174264947603843&hl=ja
+    address: 群馬県高崎市島野町890-3
+    price: 963
+    lat: 36.341014
+    lng: 139.0526148
+    type: 温泉
+-
+    id: 5
+    name: 湯楽部
+    url: https://yurabu.com/
+    map: https://maps.google.com/?cid=4130272484982981345&hl=ja
+    address: 群馬県太田市植木野町694-1
+    price: 1180
+    lat: 36.3216855
+    lng: 139.4134261
+    type: 温泉
+-
+    id: 6
+    name: 碓氷峠の森公園交流館 峠の湯
+    url: https://www.usuitouge.com/tougenoyu/
+    map: https://maps.google.com/?cid=439799798902656506&hl=ja
+    address: 群馬県安中市松井田町坂本1222
+    price: 600
+    lat: 36.3542301
+    lng: 138.7178228
+    type: 温泉
+-
+    id: 7
+    name: 里山体験 まんてん星の湯
+    url: https://www.mantenboshinoyu.com/
+    map: https://maps.google.com/?cid=5998425196600573190&hl=ja
+    address: 群馬県利根郡みなかみ町猿ケ京温泉1150-1
+    price: 670
+    lat: 36.7274943
+    lng: 138.8890107
+    type: 温泉
+-
+    id: 8
+    name: 花の駅・片品 花咲の湯
+    url: https://oze-katashina.info/hanasakunoyu/
+    map: https://maps.google.com/?cid=15009164196753869845&hl=ja
+    address: 群馬県利根郡片品村花咲1113
+    price: 650
+    lat: 36.750968
+    lng: 139.1988303
+    type: 温泉
+-
+    id: 9
+    name: 南郷温泉 しゃくなげの湯
+    url: https://syakunage.jp/
+    map: https://maps.google.com/?cid=10955516955501380882&hl=ja
+    address: 群馬県沼田市利根町日影南郷100
+    price: 530
+    lat: 36.6328414
+    lng: 139.1838355
+    type: 温泉
+-
+    id: 10
+    name: 北橘温泉 ばんどうの湯
+    url: http://www.bandounoyu.com/
+    map: https://maps.google.com/?cid=15995512013567308614&hl=ja
+    address: 群馬県渋川市北橘町下箱田605-5
+    price: 300
+    lat: 36.4615538
+    lng: 139.0418247
+    type: 温泉
+-
+    id: 11
+    name: 七福の湯(前橋店)
+    url: http://www.shichifukunoyu.jp/maebashi/
+    map: https://maps.google.com/?cid=17304531578690624166&hl=ja
+    address: 群馬県前橋市天川大島町128
+    price: 680
+    lat: 36.3685286
+    lng: 139.1040652
+    type: 温泉
+-
+    id: 12
+    name: あいのやまの湯
+    url: http://ainoyamanoyu.com/
+    map: https://maps.google.com/?cid=15983532763247929798&hl=ja
+    address: 群馬県前橋市荻窪町530-1
+    price: 520
+    lat: 36.4249258
+    lng: 139.1290045
+    type: 温泉
+-
+    id: 13
+    name: 小野上温泉センター さちのゆ
+    url: http://www.spa-sachinoyu.jp/
+    map: https://maps.google.com/?cid=233072498510196494&hl=ja
+    address: 群馬県渋川市村上305-2
+    price: 510
+    lat: 36.556053
+    lng: 138.903942
+    type: 温泉
+-
+    id: 14
+    name: 湯の道 利休(吉岡店)
+    url: http://www.yunomichi-rikyu.com/
+    map: https://maps.google.com/?cid=17203771475796824587&hl=ja
+    address: 群馬県北群馬郡吉岡町大久保974
+    price: 650
+    lat: 36.4212761
+    lng: 139.0276281
+    type: 温泉
+-
+    id: 15
+    name: 湯楽の里(伊勢崎店)
+    url: http://www.yurakirari.com/yura/isesaki/
+    map: https://maps.google.com/?cid=1091511468826573368&hl=ja
+    address: 群馬県伊勢崎市韮塚町1191-1
+    price: 850
+    lat: 36.3033992
+    lng: 139.1770663
+    type: 温泉
+-
+    id: 16
+    name: 天然温泉 伊勢崎 ゆまーる
+    url: https://yumarl.com/
+    map: https://maps.google.com/?cid=4642577177116070164&hl=ja
+    address: 群馬県伊勢崎市太田町985-1
+    price: 950
+    lat: 36.336263
+    lng: 139.187317
+    type: 温泉
+-
+    id: 17
+    name: 天然温泉 天神の湯
+    url: http://tenjinnoyu.com/
+    map: https://maps.google.com/?cid=17940242265244090661&hl=ja
+    address: 群馬県高崎市中尾町329-3
+    price: 700
+    lat: 36.3722319
+    lng: 139.0237118
+    type: 温泉
+-
+    id: 18
+    name: 前橋駅前天然温泉 ゆ～ゆ
+    url: https://www.yuyuspa.com/
+    map: https://maps.google.com/?cid=2463883826527714924&hl=ja
+    address: 群馬県前橋市表町2-10-31
+    price: 650
+    lat: 36.3864994
+    lng: 139.0731451
+    type: 温泉
+-
+    id: 19
+    name: 群馬温泉 やすらぎの湯
+    url: http://www.yasuraginoyu.com/
+    map: https://maps.google.com/?cid=14647664219664607033&hl=ja
+    address: 群馬県高崎市金古町1767
+    price: 540
+    lat: 36.4158199
+    lng: 138.9912398
+    type: 温泉
+-
+    id: 20
+    name: 白沢高原温泉 望郷の湯
+    url: http://www.boukyou.com/
+    map: https://maps.google.com/?cid=4585402024879049587&hl=ja
+    address: 群馬県沼田市白沢町平出1297
+    price: 900
+    lat: 36.6616285
+    lng: 139.1201864
+    type: 温泉
+-
+    id: 21
+    name: 安眠の湯
+    url: http://www.anminnoyu.com/
+    map: https://maps.google.com/?cid=10959662032490446052&hl=ja
+    address: 群馬県太田市下小林町540
+    price: 700
+    lat: 36.2929734
+    lng: 139.4022512
+    type: 温泉
+-
+    id: 22
+    name: 草津温泉 御座之湯
+    url: http://gozanoyu.com/
+    map: https://maps.google.com/?cid=5673034106078979460&hl=ja
+    address: 群馬県吾妻郡草津町草津421
+    price: 600
+    lat: 36.6223453
+    lng: 138.5959475
+    type: 温泉
+-
+    id: 23
+    name: 恵みの湯
+    url: https://www.city.annaka.lg.jp/kanko_spot/meguminoyu.html
+    map: https://maps.google.com/?cid=3612763965536494158&hl=ja
+    address: 群馬県安中市磯部3-3-41
+    price: 520
+    lat: 36.3012591
+    lng: 138.8501949
+    type: 温泉
+-
+    id: 24
+    name: 湯の道 利休(前橋南店)
+    url: https://www.rikyu-minami.com
+    map: https://maps.google.com/?cid=4487345172461876654&hl=ja
+    address: 群馬県前橋市鶴光路町316-1
+    price: 650
+    lat: 36.33467410000001
+    lng: 139.1005291
+    type: 温泉
+-
+    id: 25
+    name: 箕郷温泉 まねきの湯
+    url: http://www.manekinoyu.jp/misato/
+    map: https://maps.google.com/?cid=12719664327713368604&hl=ja
+    address: 群馬県高崎市箕郷町上芝853-1
+    price: 700
+    lat: 36.3871013
+    lng: 138.9585632
+    type: 温泉
+-
+    id: 26
+    name: 伊香保露天風呂
+    url: https://www.ikaho-kankou.com/spring/spa1/
+    map: https://maps.google.com/?cid=16983729887151759061&hl=ja
+    address: 群馬県渋川市伊香保町伊香保581
+    price: 450
+    lat: 36.4911196
+    lng: 138.9158634
+    type: 温泉
+-
+    id: 27
+    name: 道の駅 よしおか温泉 リバートピア吉岡
+    url: http://www.yoshioka-onsen.jp/rivertopia/
+    map: https://maps.google.com/?cid=1382559423659095470&hl=ja
+    address: 群馬県北群馬郡吉岡町漆原1989
+    price: 400
+    lat: 36.4407403
+    lng: 139.0348837
+    type: 温泉
+-
+    id: 28
+    name: 渋川天然温泉 花湯スカイテルメリゾート
+    url: https://skyterme.com/
+    map: https://maps.google.com/?cid=1791747580200811543&hl=ja
+    address: 群馬県渋川市半田3129-1
+    price: 600
+    lat: 36.4701283
+    lng: 139.0220329
+    type: 温泉
+-
+    id: 29
+    name: 鈴森の湯
+    url: https://suzumorinoyu.com/
+    map: https://maps.google.com/?cid=10689895433026118160&hl=ja
+    address: 群馬県利根郡みなかみ町阿能川1009-2
+    price: 800
+    lat: 36.7756318
+    lng: 138.9458253
+    type: 温泉
+-
+    id: 30
+    name: スーパー銭湯 前橋やすらぎの湯
+    url: http://maebashi-yasuragi.com/
+    map: https://maps.google.com/?cid=11394168667694635762&hl=ja
+    address: 群馬県伊勢崎市下触町659-5
+    price: 520
+    lat: 36.3750861
+    lng: 139.2003807
+    type: 温泉
+-
+    id: 31
+    name: 高崎温泉 さくらの湯
+    url: http://www.sakuraonsen.jp/
+    map: https://maps.google.com/?cid=10407517856525242856&hl=ja
+    address: 群馬県高崎市下和田町1-10-12
+    price: 550
+    lat: 36.3136321
+    lng: 139.0111542
+    type: 温泉
+-
+    id: 32
+    name: 伊香保温泉 石段の湯
+    url: http://www.city.shibukawa.lg.jp/kankou/ikahoonsen/ikahoonsen/p003077.html
+    map: https://maps.google.com/?cid=2979620545016226625&hl=ja
+    address: 群馬県渋川市伊香保町伊香保36
+    price: 410
+    lat: 36.4983732
+    lng: 138.9164655
+    type: 温泉
+-
+    id: 33
+    name: 草津温泉 地蔵の湯
+    url: https://www.kusatsu-onsen.ne.jp/onsen/detail/index.php?c=5&g=2&kcd=195
+    map: https://maps.google.com/?cid=11312187199162566811&hl=ja
+    address: 群馬県吾妻郡草津町
+    price: 0
+    lat: 36.6207181
+    lng: 138.5960945
+    type: 共同浴場・銭湯
+-
+    id: 34
+    name: 湯テルメ谷川
+    url: http://www9.wind.ne.jp/mizukikou/sub35.htm
+    map: https://maps.google.com/?cid=496350239350163088&hl=ja
+    address: 群馬県利根郡みなかみ町谷川514-12
+    price: 630
+    lat: 36.788653
+    lng: 138.9541214
+    type: 温泉
+-
+    id: 35
+    name: 中之条町営 四万清流の湯
+    url: http://shimaonsen.org/seiryu/?page_id=2
+    map: https://maps.google.com/?cid=3750506042751803849&hl=ja
+    address: 群馬県吾妻郡中之条町四万3830-1
+    price: 500
+    lat: 36.6744606
+    lng: 138.784222
+    type: 共同浴場・銭湯
+-
+    id: 36
+    name: 水沼駅温泉センター せせらぎの湯
+    url: http://www.mizunuma-sb.com/
+    map: https://maps.google.com/?cid=2991822394832548759&hl=ja
+    address: 群馬県桐生市黒保根町水沼120-1
+    price: 600
+    lat: 36.4997269
+    lng: 139.2774102
+    type: 温泉
+-
+    id: 37
+    name: 草津温泉 白旗の湯
+    url: https://www.kusatsu-onsen.ne.jp/onsen/detail/index.php?c=5&g=2&kcd=193
+    map: https://maps.google.com/?cid=12564406716675527120&hl=ja
+    address: 群馬県吾妻郡草津町
+    price: 0
+    lat: 36.6207181
+    lng: 138.5960945
+    type: 共同浴場・銭湯
+-
+    id: 38
+    name: 高原の天然温泉 つつじの湯
+    url: 
+    map: https://maps.google.com/?cid=5406617834045337228&hl=ja
+    address: 群馬県吾妻郡嬬恋村田代930
+    price: 600
+    lat: 36.4846457
+    lng: 138.4633602
+    type: 温泉
+-
+    id: 39
+    name: 黄金の湯館
+    url: https://www.itoenhotel.com/koganenoyu/
+    map: https://maps.google.com/?cid=7926873521424498737&hl=ja
+    address: 群馬県渋川市伊香保町550
+    price: 980
+    lat: 36.4995576
+    lng: 138.9248876
+    type: 温泉
+-
+    id: 40
+    name: 妙義ふれあいプラザ もみじの湯
+    url: http://www.tomioka-silk.jp/spot/sightseeing/detail/FureaiP-Momiji-no-yu.html
+    map: https://maps.google.com/?cid=5101882151255411185&hl=ja
+    address: 群馬県富岡市妙義町妙義1-1
+    price: 520
+    lat: 36.2973128
+    lng: 138.7664114
+    type: 温泉
+-
+    id: 41
+    name: 鮎川温泉 金井の湯
+    url: http://www.kanainoyu.jp/
+    map: https://maps.google.com/?cid=3160011601441218880&hl=ja
+    address: 群馬県藤岡市金井627
+    price: 750
+    lat: 36.2119491
+    lng: 139.0276682
+    type: 温泉
+-
+    id: 42
+    name: 川原湯温泉 王湯
+    url: http://www.kawarayu.jp/onsen.html
+    map: https://maps.google.com/?cid=8792894636496482401&hl=ja
+    address: 群馬県吾妻郡長野原町川原湯
+    price: 500
+    lat: 36.5420709
+    lng: 138.7015768
+    type: 共同浴場・銭湯
+-
+    id: 43
+    name: 粕川温泉 元気ランド
+    url: http://www.genkey.jp/
+    map: https://maps.google.com/?cid=1158348153354786435&hl=ja
+    address: 群馬県前橋市粕川町月田372-1
+    price: 520
+    lat: 36.4332543
+    lng: 139.2060831
+    type: 温泉
+-
+    id: 44
+    name: 浜平温泉 しおじの湯
+    url: http://www.uenomura.jp/tourism/play/shiojinoyu.html
+    map: https://maps.google.com/?cid=9455136263415066438&hl=ja
+    address: 群馬県多野郡上野村楢原3487-2
+    price: 500
+    lat: 36.0711603
+    lng: 138.703628
+    type: 温泉
+-
+    id: 45
+    name: 金島温泉 富貴の湯
+    url: http://fuukinoyu.sakura.ne.jp/
+    map: https://maps.google.com/?cid=3209591472724738950&hl=ja
+    address: 群馬県渋川市川島99-1
+    price: 400
+    lat: 36.5295885
+    lng: 138.9789332
+    type: 温泉
+-
+    id: 46
+    name: 富士見温泉 見晴らしの湯 ふれあい館
+    url: http://www.fujimi-onsen.com
+    map: https://maps.google.com/?cid=4810337149698107201&hl=ja
+    address: 群馬県前橋市富士見町石井1569-1
+    price: 520
+    lat: 36.4693142
+    lng: 139.094373
+    type: 温泉
+-
+    id: 47
+    name: 老神温泉 日帰りの湯 湯元華亭
+    url: https://www.hanatei.info/
+    map: https://maps.google.com/?cid=4461898199820227327&hl=ja
+    address: 群馬県沼田市利根町大楊1519-4
+    price: 700
+    lat: 36.6678085
+    lng: 139.2091053
+    type: 温泉
+-
+    id: 48
+    name: 白根温泉 薬師之湯
+    url: 
+    map: https://maps.google.com/?cid=9175979720711120809&hl=ja
+    address: 群馬県利根郡片品村東小川4667
+    price: 800
+    lat: 36.7957314
+    lng: 139.2809898
+    type: 温泉
+-
+    id: 49
+    name: 敷島温泉 赤城の湯 ユートピア赤城
+    url: https://yutopia-akagi.com/fureai/
+    map: https://maps.google.com/?cid=14736455109873774657&hl=ja
+    address: 群馬県渋川市赤城町敷島165-3
+    price: 500
+    lat: 36.5340125
+    lng: 139.0318601
+    type: 温泉
+-
+    id: 50
+    name: スパリゾート ゆにーいく
+    url: http://www.yuniiku.jp/
+    map: https://maps.google.com/?cid=8853234236913151156&hl=ja
+    address: 群馬県沼田市薄根町3435
+    price: 650
+    lat: 36.640657
+    lng: 139.0278646
+    type: 温泉
+-
+    id: 51
+    name: 奥平温泉 遊神館
+    url: http://takuminosato.or.jp/yusin/y_index.html
+    map: https://maps.google.com/?cid=489951455689385279&hl=ja
+    address: 群馬県利根郡みなかみ町入須川378
+    price: 600
+    lat: 36.6779897
+    lng: 138.873651
+    type: 温泉
+-
+    id: 52
+    name: 吾妻峡温泉 天狗の湯
+    url: https://agatsumakyo.jp/tengunoyu.html
+    map: https://maps.google.com/?cid=11382252025061788469&hl=ja
+    address: 群馬県吾妻郡東吾妻町三島6441
+    price: 400
+    lat: 36.5700739
+    lng: 138.7355634
+    type: 温泉
+-
+    id: 53
+    name: 沢渡温泉共同浴場
+    url: http://spa-sawatari.jp/kanko/kyoudoyu.html
+    map: https://maps.google.com/?cid=8764301028808884078&hl=ja
+    address: 群馬県吾妻郡中之条町上沢渡
+    price: 300
+    lat: 36.6276026
+    lng: 138.739224
+    type: 共同浴場・銭湯
+-
+    id: 54
+    name: 寄居山温泉 ほっこりの湯
+    url: https://oze-katashina.info/hokkorinoyu/
+    map: https://maps.google.com/?cid=15188514942598744029&hl=ja
+    address: 群馬県利根郡片品村鎌田4078-1
+    price: 550
+    lat: 36.7693994
+    lng: 139.2250131
+    type: 温泉
+-
+    id: 55
+    name: 源泉 湯乃庵
+    url: http://noma-ss.jp/yunoan/
+    map: https://maps.google.com/?cid=5071852143568353509&hl=ja
+    address: 群馬県太田市下浜田町474-8
+    price: 500
+    lat: 36.2765096
+    lng: 139.3652568
+    type: 温泉
+-
+    id: 56
+    name: ふれあい交流館
+    url: http://www.minakami-onsen.com/spa.php?itemid=273
+    map: https://maps.google.com/?cid=5468066026416234744&hl=ja
+    address: 群馬県利根郡みなかみ町湯原801
+    price: 570
+    lat: 36.76908590000001
+    lng: 138.9701682
+    type: 温泉
+-
+    id: 57
+    name: 沼田健康ランド
+    url: http://www.numatakenkoland.com/
+    map: https://maps.google.com/?cid=16090337306070882565&hl=ja
+    address: 群馬県沼田市薄根町2824-1
+    price: 1000
+    lat: 36.6487684
+    lng: 139.0338702
+    type: 温泉
+-
+    id: 58
+    name: 絹の里別邸 桜山温泉
+    url: http://www.spa-sakurayama.com/
+    map: https://maps.google.com/?cid=110896579052076203&hl=ja
+    address: 群馬県藤岡市浄法寺456-5
+    price: 750
+    lat: 36.1829448
+    lng: 139.0527506
+    type: 温泉
+-
+    id: 59
+    name: 昭和の湯
+    url: http://higaerionsen.jp/showanoyu/
+    map: https://maps.google.com/?cid=2445004739942201628&hl=ja
+    address: 群馬県利根郡昭和村糸井624
+    price: 500
+    lat: 36.6414193
+    lng: 139.066873
+    type: 温泉
+-
+    id: 60
+    name: 草津温泉 千代の湯
+    url: https://www.kusatsu-onsen.ne.jp/onsen/detail/index.php?c=5&g=2&kcd=194
+    map: https://maps.google.com/?cid=17460588156618592698&hl=ja
+    address: 群馬県吾妻郡草津町
+    price: 0
+    lat: 36.6207181
+    lng: 138.5960945
+    type: 共同浴場・銭湯
+-
+    id: 61
+    name: 上牧温泉 風和の湯
+    url: http://www.enjoy-minakami.jp/spa.php?itemid=583
+    map: https://maps.google.com/?cid=14639538161015944738&hl=ja
+    address: 群馬県利根郡みなかみ町上牧1996-7
+    price: 600
+    lat: 36.7352474
+    lng: 138.9818772
+    type: 温泉
+-
+    id: 62
+    name: 高山温泉 ふれあいプラザ
+    url: https://www.takayama-kanko.jp/fureai/
+    map: https://maps.google.com/?cid=7983299749897846420&hl=ja
+    address: 群馬県吾妻郡高山村中山2357-1
+    price: 500
+    lat: 36.6224922
+    lng: 138.9544312
+    type: 温泉
+-
+    id: 63
+    name: 白井温泉 こもちの湯
+    url: http://www.city.shibukawa.lg.jp/shisetsu/shoukoukankou/p003137.html
+    map: https://maps.google.com/?cid=1825372439542608687&hl=ja
+    address: 群馬県渋川市吹屋658-17
+    price: 400
+    lat: 36.5171115
+    lng: 139.0148542
+    type: 温泉
+-
+    id: 64
+    name: 上増田温泉 砦乃湯
+    url: http://toridenoyu.com
+    map: https://maps.google.com/?cid=17390060106117466884&hl=ja
+    address: 群馬県安中市松井田町上増田2177
+    price: 600
+    lat: 36.3702168
+    lng: 138.7615292
+    type: 温泉
+-
+    id: 65
+    name: しんとう温泉 ふれあい館
+    url: http://www.vill.shinto.gunma.jp/sisetu/sisetu01.htm
+    map: https://maps.google.com/?cid=4600229413272357329&hl=ja
+    address: 群馬県北群馬郡榛東村新井507-3
+    price: 500
+    lat: 36.4382241
+    lng: 138.9682381
+    type: 温泉
+-
+    id: 66
+    name: 月夜野温泉 三峰の湯
+    url: http://www.enjoy-minakami.jp/spa.php?itemid=649
+    map: https://maps.google.com/?cid=9052893197465670086&hl=ja
+    address: 群馬県利根郡みなかみ町後閑2265
+    price: 400
+    lat: 36.697586
+    lng: 139.00877
+    type: 温泉
+-
+    id: 67
+    name: あづま温泉 桔梗館
+    url: http://www.kikyoukan.com
+    map: https://maps.google.com/?cid=3171952245448217137&hl=ja
+    address: 群馬県吾妻郡東吾妻町大字新巻325-1
+    price: 500
+    lat: 36.55949469999999
+    lng: 138.893966
+    type: 温泉
+-
+    id: 68
+    name: 御所平温泉 かくれの湯
+    url: 
+    map: https://maps.google.com/?cid=150925174346899728&hl=ja
+    address: 群馬県吾妻郡長野原町応桑1985-175
+    price: 900
+    lat: 36.4905285
+    lng: 138.5871773
+    type: 温泉
+-
+    id: 69
+    name: 四万温泉 御夢想の湯
+    url: http://shimaonsen.org/unchiku/unchiku4.html
+    map: https://maps.google.com/?cid=3267076775376251908&hl=ja
+    address: 群馬県吾妻郡中之条町四万4370-1
+    price: 0
+    lat: 36.6852106
+    lng: 138.76936
+    type: 共同浴場・銭湯
+-
+    id: 70
+    name: わたすげのゆ
+    url: http://www.watasuge.click/
+    map: https://maps.google.com/?cid=3864888936006095919&hl=ja
+    address: 群馬県沼田市利根町平川1514-1
+    price: 650
+    lat: 36.7395358
+    lng: 139.2314543
+    type: 温泉
+-
+    id: 71
+    name: 高山温泉 いぶきの湯
+    url: https://www.takayama-kanko.jp/info/onsen/ibukinoyu.html
+    map: https://maps.google.com/?cid=6428437757797373440&hl=ja
+    address: 群馬県吾妻郡高山村中山3999-1
+    price: 300
+    lat: 36.6334075
+    lng: 138.9457883
+    type: 温泉
+-
+    id: 72
+    name: 榛名湖温泉 レークサイドゆうすげ
+    url: http://www.yusuge.co.jp/
+    map: https://maps.google.com/?cid=8262704033968680164&hl=ja
+    address: 群馬県高崎市榛名山町846-3
+    price: 520
+    lat: 36.45115300000001
+    lng: 138.8447708
+    type: 温泉
+-
+    id: 73
+    name: 草津温泉 煮川乃湯
+    url: http://www.kusatsu.ne.jp/asobo/bath/nikawanoyu.htm
+    map: https://maps.google.com/?cid=10091902565913516354&hl=ja
+    address: 群馬県吾妻郡草津町草津583-1
+    price: 0
+    lat: 36.6231394
+    lng: 138.6000923
+    type: 共同浴場・銭湯
+-
+    id: 74
+    name: 尾瀬ぷらり館 戸倉の湯
+    url: http://www.tepco.co.jp/oze/iku/purari/index-j.html
+    map: https://maps.google.com/?cid=8767982232388779612&hl=ja
+    address: 群馬県利根郡片品村戸倉736-1
+    price: 500
+    lat: 36.8395528
+    lng: 139.2494857
+    type: 温泉
+-
+    id: 75
+    name: バラギ温泉 湖畔の湯
+    url: https://tsumagoi-kankou.wixsite.com/lakeside-onsen
+    map: https://maps.google.com/?cid=8374411493539001050&hl=ja
+    address: 群馬県吾妻郡嬬恋村干俣2401
+    price: 500
+    lat: 36.5895578
+    lng: 138.5096915
+    type: 温泉
+-
+    id: 76
+    name: 前橋温泉 クア・イ・テルメ
+    url: http://www.maebashionsen.com/spa/index.html
+    map: https://maps.google.com/?cid=4371098084703852309&hl=ja
+    address: 群馬県前橋市関根町31-2
+    price: 650
+    lat: 36.43647199999999
+    lng: 139.0520701
+    type: 温泉
+-
+    id: 77
+    name: 川場温泉センター いこいの湯
+    url: http://kanko.vill.kawaba.gunma.jp/hot_springs/ikoi/index.html
+    map: https://maps.google.com/?cid=1781377833047236866&hl=ja
+    address: 群馬県利根郡川場村川場湯原482
+    price: 430
+    lat: 36.7095353
+    lng: 139.1132312
+    type: 温泉
+-
+    id: 78
+    name: 四万温泉 河原の湯
+    url: http://shimaonsen.org/unchiku/unchiku4.html#kawaranoyu
+    map: https://maps.google.com/?cid=13656915313029791970&hl=ja
+    address: 群馬県吾妻郡中之条町四万
+    price: 0
+    lat: 36.6852106
+    lng: 138.76936
+    type: 共同浴場・銭湯
+-
+    id: 79
+    name: 草津温泉 テルメテルメ
+    url: https://www.kusatsu-onsen.ne.jp/onsen/detail/index.php?c=5&g=0&kcd=187
+    map: https://maps.google.com/?cid=6465505136615399334&hl=ja
+    address: 群馬県吾妻郡草津町618
+    price: 910
+    lat: 36.6207181
+    lng: 138.5960945
+    type: 温泉
+-
+    id: 80
+    name: 尾島温泉 利根の湯
+    url: http://otashakyo.jp/shisetsu/tone/
+    map: https://maps.google.com/?cid=12878537184050049363&hl=ja
+    address: 群馬県太田市備前島町196-1
+    price: 500
+    lat: 36.2585034
+    lng: 139.3426231
+    type: 温泉
+-
+    id: 81
+    name: 草津温泉 こぶしの湯
+    url: http://www.kusatsu.ne.jp/asobo/bath/kobushinoyu.htm
+    map: https://maps.google.com/?cid=6494696024753294442&hl=ja
+    address: 群馬県吾妻郡草津町草津464
+    price: 0
+    lat: 36.6222463
+    lng: 138.5903615
+    type: 共同浴場・銭湯
+-
+    id: 82
+    name: 温泉センター 諏訪ノ湯
+    url: https://twitter.com/suwanoyu
+    map: https://maps.google.com/?cid=17587109297000010767&hl=ja
+    address: 群馬県利根郡みなかみ町高日向426
+    price: 350
+    lat: 36.7525981
+    lng: 138.9768242
+    type: 温泉
+-
+    id: 83
+    name: 笠懸町温泉 かたくりの湯
+    url: https://www.city.midori.gunma.jp/www/contents/1000000000182/
+    map: https://maps.google.com/?cid=5623540740866099293&hl=ja
+    address: 群馬県みどり市笠懸町鹿250
+    price: 520
+    lat: 36.3989856
+    lng: 139.283945
+    type: 温泉
+-
+    id: 84
+    name: 猿ヶ京公衆浴場 いこいの湯
+    url: 
+    map: https://maps.google.com/?cid=6378821781865321955&hl=ja
+    address: 群馬県利根郡みなかみ町猿ケ京温泉346
+    price: 300
+    lat: 36.7277404
+    lng: 138.8775847
+    type: 温泉
+-
+    id: 85
+    name: 北軽井沢シルキーハイランド 絹糸の湯
+    url: http://www.kinuitonoyu.jp/
+    map: https://maps.google.com/?cid=196556199403602617&hl=ja
+    address: 群馬県吾妻郡長野原町応桑1544-150
+    price: 1000
+    lat: 36.4966561
+    lng: 138.5779574
+    type: 温泉
+-
+    id: 86
+    name: とべの湯
+    url: http://www.kazawa.com/13990841092050
+    map: https://maps.google.com/?cid=17733018307647924827&hl=ja
+    address: 群馬県吾妻郡嬬恋村鹿沢温泉
+    price: 600
+    lat: 36.4457802
+    lng: 138.4187999
+    type: 温泉
+-
+    id: 87
+    name: 京塚温泉 しゃくなげの湯
+    url: 
+    map: https://maps.google.com/?cid=16798712453141650337&hl=ja
+    address: 群馬県吾妻郡中之条町入山3257
+    price: 500
+    lat: 36.638589
+    lng: 138.650492
+    type: 温泉
+-
+    id: 88
+    name: 新田温泉 ユーランド新田
+    url: http://otashakyo.jp/shisetsu/nitta/
+    map: https://maps.google.com/?cid=11713771591598037703&hl=ja
+    address: 群馬県太田市新田反町831-3
+    price: 500
+    lat: 36.2997938
+    lng: 139.3015898
+    type: 温泉
+-
+    id: 89
+    name: 根古屋城温泉 根古屋乃湯
+    url: 
+    map: https://maps.google.com/?cid=4763525322599931215&hl=ja
+    address: 群馬県吾妻郡東吾妻町岡崎321-1
+    price: 400
+    lat: 36.51785090000001
+    lng: 138.9127271
+    type: 温泉
+-
+    id: 90
+    name: 貸切かけ流し温泉 ゆう
+    url: http://www5.wind.ne.jp/kasikiri.yuu/
+    map: https://maps.google.com/?cid=5252469991961824648&hl=ja
+    address: 群馬県利根郡みなかみ町谷川534-1
+    price: 2800
+    lat: 36.8042024
+    lng: 138.9353974
+    type: 温泉
+-
+    id: 91
+    name: 林温泉 かたくりの湯
+    url: 
+    map: https://maps.google.com/?cid=5551814246206244792&hl=ja
+    address: 群馬県吾妻郡長野原町大字林571
+    price: 300
+    lat: 36.5439748
+    lng: 138.672289
+    type: 共同浴場・銭湯
+-
+    id: 92
+    name: 高崎市倉渕福祉センター せせらぎの湯
+    url: http://takasaki-shakyo.or.jp/src/jigyo/seseraginoyu.htm
+    map: https://maps.google.com/?cid=13826420357207059288&hl=ja
+    address: 群馬県高崎市倉渕町岩氷19-1
+    price: 730
+    lat: 36.4224284
+    lng: 138.7722372
+    type: 温泉
+-
+    id: 93
+    name: 赤城の湯 ユートピア赤城 ふれあいの家
+    url: https://yutopia-akagi.com/fureai/
+    map: https://maps.google.com/?cid=11465182815451250537&hl=ja
+    address: 群馬県渋川市赤城町敷島165-3
+    price: 500
+    lat: 36.5340125
+    lng: 139.0318601
+    type: 温泉
+-
+    id: 94
+    name: 甘楽町多世代サポートセンター にこにこ甘楽
+    url: http://www.town.kanra.gunma.jp/kenkou/01.html
+    map: https://maps.google.com/?cid=6581422170823813163&hl=ja
+    address: 群馬県甘楽郡甘楽町白倉1395-1
+    price: 200
+    lat: 36.2412504
+    lng: 138.9345313
+    type: 温泉
+-
+    id: 95
+    name: 尻焼温泉 六合温泉医療センター バーデ六合
+    url: https://www.jadecom.or.jp/jadecomhp/kuni/html/bumonlist/index_4.html
+    map: https://maps.google.com/?cid=17315582717148328279&hl=ja
+    address: 群馬県吾妻郡六合村大字入山1478-5
+    price: 400
+    lat: 36.6495191
+    lng: 138.6516292
+    type: 温泉
+-
+    id: 96
+    name: 湯の小屋温泉 源流の湯 湯元館
+    url: https://www.yunokoya-yumotokan.jp/
+    map: https://maps.google.com/?cid=13764917581897574461&hl=ja
+    address: 群馬県利根郡みなかみ町藤原6219
+    price: 800
+    lat: 36.8966897
+    lng: 139.0817124
+    type: 温泉
+-
+    id: 97
+    name: 湯宿温泉 共同浴場窪湯
+    url: 
+    map: https://maps.google.com/?cid=12847305182319738331&hl=ja
+    address: 群馬県利根郡みなかみ町湯宿
+    price: 200
+    lat: 36.6996901
+    lng: 138.9139863
+    type: 共同浴場・銭湯
+-
+    id: 98
+    name: 座禅温泉 シャレー丸沼
+    url: https://www.marunuma.jp/green/hotel-spa/spa/
+    map: https://maps.google.com/?cid=17046613095429882075&hl=ja
+    address: 群馬県利根郡片品村東小川4658-58
+    price: 800
+    lat: 36.8139871
+    lng: 139.343755
+    type: 温泉
+-
+    id: 99
+    name: 湯宿温泉 小滝の湯
+    url: 
+    map: https://maps.google.com/?cid=2563427251651342026&hl=ja
+    address: 群馬県利根郡みなかみ町湯宿
+    price: 200
+    lat: 36.6996901
+    lng: 138.9139863
+    type: 共同浴場・銭湯
+-
+    id: 100
+    name: 応徳温泉 くつろぎの湯
+    url: 
+    map: https://maps.google.com/?cid=4161490577620644336&hl=ja
+    address: 群馬県吾妻郡中之条町小雨21-1
+    price: 400
+    lat: 36.6076311
+    lng: 138.638889
+    type: 温泉
+-
+    id: 101
+    name: 四万温泉 上の湯
+    url: 
+    map: https://maps.google.com/?cid=2837574946797607361&hl=ja
+    address: 群馬県吾妻郡中之条町四万
+    price: 0
+    lat: 36.6852106
+    lng: 138.76936
+    type: 共同浴場・銭湯
+-
+    id: 102
+    name: 猿ヶ京温泉センター
+    url: http://sarugakyoonsencenter.travel.coocan.jp
+    map: https://maps.google.com/?cid=17285073993905548215&hl=ja
+    address: 群馬県利根郡みなかみ町猿ケ京温泉1087
+    price: 1260
+    lat: 36.72616379999999
+    lng: 138.8874531
+    type: 温泉
+-
+    id: 103
+    name: 高砂湯
+    url: 
+    map: https://maps.google.com/?cid=15866929430792907568&hl=ja
+    address: 群馬県太田市本町15-14
+    price: 400
+    lat: 36.29550589999999
+    lng: 139.3724844
+    type: 銭湯
+-
+    id: 104
+    name: 猿ヶ京温泉 多目的集会所
+    url: 
+    map: https://maps.google.com/?cid=7654967842417704621&hl=ja
+    address: 群馬県利根郡みなかみ町猿ヶ京温泉253
+    price: 300
+    lat: 36.7260582
+    lng: 138.8832075
+    type: 共同浴場・銭湯
+-
+    id: 105
+    name: 沼田岡谷温泉 かねまんやすらぎセンター
+    url: http://www.numata-kankou.jp/spa/kaneman/index.html
+    map: https://maps.google.com/?cid=16941582281282395005&hl=ja
+    address: 群馬県沼田市岡谷町1677-1
+    price: 600
+    lat: 36.6595904
+    lng: 139.0627119
+    type: 温泉
+-
+    id: 106
+    name: 藤守湯
+    url: https://gunma.k-o-i.jp/koten/fujimoriyu/
+    map: https://maps.google.com/?cid=10155029391166713551&hl=ja
+    address: 群馬県高崎市大橋町9
+    price: 400
+    lat: 36.3366808
+    lng: 139.0000436
+    type: 銭湯
+-
+    id: 107
+    name: しんめいの湯
+    url: http://www.oze-info.com/semine/simeinoyu/sinmeinoyu-1.htm
+    map: https://maps.google.com/?cid=6621849247605672470&hl=ja
+    address: 群馬県利根郡片品村花咲280
+    price: 500
+    lat: 36.75511360000001
+    lng: 139.2061996
+    type: 温泉
+-
+    id: 108
+    name: 追分湯
+    url: https://gunma.k-o-i.jp/koten/oiwakeyu/
+    map: https://maps.google.com/?cid=6131317129181393863&hl=ja
+    address: 群馬県高崎市飯塚町214-10
+    price: 400
+    lat: 36.344216
+    lng: 139.0005461
+    type: 銭湯
+-
+    id: 109
+    name: 諏訪の湯
+    url: http://gunma.k-o-i.jp/koten/suwanoyu/
+    map: https://maps.google.com/?cid=1514816104633074957&hl=ja
+    address: 群馬県高崎市新町1646-3
+    price: 400
+    lat: 36.2732337
+    lng: 139.1107939
+    type: 銭湯
+-
+    id: 110
+    name: かわば田園温泉 楽楽の湯
+    url: https://www.rakurakunoyu.com/
+    map: https://maps.google.com/?cid=14566526877569458899&hl=ja
+    address: 群馬県利根郡川場村立岩673-2
+    price: 800
+    lat: 36.6804196
+    lng: 139.1057136
+    type: 温泉
+-
+    id: 111
+    name: 利根の湯
+    url: http://gunma.k-o-i.jp/koten/tonenoyu/
+    map: https://maps.google.com/?cid=16750508977908834187&hl=ja
+    address: 群馬県前橋市紅雲町1-14-15
+    price: 400
+    lat: 36.3845818
+    lng: 139.0619097
+    type: 銭湯
+-
+    id: 112
+    name: センターステーション 座禅温泉
+    url: https://www.marunuma.jp/winter/service/spa/
+    map: https://maps.google.com/maps?q=36.814645,139.329643
+    address: 群馬県利根郡片品村東小川4658-58
+    price: 700
+    lat: 36.8139871
+    lng: 139.343755
+    type: 温泉
+-
+    id: 113
+    name: 癒しの温泉 さらさの湯
+    url: 
+    map: https://maps.google.com/maps?q=36.370335,139.359848
+    address: 群馬県桐生市広沢町6-320-1
+    price: 780
+    lat: 36.3703025
+    lng: 139.3598417
+    type: 温泉
+-
+    id: 114
+    name: 寿美乃湯
+    url: http://gunma.k-o-i.jp/koten/suminoyu/
+    map: https://maps.google.com/?cid=5577087611479582335&hl=ja
+    address: 群馬県伊勢崎市緑町7-18
+    price: 400
+    lat: 36.3184972
+    lng: 139.1963456
+    type: 銭湯
+-
+    id: 115
+    name: 桜湯
+    url: http://gunma.k-o-i.jp/koten/sakurayu-2/
+    map: https://maps.google.com/?cid=3599185028872005667&hl=ja
+    address: 群馬県桐生市広沢町1-2689
+    price: 400
+    lat: 36.3972697
+    lng: 139.325765
+    type: 銭湯
+-
+    id: 116
+    name: 浅草湯
+    url: http://gunma.k-o-i.jp/koten/asakusayu/
+    map: https://maps.google.com/?cid=4374664754555146101&hl=ja
+    address: 群馬県高崎市成田町36-3
+    price: 400
+    lat: 36.3316639
+    lng: 139.0026667
+    type: 銭湯
+-
+    id: 117
+    name: 上の湯
+    url: http://gunma.k-o-i.jp/koten/uenoyu/
+    map: https://maps.google.com/?cid=3512873856788781037&hl=ja
+    address: 群馬県桐生市錦町1-8-11
+    price: 400
+    lat: 36.4051461
+    lng: 139.3341684
+    type: 銭湯
+-
+    id: 118
+    name: 松の湯
+    url: http://gunma.k-o-i.jp/koten/matsunoyu/
+    map: https://maps.google.com/?cid=1027647822174785442&hl=ja
+    address: 群馬県前橋市朝日町2-16-2
+    price: 400
+    lat: 36.3845824
+    lng: 139.0823914
+    type: 銭湯
+-
+    id: 119
+    name: 大正湯
+    url: 
+    map: https://maps.google.com/?cid=10051620304334463953&hl=ja
+    address: 群馬県富岡市七日市1143
+    price: 400
+    lat: 36.2569075
+    lng: 138.8865456
+    type: 銭湯
+-
+    id: 120
+    name: 成田湯
+    url: http://gunma.k-o-i.jp/koten/naritayu/
+    map: https://maps.google.com/maps?q=36.389997,139.075023
+    address: 群馬県前橋市三河町1-12
+    price: 400
+    lat: 36.3900717
+    lng: 139.0751611
+    type: 銭湯
+-
+    id: 121
+    name: 千代乃湯
+    url: http://gunma.k-o-i.jp/koten/chiyonoyu/
+    map: https://maps.google.com/maps?q=36.43433,139.274139
+    address: 群馬県みどり市大間々町大間々1014
+    price: 400
+    lat: 36.434382
+    lng: 139.2738263
+    type: 銭湯
+-
+    id: 122
+    name: さくら湯
+    url: http://gunma.k-o-i.jp/koten/sakurayu/
+    map: https://maps.google.com/maps?q=36.273867,139.256824
+    address: 群馬県伊勢崎市境292-2
+    price: 400
+    lat: 36.2734509
+    lng: 139.2566426
+    type: 銭湯

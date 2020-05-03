@@ -1,0 +1,691 @@
+---
+-
+    id: 1
+    name: 天然温泉 太古の化石海水 潮騒の湯
+    url: http://www.siosai.jp/
+    map: https://maps.google.com/?cid=4152975863860294532&hl=ja
+    address: 茨城県東茨城郡大洗町大貫町256-25
+    price: 900
+    lat: 36.2976136
+    lng: 140.5607573
+    type: 温泉
+-
+    id: 2
+    name: ひたちなか温泉 喜楽里別邸
+    url: http://www.yurakirari.com/kirari/hitachinaka/
+    map: https://maps.google.com/?cid=8444381631334916011&hl=ja
+    address: 茨城県ひたちなか市市毛640-2
+    price: 1260
+    lat: 36.3940194
+    lng: 140.5016291
+    type: 温泉
+-
+    id: 3
+    name: 道の駅 奥久慈だいご
+    url: http://michinoeki-daigo.com/
+    map: https://maps.google.com/?cid=9797518025150980789&hl=ja
+    address: 茨城県久慈郡大子町池田2830-1
+    price: 500
+    lat: 36.7684359
+    lng: 140.3592533
+    type: 温泉
+-
+    id: 4
+    name: 湯楽の里(日立店)
+    url: http://www.yurakirari.com/yura/hitachi/
+    map: https://maps.google.com/?cid=18346854987237678683&hl=ja
+    address: 茨城県日立市河原子町1-1-6
+    price: 780
+    lat: 36.5481435
+    lng: 140.6428938
+    type: 温泉
+-
+    id: 5
+    name: やさと温泉 ゆりの郷
+    url: http://www.yurinosato.jp/
+    map: https://maps.google.com/?cid=10571026408318779395&hl=ja
+    address: 茨城県石岡市小幡1416
+    price: 830
+    lat: 36.2258098
+    lng: 140.1470312
+    type: 温泉
+-
+    id: 6
+    name: つくばYOUワールド
+    url: https://spa-youworld.com/
+    map: https://maps.google.com/?cid=16839510249033623610&hl=ja
+    address: 茨城県つくば市下原370-1
+    price: 1650
+    lat: 36.0491717
+    lng: 140.1336499
+    type: 温泉
+-
+    id: 7
+    name: 阿字ヶ浦温泉 のぞみ
+    url: http://www.ajigauraonsen.jp/
+    map: https://maps.google.com/?cid=2679289418821007436&hl=ja
+    address: 茨城県ひたちなか市阿字ヶ浦町3290
+    price: 900
+    lat: 36.385344
+    lng: 140.6149157
+    type: 温泉
+-
+    id: 8
+    name: 極楽湯(水戸店)
+    url: https://www.gokurakuyu.ne.jp/tempo/mito/
+    map: https://maps.google.com/?cid=6159150139659164056&hl=ja
+    address: 茨城県水戸市大塚町1838-1
+    price: 620
+    lat: 36.3821441
+    lng: 140.4018874
+    type: 温泉
+-
+    id: 9
+    name: 御老公の湯
+    url: http://5650.jp/
+    map: https://maps.google.com/?cid=12686091546987324417&hl=ja
+    address: 茨城県水戸市小吹町2624-1
+    price: 1500
+    lat: 36.339219
+    lng: 140.4364686
+    type: 温泉
+-
+    id: 10
+    name: 天然温泉 きぬの湯
+    url: http://www.kinunoyu.com/
+    map: https://maps.google.com/?cid=2856963822545043621&hl=ja
+    address: 茨城県常総市内守谷町きぬの里1-5-6
+    price: 1400
+    lat: 35.9828647
+    lng: 139.963889
+    type: 温泉
+-
+    id: 11
+    name: やまがた すこやかランド 三太の湯
+    url: http://www.santanoyu.server-shared.com/
+    map: https://maps.google.com/?cid=17548429193559894642&hl=ja
+    address: 茨城県常陸大宮市諸沢5071
+    price: 700
+    lat: 36.6728054
+    lng: 140.4236401
+    type: 温泉
+-
+    id: 12
+    name: 城里町健康増進施設 ホロルの湯
+    url: https://www.hororunoyu.jp/
+    map: https://maps.google.com/?cid=17204814241343207839&hl=ja
+    address: 茨城県東茨城郡城里町下古内1829-3
+    price: 820
+    lat: 36.4336748
+    lng: 140.3566689
+    type: 温泉
+-
+    id: 13
+    name: あそう温泉 白帆の湯
+    url: https://shirahonoyu.com/
+    map: https://maps.google.com/?cid=11100645152828589293&hl=ja
+    address: 茨城県行方市麻生421-3
+    price: 700
+    lat: 35.98713499999999
+    lng: 140.4751562
+    type: 温泉
+-
+    id: 14
+    name: 湯楽の里(土浦店)
+    url: http://www.yurakirari.com/yura/tsuchiura/
+    map: https://maps.google.com/?cid=14016086019107280400&hl=ja
+    address: 茨城県土浦市真鍋新町20-43
+    price: 710
+    lat: 36.0888285
+    lng: 140.2078263
+    type: 温泉
+-
+    id: 15
+    name: 御老公の湯(境店)
+    url: http://5650-sakai.jp/
+    map: https://maps.google.com/?cid=15104898059944573011&hl=ja
+    address: 茨城県猿島郡境町1327-1
+    price: 2000
+    lat: 36.1024908
+    lng: 139.7973118
+    type: 温泉
+-
+    id: 16
+    name: 岩盤温浴リゾート ココプララ
+    url: https://www.cocoplala.jp/
+    map: https://maps.google.com/?cid=15301956857911728498&hl=ja
+    address: 茨城県東茨城郡茨城町桜の郷1100
+    price: 780
+    lat: 36.3258942
+    lng: 140.4152094
+    type: 温泉
+-
+    id: 17
+    name: いちの湯(古河店)
+    url: http://www.itinoyu.com/koga/index.html
+    map: https://maps.google.com/?cid=16190539856941371182&hl=ja
+    address: 茨城県古河市坂間185-1
+    price: 700
+    lat: 36.1647754
+    lng: 139.7084495
+    type: 温泉
+-
+    id: 18
+    name: 湯楽の里(取手店)
+    url: http://www.yurakirari.com/yura/toride/
+    map: https://maps.google.com/?cid=14203134091664207590&hl=ja
+    address: 茨城県取手市寺田5001-2
+    price: 650
+    lat: 35.9124333
+    lng: 140.0483688
+    type: 温泉
+-
+    id: 19
+    name: 北投の湯 なか健康センター
+    url: http://www.naka-kenkou.com/
+    map: https://maps.google.com/?cid=14664506086569866935&hl=ja
+    address: 茨城県那珂市菅谷1-24
+    price: 1870
+    lat: 36.4591032
+    lng: 140.4943178
+    type: 温泉
+-
+    id: 20
+    name: 鹿島セントラル天然温泉 ゆの華
+    url: https://bijin-yunohana.jp/
+    map: https://maps.google.com/?cid=14071675165356724895&hl=ja
+    address: 茨城県神栖市大野原4-7-1
+    price: 950
+    lat: 35.8996067
+    lng: 140.6376373
+    type: 温泉
+-
+    id: 21
+    name: やまの湯
+    url: http://www.yamanoyu.com/
+    map: https://maps.google.com/?cid=4353839118173797081&hl=ja
+    address: 茨城県水戸市笠原町144-1
+    price: 560
+    lat: 36.3447143
+    lng: 140.457994
+    type: 温泉
+-
+    id: 22
+    name: とっぷさんて大洋
+    url: https://topsante-hokota.com/
+    map: https://maps.google.com/?cid=5852761572423933388&hl=ja
+    address: 茨城県鉾田市上幡木1500-2
+    price: 850
+    lat: 36.0868251
+    lng: 140.6046309
+    type: 温泉
+-
+    id: 23
+    name: 大洗町健康福祉センター ゆっくら健康館
+    url: https://www.yukkurakan.jp/sisetu/spa/
+    map: https://maps.google.com/?cid=17503263250363554160&hl=ja
+    address: 茨城県東茨城郡大洗町港中央26-1
+    price: 1000
+    lat: 36.3114961
+    lng: 140.570266
+    type: 温泉
+-
+    id: 24
+    name: 袋田温泉 関所の湯
+    url: http://sekisyo-no-yu.com/
+    map: https://maps.google.com/?cid=6368467493944636383&hl=ja
+    address: 茨城県久慈郡大子町大字袋田2642-7
+    price: 700
+    lat: 36.747133
+    lng: 140.3888423
+    type: 温泉
+-
+    id: 25
+    name: ほっとパーク鉾田
+    url: https://www.hotpark.jp/
+    map: https://maps.google.com/?cid=15329292992931565697&hl=ja
+    address: 茨城県鉾田市当間220
+    price: 850
+    lat: 36.1523057
+    lng: 140.4843762
+    type: 温泉
+-
+    id: 26
+    name: いちの湯(水戸店)
+    url: http://www.itinoyu.com/mito/index.html
+    map: https://maps.google.com/?cid=8891503221070598797&hl=ja
+    address: 茨城県水戸市河和田3-2300-1
+    price: 590
+    lat: 36.3751002
+    lng: 140.4024736
+    type: 温泉
+-
+    id: 27
+    name: ごぜんやま温泉 四季彩館
+    url: http://www.hitachioomiyacity-spa.com/shikisaikan/index.html
+    map: https://maps.google.com/?cid=18009040281151049614&hl=ja
+    address: 茨城県常陸大宮市長倉407-2
+    price: 700
+    lat: 36.5682152
+    lng: 140.285195
+    type: 温泉
+-
+    id: 28
+    name: 大子温泉保養センター 森林の温泉
+    url: http://morinoideyu.com/
+    map: https://maps.google.com/?cid=6675506427447795731&hl=ja
+    address: 茨城県久慈郡大子町矢田15-12
+    price: 710
+    lat: 36.7954236
+    lng: 140.3506728
+    type: 温泉
+-
+    id: 29
+    name: 湯舞音
+    url: https://yubune-ryugasaki.jp
+    map: https://maps.google.com/?cid=15780396017559702049&hl=ja
+    address: 茨城県龍ケ崎市中里2-1-2
+    price: 780
+    lat: 35.9319035
+    lng: 140.2019485
+    type: 温泉
+-
+    id: 30
+    name: 美和ささの湯
+    url: http://www.hitachioomiyacity-spa.com/sasanoyu/
+    map: https://maps.google.com/?cid=9039324455822843646&hl=ja
+    address: 茨城県常陸大宮市氷之沢3139
+    price: 510
+    lat: 36.6260216
+    lng: 140.3354537
+    type: 温泉
+-
+    id: 31
+    name: 筑波山温泉 つくば湯
+    url: http://www.ichibou.com/tsukubayu-top.htm
+    map: https://maps.google.com/?cid=5309328415958659587&hl=ja
+    address: 茨城県つくば市筑波64-9
+    price: 1100
+    lat: 36.2098396
+    lng: 140.1065591
+    type: 温泉
+-
+    id: 32
+    name: 鵜来来の湯十王
+    url: https://uraranoyu.com/
+    map: https://maps.google.com/?cid=5006488177972025571&hl=ja
+    address: 茨城県日立市十王町伊師605
+    price: 830
+    lat: 36.6636969
+    lng: 140.7141252
+    type: 温泉
+-
+    id: 33
+    name: ふれあいセンター 湯楽々
+    url: http://yurara.in
+    map: https://maps.google.com/?cid=3103098754482384374&hl=ja
+    address: 茨城県神栖市奥野谷6283-2
+    price: 520
+    lat: 35.8947036
+    lng: 140.7172237
+    type: 温泉
+-
+    id: 34
+    name: つくばウェルネスパーク
+    url: https://tsukuba-wp.com/
+    map: https://maps.google.com/?cid=5981936260068800715&hl=ja
+    address: 茨城県つくば市山木1562
+    price: 730
+    lat: 36.1609375
+    lng: 140.0707816
+    type: 温泉
+-
+    id: 35
+    name: 勝田 あかつきの湯
+    url: http://acatsuki.co.jp/katsuta/
+    map: https://maps.google.com/?cid=12437552160585193089&hl=ja
+    address: 茨城県ひたちなか市東石川六ツ野3378-17
+    price: 600
+    lat: 36.404608
+    lng: 140.53925
+    type: 温泉
+-
+    id: 36
+    name: さしま健康交流センター 湯楽里
+    url: http://www.sashimayurari.com
+    map: https://maps.google.com/?cid=16878813125827957100&hl=ja
+    address: 茨城県坂東市寺久1290
+    price: 700
+    lat: 36.0840471
+    lng: 139.8557665
+    type: 温泉
+-
+    id: 37
+    name: 温浴交流施設 湯ったり館
+    url: http://housakumura.or.jp/yuttari_kan/index.html
+    map: https://maps.google.com/?cid=5056065760424655243&hl=ja
+    address: 茨城県龍ヶ崎市板橋町440
+    price: 520
+    lat: 35.9329067
+    lng: 140.2492153
+    type: 温泉
+-
+    id: 38
+    name: 筑西遊湯館
+    url: http://www.tikusei.or.jp/yuyukan/
+    map: https://maps.google.com/?cid=15580567586459718628&hl=ja
+    address: 茨城県筑西市下川島471-2
+    price: 600
+    lat: 36.29441449999999
+    lng: 139.90514
+    type: 温泉
+-
+    id: 39
+    name: フォレスパ大子
+    url: http://www.forespa-daigo.jp/
+    map: https://maps.google.com/?cid=17626928109650386526&hl=ja
+    address: 茨城県久慈郡大子町浅川2921
+    price: 810
+    lat: 36.7895454
+    lng: 140.3479931
+    type: 温泉
+-
+    id: 40
+    name: 石岡健康センター
+    url: http://www.ishiokakenkoh.jp/
+    map: https://maps.google.com/?cid=11659343884016166465&hl=ja
+    address: 茨城県石岡市真家2633-3
+    price: 1300
+    lat: 36.2708904
+    lng: 140.2649372
+    type: 温泉
+-
+    id: 41
+    name: 古河浴場
+    url: 
+    map: https://maps.google.com/?cid=10929338964414474729&hl=ja
+    address: 茨城県古河市東1-11-3
+    price: 350
+    lat: 36.1951556
+    lng: 139.7117011
+    type: 銭湯
+-
+    id: 42
+    name: 里美温泉 ぬく森の湯
+    url: http://nukumori.satomiful.jp/
+    map: https://maps.google.com/?cid=16062757377539394009&hl=ja
+    address: 茨城県常陸太田市大中町2076-6
+    price: 720
+    lat: 36.7417086
+    lng: 140.4931252
+    type: 温泉
+-
+    id: 43
+    name: 八千代グリーンビレッジ 憩遊館やちよ乃湯
+    url: http://www.town.ibaraki-yachiyo.lg.jp/page/page000215.html
+    map: https://maps.google.com/?cid=9370130068398923614&hl=ja
+    address: 茨城県結城郡八千代町松本592
+    price: 700
+    lat: 36.1832391
+    lng: 139.8709263
+    type: 温泉
+-
+    id: 44
+    name: 夢健康ランド
+    url: https://yume-kenko.com/
+    map: https://maps.google.com/?cid=4939395021922733591&hl=ja
+    address: 茨城県神栖市溝口1943
+    price: 1650
+    lat: 35.8850216
+    lng: 140.662434
+    type: 温泉
+-
+    id: 45
+    name: あけの元気館
+    url: https://akenogenkikan.com/
+    map: https://maps.google.com/?cid=7510518515018391597&hl=ja
+    address: 茨城県筑西市新井新田48-1
+    price: 700
+    lat: 36.2490698
+    lng: 140.0247811
+    type: 温泉
+-
+    id: 46
+    name: 中郷温泉 通りゃんせ
+    url: https://www.ibarakiguide.jp/db-kanko/id-0800000000298.html
+    map: https://maps.google.com/?cid=5036439760732505214&hl=ja
+    address: 茨城県北茨城市中郷町日棚1748
+    price: 650
+    lat: 36.7533333
+    lng: 140.7079809
+    type: 温泉
+-
+    id: 47
+    name: 国民宿舎水郷 霞浦の湯
+    url: http://suigo.jp/
+    map: https://maps.google.com/?cid=6695065976822722350&hl=ja
+    address: 茨城県土浦市大岩田255
+    price: 410
+    lat: 36.0652328
+    lng: 140.2202984
+    type: 温泉
+-
+    id: 48
+    name: 天然温泉 ゆ〜ぽ〜とはさき
+    url: http://www.kamisu-yuporthasaki.net/
+    map: https://maps.google.com/?cid=15246502469159730186&hl=ja
+    address: 茨城県神栖市砂山15
+    price: 620
+    lat: 35.8392236
+    lng: 140.7390333
+    type: 温泉
+-
+    id: 49
+    name: あずま健康センター 旭の湯
+    url: http://azumakenkoucenter.web.fc2.com/index2.html
+    map: https://maps.google.com/?cid=15226469691331075286&hl=ja
+    address: 茨城県稲敷市東大沼713-1
+    price: 880
+    lat: 35.9341545
+    lng: 140.3578231
+    type: 温泉
+-
+    id: 50
+    name: 西金砂湯けむりの郷 金砂の湯
+    url: http://www.city.hitachiota.ibaraki.jp/page/page000254.html
+    map: https://maps.google.com/?cid=6859033649399497793&hl=ja
+    address: 茨城県常陸太田市上宮河内町336
+    price: 600
+    lat: 36.6300247
+    lng: 140.4283835
+    type: 温泉
+-
+    id: 51
+    name: 小美玉温泉 湯～GO！
+    url: http://www.omitamaonsen.com/
+    map: https://maps.google.com/?cid=10725662098518262057&hl=ja
+    address: 茨城県小美玉市上吉影58-1
+    price: 500
+    lat: 36.2187424
+    lng: 140.4136589
+    type: 温泉
+-
+    id: 52
+    name: スーパー銭湯 ゆららの湯
+    url: https://yurara-yu.com/
+    map: https://maps.google.com/?cid=12121404357748569511&hl=ja
+    address: 茨城県桜川市上野原地新田241
+    price: 713
+    lat: 36.3486875
+    lng: 140.0531354
+    type: 温泉
+-
+    id: 53
+    name: 月居温泉 滝見の湯
+    url: https://www.daigo-kanko.jp/spot-0046.html
+    map: https://maps.google.com/?cid=4327445686455302995&hl=ja
+    address: 茨城県久慈郡大子町小生瀬2879-4
+    price: 450
+    lat: 36.7636646
+    lng: 140.4139213
+    type: 温泉
+-
+    id: 54
+    name: ふるさとセンター 竜っちゃん乃湯
+    url: https://ohtsuribashi.ryujinkyo.jp/fun/tacchannoyu.html
+    map: https://maps.google.com/?cid=14066294203438066170&hl=ja
+    address: 茨城県常陸太田市天下野町1629
+    price: 630
+    lat: 36.6822706
+    lng: 140.4742513
+    type: 温泉
+-
+    id: 55
+    name: 太田温泉 やまぶきの湯
+    url: http://www.akatukikousan.co.jp/yamabukinoyu/index.html
+    map: https://maps.google.com/?cid=672903617023334891&hl=ja
+    address: 茨城県常陸太田市稲木町33
+    price: 620
+    lat: 36.5311382
+    lng: 140.5237728
+    type: 温泉
+-
+    id: 56
+    name: 北浦温泉 北浦荘
+    url: https://www.city.namegata.ibaraki.jp/page/page000136.html
+    map: https://maps.google.com/?cid=744027498312018776&hl=ja
+    address: 茨城県行方市山田121
+    price: 400
+    lat: 36.0853308
+    lng: 140.5373673
+    type: 温泉
+-
+    id: 57
+    name: 福乃湯
+    url: 
+    map: https://maps.google.com/?cid=12925432098983712809&hl=ja
+    address: 茨城県日立市平和町1-1-7
+    price: 300
+    lat: 36.5927984
+    lng: 140.6612385
+    type: 銭湯
+-
+    id: 58
+    name: 潮来ヘルスランドさくら
+    url: http://www.city.itako.lg.jp/index.php?code=2737
+    map: https://maps.google.com/?cid=2023884197394559849&hl=ja
+    address: 茨城県潮来市島須1258
+    price: 730
+    lat: 35.9653112
+    lng: 140.5419465
+    type: 温泉
+-
+    id: 59
+    name: 古河市老人福祉センター ふれあいの湯
+    url: https://www.city.ibaraki-koga.lg.jp/lifetop/lifeivent/aged_nursing_care/3/6924.html
+    map: https://maps.google.com/?cid=11585314347031902611&hl=ja
+    address: 茨城県古河市新久田285
+    price: 300
+    lat: 36.1673278
+    lng: 139.7031636
+    type: 温泉
+-
+    id: 60
+    name: 笠間市いこいの家 はなさか
+    url: https://www.s-seiun.co.jp/shisetsu/hanasaka/
+    map: https://maps.google.com/?cid=7175125384391381115&hl=ja
+    address: 茨城県笠間市橋爪586-4
+    price: 510
+    lat: 36.3348367
+    lng: 140.2928889
+    type: 温泉
+-
+    id: 61
+    name: 日立市 ホリゾンかみね
+    url: http://kaminepark.sakura.ne.jp/horizon1.html
+    map: https://maps.google.com/?cid=7647401515078469038&hl=ja
+    address: 茨城県日立市宮田町3381
+    price: 420
+    lat: 36.6121841
+    lng: 140.6555313
+    type: 温泉
+-
+    id: 62
+    name: 牛久市総合福祉センター
+    url: http://www.city.ushiku.lg.jp/page/page006136.html
+    map: https://maps.google.com/?cid=6217676994116794314&hl=ja
+    address: 茨城県牛久市女化町859-3
+    price: 530
+    lat: 35.958578
+    lng: 140.184458
+    type: 共同浴場・銭湯
+-
+    id: 63
+    name: 長者ヶ谷津温泉
+    url: 
+    map: https://maps.google.com/?cid=13716913704395669974&hl=ja
+    address: 茨城県ひたちなか市大平1-21-10
+    price: 500
+    lat: 36.38377759999999
+    lng: 140.5404499
+    type: 温泉
+-
+    id: 64
+    name: 鉾田市老人福祉センター ともえ荘
+    url: http://www.hokotashakyo.or.jp/?page_id=132
+    map: https://maps.google.com/?cid=3986444018501488391&hl=ja
+    address: 茨城県鉾田市当間228-2
+    price: 500
+    lat: 36.1533111
+    lng: 140.4843762
+    type: 温泉
+-
+    id: 65
+    name: 古河市総和老人福祉センター せせらぎの湯
+    url: https://www.city.ibaraki-koga.lg.jp/lifetop/lifeivent/aged_nursing_care/3/6923.html
+    map: https://maps.google.com/?cid=6808065715452922680&hl=ja
+    address: 茨城県古河市北利根10
+    price: 300
+    lat: 36.1593714
+    lng: 139.764609
+    type: 温泉
+-
+    id: 66
+    name: 内原元湯温泉
+    url: https://motoyu-onsen.jp/
+    map: https://maps.google.com/?cid=4084109365549159908&hl=ja
+    address: 茨城県水戸市下野町311-5
+    price: 1100
+    lat: 36.3325637
+    lng: 140.3803408
+    type: 温泉
+-
+    id: 67
+    name: つくば温泉 喜楽里別邸
+    url: http://www.yurakirari.com/kirari/tsukuba/ex/index.html
+    map: https://maps.google.com/?cid=16262800447149347724&hl=ja
+    address: 茨城県つくば市西大橋614-1
+    price: 1050
+    lat: 36.0748896
+    lng: 140.0839321
+    type: 温泉
+-
+    id: 68
+    name: 海の露天風呂 湯かっぺ
+    url: https://www.yukappe.com
+    map: https://maps.google.com/?cid=4137074977719497280&hl=ja
+    address: 茨城県北茨城市市磯原町磯原2547-3
+    price: 500
+    lat: 36.808283
+    lng: 140.7624664
+    type: 温泉
+-
+    id: 69
+    name: 取手市立 かたらいの郷
+    url: https://www.nem-shiteikanri.jp/shisetsu/katarainosato/index.html
+    map: https://maps.google.com/maps?q=35.889889,140.090775
+    address: 茨城県取手市長兵衛新田193-2
+    price: 600
+    lat: 35.8898172
+    lng: 140.0907534
+    type: 温泉

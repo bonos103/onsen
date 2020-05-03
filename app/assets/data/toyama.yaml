@@ -1,0 +1,1111 @@
+---
+-
+    id: 1
+    name: いなり鉱泉
+    url: http://inari-kousen.com/index.html
+    map: https://maps.google.com/?cid=16066356984888319773&hl=ja
+    address: 富山県富山市稲荷元町3-11-36
+    price: 440
+    lat: 36.6992225
+    lng: 137.2275148
+    type: 銭湯
+-
+    id: 2
+    name: 天然温泉 海王
+    url: http://onsen-kaiou.jp/
+    map: https://maps.google.com/?cid=10086296658401551251&hl=ja
+    address: 富山県射水市鏡宮361
+    price: 700
+    lat: 36.7533898
+    lng: 137.0824688
+    type: 温泉
+-
+    id: 3
+    name: 金太郎温泉 カルナの館
+    url: https://www.kintarouonsen.co.jp/karuna/
+    map: https://maps.google.com/?cid=17044906901173453240&hl=ja
+    address: 富山県魚津市天神野新6000
+    price: 1050
+    lat: 36.839092
+    lng: 137.436882
+    type: 温泉
+-
+    id: 4
+    name: 満天の湯(富山店)
+    url: http://www.manten-yu.co.jp/toyama/
+    map: https://maps.google.com/?cid=10452064719816529666&hl=ja
+    address: 富山県富山市石金2-1-8
+    price: 750
+    lat: 36.6872819
+    lng: 137.233472
+    type: 温泉
+-
+    id: 5
+    name: 鯰温泉
+    url: http://www.namazu-onsen.com/
+    map: https://maps.google.com/?cid=7624453605643606215&hl=ja
+    address: 富山県富山市今市3339
+    price: 440
+    lat: 36.7498738
+    lng: 137.1945964
+    type: 銭湯
+-
+    id: 6
+    name: 太閤山天然温泉 太閤の湯
+    url: http://taikounoyu.jp/
+    map: https://maps.google.com/?cid=16098137058470662433&hl=ja
+    address: 富山県射水市黒河5424
+    price: 850
+    lat: 36.713466
+    lng: 137.0941232
+    type: 温泉
+-
+    id: 7
+    name: 舟橋・立山天然温泉 湯めごこち
+    url: https://www.yumegokochi.co.jp/
+    map: https://maps.google.com/?cid=989192471511350147&hl=ja
+    address: 富山県中新川郡舟橋村古海老江256-1
+    price: 880
+    lat: 36.6873699
+    lng: 137.3033817
+    type: 温泉
+-
+    id: 8
+    name: 北陸健康センター アラピア
+    url: https://www.arapia.jp/
+    map: https://maps.google.com/?cid=4425785215217365035&hl=ja
+    address: 富山県高岡市佐野1655
+    price: 1400
+    lat: 36.71747939999999
+    lng: 136.9934114
+    type: 温泉
+-
+    id: 9
+    name: 大岩不動の湯
+    url: http://toyama1010.com/gotou-ooiwafudounoyu.html
+    map: https://maps.google.com/?cid=3221836393613467582&hl=ja
+    address: 富山県中新川郡上市町大松鍋谷3
+    price: 440
+    lat: 36.6669898
+    lng: 137.3879039
+    type: 銭湯
+-
+    id: 10
+    name: 陽だまりの湯
+    url: http://hidamarinoyu.com/
+    map: https://maps.google.com/?cid=586148274326272113&hl=ja
+    address: 富山県高岡市江尻478
+    price: 650
+    lat: 36.76479
+    lng: 137.0309176
+    type: 温泉
+-
+    id: 11
+    name: ぬく森の郷
+    url: http://www.nukumori-fukumitsu.com/
+    map: https://maps.google.com/?cid=1859105073161247022&hl=ja
+    address: 富山県南砺市小又311
+    price: 500
+    lat: 36.5681975
+    lng: 136.8135662
+    type: 温泉
+-
+    id: 12
+    name: 氷見温泉郷 総湯
+    url: http://himi-banya.jp/onsen/
+    map: https://maps.google.com/?cid=2119918537033090243&hl=ja
+    address: 富山県氷見市北大町25-5
+    price: 650
+    lat: 36.8644166
+    lng: 136.9870879
+    type: 温泉
+-
+    id: 13
+    name: 天然温泉 湯来楽(砺波店)
+    url: http://www.yu-yurara.jp/tonami/
+    map: https://maps.google.com/?cid=10952264973648591642&hl=ja
+    address: 富山県砺波市五郎丸622-1
+    price: 870
+    lat: 36.6225582
+    lng: 136.9534472
+    type: 温泉
+-
+    id: 14
+    name: ファボーレの湯
+    url: http://favorenoyu.jp/
+    map: https://maps.google.com/?cid=11690046661330531468&hl=ja
+    address: 富山県富山市婦中町速星123-1
+    price: 880
+    lat: 36.6605057
+    lng: 137.1691623
+    type: 温泉
+-
+    id: 15
+    name: 滑川市民交流プラザ あいらぶ湯
+    url: https://plaza.bunspo-namerikawa.jp/floor5
+    map: https://maps.google.com/?cid=646442573788520466&hl=ja
+    address: 富山県滑川市吾妻町426
+    price: 620
+    lat: 36.7675624
+    lng: 137.3443066
+    type: 温泉
+-
+    id: 16
+    name: まちなか天然温泉 ゆくりえ
+    url: https://toyamaonsen.jp/
+    map: https://maps.google.com/?cid=10649650151006839783&hl=ja
+    address: 富山県富山市上袋545-1
+    price: 800
+    lat: 36.6611104
+    lng: 137.2149683
+    type: 温泉
+-
+    id: 17
+    name: 満天の湯(魚津店)
+    url: http://www.manten-yu.co.jp/uozu/
+    map: https://maps.google.com/?cid=2945478471814341543&hl=ja
+    address: 富山県魚津市住吉535-1
+    price: 750
+    lat: 36.804474
+    lng: 137.4038623
+    type: 温泉
+-
+    id: 18
+    name: くろば温泉
+    url: http://www2.tst.ne.jp/sasara/index3.html
+    map: https://maps.google.com/?cid=13168505337796563527&hl=ja
+    address: 富山県南砺市上平細島1098
+    price: 600
+    lat: 36.4017008
+    lng: 136.9020389
+    type: 温泉
+-
+    id: 19
+    name: スパ・アルプス
+    url: http://www.sauna-alps.com/
+    map: https://maps.google.com/?cid=16881657712715457115&hl=ja
+    address: 富山県富山市山室292-1
+    price: 1800
+    lat: 36.6768837
+    lng: 137.237717
+    type: 温泉
+-
+    id: 20
+    name: 宇奈月温泉総湯 湯めどころ宇奈月
+    url: http://yumedokoro-unazuki.jp/
+    map: https://maps.google.com/?cid=16515622564338666019&hl=ja
+    address: 富山県黒部市宇奈月温泉256-11
+    price: 510
+    lat: 36.8163068
+    lng: 137.5827641
+    type: 温泉
+-
+    id: 21
+    name: 光明石温泉 呉羽の湯
+    url: https://www.keisei-aqua.com/archives/bath_shop/kureha/
+    map: https://maps.google.com/?cid=15851740050519324499&hl=ja
+    address: 富山県富山市呉羽町2615
+    price: 420
+    lat: 36.7133306
+    lng: 137.1623001
+    type: 温泉
+-
+    id: 22
+    name: 高原鉱泉
+    url: http://takaharakousen.com
+    map: https://maps.google.com/?cid=12066520542743486932&hl=ja
+    address: 富山県富山市高屋敷419
+    price: 440
+    lat: 36.6737119
+    lng: 137.2418893
+    type: 銭湯
+-
+    id: 23
+    name: 水橋温泉 ごくらくの湯
+    url: 
+    map: https://maps.google.com/?cid=8210752340739228012&hl=ja
+    address: 富山県富山市水橋中村町花内187-1
+    price: 420
+    lat: 36.755967
+    lng: 137.31073
+    type: 温泉
+-
+    id: 24
+    name: 法林寺温泉
+    url: https://horinji.org/
+    map: https://maps.google.com/?cid=5140243956418923112&hl=ja
+    address: 富山県南砺市法林寺4944
+    price: 550
+    lat: 36.5675765
+    lng: 136.8375775
+    type: 温泉
+-
+    id: 25
+    name: 平ふれあい温泉センター ゆ〜楽
+    url: https://nanto-yuraku.jimdo.com/
+    map: https://maps.google.com/?cid=2023764901967229977&hl=ja
+    address: 富山県南砺市大崩島96-2
+    price: 600
+    lat: 36.4557223
+    lng: 136.9771164
+    type: 温泉
+-
+    id: 26
+    name: 越のゆ(富山店)
+    url: http://www.yu-iwashita.jp/toyama/
+    map: https://maps.google.com/?cid=16322985298979255404&hl=ja
+    address: 富山県富山市粟島町1-2-35
+    price: 620
+    lat: 36.7255974
+    lng: 137.2285125
+    type: 温泉
+-
+    id: 27
+    name: ファミリー銭湯 くさじま
+    url: http://toyama1010.com/toyama-f-kusajima.html
+    map: https://maps.google.com/?cid=7840840916560538586&hl=ja
+    address: 富山県富山市草島236-4
+    price: 440
+    lat: 36.7461756
+    lng: 137.2108667
+    type: 銭湯
+-
+    id: 28
+    name: 古洞の森 古洞の湯
+    url: http://www.furudou.jp/
+    map: https://maps.google.com/?cid=806501669534012878&hl=ja
+    address: 富山県富山市池多1044
+    price: 610
+    lat: 36.6616264
+    lng: 137.1035108
+    type: 温泉
+-
+    id: 29
+    name: 宇奈月温泉 とちの湯
+    url: https://tochinoyu.com/
+    map: https://maps.google.com/?cid=17399246798708131730&hl=ja
+    address: 富山県黒部市宇奈月温泉大尾6215
+    price: 510
+    lat: 36.79616310000001
+    lng: 137.5875238
+    type: 温泉
+-
+    id: 30
+    name: かたかごの湯
+    url: https://www.katakagonoyu.com/
+    map: https://maps.google.com/?cid=1894153842931844090&hl=ja
+    address: 富山県高岡市野村1353-1
+    price: 550
+    lat: 36.75621950000001
+    lng: 137.0415989
+    type: 温泉
+-
+    id: 31
+    name: 高岡岩坪温泉 凧温泉
+    url: http://tako-onsen.com/
+    map: https://maps.google.com/?cid=13894133939749395461&hl=ja
+    address: 富山県高岡市岩坪93
+    price: 440
+    lat: 36.7670592
+    lng: 136.9661603
+    type: 温泉
+-
+    id: 32
+    name: 辻わくわくランド
+    url: http://tuji-waku.com/
+    map: https://maps.google.com/?cid=17040221186119072419&hl=ja
+    address: 富山県魚津市青島63-1
+    price: 490
+    lat: 36.8344482
+    lng: 137.413344
+    type: 温泉
+-
+    id: 33
+    name: 環境ふれあい施設 らくちーの
+    url: http://www.rakuchino.jp/
+    map: https://maps.google.com/?cid=17709749445940290460&hl=ja
+    address: 富山県下新川郡朝日町舟川新35
+    price: 630
+    lat: 36.9394536
+    lng: 137.5417913
+    type: 温泉
+-
+    id: 34
+    name: 日方江温泉
+    url: http://toyama1010.com/toyama-hikataeonsen.html
+    map: https://maps.google.com/?cid=15918432248464578004&hl=ja
+    address: 富山県富山市針日269-20
+    price: 440
+    lat: 36.7604107
+    lng: 137.2604176
+    type: 銭湯
+-
+    id: 35
+    name: ひかりランド南星の湯
+    url: http://toyama1010.com/takaoka-nanseinoyu.html
+    map: https://maps.google.com/?cid=15125329581231015171&hl=ja
+    address: 富山県高岡市木津728-3
+    price: 440
+    lat: 36.735049
+    lng: 136.9970602
+    type: 銭湯
+-
+    id: 36
+    name: 大沢野ウェルネスリゾート ウィンディ
+    url: https://www.windy.cc/
+    map: https://maps.google.com/?cid=15481606810977441373&hl=ja
+    address: 富山県富山市春日96-1
+    price: 610
+    lat: 36.5612971
+    lng: 137.2025958
+    type: 温泉
+-
+    id: 37
+    name: つるぎふれあい館 アルプスの湯
+    url: https://kamiichimachi-zaidan.jp/
+    map: https://maps.google.com/?cid=11531414785471320749&hl=ja
+    address: 富山県中新川郡上市町湯上野8
+    price: 620
+    lat: 36.6963873
+    lng: 137.3614808
+    type: 温泉
+-
+    id: 38
+    name: おまき温泉 スパガーデン和園
+    url: https://ja-jp.facebook.com/omakinonzen.waen/
+    map: https://maps.google.com/?cid=8513734849327633336&hl=ja
+    address: 富山県砺波市庄川町小牧10
+    price: 420
+    lat: 36.5631001
+    lng: 137.0035334
+    type: 温泉
+-
+    id: 39
+    name: 南砺市井口体験交流センター ゆ～ゆうランド花椿
+    url: http://www.tonamigreen.co.jp/hanatsubaki/index.htm
+    map: https://maps.google.com/?cid=10258213540015422353&hl=ja
+    address: 富山県南砺市井口字持掛谷35
+    price: 510
+    lat: 36.5266786
+    lng: 136.940986
+    type: 温泉
+-
+    id: 40
+    name: ファミリー温泉 ひらき
+    url: http://toyama1010.com/toyama-f-hiraki.html
+    map: https://maps.google.com/?cid=11848272024975510040&hl=ja
+    address: 富山県富山市開278
+    price: 440
+    lat: 36.6811785
+    lng: 137.2627328
+    type: 銭湯
+-
+    id: 41
+    name: プラ座ゆ
+    url: http://www.my-plaza.jp/
+    map: https://maps.google.com/?cid=13738068067563391426&hl=ja
+    address: 富山県富山市堀川町355-7
+    price: 440
+    lat: 36.6649646
+    lng: 137.2172988
+    type: 銭湯
+-
+    id: 42
+    name: とやま健康パーク
+    url: http://www.toyama-pref-ihc.or.jp/
+    map: https://maps.google.com/?cid=17303781047132849785&hl=ja
+    address: 富山県富山市友杉151
+    price: 520
+    lat: 36.6370016
+    lng: 137.2025889
+    type: 温泉
+-
+    id: 43
+    name: ゆハウス となみのゆ
+    url: http://www.toyama-west.com/shop/zakka_hobby/tonaminoyu.html
+    map: https://maps.google.com/?cid=12912066290457969371&hl=ja
+    address: 富山県砺波市豊町1-17-22
+    price: 400
+    lat: 36.631345
+    lng: 136.9556334
+    type: 温泉
+-
+    id: 44
+    name: 光明石温泉 福岡の湯
+    url: http://www.e-muchtoyama.com/detail/index_1156.html
+    map: https://maps.google.com/?cid=320177788723431717&hl=ja
+    address: 富山県高岡市福岡町大滝245-1
+    price: 430
+    lat: 36.70624189999999
+    lng: 136.9253416
+    type: 温泉
+-
+    id: 45
+    name: 下田温泉
+    url: http://toyama1010.com/gotou-shimodaonsen.html
+    map: https://maps.google.com/?cid=7835883730526318371&hl=ja
+    address: 富山県魚津市本町2-12-4
+    price: 440
+    lat: 36.8157165
+    lng: 137.3950639
+    type: 銭湯
+-
+    id: 46
+    name: 古宮鉱泉
+    url: http://toyama1010.com/toyama-furumiyakousen.html
+    map: https://maps.google.com/?cid=7063433265787519399&hl=ja
+    address: 富山県富山市西中野町1-4-20
+    price: 440
+    lat: 36.6815798
+    lng: 137.2135687
+    type: 銭湯
+-
+    id: 47
+    name: 光明石温泉 有磯の湯
+    url: http://www.toyama-west.com/shop/zakka_hobby/arisonoyu.html
+    map: https://maps.google.com/?cid=1975393016243960622&hl=ja
+    address: 富山県氷見市伊勢大町1-11-33
+    price: 480
+    lat: 36.8500604
+    lng: 136.9895688
+    type: 温泉
+-
+    id: 48
+    name: 砺波市健康福祉施設 ゆずの郷やまぶき
+    url: https://shogawakyou.com/yamabuki/
+    map: https://maps.google.com/?cid=16721663637286064733&hl=ja
+    address: 富山県砺波市庄川町庄5134
+    price: 510
+    lat: 36.5808287
+    lng: 136.992364
+    type: 温泉
+-
+    id: 49
+    name: 藤の湯
+    url: http://toyama1010.com/toyama-fujinoyu.html
+    map: https://maps.google.com/?cid=7061512458105249062&hl=ja
+    address: 富山県富山市蛯町1-9
+    price: 440
+    lat: 36.6914613
+    lng: 137.2167217
+    type: 銭湯
+-
+    id: 50
+    name: ひかりランド小矢部
+    url: http://toyama1010.com/gosei-h-oyabe.html
+    map: https://maps.google.com/?cid=1919218734527013906&hl=ja
+    address: 富山県小矢部市野端52-3
+    price: 440
+    lat: 36.669861
+    lng: 136.8606906
+    type: 銭湯
+-
+    id: 51
+    name: 温泉天国 よつやのゆ
+    url: 
+    map: https://maps.google.com/?cid=17360695469267936694&hl=ja
+    address: 富山県高岡市四屋672-2
+    price: 550
+    lat: 36.7608824
+    lng: 137.0043504
+    type: 温泉
+-
+    id: 52
+    name: 朝日湯
+    url: http://toyama1010.com/toyama-asahiyu.html
+    map: https://maps.google.com/?cid=13212130456691780795&hl=ja
+    address: 富山県富山市堀川小泉町1-232
+    price: 440
+    lat: 36.6758602
+    lng: 137.2196714
+    type: 銭湯
+-
+    id: 53
+    name: 白岩湯
+    url: http://toyama1010.com/toyama-siraiwanoyu.html
+    map: https://maps.google.com/?cid=6817225674693435721&hl=ja
+    address: 富山県富山市水橋畠等297
+    price: 440
+    lat: 36.7478653
+    lng: 137.3069946
+    type: 銭湯
+-
+    id: 54
+    name: おやべ温泉 タワーの湯
+    url: http://www.e-muchtoyama.com/detail/index_1166.html
+    map: https://maps.google.com/?cid=636328737507630515&hl=ja
+    address: 富山県小矢部市鷲島15
+    price: 620
+    lat: 36.6593868
+    lng: 136.8766401
+    type: 温泉
+-
+    id: 55
+    name: 白木峰山麓交流施設 大長谷温泉
+    url: https://www.city.toyama.toyama.jp/other/shisetsuannai/onagatanionsen.html
+    map: https://maps.google.com/?cid=9597025817148090651&hl=ja
+    address: 富山県富山市八尾町杉平12
+    price: 470
+    lat: 36.4334012
+    lng: 137.0827588
+    type: 温泉
+-
+    id: 56
+    name: 駅南鉱泉
+    url: http://toyama1010.com/takaoka-ekinankousen.html
+    map: https://maps.google.com/?cid=18302989951217664909&hl=ja
+    address: 富山県高岡市南田町170
+    price: 440
+    lat: 36.7324783
+    lng: 137.0176602
+    type: 銭湯
+-
+    id: 57
+    name: 奥井鉱泉
+    url: http://toyama1010.com/toyama-okuikousen.html
+    map: https://maps.google.com/?cid=404897133579539620&hl=ja
+    address: 富山県富山市奥田本町6-13
+    price: 440
+    lat: 36.712939
+    lng: 137.2222071
+    type: 銭湯
+-
+    id: 58
+    name: 福々ゆ
+    url: 
+    map: https://maps.google.com/?cid=17909642825316303988&hl=ja
+    address: 富山県小矢部市東福町518
+    price: 420
+    lat: 36.6793862
+    lng: 136.885779
+    type: 温泉
+-
+    id: 59
+    name: 健康ランド遊湯
+    url: https://www.imizu-kanko.jp/sightseeing/472/
+    map: https://maps.google.com/?cid=5065658070358649806&hl=ja
+    address: 富山県射水市新開発458-1
+    price: 720
+    lat: 36.7291662
+    lng: 137.0725736
+    type: 温泉
+-
+    id: 60
+    name: 日の出湯
+    url: http://toyama1010.com/takaoka-hinodeyu.html
+    map: https://maps.google.com/?cid=10523204013531488842&hl=ja
+    address: 富山県高岡市大坪町1-7-18
+    price: 440
+    lat: 36.7537083
+    lng: 137.0173995
+    type: 銭湯
+-
+    id: 61
+    name: 境鉱泉
+    url: https://www.asahi-tabi.com/asahimachi/339/
+    map: https://maps.google.com/?cid=11479211287673912742&hl=ja
+    address: 富山県下新川郡朝日町境307
+    price: 500
+    lat: 36.974145
+    lng: 137.6087764
+    type: 温泉
+-
+    id: 62
+    name: ぽかぽかランド
+    url: 
+    map: https://maps.google.com/?cid=8398047276900435879&hl=ja
+    address: 富山県射水市中太閤山1-1-1
+    price: 420
+    lat: 36.7035221
+    lng: 137.0957038
+    type: 銭湯
+-
+    id: 63
+    name: 平成松の湯
+    url: http://toyama1010.com/gotou-heiseimatsunoyu.html
+    map: https://maps.google.com/?cid=6977899834692543470&hl=ja
+    address: 富山県魚津市新金屋1-4-2
+    price: 440
+    lat: 36.8195917
+    lng: 137.4037902
+    type: 銭湯
+-
+    id: 64
+    name: 銭湯王
+    url: http://toyama1010.com/toyama-sentouou.html
+    map: https://maps.google.com/?cid=12275253530761938757&hl=ja
+    address: 富山県富山市岩瀬荒木町722
+    price: 440
+    lat: 36.75271170000001
+    lng: 137.226437
+    type: 銭湯
+-
+    id: 65
+    name: みのわ温泉 ファミリーハウス
+    url: https://bunspo-namerikawa.jp/minowa
+    map: https://maps.google.com/?cid=2422990983716520470&hl=ja
+    address: 富山県滑川市蓑輪28
+    price: 540
+    lat: 36.7274188
+    lng: 137.4369717
+    type: 温泉
+-
+    id: 66
+    name: 越の湯
+    url: http://toyama1010.com/gosei-koshinoyu.html
+    map: https://maps.google.com/?cid=18292496938107014459&hl=ja
+    address: 富山県射水市八幡町3-10-1
+    price: 440
+    lat: 36.7784615
+    lng: 137.0970153
+    type: 銭湯
+-
+    id: 67
+    name: 塩湯
+    url: http://toyama1010.com/gotou-sioyu.html
+    map: https://maps.google.com/?cid=10675442115141784546&hl=ja
+    address: 富山県滑川市常盤町31
+    price: 440
+    lat: 36.7695039
+    lng: 137.3407545
+    type: 銭湯
+-
+    id: 68
+    name: 光明石温泉 久乃家
+    url: http://hisanoya-toyama.com
+    map: https://maps.google.com/?cid=8538269204194691247&hl=ja
+    address: 富山県富山市水橋山王町1605
+    price: 440
+    lat: 36.7554732
+    lng: 137.2970809
+    type: 銭湯
+-
+    id: 69
+    name: ハダカ天国ゆーランド
+    url: 
+    map: https://maps.google.com/?cid=9485696661736668029&hl=ja
+    address: 富山県氷見市上泉64
+    price: 500
+    lat: 36.8209457
+    lng: 136.9939782
+    type: 温泉
+-
+    id: 70
+    name: 竹の湯
+    url: http://toyama1010.com/toyama-takenoyu.html
+    map: https://maps.google.com/?cid=4119768258346594662&hl=ja
+    address: 富山県富山市下新町7-15
+    price: 440
+    lat: 36.7126134
+    lng: 137.2176919
+    type: 銭湯
+-
+    id: 71
+    name: スーパー銭湯1010
+    url: 
+    map: https://maps.google.com/?cid=1626460103984186216&hl=ja
+    address: 富山県高岡市姫野645-1
+    price: 440
+    lat: 36.7690451
+    lng: 137.0836692
+    type: 温泉
+-
+    id: 72
+    name: 内免湯
+    url: http://toyama1010.com/takaoka-naimenyu.html
+    map: https://maps.google.com/?cid=14071303204688554025&hl=ja
+    address: 富山県高岡市内免5-2-13
+    price: 440
+    lat: 36.753945
+    lng: 137.0055766
+    type: 銭湯
+-
+    id: 73
+    name: 舟見寿楽苑 ふれあい温泉
+    url: http://www.funamijurakuen.jp/service/communicate/funaminoyu.html
+    map: https://maps.google.com/?cid=15616294078116627957&hl=ja
+    address: 富山県下新川郡入善町舟見1664
+    price: 470
+    lat: 36.8779364
+    lng: 137.5595292
+    type: 温泉
+-
+    id: 74
+    name: ひかりランド福野
+    url: http://toyama1010.com/gosei-h-fukuno.html
+    map: https://maps.google.com/?cid=5877641444193997712&hl=ja
+    address: 富山県南砺市松原7-2
+    price: 440
+    lat: 36.5924593
+    lng: 136.9301577
+    type: 銭湯
+-
+    id: 75
+    name: 伏木温泉
+    url: http://toyama1010.com/takaoka-fushikionsen.html
+    map: https://maps.google.com/?cid=10756877335594478441&hl=ja
+    address: 富山県高岡市伏木湊町2-23
+    price: 440
+    lat: 36.7948248
+    lng: 137.0615142
+    type: 銭湯
+-
+    id: 76
+    name: 天然温泉付き地域交流館 グランスパかの苑
+    url: https://tatenofukushikai-kanoen.com/facility/spa/
+    map: https://maps.google.com/?cid=8805102200370837667&hl=ja
+    address: 富山県高岡市上渡16
+    price: 550
+    lat: 36.7298206
+    lng: 136.9566679
+    type: 温泉
+-
+    id: 77
+    name: マルトミ鉱泉
+    url: http://toyama1010.com/toyama-marutomikousen.html
+    map: https://maps.google.com/?cid=4616261210834846709&hl=ja
+    address: 富山県富山市呉羽町6068-21
+    price: 440
+    lat: 36.712138
+    lng: 137.1718285
+    type: 銭湯
+-
+    id: 78
+    name: パラダイス
+    url: 
+    map: https://maps.google.com/?cid=13497380083734575950&hl=ja
+    address: 富山県高岡市野村東町413
+    price: 440
+    lat: 36.7465931
+    lng: 137.0343326
+    type: 銭湯
+-
+    id: 79
+    name: たから湯
+    url: http://toyama1010.com/toyama-takarayu.html
+    map: https://maps.google.com/?cid=6049359721329972883&hl=ja
+    address: 富山県富山市北新町1-2-12
+    price: 440
+    lat: 36.6943847
+    lng: 137.2213057
+    type: 銭湯
+-
+    id: 80
+    name: 天然温泉 風の森
+    url: http://www.tennenonsen-kazenomori.com/
+    map: https://maps.google.com/?cid=1052672543029985575&hl=ja
+    address: 富山県小矢部市西中野1086-1
+    price: 1250
+    lat: 36.6876168
+    lng: 136.87891
+    type: 温泉
+-
+    id: 81
+    name: 辰尾鉱泉
+    url: http://toyama1010.com/toyama-tatsuokousen.html
+    map: https://maps.google.com/?cid=6572509939394592774&hl=ja
+    address: 富山県富山市辰尾新町387
+    price: 440
+    lat: 36.6251798
+    lng: 137.2165029
+    type: 銭湯
+-
+    id: 82
+    name: グリーンパーク吉峰 ゆ〜ランド
+    url: https://www.yoshimine.or.jp
+    map: https://maps.google.com/maps?q=36.61417,137.32811
+    address: 富山県中新川郡立山町吉峰野開12
+    price: 620
+    lat: 36.6158642
+    lng: 137.3315222
+    type: 温泉
+-
+    id: 83
+    name: 堀田の湯
+    url: http://toyama1010.com/gosei-hottanoyu.html
+    map: https://maps.google.com/?cid=14157800217602504433&hl=ja
+    address: 富山県氷見市堀田1364
+    price: 440
+    lat: 36.8002804
+    lng: 136.9767303
+    type: 銭湯
+-
+    id: 84
+    name: 星の湯
+    url: http://toyama1010.com/toyama-hoshinoyu.html
+    map: https://maps.google.com/?cid=79210700535627165&hl=ja
+    address: 富山県富山市中野新町1-2-17
+    price: 440
+    lat: 36.6835179
+    lng: 137.215347
+    type: 銭湯
+-
+    id: 85
+    name: 荏原鉱泉
+    url: http://toyama1010.com/toyama-ebarakousen.html
+    map: https://maps.google.com/?cid=13314426849620956853&hl=ja
+    address: 富山県富山市荏原53-52
+    price: 440
+    lat: 36.6968805
+    lng: 137.2657505
+    type: 銭湯
+-
+    id: 86
+    name: まるたかゆ
+    url: http://toyama1010.com/gosei-marutakayu.html
+    map: https://maps.google.com/?cid=12847197759315072637&hl=ja
+    address: 富山県南砺市松原新1835
+    price: 440
+    lat: 36.589421
+    lng: 136.922616
+    type: 銭湯
+-
+    id: 87
+    name: 川城鉱泉
+    url: http://toyama1010.com/gotou-kawasirokousen.html
+    map: https://maps.google.com/?cid=18118897693186529700&hl=ja
+    address: 富山県魚津市上口2-18-25
+    price: 440
+    lat: 36.809887
+    lng: 137.3961619
+    type: 銭湯
+-
+    id: 88
+    name: 立山鉱泉
+    url: http://toyama1010.com/toyama-tateyamakousen.html
+    map: https://maps.google.com/?cid=12599187893589865420&hl=ja
+    address: 富山県富山市中島3-8-31
+    price: 440
+    lat: 36.7201856
+    lng: 137.2208137
+    type: 銭湯
+-
+    id: 89
+    name: 城山鉱泉
+    url: http://toyama1010.com/takaoka-shiroyamakousen.html
+    map: https://maps.google.com/?cid=10228356266518903041&hl=ja
+    address: 富山県高岡市守護町1-4-36
+    price: 440
+    lat: 36.7686223
+    lng: 137.0099843
+    type: 銭湯
+-
+    id: 90
+    name: 赤坂光泉
+    url: http://toyama1010.com/takaoka-akasakakousen.html
+    map: https://maps.google.com/?cid=5535522146285865797&hl=ja
+    address: 富山県高岡市伏木東一宮2-1
+    price: 440
+    lat: 36.7942656
+    lng: 137.0558196
+    type: 銭湯
+-
+    id: 91
+    name: さんがの湯
+    url: http://toyama1010.com/gosei-sanganoyu.html
+    map: https://maps.google.com/?cid=6000288316071353479&hl=ja
+    address: 富山県射水市立町13-22
+    price: 440
+    lat: 36.7807922
+    lng: 137.0889068
+    type: 銭湯
+-
+    id: 92
+    name: 赤湯
+    url: http://toyama1010.com/takaoka-akayu.html
+    map: https://maps.google.com/?cid=11923030178430541581&hl=ja
+    address: 富山県高岡市守山219
+    price: 440
+    lat: 36.7760276
+    lng: 137.0003713
+    type: 銭湯
+-
+    id: 93
+    name: 竹原湯
+    url: http://toyama1010.com/gosei-takeharayu.html
+    map: https://maps.google.com/?cid=10912067728691101446&hl=ja
+    address: 富山県氷見市上田子508
+    price: 440
+    lat: 36.809544
+    lng: 136.9965105
+    type: 銭湯
+-
+    id: 94
+    name: 草津鉱泉
+    url: http://toyama1010.com/toyama-kusatukousen.html
+    map: https://maps.google.com/?cid=5228278307408364164&hl=ja
+    address: 富山県富山市田刈屋137
+    price: 440
+    lat: 36.7073966
+    lng: 137.2001729
+    type: 銭湯
+-
+    id: 95
+    name: 和倉湯
+    url: http://toyama1010.com/takaoka-wakurayu.html
+    map: https://maps.google.com/?cid=17322327599860810326&hl=ja
+    address: 富山県高岡市東下関7-10
+    price: 440
+    lat: 36.7422147
+    lng: 137.0202585
+    type: 銭湯
+-
+    id: 96
+    name: みなと湯
+    url: http://toyama1010.com/gotou-minatoyu.html
+    map: https://maps.google.com/?cid=12627687944320211522&hl=ja
+    address: 富山県魚津市諏訪町13-17
+    price: 440
+    lat: 36.8186581
+    lng: 137.3942476
+    type: 銭湯
+-
+    id: 97
+    name: 福島の湯
+    url: http://toyama1010.com/toyama-fukushimanoyu.html
+    map: https://maps.google.com/?cid=14759937423575885120&hl=ja
+    address: 富山県富山市八尾町福島52
+    price: 440
+    lat: 36.586048
+    lng: 137.141702
+    type: 銭湯
+-
+    id: 98
+    name: 浦乃湯
+    url: http://toyama1010.com/toyama-uranoyu.html
+    map: https://maps.google.com/?cid=8553095404481951139&hl=ja
+    address: 富山県富山市羽根86
+    price: 440
+    lat: 36.679381
+    lng: 137.1887519
+    type: 銭湯
+-
+    id: 99
+    name: 松乃湯
+    url: http://toyama1010.com/takaoka-matsunoyu.html
+    map: https://maps.google.com/?cid=5252009888786916729&hl=ja
+    address: 富山県高岡市末広町12-22
+    price: 440
+    lat: 36.7442995
+    lng: 137.0098428
+    type: 銭湯
+-
+    id: 100
+    name: 金崎湯
+    url: http://toyama1010.com/gosei-kanasakiyu.html
+    map: https://maps.google.com/?cid=11845596557737220489&hl=ja
+    address: 富山県射水市中新湊2-8
+    price: 440
+    lat: 36.7780955
+    lng: 137.0873999
+    type: 銭湯
+-
+    id: 101
+    name: 柳湯
+    url: http://toyama1010.com/gosei-yanagiyu.html
+    map: https://maps.google.com/?cid=7002619359570938278&hl=ja
+    address: 富山県砺波市庄川町示野450
+    price: 440
+    lat: 36.5745562
+    lng: 136.9823663
+    type: 銭湯
+-
+    id: 102
+    name: 和倉湯
+    url: http://toyama1010.com/toyama-wakurayu.html
+    map: https://maps.google.com/?cid=6062326189865593358&hl=ja
+    address: 富山県富山市清水町4-2-17
+    price: 440
+    lat: 36.6878766
+    lng: 137.2265694
+    type: 銭湯
+-
+    id: 103
+    name: 別府湯
+    url: http://toyama1010.com/takaoka-beppuyu.html
+    map: https://maps.google.com/?cid=4919944156742188431&hl=ja
+    address: 富山県高岡市関町9
+    price: 440
+    lat: 36.7388958
+    lng: 137.009108
+    type: 銭湯
+-
+    id: 104
+    name: 森の湯
+    url: http://toyama1010.com/toyama-morinoyu.html
+    map: https://maps.google.com/?cid=11734671798828412280&hl=ja
+    address: 富山県富山市西四十物町5-24
+    price: 440
+    lat: 36.6885012
+    lng: 137.2078525
+    type: 銭湯
+-
+    id: 105
+    name: 開発鉱泉
+    url: http://toyama1010.com/toyama-kaihotukousen.html
+    map: https://maps.google.com/?cid=14062807814010271461&hl=ja
+    address: 富山県富山市月見町4-66
+    price: 440
+    lat: 36.6294706
+    lng: 137.2445477
+    type: 銭湯
+-
+    id: 106
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=11960408619815272320&hl=ja
+    address: 富山県中新川郡上市町西中町30
+    price: 440
+    lat: 36.7046898
+    lng: 137.362947
+    type: 銭湯
+-
+    id: 107
+    name: 潮騒の湯
+    url: http://toyama1010.com/takaoka-shiosainoyu.html
+    map: https://maps.google.com/?cid=16742678443004251034&hl=ja
+    address: 富山県高岡市太田伊勢領1511-13
+    price: 440
+    lat: 36.8286102
+    lng: 137.0160744
+    type: 銭湯
+-
+    id: 108
+    name: 観音湯
+    url: http://toyama1010.com/gotou-kannonyu-uozu.html
+    map: https://maps.google.com/?cid=348562795871647973&hl=ja
+    address: 富山県魚津市経田中町4-14
+    price: 440
+    lat: 36.8519431
+    lng: 137.4151826
+    type: 銭湯
+-
+    id: 109
+    name: 中島湯
+    url: http://toyama1010.com/takaoka-nakajimayu.html
+    map: https://maps.google.com/?cid=14520828302340005003&hl=ja
+    address: 富山県高岡市中島町4-12
+    price: 440
+    lat: 36.7469572
+    lng: 137.00479
+    type: 銭湯
+-
+    id: 110
+    name: 憩の湯
+    url: http://toyama1010.com/takaoka-ikoinoyu.html
+    map: https://maps.google.com/?cid=7199351265685022815&hl=ja
+    address: 富山県高岡市永楽町2-10
+    price: 440
+    lat: 36.743098
+    lng: 136.9976174
+    type: 銭湯
+-
+    id: 111
+    name: 大門赤湯鉱泉
+    url: 
+    map: https://maps.google.com/?cid=4465828282602181237&hl=ja
+    address: 富山県射水市大門3
+    price: 440
+    lat: 36.7346324
+    lng: 137.0515877
+    type: 銭湯

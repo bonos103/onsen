@@ -86,7 +86,7 @@
     map: https://maps.google.com/?cid=5861038550678069804&hl=ja
     address: 静岡県御殿場市印野1380-25
     price: 800
-    lat: 35.2964525
+    lat: 35.29645250000001
     lng: 138.8678058
     type: 温泉
 -
@@ -196,7 +196,7 @@
     map: https://maps.google.com/?cid=14187868594045882749&hl=ja
     address: 静岡県静岡市清水区草薙1865-2
     price: 750
-    lat: 35.0054961
+    lat: 35.00549609999999
     lng: 138.444219
     type: 温泉
 -
@@ -486,7 +486,7 @@
     map: https://maps.google.com/?cid=2135519524273160045&hl=ja
     address: 静岡県浜松市浜北区平口2861
     price: 800
-    lat: 34.794831
+    lat: 34.79483099999999
     lng: 137.7608281
     type: 温泉
 -
@@ -536,7 +536,7 @@
     map: https://maps.google.com/?cid=13568371348717990678&hl=ja
     address: 静岡県御殿場市新橋420-1
     price: 1500
-    lat: 35.2985992
+    lat: 35.29859920000001
     lng: 138.945087
     type: 温泉
 -
@@ -706,7 +706,7 @@
     map: https://maps.google.com/?cid=3291197037601917081&hl=ja
     address: 静岡県富士市中島352-1
     price: 400
-    lat: 35.1613482
+    lat: 35.16134820000001
     lng: 138.6531108
     type: 銭湯
 -
@@ -716,7 +716,7 @@
     map: https://maps.google.com/?cid=6536939319844544500&hl=ja
     address: 静岡県伊東市芝町2
     price: 300
-    lat: 34.9686918
+    lat: 34.96869179999999
     lng: 139.1045291
     type: 共同浴場・銭湯
 -
@@ -836,7 +836,7 @@
     map: https://maps.google.com/?cid=12613023222842038606&hl=ja
     address: 静岡県焼津市中港3-3-12
     price: 510
-    lat: 34.87382
+    lat: 34.87381999999999
     lng: 138.3251792
     type: 温泉
 -
@@ -946,7 +946,7 @@
     map: https://maps.google.com/?cid=4279270726093867904&hl=ja
     address: 静岡県伊東市宇佐美3226-100
     price: 800
-    lat: 34.9924625
+    lat: 34.99246249999999
     lng: 139.0562615
     type: 温泉
 -
@@ -986,7 +986,7 @@
     map: https://maps.google.com/?cid=18373387346535053465&hl=ja
     address: 静岡県伊東市湯川572-12
     price: 2000
-    lat: 34.9904563
+    lat: 34.99045630000001
     lng: 139.0926854
     type: 温泉
 -
@@ -1006,7 +1006,7 @@
     map: https://maps.google.com/?cid=15401841707725123853&hl=ja
     address: 静岡県賀茂郡西伊豆町仁科浮島2190-1
     price: 600
-    lat: 34.793439
+    lat: 34.79343900000001
     lng: 138.760518
     type: 温泉
 -
@@ -1146,7 +1146,7 @@
     map: https://maps.google.com/?cid=8087377550513629964&hl=ja
     address: 静岡県焼津市宗高572-1
     price: 300
-    lat: 34.8033365
+    lat: 34.80333650000001
     lng: 138.2904589
     type: 温泉
 -
@@ -1156,7 +1156,7 @@
     map: https://maps.google.com/?cid=12016274538910440941&hl=ja
     address: 静岡県熱海市初島
     price: 900
-    lat: 35.0405168
+    lat: 35.04051680000001
     lng: 139.1714529
     type: 温泉
 -
@@ -1346,7 +1346,7 @@
     map: https://maps.google.com/maps?q=35.304852,138.967102
     address: 静岡県御殿場市深沢2839-1
     price: 1600
-    lat: 35.3073423
+    lat: 35.30734229999999
     lng: 138.9669704
     type: 温泉
 -

@@ -1,0 +1,591 @@
+---
+-
+    id: 1
+    name: 新清水温泉
+    url: http://www.oidemase.or.jp/tourism-information/spots/12391
+    map: https://maps.google.com/?cid=7735947425700275896&hl=ja
+    address: 山口県山口市中央4-2833-6
+    price: 420
+    lat: 34.1733103
+    lng: 131.46971
+    type: 銭湯
+-
+    id: 2
+    name: フレスパランド カッタの湯
+    url: http://www.fukunoyu.com/kattano-yu/
+    map: https://maps.google.com/?cid=7062359139760802795&hl=ja
+    address: 山口県宇部市海南町1675
+    price: 500
+    lat: 33.9578337
+    lng: 131.262659
+    type: 温泉
+-
+    id: 3
+    name: 道の駅 願成就温泉
+    url: https://www.ganjojuonsen.com/
+    map: https://maps.google.com/?cid=9549368980161972451&hl=ja
+    address: 山口県山口市阿東徳佐上2-95
+    price: 510
+    lat: 34.4342964
+    lng: 131.7706384
+    type: 温泉
+-
+    id: 4
+    name: 道の駅おふく 於福温泉
+    url: https://itp.ne.jp/info/351688403400000899/
+    map: https://maps.google.com/?cid=18428219849086061870&hl=ja
+    address: 山口県美祢市於福町上4383-1
+    price: 500
+    lat: 34.2379593
+    lng: 131.2083486
+    type: 温泉
+-
+    id: 5
+    name: 鶴ヶ浜天然温泉 くだまつ健康パーク
+    url: https://www.k-park.co.jp/
+    map: https://maps.google.com/?cid=2787919002662913588&hl=ja
+    address: 山口県下松市平田448
+    price: 1980
+    lat: 34.0155173
+    lng: 131.8429227
+    type: 温泉
+-
+    id: 6
+    name: 楠こもれびの郷 くすくすの湯
+    url: https://www.komorebinosato.net/
+    map: https://maps.google.com/?cid=10918637950602686719&hl=ja
+    address: 山口県宇部市西万倉沖田1662-1
+    price: 620
+    lat: 34.0707883
+    lng: 131.2437008
+    type: 温泉
+-
+    id: 7
+    name: 天然温泉みちしお
+    url: http://www.michishio.com/spa/
+    map: https://maps.google.com/?cid=5002813454892919150&hl=ja
+    address: 山口県山陽小野田市埴生2216-7
+    price: 800
+    lat: 34.04289
+    lng: 131.0707828
+    type: 温泉
+-
+    id: 8
+    name: 日乃出温泉
+    url: http://hinode-onsen.com/
+    map: https://maps.google.com/?cid=4606863133694395683&hl=ja
+    address: 山口県下関市大和町1-12-12
+    price: 420
+    lat: 33.9450538
+    lng: 130.9174159
+    type: 銭湯
+-
+    id: 9
+    name: 和楽の湯 下関せいりゅう
+    url: http://warakunoyu.jp/
+    map: https://maps.google.com/?cid=16664543814196899000&hl=ja
+    address: 山口県下関市新椋野1-2-15
+    price: 900
+    lat: 33.9820147
+    lng: 130.9466558
+    type: 温泉
+-
+    id: 10
+    name: 湯田温泉 温泉の森
+    url: http://www.kamefuku.com/facility/onsen.html
+    map: https://maps.google.com/?cid=12461611457657115218&hl=ja
+    address: 山口県山口市湯田温泉4-7-17
+    price: 1000
+    lat: 34.1640924
+    lng: 131.4534863
+    type: 温泉
+-
+    id: 11
+    name: 上関海峡温泉 鳩子の湯
+    url: http://www.hatokonoyu.jp/
+    map: https://maps.google.com/?cid=5921822633943161565&hl=ja
+    address: 山口県熊毛郡上関町室津924
+    price: 700
+    lat: 33.8325897
+    lng: 132.1171541
+    type: 温泉
+-
+    id: 12
+    name: 俵山温泉 白猿の湯
+    url: http://tawarayamaonsen.com/onsen.html
+    map: https://maps.google.com/?cid=17208035817121420928&hl=ja
+    address: 山口県長門市俵山5172
+    price: 850
+    lat: 34.2915857
+    lng: 131.102286
+    type: 温泉
+-
+    id: 13
+    name: 江泊温泉 和の湯
+    url: http://yawaragi-no-yu.com/
+    map: https://maps.google.com/?cid=7077157794131596576&hl=ja
+    address: 山口県防府市江泊1942
+    price: 740
+    lat: 34.0487163
+    lng: 131.6045595
+    type: 温泉
+-
+    id: 14
+    name: 向洋温泉
+    url: http://www.kohyoo.com/
+    map: https://maps.google.com/?cid=3961583006349286579&hl=ja
+    address: 山口県下関市栄町1-9
+    price: 420
+    lat: 33.9636319
+    lng: 130.9271869
+    type: 銭湯
+-
+    id: 15
+    name: 黄波戸温泉交流センター
+    url: https://nanavi.jp/stay/kiwado/
+    map: https://maps.google.com/?cid=17577485076106050129&hl=ja
+    address: 山口県長門市日置上3137-1
+    price: 400
+    lat: 34.3962107
+    lng: 131.1320156
+    type: 温泉
+-
+    id: 16
+    name: 川棚温泉 温泉銭湯 ぴーすふる青竜泉
+    url: https://www.seiryusen.com/
+    map: https://maps.google.com/?cid=2389670214540415029&hl=ja
+    address: 山口県下関市豊浦町川棚湯町5159-2
+    price: 420
+    lat: 34.137252
+    lng: 130.938663
+    type: 温泉
+-
+    id: 17
+    name: 山陽小野田市 きらら交流館
+    url: https://www.kirara-k.jp/bath/
+    map: https://maps.google.com/?cid=17346338137356766467&hl=ja
+    address: 山口県山陽小野田市きららビーチ焼野
+    price: 520
+    lat: 33.9464381
+    lng: 131.1664247
+    type: 温泉
+-
+    id: 18
+    name: 三島温泉健康交流施設 ゆーぱーく光
+    url: http://ppp.seika-spc.co.jp/upark-hikari/?page_id=36
+    map: https://maps.google.com/?cid=11964360001480741907&hl=ja
+    address: 山口県光市三井6-6-1
+    price: 620
+    lat: 33.9890631
+    lng: 131.9568838
+    type: 温泉
+-
+    id: 19
+    name: 柚木慈生温泉
+    url: http://yamaguchi-city.jp/details/ca_yunoki.html
+    map: https://maps.google.com/?cid=6008821156407525427&hl=ja
+    address: 山口県山口市徳地柚木2178
+    price: 500
+    lat: 34.3422177
+    lng: 131.7248713
+    type: 温泉
+-
+    id: 20
+    name: 俵山温泉 町の湯
+    url: http://tawarayamaonsen.com/onsen.html
+    map: https://maps.google.com/?cid=4517271282926666621&hl=ja
+    address: 山口県長門市俵山5113
+    price: 480
+    lat: 34.2914907
+    lng: 131.101522
+    type: 共同浴場・銭湯
+-
+    id: 21
+    name: 湯田温泉 亀乃湯
+    url: http://www.oidemase.or.jp/tourism-information/spots/16150
+    map: https://maps.google.com/?cid=3140750941840353232&hl=ja
+    address: 山口県山口市湯田温泉4-1-5
+    price: 390
+    lat: 34.1647978
+    lng: 131.4568445
+    type: 共同浴場・銭湯
+-
+    id: 22
+    name: 吉見温泉センター
+    url: http://yoshimi-onsen.co.jp/
+    map: https://maps.google.com/?cid=15072859734470888257&hl=ja
+    address: 山口県下関市吉見上395-1
+    price: 610
+    lat: 34.0823081
+    lng: 130.9170677
+    type: 温泉
+-
+    id: 23
+    name: 吉田温泉 晋作の湯
+    url: http://www.oidemase.or.jp/tourism-information/spots/16268
+    map: https://maps.google.com/?cid=8241604632423517496&hl=ja
+    address: 山口県下関市吉田1202-3
+    price: 500
+    lat: 34.0870763
+    lng: 131.0780781
+    type: 温泉
+-
+    id: 24
+    name: 湯免ふれあいセンター
+    url: https://nanavi.jp/stay/yumen/
+    map: https://maps.google.com/?cid=11141038723578257298&hl=ja
+    address: 山口県長門市三隅中251-6
+    price: 500
+    lat: 34.3598836
+    lng: 131.2620706
+    type: 温泉
+-
+    id: 25
+    name: 雙津峡温泉 憩の家
+    url: https://sozukyo-onsen.com/
+    map: https://maps.google.com/?cid=12642252931404738444&hl=ja
+    address: 山口県岩国市錦町深川3132
+    price: 600
+    lat: 34.31361
+    lng: 131.9894435
+    type: 温泉
+-
+    id: 26
+    name: 大河内温泉 いのゆ
+    url: http://inoyu.ftw.jp/
+    map: https://maps.google.com/?cid=5587818737159963426&hl=ja
+    address: 山口県下関市豊浦町宇賀5289-1
+    price: 500
+    lat: 34.2139882
+    lng: 130.9494361
+    type: 温泉
+-
+    id: 27
+    name: バーデンハウス三丘
+    url: https://www.barden-mitsuo.jp/
+    map: https://maps.google.com/?cid=5454954577604948281&hl=ja
+    address: 山口県周南市小松原1234
+    price: 770
+    lat: 34.0346357
+    lng: 131.9934486
+    type: 温泉
+-
+    id: 28
+    name: ロハス島地温泉
+    url: https://www.city.yamaguchi.lg.jp/map/7187.html
+    map: https://maps.google.com/?cid=1314265425135014603&hl=ja
+    address: 山口県山口市徳地島地2102-4
+    price: 510
+    lat: 34.1592342
+    lng: 131.7027997
+    type: 温泉
+-
+    id: 29
+    name: 日本海温泉 鹿島の湯
+    url: http://www.abucreation.com/onsen
+    map: https://maps.google.com/?cid=7219400731948207988&hl=ja
+    address: 山口県阿武郡阿武町奈古釜屋2253-1
+    price: 550
+    lat: 34.5036331
+    lng: 131.4912791
+    type: 温泉
+-
+    id: 30
+    name: 宮野100円温泉 山口ふれあい館
+    url: https://www.sanbg.com/yakata/
+    map: https://maps.google.com/?cid=1261692246846539297&hl=ja
+    address: 山口県山口市宮野上1222
+    price: 100
+    lat: 34.2194637
+    lng: 131.5128517
+    type: 温泉
+-
+    id: 31
+    name: 田万川温泉 憩いの湯
+    url: http://www.yutoripark-tamagawa.com/?page_id=31
+    map: https://maps.google.com/?cid=14970309178374354905&hl=ja
+    address: 山口県萩市下田万1740-1
+    price: 410
+    lat: 34.6524435
+    lng: 131.661145
+    type: 温泉
+-
+    id: 32
+    name: 萩阿武川温泉 ふれあい会館
+    url: http://www.hagishi.com/search/detail.php?d=500016
+    map: https://maps.google.com/?cid=17654501985632879269&hl=ja
+    address: 山口県萩市川上4892-1
+    price: 410
+    lat: 34.3431548
+    lng: 131.5012792
+    type: 温泉
+-
+    id: 33
+    name: 道の駅 蛍街道 西ノ市 西ノ市温泉
+    url: https://www.toyota-hotaru.com/floormap/onsen/
+    map: https://maps.google.com/?cid=1907028109430936431&hl=ja
+    address: 山口県下関市豊田町中村876-4
+    price: 670
+    lat: 34.1983414
+    lng: 131.076767
+    type: 温泉
+-
+    id: 34
+    name: 石船温泉
+    url: http://www.oidemase.or.jp/tourism-information/spots/13115
+    map: https://maps.google.com/?cid=6571827617890615742&hl=ja
+    address: 山口県周南市鹿野上1667-4
+    price: 610
+    lat: 34.249586
+    lng: 131.829075
+    type: 温泉
+-
+    id: 35
+    name: きくがわ温泉華陽
+    url: http://s-kanrikousha.com/kayotop.html
+    map: https://maps.google.com/?cid=8589986013868804781&hl=ja
+    address: 山口県下関市菊川町下岡枝508-1
+    price: 400
+    lat: 34.13048
+    lng: 131.03465
+    type: 温泉
+-
+    id: 36
+    name: 持世寺温泉 上の湯
+    url: https://www.city.ube.yamaguchi.jp/shisei/kankou/tomaru_kutsurogu/onsen/jiseiji.html
+    map: https://maps.google.com/?cid=1263783737813891840&hl=ja
+    address: 山口県宇部市吉見2925
+    price: 1000
+    lat: 34.0333738
+    lng: 131.2598815
+    type: 温泉
+-
+    id: 37
+    name: 桑の山温泉
+    url: 
+    map: https://maps.google.com/?cid=17948284750476670381&hl=ja
+    address: 山口県防府市鞠生町6-6
+    price: 420
+    lat: 34.04091930000001
+    lng: 131.5660217
+    type: 銭湯
+-
+    id: 38
+    name: 片添ケ浜温泉 遊湯ランド
+    url: http://www.town.suo-oshima.lg.jp/syoukoukankou/yuyuland.html
+    map: https://maps.google.com/?cid=6154809615338019299&hl=ja
+    address: 山口県大島郡周防大島町片添
+    price: 520
+    lat: 33.8959767
+    lng: 132.3610387
+    type: 温泉
+-
+    id: 39
+    name: 呼鶴温泉
+    url: http://www.oidemase.or.jp/tourism-information/spots/12788
+    map: https://maps.google.com/?cid=1955145315599841149&hl=ja
+    address: 山口県周南市安田1814
+    price: 600
+    lat: 34.0468983
+    lng: 131.9688985
+    type: 温泉
+-
+    id: 40
+    name: 東善寺 やすらぎの里
+    url: https://touzennji.jimdo.com/
+    map: https://maps.google.com/?cid=14025287912925422090&hl=ja
+    address: 山口県周南市小松原1706-1
+    price: 620
+    lat: 34.0324455
+    lng: 131.9940145
+    type: 温泉
+-
+    id: 41
+    name: カルストの湯
+    url: http://spaspa.gnk.cc/20080709_1/20080709_1.htm
+    map: https://maps.google.com/?cid=10748483078249056700&hl=ja
+    address: 山口県美祢市秋芳町岩永下郷3203
+    price: 400
+    lat: 34.1870236
+    lng: 131.2881021
+    type: 温泉
+-
+    id: 42
+    name: 片倉温泉くぼた
+    url: http://katakura-spa.co.jp/
+    map: https://maps.google.com/?cid=783566644360815440&hl=ja
+    address: 山口県宇部市西岐波5345
+    price: 600
+    lat: 33.9731411
+    lng: 131.2990896
+    type: 温泉
+-
+    id: 43
+    name: 霧島湯
+    url: http://www.yamayoku.sakura.ne.jp/sibu_shi001.html
+    map: https://maps.google.com/?cid=12772306627306630820&hl=ja
+    address: 山口県下関市竹崎町2-11-8
+    price: 420
+    lat: 33.9521914
+    lng: 130.9235526
+    type: 銭湯
+-
+    id: 44
+    name: 柳井スイミングスクール 健康余田温泉
+    url: http://www.yanai-swim.com/contents/hotspring/
+    map: https://maps.google.com/?cid=10209981206331379509&hl=ja
+    address: 山口県柳井市余田平田3161-1
+    price: 520
+    lat: 33.9628482
+    lng: 132.0720332
+    type: 温泉
+-
+    id: 45
+    name: 竜崎温泉 ちどり 潮風の湯
+    url: http://ryuzakionsen.info/
+    map: https://maps.google.com/?cid=11533153313686966117&hl=ja
+    address: 山口県大島郡周防大島町東安下庄685-2
+    price: 730
+    lat: 33.8934834
+    lng: 132.2904453
+    type: 温泉
+-
+    id: 46
+    name: 持世寺温泉 杉野湯
+    url: https://www.city.ube.yamaguchi.jp/shisei/kankou/tomaru_kutsurogu/onsen/jiseiji.html
+    map: https://maps.google.com/?cid=3729669013167465939&hl=ja
+    address: 山口県宇部市吉見持世寺2910
+    price: 500
+    lat: 34.0317618
+    lng: 131.2589899
+    type: 温泉
+-
+    id: 47
+    name: 文化湯
+    url: http://twens.co.jp/bunkayu/
+    map: https://maps.google.com/?cid=14082312719750976129&hl=ja
+    address: 山口県周南市戎町3-11
+    price: 420
+    lat: 34.0580228
+    lng: 131.8009265
+    type: 銭湯
+-
+    id: 48
+    name: ヘルシーランド下関
+    url: http://s-kanrikousha.com/healthytop.html
+    map: https://maps.google.com/?cid=17283954164147588564&hl=ja
+    address: 山口県下関市井田小野
+    price: 510
+    lat: 34.059789
+    lng: 130.968458
+    type: 温泉
+-
+    id: 49
+    name: 友恵湯
+    url: http://www.yamayoku.sakura.ne.jp/sibu03.htm
+    map: https://maps.google.com/?cid=9110924853942291231&hl=ja
+    address: 山口県宇部市明治町2-10-3
+    price: 420
+    lat: 33.9417377
+    lng: 131.2520077
+    type: 銭湯
+-
+    id: 50
+    name: 梅の湯
+    url: 
+    map: https://maps.google.com/?cid=15350618169697590496&hl=ja
+    address: 山口県周南市清水1-1-8
+    price: 420
+    lat: 34.0540316
+    lng: 131.8161327
+    type: 銭湯
+-
+    id: 51
+    name: 日野温泉 いこいの家
+    url: http://www.oidemase.or.jp/tourism-information/spots/16270
+    map: https://maps.google.com/?cid=7978604201362825250&hl=ja
+    address: 山口県下関市豊田町日野大下14-2
+    price: 500
+    lat: 34.1745073
+    lng: 131.0809765
+    type: 温泉
+-
+    id: 52
+    name: 中原温泉
+    url: 
+    map: https://maps.google.com/?cid=5320083110340290708&hl=ja
+    address: 山口県周南市金峰西中原2753-2
+    price: 3000
+    lat: 34.1910216
+    lng: 131.9193805
+    type: 温泉
+-
+    id: 53
+    name: 長門峡温泉 湯ノ瀬
+    url: http://www.shokokai.or.jp/35/3520410015/index.htm
+    map: https://maps.google.com/?cid=12835493388446910132&hl=ja
+    address: 山口県萩市川上3919-61
+    price: 400
+    lat: 34.3431548
+    lng: 131.5012792
+    type: 温泉
+-
+    id: 54
+    name: 阿賀ふれあいセンター
+    url: https://fureai-aka.com/
+    map: https://maps.google.com/?cid=16094503995556760600&hl=ja
+    address: 山口県岩国市美和町阿賀1039
+    price: 200
+    lat: 34.2794859
+    lng: 132.0693824
+    type: 温泉
+-
+    id: 55
+    name: 下関市豊浦老人福祉センター
+    url: http://www.shimoshakyo.or.jp/facility/shisetsu06_2.html
+    map: https://maps.google.com/?cid=3564996044006887851&hl=ja
+    address: 山口県下関市豊浦町川棚4892-1
+    price: 300
+    lat: 34.1405649
+    lng: 130.9386098
+    type: 温泉
+-
+    id: 56
+    name: えびす湯
+    url: http://www.yamayoku.sakura.ne.jp/sibu_shi001.html
+    map: https://maps.google.com/?cid=7519379705858927434&hl=ja
+    address: 山口県下関市今浦町5-6
+    price: 420
+    lat: 33.9541463
+    lng: 130.9219777
+    type: 銭湯
+-
+    id: 57
+    name: 弁天湯
+    url: http://www.yamayoku.sakura.ne.jp/sibu_shi002.html
+    map: https://maps.google.com/?cid=3700018251370527958&hl=ja
+    address: 山口県下関市幸町14-5
+    price: 420
+    lat: 33.961723
+    lng: 130.9439901
+    type: 銭湯
+-
+    id: 58
+    name: 千歳湯
+    url: http://www.yamayoku.sakura.ne.jp/sibu_shi001.html
+    map: https://maps.google.com/maps?q=33.956816,130.91918
+    address: 山口県下関市上新地町4-4-7
+    price: 420
+    lat: 33.956751
+    lng: 130.9191838
+    type: 銭湯
+-
+    id: 59
+    name: 竹の湯
+    url: 
+    map: https://maps.google.com/maps?q=33.962048,130.93429
+    address: 山口県下関市上田中町8-12-4
+    price: 420
+    lat: 33.9620483
+    lng: 130.9342895
+    type: 銭湯

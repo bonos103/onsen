@@ -1,0 +1,1291 @@
+---
+-
+    id: 1
+    name: 竜泉寺の湯(草加谷塚店)
+    url: https://ryusenjinoyu.com/souka/
+    map: https://maps.google.com/?cid=7706050541888996535&hl=ja
+    address: 埼玉県草加市谷塚上町476
+    price: 750
+    lat: 35.8145309
+    lng: 139.7882971
+    type: 温泉
+-
+    id: 2
+    name: 宮沢湖温泉 喜楽里別邸
+    url: http://www.yurakirari.com/kirari/miyazawako/
+    map: https://maps.google.com/?cid=17723191911335463362&hl=ja
+    address: 埼玉県飯能市宮沢27-49
+    price: 1390
+    lat: 35.8729132
+    lng: 139.3322062
+    type: 温泉
+-
+    id: 3
+    name: 杉戸天然温泉 雅楽の湯
+    url: http://www.utanoyu.com/
+    map: https://maps.google.com/?cid=11019270474561746848&hl=ja
+    address: 埼玉県北葛飾郡杉戸町杉戸2517
+    price: 1100
+    lat: 36.0387485
+    lng: 139.7254873
+    type: 温泉
+-
+    id: 4
+    name: 熊谷天然温泉 花湯スパリゾート
+    url: http://hanayuspa.jp/
+    map: https://maps.google.com/?cid=12673829436237318084&hl=ja
+    address: 埼玉県熊谷市上之1005
+    price: 750
+    lat: 36.1593095
+    lng: 139.4069727
+    type: 温泉
+-
+    id: 5
+    name: さいたま清河寺温泉
+    url: https://www.seiganji-onsen.com
+    map: https://maps.google.com/?cid=16540529607618589163&hl=ja
+    address: 埼玉県さいたま市西区大字清河寺683-4
+    price: 720
+    lat: 35.9336839
+    lng: 139.582033
+    type: 温泉
+-
+    id: 6
+    name: 天然温泉 七福の湯(戸田店)
+    url: http://www.shichifukunoyu.jp/toda/
+    map: https://maps.google.com/?cid=6968661808383585611&hl=ja
+    address: 埼玉県戸田市喜沢南1-4-56
+    price: 870
+    lat: 35.8060047
+    lng: 139.6961835
+    type: 温泉
+-
+    id: 7
+    name: 極楽湯(和光店)
+    url: https://www.gokurakuyu.ne.jp/tempo/wako/
+    map: https://maps.google.com/?cid=246313770287232852&hl=ja
+    address: 埼玉県和光市白子1-7-6
+    price: 820
+    lat: 35.7687184
+    lng: 139.6194383
+    type: 温泉
+-
+    id: 8
+    name: 昭和レトロな温泉銭湯 玉川温泉
+    url: https://tamagawa-onsen.com/
+    map: https://maps.google.com/?cid=9987725456141226668&hl=ja
+    address: 埼玉県比企郡ときがわ町玉川3700
+    price: 830
+    lat: 36.0191782
+    lng: 139.284044
+    type: 温泉
+-
+    id: 9
+    name: 百観音温泉
+    url: http://www.100kannon.com/
+    map: https://maps.google.com/?cid=7910729697476108256&hl=ja
+    address: 埼玉県久喜市西大輪868
+    price: 800
+    lat: 36.088566
+    lng: 139.6771
+    type: 温泉
+-
+    id: 10
+    name: 西武秩父駅前温泉 祭の湯
+    url: https://www.seibu-leisure.co.jp/matsuri/
+    map: https://maps.google.com/?cid=5852388673470565160&hl=ja
+    address: 埼玉県秩父市野坂町1-16-15
+    price: 990
+    lat: 35.9897304
+    lng: 139.08337
+    type: 温泉
+-
+    id: 11
+    name: おふろcafe utatane
+    url: https://ofurocafe-utatane.com/
+    map: https://maps.google.com/?cid=13961336091692677314&hl=ja
+    address: 埼玉県さいたま市北区大成町4-179-3
+    price: 1260
+    lat: 35.9273287
+    lng: 139.6160111
+    type: 温泉
+-
+    id: 12
+    name: おふろcafe 白寿の湯
+    url: https://ofurocafe-hakujyu.com/
+    map: https://maps.google.com/?cid=6013201935564711548&hl=ja
+    address: 埼玉県児玉郡神川町大字渡瀬337-1
+    price: 780
+    lat: 36.1772986
+    lng: 139.0606012
+    type: 温泉
+-
+    id: 13
+    name: 美楽温泉 SPA-HERBS
+    url: https://spa-herbs.jp/
+    map: https://maps.google.com/?cid=1686331099033405169&hl=ja
+    address: 埼玉県さいたま市北区植竹町1-816-7
+    price: 950
+    lat: 35.9312933
+    lng: 139.623986
+    type: 温泉
+-
+    id: 14
+    name: 天然温泉 花咲の湯
+    url: http://hanasakispa.jp/
+    map: https://maps.google.com/?cid=16991458189891580497&hl=ja
+    address: 埼玉県上尾市原市570
+    price: 880
+    lat: 35.9607007
+    lng: 139.6242172
+    type: 温泉
+-
+    id: 15
+    name: 小江戸はつかり温泉(川越店)
+    url: http://www.kuranoyu.net/kawagoe/
+    map: https://maps.google.com/?cid=6687973913012406317&hl=ja
+    address: 埼玉県川越市渋井26-1
+    price: 720
+    lat: 35.8850203
+    lng: 139.5327641
+    type: 温泉
+-
+    id: 16
+    name: 湯快爽快『湯けむり横丁』(みさと店)
+    url: https://www.yukaisoukai.com/sat/
+    map: https://maps.google.com/?cid=8779432435636796476&hl=ja
+    address: 埼玉県三郷市ピアラシティ2-3-10
+    price: 970
+    lat: 35.8470546
+    lng: 139.8583494
+    type: 温泉
+-
+    id: 17
+    name: 所沢温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/tokorozawa/
+    map: https://maps.google.com/?cid=17230506857332658563&hl=ja
+    address: 埼玉県所沢市下富604
+    price: 790
+    lat: 35.8263748
+    lng: 139.4703337
+    type: 温泉
+-
+    id: 18
+    name: 見沼天然温泉 小春日和
+    url: http://www.koharubiyori.co.jp/
+    map: https://maps.google.com/?cid=15143297242849112088&hl=ja
+    address: 埼玉県さいたま市見沼区染谷3-191
+    price: 850
+    lat: 35.9094048
+    lng: 139.6823328
+    type: 温泉
+-
+    id: 19
+    name: 道の駅 両神温泉 薬師の湯
+    url: http://www.kanko-ogano.jp/spa/
+    map: https://maps.google.com/?cid=1184485577534621376&hl=ja
+    address: 埼玉県秩父郡小鹿野町両神薄2380
+    price: 600
+    lat: 36.0048107
+    lng: 138.9711634
+    type: 温泉
+-
+    id: 20
+    name: 草加健康センター 湯の泉
+    url: http://www.yunoizumi.com/souka/
+    map: https://maps.google.com/?cid=11962955814131230415&hl=ja
+    address: 埼玉県草加市北谷2-23-23
+    price: 1500
+    lat: 35.8412191
+    lng: 139.7808034
+    type: 温泉
+-
+    id: 21
+    name: スパロイヤル川口
+    url: https://spa-royal-kawaguchi.jp/
+    map: https://maps.google.com/?cid=6624238569204439648&hl=ja
+    address: 埼玉県川口市朝日3-13-27
+    price: 870
+    lat: 35.81004220000001
+    lng: 139.7364553
+    type: 温泉
+-
+    id: 22
+    name: 天然温泉 花鳥風月
+    url: http://www.saiboku.co.jp/kachofugetsu/
+    map: https://maps.google.com/?cid=9233272694169213620&hl=ja
+    address: 埼玉県日高市下大谷沢546
+    price: 1100
+    lat: 35.8910032
+    lng: 139.3956646
+    type: 温泉
+-
+    id: 23
+    name: 極楽湯 羽生温泉
+    url: https://www.gokurakuyu.ne.jp/tempo/hanyu/index.html
+    map: https://maps.google.com/?cid=9388484089419953191&hl=ja
+    address: 埼玉県羽生市神戸843-1
+    price: 730
+    lat: 36.1417817
+    lng: 139.5570811
+    type: 温泉
+-
+    id: 24
+    name: 秩父温泉 満願の湯
+    url: http://www.chichibuonsen.co.jp/
+    map: https://maps.google.com/?cid=14678297304726469774&hl=ja
+    address: 埼玉県秩父郡皆野町下日野沢4000
+    price: 850
+    lat: 36.0824675
+    lng: 139.0722614
+    type: 温泉
+-
+    id: 25
+    name: おふろの王様(志木店)
+    url: https://www.ousama2603.com/shop/shiki/
+    map: https://maps.google.com/?cid=7191860055802450282&hl=ja
+    address: 埼玉県志木市上宗岡5-11-6
+    price: 800
+    lat: 35.8438272
+    lng: 139.5847155
+    type: 温泉
+-
+    id: 26
+    name: おふろCafe BIVOUAC
+    url: https://ofurocafe-bivouac.com/
+    map: https://maps.google.com/?cid=14849369879278290288&hl=ja
+    address: 埼玉県熊谷市久保島939
+    price: 1380
+    lat: 36.1709611
+    lng: 139.3449653
+    type: 温泉
+-
+    id: 27
+    name: 天然自家源泉 星音の湯
+    url: https://www.beyer.jp/seine/
+    map: https://maps.google.com/?cid=4823808987742876626&hl=ja
+    address: 埼玉県秩父市下吉田468
+    price: 930
+    lat: 36.0390118
+    lng: 139.041932
+    type: 温泉
+-
+    id: 28
+    name: 湯快爽快『湯けむり横丁』(おおみや店)
+    url: https://www.yukaisoukai.com/ohm/
+    map: https://maps.google.com/?cid=5337116846746603991&hl=ja
+    address: 埼玉県さいたま市西区三橋5-1010
+    price: 850
+    lat: 35.9092463
+    lng: 139.5931902
+    type: 温泉
+-
+    id: 29
+    name: 深谷花園温泉 花湯の森
+    url: http://spa.hanayunomori.jp/
+    map: https://maps.google.com/?cid=14815117119842139703&hl=ja
+    address: 埼玉県深谷市人見薬師堂888
+    price: 1080
+    lat: 36.1592754
+    lng: 139.2708884
+    type: 温泉
+-
+    id: 30
+    name: 天然戸田温泉 彩香の湯
+    url: http://saikanoyu.com/
+    map: https://maps.google.com/?cid=17430284632779902333&hl=ja
+    address: 埼玉県戸田市氷川町1-1-23
+    price: 1100
+    lat: 35.8116173
+    lng: 139.6623469
+    type: 温泉
+-
+    id: 31
+    name: 春日部温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/kasukabe/
+    map: https://maps.google.com/?cid=528310502960090305&hl=ja
+    address: 埼玉県春日部市小淵105-1
+    price: 780
+    lat: 35.9892073
+    lng: 139.7574813
+    type: 温泉
+-
+    id: 32
+    name: おがわ温泉 花和楽の湯
+    url: https://www.kawaranoyu.jp/ogawa/
+    map: https://maps.google.com/?cid=10151154042383038672&hl=ja
+    address: 埼玉県比企郡小川町角山26-2
+    price: 1100
+    lat: 36.0596602
+    lng: 139.2691676
+    type: 温泉
+-
+    id: 33
+    name: かすかべ湯元温泉
+    url: http://www.kasukabeonsen.com/
+    map: https://maps.google.com/?cid=433829149840923226&hl=ja
+    address: 埼玉県春日部市下大増新田66-1
+    price: 1240
+    lat: 35.9556354
+    lng: 139.7433592
+    type: 温泉
+-
+    id: 34
+    name: 湯屋敷 孝楽
+    url: http://www.yuyashiki.com/
+    map: https://maps.google.com/?cid=3654178525750186787&hl=ja
+    address: 埼玉県さいたま市浦和区元町2-18-12
+    price: 600
+    lat: 35.8717647
+    lng: 139.6513212
+    type: 温泉
+-
+    id: 35
+    name: 秩父湯元 武甲温泉
+    url: http://www.buko-onsen.co.jp/
+    map: https://maps.google.com/?cid=269519664458861509&hl=ja
+    address: 埼玉県秩父郡横瀬町横瀬4628-3
+    price: 700
+    lat: 35.990426
+    lng: 139.1020417
+    type: 温泉
+-
+    id: 36
+    name: 天然温泉 かんなの湯
+    url: http://www.kannanoyu.com/
+    map: https://maps.google.com/?cid=3970394163982827332&hl=ja
+    address: 埼玉県児玉郡神川町小浜1341
+    price: 830
+    lat: 36.2054049
+    lng: 139.0765818
+    type: 温泉
+-
+    id: 37
+    name: 越谷 健美の湯
+    url: http://koshiken.3riku.co.jp/
+    map: https://maps.google.com/?cid=9560580404936315864&hl=ja
+    address: 埼玉県越谷市宮本町2-172-1
+    price: 600
+    lat: 35.891474
+    lng: 139.777929
+    type: 温泉
+-
+    id: 38
+    name: 喜楽湯
+    url: https://www.saiyoku.jp/id-1/1012/
+    map: https://maps.google.com/?cid=18439977723889903807&hl=ja
+    address: 埼玉県川口市川口5-21-6
+    price: 430
+    lat: 35.8078625
+    lng: 139.7093073
+    type: 銭湯
+-
+    id: 39
+    name: アクアリゾート いるまの湯
+    url: http://www.41-26.com/
+    map: https://maps.google.com/?cid=6940600958019388458&hl=ja
+    address: 埼玉県入間市春日町1-11-10
+    price: 430
+    lat: 35.8479195
+    lng: 139.3770074
+    type: 温泉
+-
+    id: 40
+    name: 小さな旅 川越温泉
+    url: http://www.kawagoe-onsen.com/
+    map: https://maps.google.com/?cid=9919098809027763275&hl=ja
+    address: 埼玉県川越市上野田町41-7
+    price: 800
+    lat: 35.9097151
+    lng: 139.4688324
+    type: 温泉
+-
+    id: 41
+    name: 熊谷温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/kumagaya/
+    map: https://maps.google.com/?cid=5616017130701474992&hl=ja
+    address: 埼玉県熊谷市月見町2-1-65
+    price: 790
+    lat: 36.1464325
+    lng: 139.3708608
+    type: 温泉
+-
+    id: 42
+    name: ふくの湯
+    url: https://www.saiyoku.jp/id-1/1017/
+    map: https://maps.google.com/?cid=8705321399277334461&hl=ja
+    address: 埼玉県川口市元郷5-19-10
+    price: 430
+    lat: 35.7975426
+    lng: 139.7372735
+    type: 銭湯
+-
+    id: 43
+    name: 極楽湯(上尾店)
+    url: https://www.gokurakuyu.ne.jp/tempo/ageo/
+    map: https://maps.google.com/?cid=732844917579053322&hl=ja
+    address: 埼玉県上尾市上尾村500-1
+    price: 720
+    lat: 35.9872716
+    lng: 139.594632
+    type: 温泉
+-
+    id: 44
+    name: ホテル三光 川越湯遊ランド
+    url: http://kawagoe-yuyu.com/
+    map: https://maps.google.com/?cid=9295277184770681549&hl=ja
+    address: 埼玉県川越市新富町1-9-1
+    price: 780
+    lat: 35.9171568
+    lng: 139.4836869
+    type: 温泉
+-
+    id: 45
+    name: 健康ランド武蔵野
+    url: https://musashino-kaikan.com
+    map: https://maps.google.com/?cid=13448327223933050999&hl=ja
+    address: 埼玉県川口市柳崎1-22-1
+    price: 1320
+    lat: 35.853228
+    lng: 139.7025328
+    type: 温泉
+-
+    id: 46
+    name: 天然温泉ゆの郷 SpaNusaDua
+    url: https://kawaguchi-yunosato.com/
+    map: https://maps.google.com/?cid=1214611914405162376&hl=ja
+    address: 埼玉県川口市上青木1-2-30
+    price: 780
+    lat: 35.8211617
+    lng: 139.7187748
+    type: 温泉
+-
+    id: 47
+    name: あづま湯
+    url: https://www.saiyoku.jp/id-1/301/
+    map: https://maps.google.com/?cid=767478714936499153&hl=ja
+    address: 埼玉県朝霞市根岸台6-2-35
+    price: 430
+    lat: 35.7970343
+    lng: 139.6022252
+    type: 銭湯
+-
+    id: 48
+    name: 登龍湯
+    url: https://www.saiyoku.jp/id-1/513/
+    map: https://maps.google.com/?cid=12468183138800050172&hl=ja
+    address: 埼玉県越谷市登戸町15-6
+    price: 430
+    lat: 35.8736377
+    lng: 139.7996696
+    type: 銭湯
+-
+    id: 49
+    name: 野天風呂 蔵の湯(鶴ヶ島店)
+    url: http://www.kuranoyu.net/tsurugashima/
+    map: https://maps.google.com/?cid=8530736295523141522&hl=ja
+    address: 埼玉県鶴ヶ島市新町3-5-4
+    price: 650
+    lat: 35.9334131
+    lng: 139.3728909
+    type: 温泉
+-
+    id: 50
+    name: 極楽湯(幸手店)
+    url: https://www.gokurakuyu.ne.jp/tempo/satte/
+    map: https://maps.google.com/?cid=12040320794651682481&hl=ja
+    address: 埼玉県幸手市東2-1-27
+    price: 660
+    lat: 36.0710129
+    lng: 139.7204193
+    type: 温泉
+-
+    id: 51
+    name: 野天風呂 蔵の湯(東松山店)
+    url: http://www.kuranoyu.net/higashimatuyama/
+    map: https://maps.google.com/?cid=2225283045282875526&hl=ja
+    address: 埼玉県東松山市柏崎660
+    price: 650
+    lat: 36.0235855
+    lng: 139.4197474
+    type: 温泉
+-
+    id: 52
+    name: 天然温泉 森のせせらぎ なごみ
+    url: http://nagomiyu.jp/
+    map: https://maps.google.com/?cid=10869864683861553141&hl=ja
+    address: 埼玉県久喜市江面1574-1
+    price: 750
+    lat: 36.0580131
+    lng: 139.6634646
+    type: 温泉
+-
+    id: 53
+    name: 日帰り天然温泉 さわらびの湯
+    url: http://sawarabino-yu.jp/
+    map: https://maps.google.com/?cid=10074856546217473670&hl=ja
+    address: 埼玉県飯能市下名栗685
+    price: 800
+    lat: 35.8712934
+    lng: 139.1808914
+    type: 温泉
+-
+    id: 54
+    name: 中町一の湯
+    url: https://www.saiyoku.jp/id-1/220/
+    map: https://maps.google.com/?cid=7262485860903248670&hl=ja
+    address: 埼玉県戸田市中町1-13-19
+    price: 430
+    lat: 35.8127493
+    lng: 139.6922741
+    type: 銭湯
+-
+    id: 55
+    name: 天然温泉 ふるさとの湯
+    url: http://www.furusatonoyu.com/
+    map: https://maps.google.com/?cid=5049317580670995364&hl=ja
+    address: 埼玉県坂戸市粟生田40
+    price: 750
+    lat: 35.960205
+    lng: 139.3845482
+    type: 温泉
+-
+    id: 56
+    name: ニュー松の湯
+    url: http://ebl.jp/hp/matsunoyu/
+    map: https://maps.google.com/?cid=14233327610993007282&hl=ja
+    address: 埼玉県川口市芝5-21-18
+    price: 430
+    lat: 35.8322995
+    lng: 139.6952871
+    type: 銭湯
+-
+    id: 57
+    name: 越谷天然温泉 美人の湯 ゆの華
+    url: http://www.yunohana.co.jp/koshigaya.html
+    map: https://maps.google.com/?cid=2605201630998023806&hl=ja
+    address: 埼玉県越谷市大間野町3-61-1
+    price: 750
+    lat: 35.8672348
+    lng: 139.7791191
+    type: 温泉
+-
+    id: 58
+    name: 埼玉スポーツセンター みずほ温泉
+    url: http://www.esta.co.jp/mizuho/
+    map: https://maps.google.com/?cid=390476714126412585&hl=ja
+    address: 埼玉県所沢市南永井1116
+    price: 713
+    lat: 35.8237087
+    lng: 139.5314569
+    type: 温泉
+-
+    id: 59
+    name: 行田天然温泉 古代蓮物語
+    url: http://yunoeki-kodaihasu-monogatari.com/
+    map: https://maps.google.com/?cid=7188458376472390749&hl=ja
+    address: 埼玉県行田市向町19-26
+    price: 700
+    lat: 36.1360806
+    lng: 139.4655887
+    type: 温泉
+-
+    id: 60
+    name: 天然温泉 真名井の湯(大井店)
+    url: http://www.manainoyu.com/ooi/
+    map: https://maps.google.com/?cid=8118271119724821208&hl=ja
+    address: 埼玉県ふじみ野市大井2-19-1
+    price: 750
+    lat: 35.8517547
+    lng: 139.5189568
+    type: 温泉
+-
+    id: 61
+    name: 北本温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/kitamoto/
+    map: https://maps.google.com/?cid=16664375327349405511&hl=ja
+    address: 埼玉県北本市二ツ家3-162-1
+    price: 820
+    lat: 36.0127807
+    lng: 139.5541763
+    type: 温泉
+-
+    id: 62
+    name: 国済寺天然温泉 美肌の湯
+    url: https://fukaya-kokusaiji-onsen.jimdo.com/
+    map: https://maps.google.com/?cid=869258459052741910&hl=ja
+    address: 埼玉県深谷市国済寺510-1
+    price: 600
+    lat: 36.19161810000001
+    lng: 139.3005426
+    type: 温泉
+-
+    id: 63
+    name: ゆうパークおごせ
+    url: https://youpark.jp/ofuro
+    map: https://maps.google.com/?cid=9062672230674653077&hl=ja
+    address: 埼玉県入間郡越生町上野3083-1
+    price: 800
+    lat: 35.9465336
+    lng: 139.2948379
+    type: 温泉
+-
+    id: 64
+    name: 湯屋処まつばら
+    url: http://www.tobufoods.co.jp/spa/matubara/
+    map: https://maps.google.com/?cid=16622835752587070771&hl=ja
+    address: 埼玉県草加市栄町2-3-16
+    price: 550
+    lat: 35.8402791
+    lng: 139.8025262
+    type: 温泉
+-
+    id: 65
+    name: 秩父川端温泉 梵の湯
+    url: http://www.bon-chichibu.jp/
+    map: https://maps.google.com/?cid=1156326575661442578&hl=ja
+    address: 埼玉県秩父市小柱川端309-1
+    price: 880
+    lat: 36.059908
+    lng: 139.092211
+    type: 温泉
+-
+    id: 66
+    name: ゆとりの郷 にいざ温泉
+    url: http://www.niizaonsen.com/
+    map: https://maps.google.com/?cid=10282006623585237898&hl=ja
+    address: 埼玉県新座市本多2-1-5
+    price: 780
+    lat: 35.7867605
+    lng: 139.5521643
+    type: 温泉
+-
+    id: 67
+    name: 湯パークラヂウム
+    url: https://www.saiyoku.jp/id-1/1020/
+    map: https://maps.google.com/?cid=1155726440021154338&hl=ja
+    address: 埼玉県川口市朝日1-7-18
+    price: 430
+    lat: 35.8091429
+    lng: 139.7339874
+    type: 銭湯
+-
+    id: 68
+    name: 浩乃湯
+    url: http://www.shokokai.or.jp/11/1122910235/index.htm
+    map: https://maps.google.com/?cid=6834707694966493541&hl=ja
+    address: 埼玉県和光市白子1-24-39
+    price: 430
+    lat: 35.7730008
+    lng: 139.6240213
+    type: 銭湯
+-
+    id: 69
+    name: 早稲田天然温泉 めぐみの湯
+    url: http://www.meguminoyu.com/
+    map: https://maps.google.com/?cid=15490343470020259790&hl=ja
+    address: 埼玉県三郷市仁蔵193-3
+    price: 1100
+    lat: 35.8518122
+    lng: 139.8781944
+    type: 温泉
+-
+    id: 70
+    name: 天然温泉 こだま温泉
+    url: http://kodamaonsen.co.jp/
+    map: https://maps.google.com/?cid=7650841269670674424&hl=ja
+    address: 埼玉県本庄市児玉町蛭川1051-6
+    price: 700
+    lat: 36.2117958
+    lng: 139.1526004
+    type: 温泉
+-
+    id: 71
+    name: 都幾川四季彩館 都幾の湯
+    url: https://www.town.tokigawa.lg.jp/forms/info/info.aspx?info_id=11576
+    map: https://maps.google.com/?cid=278232553483772409&hl=ja
+    address: 埼玉県比企郡ときがわ町大字別所556-1
+    price: 840
+    lat: 36.0046107
+    lng: 139.2616705
+    type: 温泉
+-
+    id: 72
+    name: 行田・湯本天然温泉 茂美の湯
+    url: https://mominoyu.com/
+    map: https://maps.google.com/?cid=5924689367690172766&hl=ja
+    address: 埼玉県行田市佐間1450-1
+    price: 750
+    lat: 36.127425
+    lng: 139.4723831
+    type: 温泉
+-
+    id: 73
+    name: 湯の森所沢
+    url: http://www.jp-l.co.jp/yunomori/
+    map: https://maps.google.com/?cid=10077000779224948686&hl=ja
+    address: 埼玉県所沢市下安松945-1
+    price: 850
+    lat: 35.7912811
+    lng: 139.5019115
+    type: 温泉
+-
+    id: 74
+    name: さいたま市桜環境センター だいちの湯
+    url: https://sakura-kc.saitama.jp/
+    map: https://maps.google.com/?cid=6183346091942184870&hl=ja
+    address: 埼玉県さいたま市桜区新開4-3259-1
+    price: 830
+    lat: 35.8446292
+    lng: 139.6177969
+    type: 温泉
+-
+    id: 75
+    name: よしかわ天然温泉 ゆあみ
+    url: http://www.yuami.com/index_pc.html
+    map: https://maps.google.com/?cid=14654230663775765839&hl=ja
+    address: 埼玉県吉川市保1-14-5
+    price: 1000
+    lat: 35.8781626
+    lng: 139.8435292
+    type: 温泉
+-
+    id: 76
+    name: 弘法の湯
+    url: http://www.koubounoyu.com/
+    map: https://maps.google.com/?cid=3163752705346311899&hl=ja
+    address: 埼玉県所沢市金山町15-19
+    price: 430
+    lat: 35.7915852
+    lng: 139.4601058
+    type: 銭湯
+-
+    id: 77
+    name: スーパー健康ランド 華のゆ
+    url: https://www.route-inn.co.jp/hananoyu/
+    map: https://maps.google.com/?cid=18435376767878867317&hl=ja
+    address: 埼玉県羽生市西3-19-3
+    price: 850
+    lat: 36.1689288
+    lng: 139.5301461
+    type: 温泉
+-
+    id: 78
+    name: 鹿島湯
+    url: https://1010kashimayu.wixsite.com/home
+    map: https://maps.google.com/?cid=3200468855296016039&hl=ja
+    address: 埼玉県さいたま市南区別所3-3-10
+    price: 430
+    lat: 35.8544446
+    lng: 139.6472507
+    type: 銭湯
+-
+    id: 79
+    name: 大滝温泉 遊湯館
+    url: http://www.ootakionsen.co.jp/onsen/index.html
+    map: https://maps.google.com/?cid=738467861603617489&hl=ja
+    address: 埼玉県秩父市大滝4277-2
+    price: 700
+    lat: 35.9504628
+    lng: 138.9382296
+    type: 温泉
+-
+    id: 80
+    name: 大和湯
+    url: https://www.saiyoku.jp/id-1/515/
+    map: https://maps.google.com/?cid=14319244636911818949&hl=ja
+    address: 埼玉県三郷市戸ヶ崎3208
+    price: 430
+    lat: 35.8018507
+    lng: 139.8583524
+    type: 銭湯
+-
+    id: 81
+    name: 久喜 健美の湯
+    url: http://kukiken.3riku.co.jp
+    map: https://maps.google.com/?cid=10280768318774246819&hl=ja
+    address: 埼玉県久喜市久喜本868-14
+    price: 600
+    lat: 36.0772823
+    lng: 139.6666539
+    type: 温泉
+-
+    id: 82
+    name: 加須市健康ふれあいセンター いなほの湯
+    url: http://www.inahonoyu.com/
+    map: https://maps.google.com/?cid=6289076882661455870&hl=ja
+    address: 埼玉県加須市馬内1800-1
+    price: 500
+    lat: 36.1218072
+    lng: 139.5800064
+    type: 温泉
+-
+    id: 83
+    name: 冨美の湯
+    url: https://www.saiyoku.jp/id-1/113/
+    map: https://maps.google.com/?cid=14945224245710779359&hl=ja
+    address: 埼玉県さいたま市南区太田窪2938
+    price: 430
+    lat: 35.8484337
+    lng: 139.6890735
+    type: 銭湯
+-
+    id: 84
+    name: 稲荷湯
+    url: https://www.saiyoku.jp/id-1/102/
+    map: https://maps.google.com/?cid=11094370398696960644&hl=ja
+    address: 埼玉県さいたま市浦和区仲町2-18-2
+    price: 430
+    lat: 35.8597059
+    lng: 139.6515793
+    type: 銭湯
+-
+    id: 85
+    name: 元郷湯
+    url: https://www.saiyoku.jp/id-1/1014/
+    map: https://maps.google.com/?cid=13805490344445917971&hl=ja
+    address: 埼玉県川口市元郷1-8-9
+    price: 430
+    lat: 35.7993539
+    lng: 139.731334
+    type: 銭湯
+-
+    id: 86
+    name: 吉田元気村 元気風呂
+    url: http://www.ryuseinomachi.co.jp/camp/genkimura.htm
+    map: https://maps.google.com/?cid=6807428446927645394&hl=ja
+    address: 埼玉県秩父市上吉田4942-1
+    price: 500
+    lat: 36.0597683
+    lng: 138.9680115
+    type: 温泉
+-
+    id: 87
+    name: 日進湯
+    url: https://www.saiyoku.jp/id-1/406/
+    map: https://maps.google.com/?cid=7531474142140797988&hl=ja
+    address: 埼玉県さいたま市大宮区桜木町2-478
+    price: 430
+    lat: 35.9074235
+    lng: 139.6166604
+    type: 銭湯
+-
+    id: 88
+    name: 二股温泉 岩盤房きらく
+    url: https://g-kiraku.wixsite.com/ganbanyoku
+    map: https://maps.google.com/?cid=12889324585334133488&hl=ja
+    address: 埼玉県富士見市西みずほ台1-2-12
+    price: 1400
+    lat: 35.8383167
+    lng: 139.5499188
+    type: 温泉
+-
+    id: 89
+    name: サン光湯
+    url: http://sankouyu.com/
+    map: https://maps.google.com/?cid=7024400904835869002&hl=ja
+    address: 埼玉県戸田市本町1-2-6
+    price: 430
+    lat: 35.8113163
+    lng: 139.6821362
+    type: 銭湯
+-
+    id: 90
+    name: 天徳湯
+    url: https://www.saiyoku.jp/id-1/104/
+    map: https://maps.google.com/?cid=17963171627081082468&hl=ja
+    address: 埼玉県さいたま市浦和区上木崎2-1-12
+    price: 430
+    lat: 35.8853448
+    lng: 139.6404627
+    type: 銭湯
+-
+    id: 91
+    name: 北本市野外活動センター
+    url: https://kitamoto-yakatsu.jp
+    map: https://maps.google.com/?cid=17491949930560399299&hl=ja
+    address: 埼玉県北本市北尾9-143
+    price: 400
+    lat: 36.0268034
+    lng: 139.5301988
+    type: 温泉
+-
+    id: 92
+    name: 根岸浴泉
+    url: https://www.saiyoku.jp/id-1/1026/
+    map: https://maps.google.com/?cid=17394529654419232534&hl=ja
+    address: 埼玉県川口市安行領根岸356
+    price: 430
+    lat: 35.8451533
+    lng: 139.7054078
+    type: 銭湯
+-
+    id: 93
+    name: 余熱利用施設 湯かっこ
+    url: https://www.shisetsu.jp/yukakko/
+    map: https://maps.google.com/?cid=9023149240569258657&hl=ja
+    address: 埼玉県本庄市東五十子167-3
+    price: 600
+    lat: 36.2245698
+    lng: 139.2128155
+    type: 温泉
+-
+    id: 94
+    name: 余熱利用施設 エコパ
+    url: http://www.eco-pa.jp/
+    map: https://maps.google.com/?cid=6552205805017775980&hl=ja
+    address: 埼玉県ふじみ野市駒林1117
+    price: 540
+    lat: 35.8708987
+    lng: 139.546145
+    type: 温泉
+-
+    id: 95
+    name: 保健福祉総合センター ウェルス幸手 天神の湯
+    url: https://www.city.satte.lg.jp/sitetop/life_cityadmin/facility_info/3685.html
+    map: https://maps.google.com/?cid=4869799250878088317&hl=ja
+    address: 埼玉県幸手市天神島1030-1
+    price: 300
+    lat: 36.0688824
+    lng: 139.7363829
+    type: 温泉
+-
+    id: 96
+    name: クラブ湯
+    url: https://www.saiyoku.jp/id-1/1503/
+    map: https://maps.google.com/?cid=10939138464203701312&hl=ja
+    address: 埼玉県秩父市東町12-16
+    price: 430
+    lat: 35.9941511
+    lng: 139.0826793
+    type: 銭湯
+-
+    id: 97
+    name: 和光市勤労福祉センター アクシス
+    url: http://www.saispo.jp/wako/
+    map: https://maps.google.com/?cid=14429580586720906402&hl=ja
+    address: 埼玉県和光市新倉7-10-7
+    price: 540
+    lat: 35.8032817
+    lng: 139.623386
+    type: 温泉
+-
+    id: 98
+    name: 若松湯
+    url: https://www.saiyoku.jp/id-1/101/
+    map: https://maps.google.com/?cid=17327330299268932733&hl=ja
+    address: 埼玉県さいたま市浦和区常盤10-10-15
+    price: 430
+    lat: 35.8718197
+    lng: 139.6417141
+    type: 銭湯
+-
+    id: 99
+    name: 朝霞市健康増進センター わくわくどーむ
+    url: https://asaka-wakuwakudome.com/
+    map: https://maps.google.com/?cid=12010839786558352212&hl=ja
+    address: 埼玉県朝霞市浜崎27
+    price: 1000
+    lat: 35.8165734
+    lng: 139.598665
+    type: 温泉
+-
+    id: 100
+    name: 桜湯
+    url: https://www.saiyoku.jp/id-1/1204/
+    map: https://maps.google.com/?cid=16144782786827338103&hl=ja
+    address: 埼玉県熊谷市筑波3-98-1
+    price: 430
+    lat: 36.1406644
+    lng: 139.390774
+    type: 銭湯
+-
+    id: 101
+    name: 健康湯ランド
+    url: https://www.saiyoku.jp/id-1/812/
+    map: https://maps.google.com/?cid=17973952091860928548&hl=ja
+    address: 埼玉県富士見市鶴瀬西3-2-10
+    price: 430
+    lat: 35.8490037
+    lng: 139.5330569
+    type: 銭湯
+-
+    id: 102
+    name: 100の湯
+    url: https://www.city.kazo.lg.jp/soshiki/fukusi_kenkou/6394.html
+    map: https://maps.google.com/?cid=6410212037749477189&hl=ja
+    address: 埼玉県加須市琴寄903
+    price: 500
+    lat: 36.1359293
+    lng: 139.6682087
+    type: 温泉
+-
+    id: 103
+    name: 上尾市健康プラザ わくわくランド
+    url: https://www.saispo.jp/wakuwaku/
+    map: https://maps.google.com/?cid=7911183248617168548&hl=ja
+    address: 埼玉県上尾市西貝塚17-1
+    price: 600
+    lat: 35.9374213
+    lng: 139.555643
+    type: 温泉
+-
+    id: 104
+    name: 松の湯
+    url: https://www.saiyoku.jp/id-1/308/
+    map: https://maps.google.com/?cid=12700743320890576141&hl=ja
+    address: 埼玉県新座市栗原5-8-8
+    price: 430
+    lat: 35.7565391
+    lng: 139.5487251
+    type: 銭湯
+-
+    id: 105
+    name: 銭湯カフェ 末広湯
+    url: http://suehiroyu.net/
+    map: https://maps.google.com/?cid=13890527255495227442&hl=ja
+    address: 埼玉県ふじみ野市上福岡3-7-4
+    price: 410
+    lat: 35.8723924
+    lng: 139.5165073
+    type: 銭湯
+-
+    id: 106
+    name: たから湯
+    url: https://www.saiyoku.jp/id-1/1504/
+    map: https://maps.google.com/?cid=5540433605212107746&hl=ja
+    address: 埼玉県秩父市道生町6-17
+    price: 430
+    lat: 35.9981564
+    lng: 139.082403
+    type: 銭湯
+-
+    id: 107
+    name: 鈴の湯
+    url: https://www.saiyoku.jp/id-1/115/
+    map: https://maps.google.com/?cid=12252725403322501297&hl=ja
+    address: 埼玉県さいたま市中央区本町東1-7-3
+    price: 430
+    lat: 35.8785361
+    lng: 139.6239105
+    type: 銭湯
+-
+    id: 108
+    name: 戸田の湯
+    url: https://www.saiyoku.jp/id-1/215/
+    map: https://maps.google.com/?cid=2323302583771356083&hl=ja
+    address: 埼玉県戸田市本町2-4-10
+    price: 430
+    lat: 35.8104134
+    lng: 139.6771283
+    type: 銭湯
+-
+    id: 109
+    name: 狭山市市民健康文化センター サンパーク奥富
+    url: http://www.saispo.jp/okutomi/
+    map: https://maps.google.com/?cid=9943221095543282151&hl=ja
+    address: 埼玉県狭山市下奥富2552-1
+    price: 450
+    lat: 35.87938250000001
+    lng: 139.4173159
+    type: 温泉
+-
+    id: 110
+    name: 見沼ヘルシーランド
+    url: http://healthyjabd.web.fc2.com/
+    map: https://maps.google.com/?cid=4665447385191717975&hl=ja
+    address: 埼玉県さいたま市緑区大崎322-1
+    price: 1540
+    lat: 35.8827531
+    lng: 139.71265
+    type: 温泉
+-
+    id: 111
+    name: 健晃湯
+    url: https://www.saiyoku.jp/id-1/213/
+    map: https://maps.google.com/?cid=11292628272711129124&hl=ja
+    address: 埼玉県戸田市川岸2-7-26
+    price: 430
+    lat: 35.8048903
+    lng: 139.6839987
+    type: 銭湯
+-
+    id: 112
+    name: 旭湯
+    url: https://www.saiyoku.jp/id-1/801/
+    map: https://maps.google.com/?cid=7343461247382245081&hl=ja
+    address: 埼玉県川越市元町1-8-6
+    price: 430
+    lat: 35.92492379999999
+    lng: 139.4848415
+    type: 銭湯
+-
+    id: 113
+    name: 杉戸町ふれあいセンター エコ・スポいずみ
+    url: http://www.town.sugito.lg.jp/cms/page8477.html
+    map: https://maps.google.com/?cid=9272277292556292505&hl=ja
+    address: 埼玉県北葛飾郡杉戸町木津内524
+    price: 600
+    lat: 36.0528042
+    lng: 139.7877548
+    type: 温泉
+-
+    id: 114
+    name: ひろいサウナ 広の湯
+    url: https://www.saiyoku.jp/id-1/1022/
+    map: https://maps.google.com/?cid=14260383250701434355&hl=ja
+    address: 埼玉県川口市朝日3-15-20
+    price: 430
+    lat: 35.81115
+    lng: 139.738678
+    type: 銭湯
+-
+    id: 115
+    name: みたけ湯
+    url: https://www.saiyoku.jp/id-1/108/
+    map: https://maps.google.com/?cid=18431278366910583691&hl=ja
+    address: 埼玉県さいたま市南区文蔵2-24-5
+    price: 430
+    lat: 35.8416239
+    lng: 139.6681319
+    type: 銭湯
+-
+    id: 116
+    name: 翁湯
+    url: https://www.saiyoku.jp/id-1/808/
+    map: https://maps.google.com/?cid=5756879308809762747&hl=ja
+    address: 埼玉県ふじみ野市福岡武蔵野2-10
+    price: 430
+    lat: 35.8674486
+    lng: 139.5129655
+    type: 銭湯
+-
+    id: 117
+    name: 雛の湯
+    url: https://www.saiyoku.jp/id-1/505/
+    map: https://maps.google.com/?cid=6286907557766838345&hl=ja
+    address: 埼玉県さいたま市岩槻区本町4-4-5
+    price: 430
+    lat: 35.9507945
+    lng: 139.6987146
+    type: 銭湯
+-
+    id: 118
+    name: 上尾天然温泉 日々喜の湯
+    url: http://hibikinoyu.com/
+    map: https://maps.google.com/?cid=9120231821770530240&hl=ja
+    address: 埼玉県上尾市中分町2-180-1
+    price: 800
+    lat: 35.9736821
+    lng: 139.5575009
+    type: 温泉
+-
+    id: 119
+    name: 高齢者福祉センター いきいき温泉久喜
+    url: http://www.city.kuki.lg.jp/shisetsu/kaigo_korei/ikiiki.html
+    map: https://maps.google.com/?cid=8143410798825240833&hl=ja
+    address: 埼玉県久喜市江面1574-1
+    price: 100
+    lat: 36.0580131
+    lng: 139.6634646
+    type: 温泉
+-
+    id: 120
+    name: 青木湯
+    url: https://www.saiyoku.jp/id-1/1005/
+    map: https://maps.google.com/?cid=8026358707207902824&hl=ja
+    address: 埼玉県川口市中青木2-18-35
+    price: 430
+    lat: 35.812097
+    lng: 139.7206051
+    type: 銭湯
+-
+    id: 121
+    name: 朝日湯
+    url: https://www.saiyoku.jp/id-1/202/
+    map: https://maps.google.com/?cid=966246588611520492&hl=ja
+    address: 埼玉県蕨市中央5-9-23
+    price: 430
+    lat: 35.823972
+    lng: 139.6801505
+    type: 銭湯
+-
+    id: 122
+    name: 平和湯
+    url: https://www.saiyoku.jp/id-1/103/
+    map: https://maps.google.com/?cid=3493082762146119189&hl=ja
+    address: 埼玉県さいたま市浦和区北浦和3-9-15
+    price: 430
+    lat: 35.8737537
+    lng: 139.645269
+    type: 銭湯
+-
+    id: 123
+    name: 昌見浴場
+    url: https://www.saiyoku.jp/id-1/1041/
+    map: https://maps.google.com/?cid=5713994658400743273&hl=ja
+    address: 埼玉県川口市坂下町2-1-22
+    price: 430
+    lat: 35.8307726
+    lng: 139.7393965
+    type: 銭湯
+-
+    id: 124
+    name: 見晴湯
+    url: https://www.saiyoku.jp/id-1/1203/
+    map: https://maps.google.com/?cid=5799682379015533673&hl=ja
+    address: 埼玉県熊谷市伊勢町264-2
+    price: 430
+    lat: 36.1434167
+    lng: 139.3748148
+    type: 銭湯
+-
+    id: 125
+    name: 朝日湯
+    url: https://www.saiyoku.jp/id-1/1206/
+    map: https://maps.google.com/?cid=14231986982392097063&hl=ja
+    address: 埼玉県熊谷市本石1-332
+    price: 430
+    lat: 36.1465965
+    lng: 139.3802617
+    type: 銭湯
+-
+    id: 126
+    name: 仲屋湯
+    url: https://www.saiyoku.jp/id-1/1302/
+    map: https://maps.google.com/?cid=11758785157709700174&hl=ja
+    address: 埼玉県深谷市仲町9-36
+    price: 430
+    lat: 36.1962567
+    lng: 139.2819449
+    type: 銭湯
+-
+    id: 127
+    name: 亀の湯
+    url: https://www.saiyoku.jp/id-1/211/
+    map: https://maps.google.com/?cid=2747132547423552252&hl=ja
+    address: 埼玉県蕨市北町1-8-9
+    price: 430
+    lat: 35.8282827
+    lng: 139.6845783
+    type: 銭湯
+-
+    id: 128
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=17439919442280937635&hl=ja
+    address: 埼玉県吉川市平沼139
+    price: 430
+    lat: 35.8836045
+    lng: 139.8406805
+    type: 銭湯
+-
+    id: 129
+    name: いわつき温泉ジャンボ
+    url: https://www.saiyoku.jp/id-1/504/
+    map: https://maps.google.com/?cid=6569423057393424626&hl=ja
+    address: 埼玉県さいたま市岩槻区本町4-2-33
+    price: 430
+    lat: 35.94857030000001
+    lng: 139.696822
+    type: 銭湯

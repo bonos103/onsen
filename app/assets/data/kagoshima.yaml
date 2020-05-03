@@ -1,0 +1,2731 @@
+---
+-
+    id: 1
+    name: 砂むし会館 砂楽
+    url: http://sa-raku.sakura.ne.jp/
+    map: https://maps.google.com/?cid=7073194586831155738&hl=ja
+    address: 鹿児島県指宿市湯の浜5-25-18
+    price: 620
+    lat: 31.22990769999999
+    lng: 130.6519357
+    type: 温泉
+-
+    id: 2
+    name: 花野温泉 たぬき湯
+    url: http://tanukiyu.jp/
+    map: https://maps.google.com/?cid=17376187435501665387&hl=ja
+    address: 鹿児島県鹿児島市伊敷町4467
+    price: 420
+    lat: 31.6447563
+    lng: 130.527895
+    type: 銭湯
+-
+    id: 3
+    name: 一本桜温泉センター
+    url: http://kks-grp.jp/ipponsakura/
+    map: https://maps.google.com/?cid=6392262913600332453&hl=ja
+    address: 鹿児島県鹿児島市紫原6-1-18
+    price: 420
+    lat: 31.5627119
+    lng: 130.5350778
+    type: 銭湯
+-
+    id: 4
+    name: 芦刈温泉
+    url: https://www.asikari-spa.com/
+    map: https://maps.google.com/?cid=15309926110072918751&hl=ja
+    address: 鹿児島県鹿児島市若葉町45-1
+    price: 420
+    lat: 31.62483409999999
+    lng: 130.5433659
+    type: 銭湯
+-
+    id: 5
+    name: ヘルシーランド たまて箱温泉
+    url: http://ppp.seika-spc.co.jp/healthy/tamatebako/
+    map: https://maps.google.com/?cid=9667994275783007854&hl=ja
+    address: 鹿児島県指宿市山川福元3292
+    price: 510
+    lat: 31.1852614
+    lng: 130.6176914
+    type: 温泉
+-
+    id: 6
+    name: 道の駅 たるみず 湯っ足り館
+    url: https://mitinoeki-tarumizu.com/onsen/
+    map: https://maps.google.com/?cid=11705365097233948959&hl=ja
+    address: 鹿児島県垂水市牛根麓1038-1
+    price: 350
+    lat: 31.5588128
+    lng: 130.7451059
+    type: 温泉
+-
+    id: 7
+    name: 太陽ヘルスセンター
+    url: http://taiyohealth.jp/
+    map: https://maps.google.com/?cid=120753506576706967&hl=ja
+    address: 鹿児島県鹿児島市武3-6-5
+    price: 420
+    lat: 31.5787631
+    lng: 130.537016
+    type: 銭湯
+-
+    id: 8
+    name: 中山温泉
+    url: http://www13.plala.or.jp/chuzanonsen/
+    map: https://maps.google.com/?cid=15258738217118878991&hl=ja
+    address: 鹿児島県鹿児島市中山町1390
+    price: 420
+    lat: 31.5452548
+    lng: 130.5015265
+    type: 銭湯
+-
+    id: 9
+    name: 温泉錦湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-45.php
+    map: https://maps.google.com/?cid=6760287932648762581&hl=ja
+    address: 鹿児島県鹿児島市下荒田3-3-17
+    price: 420
+    lat: 31.57301769999999
+    lng: 130.5542419
+    type: 銭湯
+-
+    id: 10
+    name: みょうばんの湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/josai/post-40.php
+    map: https://maps.google.com/?cid=552512057520050963&hl=ja
+    address: 鹿児島県鹿児島市武1-9-11
+    price: 420
+    lat: 31.5826552
+    lng: 130.5383985
+    type: 銭湯
+-
+    id: 11
+    name: 新とそ温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-42.php
+    map: https://maps.google.com/?cid=3390250168069306960&hl=ja
+    address: 鹿児島県鹿児島市唐湊1-29-1
+    price: 420
+    lat: 31.57064
+    lng: 130.5353819
+    type: 銭湯
+-
+    id: 12
+    name: かごっま温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/beauty/post.php
+    map: https://maps.google.com/?cid=7092983150196226856&hl=ja
+    address: 鹿児島県鹿児島市易居町3-28
+    price: 420
+    lat: 31.597566
+    lng: 130.5593955
+    type: 銭湯
+-
+    id: 13
+    name: かいせい乃湯
+    url: http://kaiseinoyu.com/
+    map: https://maps.google.com/?cid=13703998741351289495&hl=ja
+    address: 鹿児島県鹿児島市田上8-3-3
+    price: 420
+    lat: 31.5865252
+    lng: 130.5136249
+    type: 銭湯
+-
+    id: 14
+    name: 霧島温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/dermatology/post-5.php
+    map: https://maps.google.com/?cid=14122790177400571429&hl=ja
+    address: 鹿児島県鹿児島市西千石町6-20
+    price: 420
+    lat: 31.5898853
+    lng: 130.5481764
+    type: 銭湯
+-
+    id: 15
+    name: 尾之間温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/yakushima/post-71.php
+    map: https://maps.google.com/?cid=14530301522594039111&hl=ja
+    address: 鹿児島県熊毛郡屋久島町尾之間1291
+    price: 200
+    lat: 30.2851902
+    lng: 130.5432309
+    type: 銭湯
+-
+    id: 16
+    name: くしき野白浜温泉 みすまるの湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/ichikikushikino/post-10.php
+    map: https://maps.google.com/?cid=6363342689106560201&hl=ja
+    address: 鹿児島県いちき串木野市羽島265-1
+    price: 420
+    lat: 31.7481586
+    lng: 130.2271059
+    type: 銭湯
+-
+    id: 17
+    name: 竹迫温泉
+    url: http://takezako-onsen.com/
+    map: https://maps.google.com/?cid=15793197677963229236&hl=ja
+    address: 鹿児島県鹿児島市下荒田3-22-10
+    price: 420
+    lat: 31.5703574
+    lng: 130.5552125
+    type: 銭湯
+-
+    id: 18
+    name: 中村温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-43.php
+    map: https://maps.google.com/?cid=4833384844084161342&hl=ja
+    address: 鹿児島県鹿児島市鴨池1-17-8
+    price: 420
+    lat: 31.5670232
+    lng: 130.5495911
+    type: 銭湯
+-
+    id: 19
+    name: 吉野温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/yoshino-yoshida/post-17.php
+    map: https://maps.google.com/?cid=16705761404579222901&hl=ja
+    address: 鹿児島県鹿児島市下田町691-8
+    price: 420
+    lat: 31.650983
+    lng: 130.5653517
+    type: 銭湯
+-
+    id: 20
+    name: 山川砂むし温泉 砂湯里
+    url: http://ppp.seika-spc.co.jp/healthy/sayuri-2/
+    map: https://maps.google.com/?cid=12234910294741366086&hl=ja
+    address: 鹿児島県指宿市山川福元3339-3
+    price: 830
+    lat: 31.1828241
+    lng: 130.6153322
+    type: 温泉
+-
+    id: 21
+    name: 轟温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/koriyama/post-58.php
+    map: https://maps.google.com/?cid=7363459402322429057&hl=ja
+    address: 鹿児島県鹿児島市川田町188-2
+    price: 420
+    lat: 31.6708315
+    lng: 130.50548
+    type: 銭湯
+-
+    id: 22
+    name: 国分温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kirishima/post-67.php
+    map: https://maps.google.com/?cid=14460101343939332074&hl=ja
+    address: 鹿児島県霧島市国分新町1-32-53
+    price: 420
+    lat: 31.7553134
+    lng: 130.7614265
+    type: 銭湯
+-
+    id: 23
+    name: 郡元温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/korimoto/post-52.php
+    map: https://maps.google.com/?cid=2734091449033701658&hl=ja
+    address: 鹿児島県鹿児島市南郡元町3-1
+    price: 420
+    lat: 31.5585834
+    lng: 130.5467872
+    type: 銭湯
+-
+    id: 24
+    name: 天然温泉 渓谷苑
+    url: https://www.city.aira.lg.jp/kanko/kanko/shisetsu/keikokuen.html
+    map: https://maps.google.com/?cid=9815660881695796684&hl=ja
+    address: 鹿児島県姶良市平松1773
+    price: 420
+    lat: 31.7113162
+    lng: 130.6234839
+    type: 銭湯
+-
+    id: 25
+    name: 梅ヶ渕温泉
+    url: http://umegafuchionsen.com/
+    map: https://maps.google.com/?cid=16800571923726531240&hl=ja
+    address: 鹿児島県鹿児島市伊敷5-8-6
+    price: 420
+    lat: 31.6257508
+    lng: 130.525203
+    type: 銭湯
+-
+    id: 26
+    name: 西田温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-39.php
+    map: https://maps.google.com/?cid=13769780057438683938&hl=ja
+    address: 鹿児島県鹿児島市鷹師1-2-17
+    price: 420
+    lat: 31.5890867
+    lng: 130.5434493
+    type: 銭湯
+-
+    id: 27
+    name: 神之川温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-59.php
+    map: https://maps.google.com/?cid=14200306312588984688&hl=ja
+    address: 鹿児島県鹿児島市有屋田町603-5
+    price: 420
+    lat: 31.6564138
+    lng: 130.4431824
+    type: 銭湯
+-
+    id: 28
+    name: スパランド裸・楽・良
+    url: http://www.spa-rarara.com/
+    map: https://maps.google.com/?cid=10814139662923595578&hl=ja
+    address: 鹿児島県鹿児島市東俣町1450
+    price: 490
+    lat: 31.6784156
+    lng: 130.4922392
+    type: 温泉
+-
+    id: 29
+    name: 天然温泉 ぬくもりの湯
+    url: http://nukumorino-yu.com/
+    map: https://maps.google.com/?cid=3294839975270932292&hl=ja
+    address: 鹿児島県出水市明神町1744-1
+    price: 420
+    lat: 32.1104633
+    lng: 130.3282429
+    type: 温泉
+-
+    id: 30
+    name: 喜入八幡温泉保養館
+    url: http://www.michinoeki-kiire.jp/
+    map: https://maps.google.com/?cid=4505250201732978821&hl=ja
+    address: 鹿児島県鹿児島市喜入町6094-1
+    price: 390
+    lat: 31.3794116
+    lng: 130.5449502
+    type: 温泉
+-
+    id: 31
+    name: いやしの湯 家族温泉 山翠
+    url: http://www.k-sansui.net/
+    map: https://maps.google.com/?cid=11237685556500689074&hl=ja
+    address: 鹿児島県霧島市国分剣之宇都町207-1
+    price: 1800
+    lat: 31.770646
+    lng: 130.7654407
+    type: 温泉
+-
+    id: 32
+    name: 吉田温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kirishima/post-69.php
+    map: https://maps.google.com/?cid=11594203152798387681&hl=ja
+    address: 鹿児島県霧島市隼人町姫城1-125
+    price: 420
+    lat: 31.76377489999999
+    lng: 130.755931
+    type: 銭湯
+-
+    id: 33
+    name: 癒しの湯 昇龍温泉
+    url: http://kirishimaonsen.com/archives/spa-kirishima/syouryu
+    map: https://maps.google.com/?cid=4580648421598036747&hl=ja
+    address: 鹿児島県霧島市隼人町姫城1-130
+    price: 400
+    lat: 31.7633928
+    lng: 130.7555699
+    type: 温泉
+-
+    id: 34
+    name: 大黒温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/ishiki/post-26.php
+    map: https://maps.google.com/?cid=6036587922145085258&hl=ja
+    address: 鹿児島県鹿児島市伊敷8-22-20
+    price: 420
+    lat: 31.6367186
+    lng: 130.5189502
+    type: 銭湯
+-
+    id: 35
+    name: 財宝健康保養センター 薩摩明治村
+    url: http://satsumameijimura.jp/a/00000001
+    map: https://maps.google.com/?cid=5722307736872810341&hl=ja
+    address: 鹿児島県垂水市浜平629
+    price: 390
+    lat: 31.4736838
+    lng: 130.6998702
+    type: 温泉
+-
+    id: 36
+    name: 春日温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-4.php
+    map: https://maps.google.com/?cid=6296511576505351832&hl=ja
+    address: 鹿児島県鹿児島市下荒田1-28-1
+    price: 420
+    lat: 31.5771941
+    lng: 130.5558024
+    type: 銭湯
+-
+    id: 37
+    name: 真砂温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-49.php
+    map: https://maps.google.com/?cid=5328790355411811809&hl=ja
+    address: 鹿児島県鹿児島市真砂町59-19
+    price: 420
+    lat: 31.558684
+    lng: 130.5520723
+    type: 銭湯
+-
+    id: 38
+    name: 日本湯小屋物語
+    url: http://www.yugoya-story.jp/
+    map: https://maps.google.com/?cid=9900495021369163477&hl=ja
+    address: 鹿児島県霧島市隼人町姫城2486
+    price: 1700
+    lat: 31.7610408
+    lng: 130.7588557
+    type: 温泉
+-
+    id: 39
+    name: 日当山温泉 花の湯
+    url: http://www.meru.co.jp/hananoyu/index.html
+    map: https://maps.google.com/?cid=16752820601274954666&hl=ja
+    address: 鹿児島県霧島市隼人町姫城2-38
+    price: 520
+    lat: 31.7631371
+    lng: 130.7586616
+    type: 温泉
+-
+    id: 40
+    name: 船津温泉
+    url: 
+    map: https://maps.google.com/?cid=5670011599195165316&hl=ja
+    address: 鹿児島県姶良市船津2765
+    price: 390
+    lat: 31.7420157
+    lng: 130.6016766
+    type: 温泉
+-
+    id: 41
+    name: 温泉お乃湯
+    url: https://www.tsumagari.jp/onoyu/
+    map: https://maps.google.com/?cid=13825601357691020715&hl=ja
+    address: 鹿児島県鹿児島市小野3-5-27
+    price: 390
+    lat: 31.6130733
+    lng: 130.5245418
+    type: 温泉
+-
+    id: 42
+    name: 冠岳温泉
+    url: http://kanmuridake-spa.com/
+    map: https://maps.google.com/?cid=12115399680906252979&hl=ja
+    address: 鹿児島県いちき串木野市冠岳13668
+    price: 360
+    lat: 31.742412
+    lng: 130.354201
+    type: 温泉
+-
+    id: 43
+    name: 岩戸温泉
+    url: http://kirishimaonsen.com/archives/spa-kirishima/yutabi07
+    map: https://maps.google.com/?cid=14356274469004688479&hl=ja
+    address: 鹿児島県霧島市国分姫城3261
+    price: 300
+    lat: 31.765922
+    lng: 130.7713362
+    type: 共同浴場・銭湯
+-
+    id: 44
+    name: 武岡温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/josai/post-36.php
+    map: https://maps.google.com/?cid=14129913629417788110&hl=ja
+    address: 鹿児島県鹿児島市田上6-9-26
+    price: 420
+    lat: 31.5816083
+    lng: 130.5265115
+    type: 銭湯
+-
+    id: 45
+    name: みどり温泉
+    url: https://www.kbfoods.co.jp/midoriyu/
+    map: https://maps.google.com/?cid=10195873528301678613&hl=ja
+    address: 鹿児島県鹿児島市岡之原町130
+    price: 380
+    lat: 31.6533849
+    lng: 130.5423444
+    type: 温泉
+-
+    id: 46
+    name: 花水木 せせらぎの湯
+    url: https://www.city.hioki.kagoshima.jp/kanko/kankou/asobu/onsen/hanamizuki.html
+    map: https://maps.google.com/?cid=5781035600019774578&hl=ja
+    address: 鹿児島県日置市伊集院町大田2768
+    price: 390
+    lat: 31.6307138
+    lng: 130.3601507
+    type: 温泉
+-
+    id: 47
+    name: 慈眼寺温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-53.php
+    map: https://maps.google.com/?cid=4191739253831243283&hl=ja
+    address: 鹿児島県鹿児島市谷山中央6-35-20
+    price: 390
+    lat: 31.5155536
+    lng: 130.5104014
+    type: 温泉
+-
+    id: 48
+    name: 二月田温泉 殿様湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/ibusuki/post-15.php
+    map: https://maps.google.com/?cid=2816168946387639903&hl=ja
+    address: 鹿児島県指宿市西方二月田1408-27
+    price: 300
+    lat: 31.2563464
+    lng: 130.6259114
+    type: 銭湯
+-
+    id: 49
+    name: ゆかいだ温泉 つれづれの湯
+    url: https://www.kagoshima-kankou.com/guide/13164/
+    map: https://maps.google.com/?cid=8749296854610567155&hl=ja
+    address: 鹿児島県日置市東市来町湯田4256
+    price: 500
+    lat: 31.674687
+    lng: 130.3475608
+    type: 温泉
+-
+    id: 50
+    name: 家族温泉 野の香
+    url: http://www.nonoka-onsen.com/home.html
+    map: https://maps.google.com/?cid=7407836243875800703&hl=ja
+    address: 鹿児島県指宿市東方834-1
+    price: 1500
+    lat: 31.2493709
+    lng: 130.6197256
+    type: 温泉
+-
+    id: 51
+    name: 紫尾区営大衆浴場
+    url: http://shibionsen.web.fc2.com/shibi_kuyu.html
+    map: https://maps.google.com/?cid=9610207395294928629&hl=ja
+    address: 鹿児島県薩摩郡さつま町紫尾2198
+    price: 200
+    lat: 31.9735157
+    lng: 130.4290769
+    type: 温泉
+-
+    id: 52
+    name: 川辺K温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/minamikyusyu/post-63.php
+    map: https://maps.google.com/?cid=14069714462748095767&hl=ja
+    address: 鹿児島県南九州市川辺町永田4069
+    price: 330
+    lat: 31.3860171
+    lng: 130.3689471
+    type: 銭湯
+-
+    id: 53
+    name: 前田温泉 カジロが湯
+    url: https://maedasangyo.com/
+    map: https://maps.google.com/?cid=11638623030972286745&hl=ja
+    address: 鹿児島県霧島市牧園町高千穂3914
+    price: 360
+    lat: 31.8941708
+    lng: 130.8283297
+    type: 温泉
+-
+    id: 54
+    name: 新川温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-41.php
+    map: https://maps.google.com/?cid=4163658609862472209&hl=ja
+    address: 鹿児島県鹿児島市唐湊4-7-8
+    price: 420
+    lat: 31.5674943
+    lng: 130.5391192
+    type: 銭湯
+-
+    id: 55
+    name: 蓬の郷
+    url: http://yomogi-sato.com/portal/htdocs/
+    map: https://maps.google.com/?cid=7704288459322735042&hl=ja
+    address: 鹿児島県志布志市有明町蓬原351-3
+    price: 520
+    lat: 31.4703768
+    lng: 131.0384099
+    type: 温泉
+-
+    id: 56
+    name: 城山長寿泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-75.php
+    map: https://maps.google.com/?cid=4399119688890406441&hl=ja
+    address: 鹿児島県鹿児島市城山20-1
+    price: 420
+    lat: 31.5994252
+    lng: 130.5502983
+    type: 銭湯
+-
+    id: 57
+    name: 健康ふれあい館 弥五郎の湯
+    url: https://www.city.soo.kagoshima.jp/kankou_event/nyuuyokusyukuhaku/yagorou.html
+    map: https://maps.google.com/?cid=9171188939237584709&hl=ja
+    address: 鹿児島県曽於市大隅町岩川5718-1
+    price: 330
+    lat: 31.5932565
+    lng: 130.9909798
+    type: 温泉
+-
+    id: 58
+    name: 家族湯 新天降川温泉
+    url: https://www.kirinavi.com/content/newamorigawa/
+    map: https://maps.google.com/?cid=9711281986726919940&hl=ja
+    address: 鹿児島県霧島市隼人町姫城1-153
+    price: 300
+    lat: 31.7636015
+    lng: 130.7550985
+    type: 温泉
+-
+    id: 59
+    name: 針持温泉 つるつる美肌美人の湯
+    url: https://isatan.jp/2019/03/15/harimochionsen/
+    map: https://maps.google.com/?cid=4045162565248774461&hl=ja
+    address: 鹿児島県伊佐市大口針持1235-8
+    price: 390
+    lat: 31.98464
+    lng: 130.5791983
+    type: 温泉
+-
+    id: 60
+    name: ゆたか温泉
+    url: https://www.kanoya.in/onsen/yutaka/
+    map: https://maps.google.com/?cid=14179405869970106451&hl=ja
+    address: 鹿児島県鹿屋市田崎町319-1
+    price: 390
+    lat: 31.3744084
+    lng: 130.8536428
+    type: 温泉
+-
+    id: 61
+    name: 日の出温泉 きのこの里
+    url: https://www.kirinavi.com/content/hinodeonsen/
+    map: https://maps.google.com/?cid=16447261324416723557&hl=ja
+    address: 鹿児島県霧島市牧園町宿窪田3698
+    price: 200
+    lat: 31.8298224
+    lng: 130.7443511
+    type: 温泉
+-
+    id: 62
+    name: 湯遊ランドあいら
+    url: https://spa-yuyuland.com/
+    map: https://maps.google.com/?cid=2916180527209176012&hl=ja
+    address: 鹿児島県鹿屋市吾平町麓2973
+    price: 330
+    lat: 31.3322453
+    lng: 130.9027353
+    type: 温泉
+-
+    id: 63
+    name: めぐみの湯 錦龍館
+    url: http://www.kinryukan.net/annai/
+    map: https://maps.google.com/?cid=1470128424882300441&hl=ja
+    address: 鹿児島県日置市東市来町湯田3355
+    price: 420
+    lat: 31.6726797
+    lng: 130.335146
+    type: 温泉
+-
+    id: 64
+    name: 源泉かけ流し ゆるり乃湯
+    url: http://www.ishitake.com/kishi_04.html
+    map: https://maps.google.com/?cid=5555927400649930661&hl=ja
+    address: 鹿児島県鹿児島市郡山町5494-85
+    price: 390
+    lat: 31.7301449
+    lng: 130.4663052
+    type: 温泉
+-
+    id: 65
+    name: 家族温泉 木の花
+    url: http://kono87.jp/
+    map: https://maps.google.com/?cid=12874692097743757435&hl=ja
+    address: 鹿児島県霧島市隼人町姫城2-43-1
+    price: 1600
+    lat: 31.7654513
+    lng: 130.7583
+    type: 温泉
+-
+    id: 66
+    name: さつまの天然温泉 ちくりん温泉
+    url: http://www.chikurinonsen.jp/onsen.html
+    map: https://maps.google.com/?cid=9276059334507893348&hl=ja
+    address: 鹿児島県薩摩郡さつま町時吉419
+    price: 300
+    lat: 31.9160053
+    lng: 130.4719338
+    type: 温泉
+-
+    id: 67
+    name: 関平温泉
+    url: https://sekihira.jp/user_data/spa_sekihira
+    map: https://maps.google.com/?cid=12519150668818601302&hl=ja
+    address: 鹿児島県霧島市牧園町三体堂関平2057-10
+    price: 310
+    lat: 31.8899661
+    lng: 130.8034075
+    type: 温泉
+-
+    id: 68
+    name: 鏡石湯
+    url: https://www.kagamiishiyu.com
+    map: https://maps.google.com/?cid=14606115014162768643&hl=ja
+    address: 鹿児島県南九州市川辺町野崎8290
+    price: 380
+    lat: 31.4371223
+    lng: 130.4749485
+    type: 銭湯
+-
+    id: 69
+    name: 健康交流館 ゆーぷる吹上
+    url: http://hiokishi-kankou.com/cat_lodging/2313/
+    map: https://maps.google.com/?cid=14903644937526220162&hl=ja
+    address: 鹿児島県日置市吹上町中原763
+    price: 400
+    lat: 31.5154003
+    lng: 130.3387331
+    type: 温泉
+-
+    id: 70
+    name: 串良温泉センター 串良さくら温泉
+    url: http://ppp.seika-spc.co.jp/k-sakura/
+    map: https://maps.google.com/?cid=12234734273512635319&hl=ja
+    address: 鹿児島県鹿屋市串良町下小原3948-1
+    price: 330
+    lat: 31.3798025
+    lng: 130.9361217
+    type: 温泉
+-
+    id: 71
+    name: 塩浸温泉龍馬公園
+    url: https://www.kagoshima-kankou.com/guide/50892/
+    map: https://maps.google.com/?cid=6559847097764674328&hl=ja
+    address: 鹿児島県霧島市牧園町宿窪田3606
+    price: 360
+    lat: 31.8345196
+    lng: 130.7442284
+    type: 温泉
+-
+    id: 72
+    name: 日当山温泉センター
+    url: http://kirishimaonsen.com/archives/spa-kirishima/yutabi11
+    map: https://maps.google.com/?cid=9746694871451231628&hl=ja
+    address: 鹿児島県霧島市隼人町内1458
+    price: 260
+    lat: 31.7628709
+    lng: 130.7534119
+    type: 温泉
+-
+    id: 73
+    name: 家族湯 清武温泉
+    url: 
+    map: https://maps.google.com/?cid=6469767594737403369&hl=ja
+    address: 鹿児島県霧島市隼人町姫城1-139
+    price: 400
+    lat: 31.7626438
+    lng: 130.7558263
+    type: 温泉
+-
+    id: 74
+    name: 高尾野温泉センター もみじ
+    url: http://izumi-kankou.main.jp/portfolio/momiji-spa/
+    map: https://maps.google.com/?cid=9669424789977445756&hl=ja
+    address: 鹿児島県出水市高尾野町大久保634
+    price: 360
+    lat: 32.0628851
+    lng: 130.3126598
+    type: 温泉
+-
+    id: 75
+    name: 市来ふれあい温泉センター
+    url: https://ichiki.onsen.center/
+    map: https://maps.google.com/?cid=1623116672041447548&hl=ja
+    address: 鹿児島県いちき串木野市湊町1-100
+    price: 300
+    lat: 31.6938992
+    lng: 130.2883588
+    type: 温泉
+-
+    id: 76
+    name: 湯の川温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/taniyama/post-56.php
+    map: https://maps.google.com/?cid=15971968266497827861&hl=ja
+    address: 鹿児島県鹿児島市坂之上7-33-60
+    price: 420
+    lat: 31.4924431
+    lng: 130.5024079
+    type: 銭湯
+-
+    id: 77
+    name: 湯の里 隈之城温泉
+    url: http://www4.synapse.ne.jp/kumanojou/
+    map: https://maps.google.com/?cid=12257064057242765950&hl=ja
+    address: 鹿児島県薩摩川内市隈之城町1195
+    price: 370
+    lat: 31.79678659999999
+    lng: 130.3106993
+    type: 温泉
+-
+    id: 78
+    name: いきいきセンターくりの郷 温泉ゆっくりらんど
+    url: https://www.town.yusui.kagoshima.jp/site/jyumin/384.html
+    map: https://maps.google.com/?cid=14182959531308393703&hl=ja
+    address: 鹿児島県姶良郡湧水町米永411-1
+    price: 320
+    lat: 31.9504184
+    lng: 130.7150006
+    type: 温泉
+-
+    id: 79
+    name: 区営 鰻温泉
+    url: https://www.ibusuki.or.jp/spa/public/unagi/
+    map: https://maps.google.com/?cid=10406056605520623611&hl=ja
+    address: 鹿児島県指宿市山川成川鰻6517
+    price: 200
+    lat: 31.2278867
+    lng: 130.6112181
+    type: 共同浴場・銭湯
+-
+    id: 80
+    name: みやこ温泉
+    url: http://miyakoonsen.c.ooco.jp/
+    map: https://maps.google.com/?cid=8783031736699585830&hl=ja
+    address: 鹿児島県鹿児島市上竜尾町5-28
+    price: 420
+    lat: 31.606617
+    lng: 130.5607805
+    type: 銭湯
+-
+    id: 81
+    name: 枕崎なぎさ温泉
+    url: https://www.kagoshima-kankou.com/guide/51816/
+    map: https://maps.google.com/?cid=6483993328227028024&hl=ja
+    address: 鹿児島県枕崎市岩戸町217
+    price: 400
+    lat: 31.2614667
+    lng: 130.3138145
+    type: 温泉
+-
+    id: 82
+    name: 富士の湯
+    url: 
+    map: https://maps.google.com/?cid=3057140592789280873&hl=ja
+    address: 鹿児島県霧島市隼人町姫城2-163
+    price: 350
+    lat: 31.7664891
+    lng: 130.7576271
+    type: 温泉
+-
+    id: 83
+    name: 財部温泉健康センター
+    url: http://mecena-sueyoshi.com/onsen-takarabe/
+    map: https://maps.google.com/?cid=7057790826541928716&hl=ja
+    address: 鹿児島県曽於市財部町下財部357-1
+    price: 330
+    lat: 31.7416126
+    lng: 131.0114871
+    type: 温泉
+-
+    id: 84
+    name: かせだ海浜温泉 ゆうらく
+    url: http://kaseda-sanpal.com/fclts/yuuraku.html
+    map: https://maps.google.com/?cid=17700335146547337448&hl=ja
+    address: 鹿児島県南さつま市加世田高橋1952-2
+    price: 390
+    lat: 31.4374713
+    lng: 130.2937447
+    type: 温泉
+-
+    id: 85
+    name: 福助温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-23.php
+    map: https://maps.google.com/?cid=7501393137280823427&hl=ja
+    address: 鹿児島県鹿児島市伊敷1-16-25
+    price: 420
+    lat: 31.6189273
+    lng: 130.5261422
+    type: 銭湯
+-
+    id: 86
+    name: 滑川温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-2.php
+    map: https://maps.google.com/?cid=12859304067219824239&hl=ja
+    address: 鹿児島県鹿児島市上本町4-3
+    price: 420
+    lat: 31.6016679
+    lng: 130.5597739
+    type: 銭湯
+-
+    id: 87
+    name: 天然温泉 湯乃山
+    url: https://www.kagoshima-kankou.com/guide/50366/
+    map: https://maps.google.com/?cid=4866483271824108850&hl=ja
+    address: 鹿児島県鹿児島市城山町12-1
+    price: 500
+    lat: 31.6020191
+    lng: 130.5551669
+    type: 温泉
+-
+    id: 88
+    name: 高山温泉ドーム
+    url: https://kankou-kimotsuki.net/archives/1105
+    map: https://maps.google.com/?cid=2768633272936070771&hl=ja
+    address: 鹿児島県肝属郡肝付町新富5590-35
+    price: 310
+    lat: 31.3374107
+    lng: 130.9507335
+    type: 温泉
+-
+    id: 89
+    name: 日置市伊集院健康づくり複合施設 ゆすいん
+    url: https://yusuin.jp/institution/hot-spring-facilities/
+    map: https://maps.google.com/?cid=12756025631715796551&hl=ja
+    address: 鹿児島県日置市伊集院町野田1557
+    price: 630
+    lat: 31.6433152
+    lng: 130.3855058
+    type: 温泉
+-
+    id: 90
+    name: 海潟温泉 江之島温泉
+    url: https://www.88onsen.com/spot/detail/hid/140
+    map: https://maps.google.com/?cid=11753065382809245892&hl=ja
+    address: 鹿児島県垂水市海潟541-1
+    price: 250
+    lat: 31.52371399999999
+    lng: 130.6984669
+    type: 共同浴場・銭湯
+-
+    id: 91
+    name: えい中央温泉センター
+    url: http://eionsen.com/bath/
+    map: https://maps.google.com/?cid=14654193244293097750&hl=ja
+    address: 鹿児島県南九州市頴娃町牧之内2890
+    price: 390
+    lat: 31.2392201
+    lng: 130.4941477
+    type: 温泉
+-
+    id: 92
+    name: 南種子町 河内温泉センター
+    url: http://www.town.minamitane.kagoshima.jp/institution/kawachionsen.html
+    map: https://maps.google.com/?cid=8560761390547691836&hl=ja
+    address: 鹿児島県熊毛郡南種子町中之上341
+    price: 300
+    lat: 30.4068436
+    lng: 130.9181075
+    type: 共同浴場・銭湯
+-
+    id: 93
+    name: 重富温泉
+    url: https://www.city.aira.lg.jp/kanko/kanko/shisetsu/shigetomionsen.html
+    map: https://maps.google.com/?cid=702779219620858115&hl=ja
+    address: 鹿児島県姶良市平松6135
+    price: 360
+    lat: 31.70909829999999
+    lng: 130.6120341
+    type: 共同浴場・銭湯
+-
+    id: 94
+    name: 薬師温泉
+    url: http://yakushionsen.com/
+    map: https://maps.google.com/?cid=15643134584208523150&hl=ja
+    address: 鹿児島県鹿児島市薬師1-22-36
+    price: 420
+    lat: 31.593237
+    lng: 130.5397
+    type: 銭湯
+-
+    id: 95
+    name: 曽木の滝温泉センター
+    url: 
+    map: https://maps.google.com/?cid=13461878267058361615&hl=ja
+    address: 鹿児島県伊佐市大口宮人463-135
+    price: 400
+    lat: 32.0268834
+    lng: 130.574342
+    type: 温泉
+-
+    id: 96
+    name: 財宝健康保養センター 猿ヶ城ラドン療養泉
+    url: http://zaihopark.jp/hotspring/
+    map: https://maps.google.com/?cid=5688696631424674783&hl=ja
+    address: 鹿児島県垂水市新御堂鍋ケ久保1337-10
+    price: 390
+    lat: 31.481449
+    lng: 130.758352
+    type: 温泉
+-
+    id: 97
+    name: 一心桜姶良温泉
+    url: http://spa-isshin.sakura.ne.jp/
+    map: https://maps.google.com/?cid=4665964329906871797&hl=ja
+    address: 鹿児島県姶良市平松2663-24
+    price: 390
+    lat: 31.7275838
+    lng: 130.606852
+    type: 温泉
+-
+    id: 98
+    name: さつま町 健康ふれあいセンター あび～る館
+    url: https://www.abi-rukan.com
+    map: https://maps.google.com/?cid=14760672432622185301&hl=ja
+    address: 鹿児島県薩摩郡さつま町神子228-7
+    price: 330
+    lat: 31.9568452
+    lng: 130.4777063
+    type: 温泉
+-
+    id: 99
+    name: 家族湯ゆぅ～ゆぅ～
+    url: http://hiokishi-kankou.com/cat_spa/2297/
+    map: https://maps.google.com/?cid=10547772143368074463&hl=ja
+    address: 鹿児島県日置市東市来町湯田3460-18
+    price: 1000
+    lat: 31.67112239999999
+    lng: 130.3400235
+    type: 温泉
+-
+    id: 100
+    name: 浜之市ふれあいセンター 富の湯
+    url: http://kirishimaonsen.com/archives/spa-kirishima/yutabi59
+    map: https://maps.google.com/?cid=10068721708326620533&hl=ja
+    address: 鹿児島県霧島市隼人町真孝390
+    price: 370
+    lat: 31.7252807
+    lng: 130.7318164
+    type: 温泉
+-
+    id: 101
+    name: 森のやかた 湯ったり館
+    url: https://morinoyakata-yuttarikan.eyado.net/onsen.html
+    map: https://maps.google.com/?cid=16899682067216608915&hl=ja
+    address: 鹿児島県姶良郡湧水町川西205-2
+    price: 300
+    lat: 32.0252219
+    lng: 130.731638
+    type: 温泉
+-
+    id: 102
+    name: 田之湯温泉
+    url: https://www.city.hioki.kagoshima.jp/kanko/kankou/asobu/onsen/yunomotoonsen/koshuyokujo/tanoyuonsen.html
+    map: https://maps.google.com/?cid=11803968096305799492&hl=ja
+    address: 鹿児島県日置市東市来町湯田3076-3
+    price: 150
+    lat: 31.6719385
+    lng: 130.3318595
+    type: 共同浴場・銭湯
+-
+    id: 103
+    name: 家族湯すえひろ
+    url: http://kirishimakankou.com/guide/2013/06/post-56.html
+    map: https://maps.google.com/?cid=15680659435219229532&hl=ja
+    address: 鹿児島県霧島市隼人町姫城2-76
+    price: 430
+    lat: 31.7645924
+    lng: 130.7578844
+    type: 温泉
+-
+    id: 104
+    name: 入来温泉 湯之山館
+    url: https://yunoyamakan.jimdo.com/
+    map: https://maps.google.com/?cid=17876923862993894483&hl=ja
+    address: 鹿児島県薩摩川内市入来町副田6179
+    price: 270
+    lat: 31.8232418
+    lng: 130.4371575
+    type: 温泉
+-
+    id: 105
+    name: 楠川温泉
+    url: http://www.town.yakushima.kagoshima.jp/cust-facility/1420/
+    map: https://maps.google.com/?cid=10894798843005521230&hl=ja
+    address: 鹿児島県熊毛郡屋久島町楠川364-5
+    price: 300
+    lat: 30.3727484
+    lng: 130.5788135
+    type: 共同浴場・銭湯
+-
+    id: 106
+    name: 加治木温泉センター
+    url: https://kajiki-onsen.jimdo.com/%E6%97%A5%E5%B8%B0%E3%82%8A%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=10791551568355617009&hl=ja
+    address: 鹿児島県姶良市加治木町木田2041-1
+    price: 440
+    lat: 31.7344666
+    lng: 130.6431689
+    type: 温泉
+-
+    id: 107
+    name: 村之湯温泉
+    url: https://www.ibusuki.or.jp/spa/public/muranoyu/
+    map: https://maps.google.com/?cid=14578478806537449402&hl=ja
+    address: 鹿児島県指宿市大牟礼3-16-2
+    price: 300
+    lat: 31.2444785
+    lng: 130.6437473
+    type: 共同浴場・銭湯
+-
+    id: 108
+    name: 奄美体験交流館
+    url: http://info-amami.net/beauty_health/hot%E2%80%90spring/%E5%A5%84%E7%BE%8E%E4%BD%93%E9%A8%93%E4%BA%A4%E6%B5%81%E9%A4%A8%E3%80%80%E9%A2%A8%E5%91%82
+    map: https://maps.google.com/?cid=9489770409416773082&hl=ja
+    address: 鹿児島県奄美市住用町見里1084-1
+    price: 510
+    lat: 28.2904562
+    lng: 129.4441647
+    type: 温泉
+-
+    id: 109
+    name: スパ・ルルド
+    url: http://www.onsen2323.com/spa_lourde/
+    map: https://maps.google.com/?cid=11804204432356673674&hl=ja
+    address: 鹿児島県鹿児島市本名町2093-3
+    price: 640
+    lat: 31.6855596
+    lng: 130.5424116
+    type: 温泉
+-
+    id: 110
+    name: こすもす温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-65.php
+    map: https://maps.google.com/?cid=7498255561614225638&hl=ja
+    address: 鹿児島県姶良郡湧水町北方1687
+    price: 200
+    lat: 31.957645
+    lng: 130.7075675
+    type: 銭湯
+-
+    id: 111
+    name: 太陽の里温泉センター 東泉望
+    url: https://www.kagoshima-kankou.com/guide/11018/
+    map: https://maps.google.com/?cid=13577790020954283589&hl=ja
+    address: 鹿児島県出水郡長島町鷹巣333-12
+    price: 300
+    lat: 32.1943648
+    lng: 130.1898897
+    type: 温泉
+-
+    id: 112
+    name: 湯之元温泉センター
+    url: https://www.city.hioki.kagoshima.jp/kanko/kankou/asobu/onsen/yunomotoonsen/koshuyokujo/yunomotoonsencenter.html
+    map: https://maps.google.com/?cid=2592043799574622848&hl=ja
+    address: 鹿児島県日置市東市来町長里855-1
+    price: 150
+    lat: 31.6669455
+    lng: 130.3430331
+    type: 温泉
+-
+    id: 113
+    name: トロピカルガーデンかみかわ
+    url: http://www.town.kinko.lg.jp/soshiki/10/1072.html
+    map: https://maps.google.com/?cid=15255637572692313077&hl=ja
+    address: 鹿児島県肝属郡錦江町神川3464-10
+    price: 300
+    lat: 31.2791365
+    lng: 130.793382
+    type: 温泉
+-
+    id: 114
+    name: ふれあいセンター わくわく川辺
+    url: http://ppp.seika-spc.co.jp/kawanabe/
+    map: https://maps.google.com/?cid=15402839856368381417&hl=ja
+    address: 鹿児島県南九州市川辺町平山2890-1
+    price: 390
+    lat: 31.3938103
+    lng: 130.3925501
+    type: 温泉
+-
+    id: 115
+    name: 千石温泉
+    url: http://sengokuonsen.net/sengoku/
+    map: https://maps.google.com/?cid=6935215131714611168&hl=ja
+    address: 鹿児島県霧島市隼人町姫城1-174
+    price: 150
+    lat: 31.764558
+    lng: 130.7549951
+    type: 共同浴場・銭湯
+-
+    id: 116
+    name: 元湯・打込湯
+    url: https://www.city.hioki.kagoshima.jp/kanko/kankou/asobu/onsen/yunomotoonsen/koshuyokujo/motoyu_uchikomiyu.html
+    map: https://maps.google.com/?cid=15506516696725272593&hl=ja
+    address: 鹿児島県日置市東市来町湯田2231
+    price: 150
+    lat: 31.6693174
+    lng: 130.3353594
+    type: 共同浴場・銭湯
+-
+    id: 117
+    name: 家族風呂 重久温泉
+    url: http://kirishimaonsen.com/archives/spa-kirishima/shigehisa
+    map: https://maps.google.com/?cid=2730897206836483675&hl=ja
+    address: 鹿児島県霧島市国分重久433
+    price: 300
+    lat: 31.7686582
+    lng: 130.7770901
+    type: 温泉
+-
+    id: 118
+    name: いぶすき元湯温泉
+    url: https://www.ibusuki.or.jp/spa/public/motoyu/
+    map: https://maps.google.com/?cid=3250710249497184475&hl=ja
+    address: 鹿児島県指宿市湯の浜5-19-25
+    price: 350
+    lat: 31.2301491
+    lng: 130.6505678
+    type: 共同浴場・銭湯
+-
+    id: 119
+    name: 嶽乃湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/amami/post-73.php
+    map: https://maps.google.com/?cid=240043580855639406&hl=ja
+    address: 鹿児島県大島郡瀬戸内町古仁屋松江9-5
+    price: 420
+    lat: 28.1480447
+    lng: 129.312378
+    type: 銭湯
+-
+    id: 120
+    name: 弥次ヶ湯温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/ibusuki/post-12.php
+    map: https://maps.google.com/?cid=13432644143053453351&hl=ja
+    address: 鹿児島県指宿市十町1068
+    price: 300
+    lat: 31.2489194
+    lng: 130.6375606
+    type: 温泉
+-
+    id: 121
+    name: 川辺温泉
+    url: 
+    map: https://maps.google.com/?cid=11241470459696676152&hl=ja
+    address: 鹿児島県南九州市川辺町平山6180
+    price: 350
+    lat: 31.3870916
+    lng: 130.3984492
+    type: 温泉
+-
+    id: 122
+    name: 湯田区営温泉
+    url: 
+    map: https://maps.google.com/?cid=15013164099579828276&hl=ja
+    address: 鹿児島県薩摩郡さつま町湯田1366-21
+    price: 150
+    lat: 31.9472502
+    lng: 130.4643355
+    type: 共同浴場・銭湯
+-
+    id: 123
+    name: 知覧温泉センター
+    url: http://ppp.seika-spc.co.jp/chiran/
+    map: https://maps.google.com/?cid=5535702819210086311&hl=ja
+    address: 鹿児島県南九州市知覧町郡1783-1
+    price: 390
+    lat: 31.387231
+    lng: 130.4770912
+    type: 温泉
+-
+    id: 124
+    name: 溝辺ふれあい温泉センター
+    url: https://www.city-kirishima.jp/hoken-seisaku/kosodate/shisetsu/fukushi/mizobefureai.html
+    map: https://maps.google.com/?cid=7207243874332764445&hl=ja
+    address: 鹿児島県霧島市溝辺町有川808
+    price: 310
+    lat: 31.8410769
+    lng: 130.6801499
+    type: 温泉
+-
+    id: 125
+    name: 太田鉱泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/hioki/post-11.php
+    map: https://maps.google.com/?cid=11815349906382684032&hl=ja
+    address: 鹿児島県日置市伊集院町大田1268
+    price: 420
+    lat: 31.6284112
+    lng: 130.381028
+    type: 銭湯
+-
+    id: 126
+    name: 里の温泉 吉乃湯
+    url: http://cgi2.synapse.ne.jp/~yoshinoyu/p1.html
+    map: https://maps.google.com/?cid=2843980732122460746&hl=ja
+    address: 鹿児島県指宿市湯の浜4-2-41
+    price: 300
+    lat: 31.2308955
+    lng: 130.6469996
+    type: 共同浴場・銭湯
+-
+    id: 127
+    name: 湯之元ファミリー温泉
+    url: https://www.city.hioki.kagoshima.jp/kanko/kankou/asobu/onsen/yunomotoonsen/koshuyokujo/familyonsen.html
+    map: https://maps.google.com/?cid=11759450528844722746&hl=ja
+    address: 鹿児島県日置市東市来町湯田2907
+    price: 500
+    lat: 31.6739739
+    lng: 130.3299683
+    type: 温泉
+-
+    id: 128
+    name: 安楽温泉
+    url: http://www.sibusi-k-t.jp/121.htm
+    map: https://maps.google.com/?cid=6068822155840714988&hl=ja
+    address: 鹿児島県志布志市志布志町安楽245-2
+    price: 400
+    lat: 31.4661913
+    lng: 131.081142
+    type: 温泉
+-
+    id: 129
+    name: 霧島市温泉健康増進交流センター 神乃湯
+    url: http://www.pref.kagoshima.jp/suisui/pc/area/kirishima/5803/
+    map: https://maps.google.com/?cid=7563611019822153663&hl=ja
+    address: 鹿児島県霧島市霧島田口501
+    price: 370
+    lat: 31.8299322
+    lng: 130.8389813
+    type: 温泉
+-
+    id: 130
+    name: 姶良市温泉センター くすの湯
+    url: http://www.city.aira.lg.jp/chiiki-kamo/gyosei/shisetsu/kanko/kusunoyu.html
+    map: https://maps.google.com/?cid=3055057173695365957&hl=ja
+    address: 鹿児島県姶良市蒲生町白男1504
+    price: 300
+    lat: 31.7720622
+    lng: 130.5409158
+    type: 温泉
+-
+    id: 131
+    name: テイエム牧場温泉
+    url: 
+    map: https://maps.google.com/?cid=18223559249231183&hl=ja
+    address: 鹿児島県垂水市新城4453-1
+    price: 430
+    lat: 31.4213457
+    lng: 130.7584122
+    type: 温泉
+-
+    id: 132
+    name: さくらじま白浜温泉センター
+    url: http://www.sakurajima.gr.jp/tourism/000359.html
+    map: https://maps.google.com/?cid=9564556333402274035&hl=ja
+    address: 鹿児島県鹿児島市桜島白浜町1269
+    price: 390
+    lat: 31.6257324
+    lng: 130.6619437
+    type: 温泉
+-
+    id: 133
+    name: 世界一温泉
+    url: http://www.kagoshimaonsen.jp/?s=1406&pg=onsen&id=383
+    map: https://maps.google.com/?cid=7536145863750272099&hl=ja
+    address: 鹿児島県薩摩川内市樋脇町市比野1173-1
+    price: 500
+    lat: 31.7871636
+    lng: 130.415363
+    type: 温泉
+-
+    id: 134
+    name: 千宝の湯
+    url: http://ikkoushoji.com/spa/
+    map: https://maps.google.com/?cid=17737062233595185065&hl=ja
+    address: 鹿児島県出水市境町1840-1
+    price: 360
+    lat: 32.166485
+    lng: 130.3604706
+    type: 温泉
+-
+    id: 135
+    name: 吉松温泉郷 原口温泉
+    url: 
+    map: https://maps.google.com/?cid=15935068755341592540&hl=ja
+    address: 鹿児島県姶良郡湧水町鶴丸1172
+    price: 280
+    lat: 32.0260756
+    lng: 130.7438997
+    type: 共同浴場・銭湯
+-
+    id: 136
+    name: エル・エール 天降川 住吉温泉
+    url: 
+    map: https://maps.google.com/?cid=8000095300361009169&hl=ja
+    address: 鹿児島県霧島市隼人町住吉638-12
+    price: 360
+    lat: 31.7249101
+    lng: 130.7429813
+    type: 共同浴場・銭湯
+-
+    id: 137
+    name: 季一湯
+    url: 
+    map: https://maps.google.com/?cid=274950917760128317&hl=ja
+    address: 鹿児島県霧島市隼人町嘉例川4475
+    price: 2000
+    lat: 31.7934222
+    lng: 130.7543195
+    type: 温泉
+-
+    id: 138
+    name: 保養温泉 京湯
+    url: http://kirishimaonsen.com/archives/spa-kirishima/kyoyu
+    map: https://maps.google.com/?cid=17139942443331164357&hl=ja
+    address: 鹿児島県霧島市国分市姫城2960
+    price: 300
+    lat: 31.7595712
+    lng: 130.7703699
+    type: 温泉
+-
+    id: 139
+    name: 吉松駅前温泉
+    url: https://www.kirinavi.com/content/yoshimatsuekimae/
+    map: https://maps.google.com/?cid=15098556372403526456&hl=ja
+    address: 鹿児島県姶良郡湧水町川西935
+    price: 250
+    lat: 32.0116571
+    lng: 130.7390941
+    type: 温泉
+-
+    id: 140
+    name: ヘルシーランド 温泉保養館
+    url: http://ppp.seika-spc.co.jp/healthy/hoyoukan-2/
+    map: https://maps.google.com/?cid=17271169042134993149&hl=ja
+    address: 鹿児島県指宿市山川福元3292
+    price: 340
+    lat: 31.1852614
+    lng: 130.6176914
+    type: 温泉
+-
+    id: 141
+    name: まごし温泉 まごし館
+    url: 
+    map: https://maps.google.com/?cid=17704876252649213067&hl=ja
+    address: 鹿児島県伊佐市菱刈前目711-1
+    price: 300
+    lat: 32.0133814
+    lng: 130.6376099
+    type: 温泉
+-
+    id: 142
+    name: 川内高城温泉共同湯
+    url: 
+    map: https://maps.google.com/?cid=8165155089866546474&hl=ja
+    address: 鹿児島県薩摩川内市湯田町6763
+    price: 200
+    lat: 31.9153141
+    lng: 130.2567355
+    type: 共同浴場・銭湯
+-
+    id: 143
+    name: レジャーセンターかいもん
+    url: https://www.ibusuki.or.jp/spa/public/leisure/
+    map: https://maps.google.com/?cid=17485294636108132371&hl=ja
+    address: 鹿児島県指宿市開聞川尻5401
+    price: 340
+    lat: 31.1771171
+    lng: 130.5631294
+    type: 温泉
+-
+    id: 144
+    name: ウェルビークラブ
+    url: https://wellbeclub.com/
+    map: https://maps.google.com/?cid=16029037118746485262&hl=ja
+    address: 鹿児島県姶良市東餅田1181
+    price: 500
+    lat: 31.7268789
+    lng: 130.6401583
+    type: 温泉
+-
+    id: 145
+    name: お食事処一茶 一茶温泉
+    url: https://issa-kirishima.com/spaissa/
+    map: https://maps.google.com/?cid=8281891942944665784&hl=ja
+    address: 鹿児島県霧島市国分向花下中台135-1
+    price: 300
+    lat: 31.7602148
+    lng: 130.7757115
+    type: 温泉
+-
+    id: 146
+    name: 藤乃湯
+    url: 
+    map: https://maps.google.com/?cid=9058433117940721519&hl=ja
+    address: 鹿児島県姶良郡湧水町川西1638
+    price: 600
+    lat: 32.0085021
+    lng: 130.7462136
+    type: 温泉
+-
+    id: 147
+    name: シティホテルイン国分 城山温泉
+    url: http://www.chik.co.jp/onsen/
+    map: https://maps.google.com/?cid=8820781936290843228&hl=ja
+    address: 鹿児島県霧島市国分上小川4257
+    price: 360
+    lat: 31.7314251
+    lng: 130.7823938
+    type: 銭湯
+-
+    id: 148
+    name: 川内高城温泉 川内岩風呂
+    url: https://www.sendaitakionsen.com/onsen/sendai-iwaburo
+    map: https://maps.google.com/?cid=13669399176851855888&hl=ja
+    address: 鹿児島県薩摩川内市湯田町6489
+    price: 350
+    lat: 31.91616909999999
+    lng: 130.2558288
+    type: 共同浴場・銭湯
+-
+    id: 149
+    name: 家族温泉 健康村
+    url: https://kenkoh-mura.jimdofree.com/
+    map: https://maps.google.com/?cid=9971608182935974527&hl=ja
+    address: 鹿児島県薩摩郡さつま町田原2360
+    price: 500
+    lat: 31.9105764
+    lng: 130.4639557
+    type: 温泉
+-
+    id: 150
+    name: 池田温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/taniyama/post-55.php
+    map: https://maps.google.com/?cid=12595757323743642701&hl=ja
+    address: 鹿児島県鹿児島市東谷山5-5-14
+    price: 420
+    lat: 31.5329073
+    lng: 130.5175294
+    type: 銭湯
+-
+    id: 151
+    name: 長寿温泉
+    url: 
+    map: https://maps.google.com/?cid=14003041435760442870&hl=ja
+    address: 鹿児島県伊佐市菱刈徳辺2256-2
+    price: 200
+    lat: 32.0084489
+    lng: 130.65805
+    type: 共同浴場・銭湯
+-
+    id: 152
+    name: えい別府温泉センター
+    url: http://kousei-kai.or.jp/?s=1615&pg=page&pageid=920#ad-image-0
+    map: https://maps.google.com/?cid=12622382668618694477&hl=ja
+    address: 鹿児島県南九州市頴娃町別府5991-2
+    price: 390
+    lat: 31.2524999
+    lng: 130.4233222
+    type: 温泉
+-
+    id: 153
+    name: アビルランド坂元
+    url: http://www.kanoya.in/onsen/abiruland/
+    map: https://maps.google.com/?cid=10900932324749430779&hl=ja
+    address: 鹿児島県鹿屋市浜田町139-1
+    price: 380
+    lat: 31.325139
+    lng: 130.807794
+    type: 温泉
+-
+    id: 154
+    name: 大口温泉 高熊荘
+    url: https://umesan.wixsite.com/takakuma/blank-3
+    map: https://maps.google.com/?cid=17110573989024709639&hl=ja
+    address: 鹿児島県伊佐市大口木ノ氏1278-12
+    price: 250
+    lat: 32.0873817
+    lng: 130.6108642
+    type: 温泉
+-
+    id: 155
+    name: 串良ふれあいセンター
+    url: 
+    map: https://maps.google.com/?cid=16531841981549510206&hl=ja
+    address: 鹿児島県鹿屋市串良町有里507-1
+    price: 200
+    lat: 31.4004773
+    lng: 130.9575377
+    type: 温泉
+-
+    id: 156
+    name: みずほ温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-46.php
+    map: https://maps.google.com/?cid=13865990770111508375&hl=ja
+    address: 鹿児島県鹿児島市上荒田町32-14
+    price: 420
+    lat: 31.5743692
+    lng: 130.5470091
+    type: 銭湯
+-
+    id: 157
+    name: 開聞温泉
+    url: 
+    map: https://maps.google.com/?cid=2662253747860272481&hl=ja
+    address: 鹿児島県指宿市山川町岡児ヶ水1446
+    price: 300
+    lat: 31.1703669
+    lng: 130.5752941
+    type: 共同浴場・銭湯
+-
+    id: 158
+    name: 舞鶴温泉
+    url: http://www.izumi-navi.jp/spots/detail/69
+    map: https://maps.google.com/?cid=3285423687061121273&hl=ja
+    address: 鹿児島県出水市野田町下名1925
+    price: 350
+    lat: 32.0811957
+    lng: 130.2716293
+    type: 温泉
+-
+    id: 159
+    name: 浜児ヶ水区営温泉 浜ん湯
+    url: https://www.ibusuki.or.jp/spa/public/hamachogamizu/
+    map: https://maps.google.com/?cid=12916707064824089539&hl=ja
+    address: 鹿児島県指宿市山川浜児ケ水178
+    price: 120
+    lat: 31.1841752
+    lng: 130.6004066
+    type: 共同浴場・銭湯
+-
+    id: 160
+    name: 菱刈温泉 亀の湯
+    url: 
+    map: https://maps.google.com/?cid=16069154856584298164&hl=ja
+    address: 鹿児島県伊佐市菱刈川南191
+    price: 200
+    lat: 31.9900911
+    lng: 130.6550312
+    type: 共同浴場・銭湯
+-
+    id: 161
+    name: 中種子町 温泉保養センター
+    url: https://town.nakatane.kagoshima.jp/fukushi/machinojoho/kanko/shukuhaku-onsen/onsen/onsenhoyocenter.html
+    map: https://maps.google.com/?cid=2647859427352301545&hl=ja
+    address: 鹿児島県熊毛郡中種子町坂井5542
+    price: 300
+    lat: 30.4610667
+    lng: 130.9585404
+    type: 共同浴場・銭湯
+-
+    id: 162
+    name: 下之湯公衆浴場
+    url: 
+    map: https://maps.google.com/?cid=3854798375023165504&hl=ja
+    address: 鹿児島県薩摩川内市樋脇町市比野2576-1
+    price: 300
+    lat: 31.7905569
+    lng: 130.4063924
+    type: 温泉
+-
+    id: 163
+    name: つばき湯
+    url: http://kirishimaonsen.com/archives/spa-kirishima/yutabi14
+    map: https://maps.google.com/?cid=17135488246784140805&hl=ja
+    address: 鹿児島県霧島市隼人町姫城1911-28
+    price: 330
+    lat: 31.7697358
+    lng: 130.7628512
+    type: 温泉
+-
+    id: 164
+    name: 福寿温泉
+    url: http://2910.jp/spa.htm
+    map: https://maps.google.com/?cid=16071655298515861286&hl=ja
+    address: 鹿児島県霧島市牧園町三体堂2555-99
+    price: 100
+    lat: 31.8663273
+    lng: 130.7792086
+    type: 温泉
+-
+    id: 165
+    name: 薩摩川内市樋脇保健センター 上之湯公衆浴場
+    url: http://www.pref.kagoshima.jp/suisui/pc/area/satumasendai/2966/
+    map: https://maps.google.com/?cid=5888830436636663942&hl=ja
+    address: 鹿児島県薩摩川内市樋脇町市比野2926-2
+    price: 200
+    lat: 31.7886654
+    lng: 130.4034481
+    type: 温泉
+-
+    id: 166
+    name: 愛宕温泉
+    url: https://www.kirinavi.com/content/atago/
+    map: https://maps.google.com/?cid=13436040483464533378&hl=ja
+    address: 鹿児島県姶良郡湧水町中津川1292
+    price: 200
+    lat: 32.0219967
+    lng: 130.750161
+    type: 温泉
+-
+    id: 167
+    name: 米丸温泉
+    url: https://www.city.aira.lg.jp/kanko/kanko/shisetsu/yonemaruonsen.html
+    map: https://maps.google.com/?cid=2491146378294230745&hl=ja
+    address: 鹿児島県姶良市蒲生町米丸3275
+    price: 360
+    lat: 31.7740595
+    lng: 130.5703368
+    type: 共同浴場・銭湯
+-
+    id: 168
+    name: 東郷温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/ibusuki/post-13.php
+    map: https://maps.google.com/?cid=5850604656179911318&hl=ja
+    address: 鹿児島県指宿市大牟礼3-16-58
+    price: 300
+    lat: 31.2446104
+    lng: 130.6441835
+    type: 共同浴場・銭湯
+-
+    id: 169
+    name: 輝北ふれあいセンター
+    url: http://www.e-kanoya.net/htmbox/kihoku_sougou/jyuumin/fureaicenter.html
+    map: https://maps.google.com/?cid=3128483546109575881&hl=ja
+    address: 鹿児島県鹿屋市輝北町上百引2100-1
+    price: 310
+    lat: 31.5488468
+    lng: 130.8768368
+    type: 温泉
+-
+    id: 170
+    name: ゆわく温泉
+    url: https://www.city.hioki.kagoshima.jp/kanko/kankou/asobu/onsen/yunomotoonsen/koshuyokujo/yuwakuonsen.html
+    map: https://maps.google.com/?cid=1356351457152837485&hl=ja
+    address: 鹿児島県日置市東市来町長里885
+    price: 100
+    lat: 31.669499
+    lng: 130.3412004
+    type: 共同浴場・銭湯
+-
+    id: 171
+    name: 高隈ラジウム 猿ヶ城温泉
+    url: 
+    map: https://maps.google.com/?cid=12292840648858908342&hl=ja
+    address: 鹿児島県垂水市高城1374-5
+    price: 500
+    lat: 31.4748192
+    lng: 130.7715966
+    type: 温泉
+-
+    id: 172
+    name: 永吉温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-34.php
+    map: https://maps.google.com/?cid=17345449581316999290&hl=ja
+    address: 鹿児島県鹿児島市永吉1-33-6
+    price: 420
+    lat: 31.6024733
+    lng: 130.5350176
+    type: 銭湯
+-
+    id: 173
+    name: 藺牟田温泉 さざらし会館
+    url: https://satsumasendai.gr.jp/spotlist/2463/
+    map: https://maps.google.com/?cid=13656896643826928501&hl=ja
+    address: 鹿児島県薩摩川内市祁答院町藺牟田3144-1
+    price: 150
+    lat: 31.8018846
+    lng: 130.4823648
+    type: 温泉
+-
+    id: 174
+    name: 大浦の湯
+    url: http://www.yakushima-marche.com/cust-spot/5527/
+    map: https://maps.google.com/?cid=7895952219837625677&hl=ja
+    address: 鹿児島県熊毛郡屋久島町一湊
+    price: 300
+    lat: 30.442418
+    lng: 130.4821815
+    type: 共同浴場・銭湯
+-
+    id: 175
+    name: タラソおきのえらぶ
+    url: http://www.erabu.co.jp/
+    map: https://maps.google.com/?cid=14660248422963163397&hl=ja
+    address: 鹿児島県大島郡和泊町大和泊135
+    price: 1000
+    lat: 27.3919048
+    lng: 128.6556155
+    type: 温泉
+-
+    id: 176
+    name: 徳光温泉
+    url: https://www.ibusuki.or.jp/spa/public/tokkou/
+    map: https://maps.google.com/?cid=12923607189943384866&hl=ja
+    address: 鹿児島県指宿市山川岡児ヶ水58-1
+    price: 150
+    lat: 31.1768599
+    lng: 130.5788135
+    type: 共同浴場・銭湯
+-
+    id: 177
+    name: 白男川紫陽館
+    url: http://www.pref.kagoshima.jp/suisui/pc/area/kitasatuma/18221/
+    map: https://maps.google.com/?cid=13831611573790702881&hl=ja
+    address: 鹿児島県薩摩郡さつま町白男川892
+    price: 250
+    lat: 31.9123992
+    lng: 130.4175449
+    type: 共同浴場・銭湯
+-
+    id: 178
+    name: ゆのこの湯
+    url: http://www.town.yakushima.kagoshima.jp/cust-facility/1425/
+    map: https://maps.google.com/?cid=5522253770355648741&hl=ja
+    address: 鹿児島県熊毛郡屋久島町宮之浦2077-37
+    price: 400
+    lat: 30.4116067
+    lng: 130.5459624
+    type: 温泉
+-
+    id: 179
+    name: 笠沙天然温泉 氣呑山河
+    url: https://koujin-ayanokai.or.jp/kasasa-spa/
+    map: https://maps.google.com/?cid=15478258857270093762&hl=ja
+    address: 鹿児島県南さつま市笠沙町赤生木1855
+    price: 420
+    lat: 31.3917252
+    lng: 130.1994924
+    type: 温泉
+-
+    id: 180
+    name: 山野温泉
+    url: http://kirishimaonsen.com/archives/spa-kirishima/yamano
+    map: https://maps.google.com/?cid=14511194200213157846&hl=ja
+    address: 鹿児島県霧島市隼人町姫城3-175
+    price: 300
+    lat: 31.7712434
+    lng: 130.7583198
+    type: 共同浴場・銭湯
+-
+    id: 181
+    name: 高山天然温泉倶楽部
+    url: http://www.synapse.ne.jp/shunyoukai/rf/hot-spring.html
+    map: https://maps.google.com/?cid=3715851957603484477&hl=ja
+    address: 鹿児島県肝属郡肝付町新富1151-1
+    price: 500
+    lat: 31.3517789
+    lng: 130.9467261
+    type: 温泉
+-
+    id: 182
+    name: 悪石島 湯泊温泉
+    url: 
+    map: https://maps.google.com/?cid=6406341067066117263&hl=ja
+    address: 鹿児島県鹿児島郡十島村悪石島140
+    price: 200
+    lat: 29.4581496
+    lng: 129.5917705
+    type: 共同浴場・銭湯
+-
+    id: 183
+    name: 三叉コミュニティセンター さんさ乃湯
+    url: https://www.city.aira.lg.jp/nosei/sangyo/nogyo/sansanoyu.html
+    map: https://maps.google.com/?cid=1183001728351034461&hl=ja
+    address: 鹿児島県姶良市寺師818-3
+    price: 250
+    lat: 31.7589899
+    lng: 130.6025695
+    type: 温泉
+-
+    id: 184
+    name: 西ノ湯温泉
+    url: http://www.yakushima-marche.com/cust-spot/5521/
+    map: https://maps.google.com/?cid=11146289441038794210&hl=ja
+    address: 鹿児島県熊毛郡屋久島町口永良部島美浦
+    price: 200
+    lat: 30.463601
+    lng: 130.190295
+    type: 共同浴場・銭湯
+-
+    id: 185
+    name: 南さつま いなほ館
+    url: http://www.hakuraku.or.jp/
+    map: https://maps.google.com/?cid=18364412928789312104&hl=ja
+    address: 鹿児島県南さつま市金峰町浦之名1430
+    price: 390
+    lat: 31.451281
+    lng: 130.3660124
+    type: 温泉
+-
+    id: 186
+    name: 平和温泉センター
+    url: 
+    map: https://maps.google.com/?cid=7719933534003441312&hl=ja
+    address: 鹿児島県薩摩郡さつま町轟町23-1
+    price: 250
+    lat: 31.9139877
+    lng: 130.4571034
+    type: 温泉
+-
+    id: 187
+    name: 天然温泉 やち湯
+    url: 
+    map: https://maps.google.com/?cid=10347511140367701286&hl=ja
+    address: 鹿児島県薩摩郡さつま町宮之城屋地1531-5
+    price: 250
+    lat: 31.9056264
+    lng: 130.4533345
+    type: 温泉
+-
+    id: 188
+    name: 篠段温泉
+    url: 
+    map: https://maps.google.com/?cid=3430563117823367952&hl=ja
+    address: 鹿児島県曽於郡大崎町野方4936
+    price: 350
+    lat: 31.4869863
+    lng: 130.9626603
+    type: 温泉
+-
+    id: 189
+    name: いむた温泉 下ノ湯
+    url: https://satsumasendai.gr.jp/spotlist/2465/
+    map: https://maps.google.com/?cid=13808445861559526849&hl=ja
+    address: 鹿児島県薩摩川内市祁答院町藺牟田2652-2
+    price: 150
+    lat: 31.8186703
+    lng: 130.4821815
+    type: 共同浴場・銭湯
+-
+    id: 190
+    name: サウナかめつ
+    url: 
+    map: https://maps.google.com/?cid=9532062290353933972&hl=ja
+    address: 鹿児島県大島郡徳之島町亀津3096-5
+    price: 800
+    lat: 27.7244529
+    lng: 129.0171247
+    type: 温泉
+-
+    id: 191
+    name: 湯之尾温泉 川南温泉
+    url: 
+    map: https://maps.google.com/?cid=7980229468592690205&hl=ja
+    address: 鹿児島県伊佐市菱刈川南354-1
+    price: 200
+    lat: 31.9815631
+    lng: 130.6575262
+    type: 共同浴場・銭湯
+-
+    id: 192
+    name: 中村温泉 みやびの湯
+    url: 
+    map: https://maps.google.com/?cid=412088024117418702&hl=ja
+    address: 鹿児島県南九州市頴娃町別府1
+    price: 330
+    lat: 31.2533156
+    lng: 130.4558054
+    type: 温泉
+-
+    id: 193
+    name: 柏原温泉
+    url: 
+    map: https://maps.google.com/?cid=16715615469324110951&hl=ja
+    address: 鹿児島県薩摩郡さつま町柏原1323
+    price: 200
+    lat: 31.9291314
+    lng: 130.4708357
+    type: 温泉
+-
+    id: 194
+    name: 前田温泉
+    url: 
+    map: https://maps.google.com/?cid=4056552399326582041&hl=ja
+    address: 鹿児島県霧島市隼人町松永603-2
+    price: 250
+    lat: 31.7751631
+    lng: 130.7639593
+    type: 共同浴場・銭湯
+-
+    id: 195
+    name: きみよし温泉
+    url: 
+    map: https://maps.google.com/?cid=8452124755269044668&hl=ja
+    address: 鹿児島県阿久根市大丸町60
+    price: 350
+    lat: 32.0158695
+    lng: 130.1965768
+    type: 共同浴場・銭湯
+-
+    id: 196
+    name: 入来温泉 亀乃湯
+    url: 
+    map: https://maps.google.com/?cid=10824430436451836450&hl=ja
+    address: 鹿児島県薩摩川内市入来町副田6075
+    price: 100
+    lat: 31.823863
+    lng: 130.434345
+    type: 共同浴場・銭湯
+-
+    id: 197
+    name: 本村温泉
+    url: http://www.yakushima-marche.com/cust-spot/6295/
+    map: https://maps.google.com/?cid=3264420660674452716&hl=ja
+    address: 鹿児島県熊毛郡屋久島町口永良部島572
+    price: 300
+    lat: 30.464084
+    lng: 130.193267
+    type: 温泉
+-
+    id: 198
+    name: しゅじゅどん温泉
+    url: https://www.kirinavi.com/content/syujyudon/
+    map: https://maps.google.com/?cid=14539718897562082427&hl=ja
+    address: 鹿児島県霧島市隼人町東郷119
+    price: 200
+    lat: 31.7659998
+    lng: 130.7531133
+    type: 共同浴場・銭湯
+-
+    id: 199
+    name: 弘寿温泉
+    url: 
+    map: https://maps.google.com/?cid=3319035359066687759&hl=ja
+    address: 鹿児島県霧島市牧園町万膳字九日田931-9
+    price: 200
+    lat: 31.9058663
+    lng: 130.7614661
+    type: 共同浴場・銭湯
+-
+    id: 200
+    name: 山寺鉱泉浴場
+    url: http://www.kanoya.in/onsen/yamaderakosen/
+    map: https://maps.google.com/?cid=13118328447210732724&hl=ja
+    address: 鹿児島県鹿屋市上祓川町8775-4
+    price: 390
+    lat: 31.4450468
+    lng: 130.8562947
+    type: 温泉
+-
+    id: 201
+    name: 松元平野岡体育館 松元温泉
+    url: http://hiranooka.com/page2.html
+    map: https://maps.google.com/?cid=12868861523296922675&hl=ja
+    address: 鹿児島県鹿児島市上谷口町3400
+    price: 390
+    lat: 31.5960429
+    lng: 130.4275371
+    type: 温泉
+-
+    id: 202
+    name: 中野温泉
+    url: https://www.kirinavi.com/content/nakanoonsen/
+    map: https://maps.google.com/?cid=15118443878041946702&hl=ja
+    address: 鹿児島県姶良郡湧水町川西441-4
+    price: 200
+    lat: 32.0209414
+    lng: 130.7391399
+    type: 共同浴場・銭湯
+-
+    id: 203
+    name: セランマ温泉保養センター
+    url: http://www.pref.kagoshima.jp/suisui/pc/area/shima/2788/
+    map: https://maps.google.com/?cid=11108353874632323385&hl=ja
+    address: 鹿児島県鹿児島郡十島村口之島487
+    price: 200
+    lat: 29.9673737
+    lng: 129.9247429
+    type: 共同浴場・銭湯
+-
+    id: 204
+    name: うなぎ温泉 まつまえ
+    url: https://www.ibusuki.or.jp/stay/guest-house/post-42/
+    map: https://maps.google.com/?cid=12048042404804310676&hl=ja
+    address: 鹿児島県指宿市山川成川6518
+    price: 200
+    lat: 31.2277998
+    lng: 130.6112339
+    type: 温泉
+-
+    id: 205
+    name: 吉松温泉 般若寺温泉
+    url: 
+    map: https://maps.google.com/?cid=4138488182630314775&hl=ja
+    address: 鹿児島県姶良郡湧水町般若寺42
+    price: 300
+    lat: 32.034963
+    lng: 130.737972
+    type: 温泉
+-
+    id: 206
+    name: 横瀬温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=7598518888809176983&hl=ja
+    address: 鹿児島県霧島市牧園町上中津川133-1
+    price: 200
+    lat: 31.8521696
+    lng: 130.7897625
+    type: 共同浴場・銭湯
+-
+    id: 207
+    name: 小平温泉
+    url: 
+    map: https://maps.google.com/?cid=12027194334670578508&hl=ja
+    address: 鹿児島県肝属郡錦江町城元5718-1
+    price: 300
+    lat: 31.2350092
+    lng: 130.8745751
+    type: 温泉
+-
+    id: 208
+    name: 宇検村地域福祉センター やけうちの湯
+    url: http://info-amami.net/beauty_health/hot%E2%80%90spring/%E3%82%84%E3%81%91%E3%81%86%E3%81%A1%E3%81%AE%E6%B9%AF
+    map: https://maps.google.com/?cid=9787106043843208254&hl=ja
+    address: 鹿児島県大島郡宇検村湯湾2937-87
+    price: 600
+    lat: 28.2739098
+    lng: 129.2958716
+    type: 温泉
+-
+    id: 209
+    name: 漁船員休養施設
+    url: 
+    map: https://maps.google.com/?cid=2262490889158009893&hl=ja
+    address: 鹿児島県指宿市岩本今和泉漁港
+    price: 250
+    lat: 31.2916694
+    lng: 130.6039187
+    type: 共同浴場・銭湯
+-
+    id: 210
+    name: 湯之尾温泉 鵜泊温泉
+    url: 
+    map: https://maps.google.com/?cid=9612001766834452&hl=ja
+    address: 鹿児島県伊佐市菱刈川南1109
+    price: 100
+    lat: 31.9862509
+    lng: 130.6678473
+    type: 共同浴場・銭湯
+-
+    id: 211
+    name: 吉松温泉 つつはの湯
+    url: 
+    map: https://maps.google.com/?cid=3616503070410112634&hl=ja
+    address: 鹿児島県姶良郡湧水町川西390-1
+    price: 250
+    lat: 32.0234274
+    lng: 130.738389
+    type: 温泉
+-
+    id: 212
+    name: テイエム温泉
+    url: 
+    map: https://maps.google.com/?cid=11737471780651734682&hl=ja
+    address: 鹿児島県垂水市田神3498-2
+    price: 400
+    lat: 31.4962943
+    lng: 130.6984669
+    type: 温泉
+-
+    id: 213
+    name: 徳之島交流ひろば ほーらい館
+    url: http://hourai-kan.jp/
+    map: https://maps.google.com/?cid=1535572780088824949&hl=ja
+    address: 鹿児島県大島郡伊仙町伊仙2575-2
+    price: 700
+    lat: 27.6733025
+    lng: 128.9349969
+    type: 温泉
+-
+    id: 214
+    name: 岡元温泉
+    url: https://www.kirinavi.com/content/okamoto/
+    map: https://maps.google.com/?cid=13105462078414718714&hl=ja
+    address: 鹿児島県霧島市隼人町姫城2547
+    price: 200
+    lat: 31.760733
+    lng: 130.7596082
+    type: 共同浴場・銭湯
+-
+    id: 215
+    name: 中之島 西区温泉
+    url: 
+    map: https://maps.google.com/?cid=15543401975741533997&hl=ja
+    address: 鹿児島県鹿児島郡十島村中之島
+    price: 寸志
+    lat: 29.8569908
+    lng: 129.8681983
+    type: 共同浴場・銭湯
+-
+    id: 216
+    name: 大村温泉公衆浴場
+    url: http://www.pref.kagoshima.jp/suisui/pc/area/satumasendai/3013/
+    map: https://maps.google.com/?cid=263464219831857805&hl=ja
+    address: 鹿児島県薩摩川内市祁答院町下手51-1
+    price: 230
+    lat: 31.8691538
+    lng: 130.4950664
+    type: 共同浴場・銭湯
+-
+    id: 217
+    name: 硫黄島 三島開発 総合センター
+    url: http://www.pref.kagoshima.jp/suisui/pc/area/shima/2780/
+    map: https://maps.google.com/?cid=16099915964813720557&hl=ja
+    address: 鹿児島県鹿児島郡三島村硫黄島90-61
+    price: 100
+    lat: 30.7819923
+    lng: 130.2777501
+    type: 共同浴場・銭湯
+-
+    id: 218
+    name: さがら温泉
+    url: 
+    map: https://maps.google.com/?cid=779978629814544150&hl=ja
+    address: 鹿児島県薩摩郡さつま町湯田1366-39
+    price: 100
+    lat: 31.94638269999999
+    lng: 130.4641518
+    type: 温泉
+-
+    id: 219
+    name: ほたる温泉
+    url: 
+    map: https://maps.google.com/?cid=16781376791709292161&hl=ja
+    address: 鹿児島県霧島市牧園町万膳1145-1
+    price: 150
+    lat: 31.9086042
+    lng: 130.7623802
+    type: 温泉
+-
+    id: 220
+    name: 市比野温泉 昭和湯
+    url: 
+    map: https://maps.google.com/?cid=10345956787590438283&hl=ja
+    address: 鹿児島県薩摩川内市樋脇町市比野2595
+    price: 200
+    lat: 31.7886111
+    lng: 130.4048144
+    type: 共同浴場・銭湯
+-
+    id: 221
+    name: 家族湯 ひめぎ
+    url: 
+    map: https://maps.google.com/?cid=17392100512797386199&hl=ja
+    address: 鹿児島県霧島市隼人町姫城2449-3
+    price: 500
+    lat: 31.7631163
+    lng: 130.7593092
+    type: 温泉
+-
+    id: 222
+    name: 霧島市 横川健康温泉センター
+    url: https://www.city-kirishima.jp/hoken-seisaku/kosodate/shisetsu/fukushi/yokogawakenko.html
+    map: https://maps.google.com/?cid=1619748591298497030&hl=ja
+    address: 鹿児島県霧島市横川町中ノ254-1
+    price: 310
+    lat: 31.9030358
+    lng: 130.7025056
+    type: 温泉
+-
+    id: 223
+    name: 平島出張所 あかひげ温泉
+    url: http://shimanosanpo.com/churajima11/taira00/onsen_comunitycenter/index.htm
+    map: https://maps.google.com/?cid=7862369849560549168&hl=ja
+    address: 鹿児島県鹿児島郡十島村平島293
+    price: 200
+    lat: 29.6868791
+    lng: 129.5297513
+    type: 共同浴場・銭湯
+-
+    id: 224
+    name: 入来中央温泉おおた もんじょの湯
+    url: 
+    map: https://maps.google.com/?cid=2417161337389569572&hl=ja
+    address: 鹿児島県薩摩川内市入来町浦之名7683
+    price: 250
+    lat: 31.8024693
+    lng: 130.4357698
+    type: 共同浴場・銭湯
+-
+    id: 225
+    name: 雪松温泉 まむし湯
+    url: 
+    map: https://maps.google.com/?cid=2529901195761626602&hl=ja
+    address: 鹿児島県姶良郡湧水町鶴丸14-15
+    price: 250
+    lat: 32.0349191
+    lng: 130.7429592
+    type: 共同浴場・銭湯
+-
+    id: 226
+    name: アグリ温泉えい
+    url: https://sites.google.com/view/agrilandei/%E3%82%A2%E3%82%B0%E3%83%AA%E6%B8%A9%E6%B3%89%E3%81%88%E3%81%84
+    map: https://maps.google.com/?cid=12439148270128121228&hl=ja
+    address: 鹿児島県南九州市頴娃町牧之内15025-5
+    price: 390
+    lat: 31.3116483
+    lng: 130.5270789
+    type: 温泉
+-
+    id: 227
+    name: 花牟礼温泉
+    url: 
+    map: https://maps.google.com/?cid=8833478179197633887&hl=ja
+    address: 鹿児島県肝属郡肝付町野崎2300
+    price: 300
+    lat: 31.3363162
+    lng: 130.9707657
+    type: 共同浴場・銭湯
+-
+    id: 228
+    name: 薩摩薬師温泉
+    url: 
+    map: https://maps.google.com/?cid=8069862166346746695&hl=ja
+    address: 鹿児島県薩摩郡さつま町求名570
+    price: 200
+    lat: 31.9420132
+    lng: 130.5107593
+    type: 温泉
+-
+    id: 229
+    name: 日吉老人福祉センター
+    url: https://www.hiokishi-syakyo.com/%E6%96%BD%E8%A8%AD%E7%B4%B9%E4%BB%8B/%E6%97%A5%E5%90%89%E8%80%81%E4%BA%BA%E7%A6%8F%E7%A5%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/
+    map: https://maps.google.com/?cid=11947668618283006424&hl=ja
+    address: 鹿児島県日置市日吉町日置1132-1
+    price: 210
+    lat: 31.595777
+    lng: 130.3443443
+    type: 温泉
+-
+    id: 230
+    name: 安楽本家塩湯温泉
+    url: 
+    map: https://maps.google.com/?cid=5083056626234217867&hl=ja
+    address: 鹿児島県霧島市牧園町宿窪田4152
+    price: 200
+    lat: 31.8185001
+    lng: 130.7547132
+    type: 温泉
+-
+    id: 231
+    name: 湯之尾温泉 市営公衆浴場
+    url: 
+    map: https://maps.google.com/?cid=3055759099176968377&hl=ja
+    address: 鹿児島県伊佐市菱刈川北2002
+    price: 150
+    lat: 31.9872418
+    lng: 130.6685303
+    type: 共同浴場・銭湯
+-
+    id: 232
+    name: 桐の湯
+    url: 
+    map: https://maps.google.com/?cid=17401337300155294460&hl=ja
+    address: 鹿児島県南九州市川辺町野崎5423
+    price: 390
+    lat: 31.405026
+    lng: 130.4204738
+    type: 温泉
+-
+    id: 233
+    name: アルプス温泉
+    url: 
+    map: https://maps.google.com/?cid=15459361904600813191&hl=ja
+    address: 鹿児島県霧島市隼人町嘉例川3562-3
+    price: 500
+    lat: 31.8287117
+    lng: 130.7342713
+    type: 温泉
+-
+    id: 234
+    name: 坂元温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/dermatology/post-3.php
+    map: https://maps.google.com/?cid=4571228359296229036&hl=ja
+    address: 鹿児島県鹿児島市坂元町18-19
+    price: 420
+    lat: 31.6203097
+    lng: 130.5524772
+    type: 銭湯
+-
+    id: 235
+    name: 黒木温泉公衆浴場
+    url: 
+    map: https://maps.google.com/?cid=7750708720413433842&hl=ja
+    address: 鹿児島県薩摩川内市祁答院町黒木26
+    price: 150
+    lat: 31.8843062
+    lng: 130.5239203
+    type: 共同浴場・銭湯
+-
+    id: 236
+    name: 犬飼温泉公衆浴場
+    url: 
+    map: https://maps.google.com/?cid=2714693414718587394&hl=ja
+    address: 鹿児島県霧島市牧園町下中津川79-8
+    price: 200
+    lat: 31.8240804
+    lng: 130.7653189
+    type: 共同浴場・銭湯
+-
+    id: 237
+    name: 浜田温泉 南種子町農業者休憩所
+    url: 
+    map: https://maps.google.com/?cid=3257416482780320434&hl=ja
+    address: 鹿児島県熊毛郡南種子町平山
+    price: 400
+    lat: 30.4328592
+    lng: 130.9536395
+    type: 銭湯
+-
+    id: 238
+    name: 中之島 天泊温泉
+    url: 
+    map: https://maps.google.com/?cid=8487806809992631133&hl=ja
+    address: 鹿児島県鹿児島郡十島村中之島
+    price: 0
+    lat: 29.8569908
+    lng: 129.8681983
+    type: 共同浴場・銭湯
+-
+    id: 239
+    name: ふれ愛の郷 ふれ愛の湯
+    url: http://info-amami.net/beauty_health/hot%E2%80%90spring/%E3%81%B5%E3%82%8C%E6%84%9B%E3%81%AE%E6%B9%AF
+    map: https://maps.google.com/?cid=4608533741794908435&hl=ja
+    address: 鹿児島県奄美市笠利町中金久45
+    price: 510
+    lat: 28.4557401
+    lng: 129.675056
+    type: 温泉
+-
+    id: 240
+    name: 高齢者福祉センター谷山
+    url: 
+    map: https://maps.google.com/?cid=1456608267622459059&hl=ja
+    address: 鹿児島県鹿児島市上福元町5507-14
+    price: 100
+    lat: 31.5286949
+    lng: 130.4999942
+    type: 温泉
+-
+    id: 241
+    name: 横川温泉
+    url: 
+    map: https://maps.google.com/?cid=16099047025623320342&hl=ja
+    address: 鹿児島県霧島市横川町中ノ3461-1
+    price: 200
+    lat: 31.8890827
+    lng: 130.7275158
+    type: 共同浴場・銭湯
+-
+    id: 242
+    name: どぅくさぁや館
+    url: http://info-amami.net/beauty_health/hot%E2%80%90spring/%E3%81%A9%E3%81%85%E3%81%8F%E3%81%95%E3%81%81%E3%82%84%E9%A4%A8
+    map: https://maps.google.com/?cid=14140995697700168192&hl=ja
+    address: 鹿児島県大島郡龍郷町瀬留967
+    price: 500
+    lat: 28.4119669
+    lng: 129.5904299
+    type: 温泉
+-
+    id: 243
+    name: かごしま温泉健康プラザ
+    url: 
+    map: https://maps.google.com/?cid=6508209175697164343&hl=ja
+    address: 鹿児島県鹿児島市永吉2-21-6
+    price: 300
+    lat: 31.6047922
+    lng: 130.5360151
+    type: 温泉
+-
+    id: 244
+    name: 十三奉行温泉
+    url: http://www.izumi-navi.jp/spots/detail/67
+    map: https://maps.google.com/?cid=6640254673568749083&hl=ja
+    address: 鹿児島県出水市野田町下名4974-4
+    price: 350
+    lat: 32.0687901
+    lng: 130.2628986
+    type: 温泉
+-
+    id: 245
+    name: まちの湯ひとっ風呂
+    url: https://newyoku.wixsite.com/hitoppuro
+    map: https://maps.google.com/?cid=8034096758502518174&hl=ja
+    address: 鹿児島県枕崎市東本町60
+    price: 420
+    lat: 31.2713644
+    lng: 130.2990788
+    type: 銭湯
+-
+    id: 246
+    name: 中之島 東区温泉
+    url: 
+    map: https://maps.google.com/?cid=14494949484351006415&hl=ja
+    address: 鹿児島県鹿児島郡十島村中之島
+    price: 0
+    lat: 29.8569908
+    lng: 129.8681983
+    type: 共同浴場・銭湯
+-
+    id: 247
+    name: 宮之浦温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-21.php
+    map: https://maps.google.com/?cid=9733851239159245364&hl=ja
+    address: 鹿児島県鹿児島市宮之浦町3119-1
+    price: 330
+    lat: 31.6699381
+    lng: 130.5721455
+    type: 銭湯
+-
+    id: 248
+    name: 福祉の里 吉松シルバーケアセンター
+    url: http://www.pref.kagoshima.jp/suisui/pc/area/aira/24913/
+    map: https://maps.google.com/?cid=5575241344540961026&hl=ja
+    address: 鹿児島県姶良郡湧水町川西3079-2
+    price: 200
+    lat: 32.0201126
+    lng: 130.7316128
+    type: 温泉
+-
+    id: 249
+    name: さつま町老人福祉センター いぬまき荘
+    url: 
+    map: https://maps.google.com/?cid=13800687439361944286&hl=ja
+    address: 鹿児島県薩摩郡さつま町湯田1502-12
+    price: 390
+    lat: 31.9493707
+    lng: 130.4667994
+    type: 温泉
+-
+    id: 250
+    name: 弥栄温泉
+    url: 
+    map: https://maps.google.com/?cid=10808475221074946562&hl=ja
+    address: 鹿児島県霧島市隼人町松永1-55
+    price: 250
+    lat: 31.7747329
+    lng: 130.7597445
+    type: 共同浴場・銭湯
+-
+    id: 251
+    name: 鹿児島市 高齢者福祉センター桜島
+    url: http://www.city.kagoshima.lg.jp/kenkofukushi/chouju/ikigaishien/shisetsu/kenko/071.html
+    map: https://maps.google.com/?cid=6746630749417143906&hl=ja
+    address: 鹿児島県鹿児島市桜島横山町1722-17
+    price: 100
+    lat: 31.588546
+    lng: 130.5969092
+    type: 温泉
+-
+    id: 252
+    name: 鹿児島市 高齢者福祉センター東桜島
+    url: http://www.city.kagoshima.lg.jp/kenkofukushi/chouju/ikigaishien/shisetsu/kenko/069.html
+    map: https://maps.google.com/?cid=9814204618188800013&hl=ja
+    address: 鹿児島県鹿児島市東桜島町720
+    price: 100
+    lat: 31.5514484
+    lng: 130.6338949
+    type: 温泉
+-
+    id: 253
+    name: 高齢者福祉センター与次郎
+    url: http://www.dondon-net.or.jp/place/e-center/
+    map: https://maps.google.com/?cid=164046050594930039&hl=ja
+    address: 鹿児島県鹿児島市与次郎1-10-6
+    price: 100
+    lat: 31.5705862
+    lng: 130.5668864
+    type: 温泉
+-
+    id: 254
+    name: 牧園町老人福祉センター
+    url: https://www.city-kirishima.jp/hoken-seisaku/kosodate/shisetsu/fukushi/makizonorojin.html
+    map: https://maps.google.com/?cid=3937390358173923881&hl=ja
+    address: 鹿児島県霧島市牧園町宿窪田791-1
+    price: 210
+    lat: 31.856518
+    lng: 130.7541171
+    type: 温泉
+-
+    id: 255
+    name: 姶良市 姶良高齢者福祉センター
+    url: http://www.city.aira.lg.jp/choju/shisetsu/fukushi/shien/002.html
+    map: https://maps.google.com/maps?q=31.717308,130.620819
+    address: 鹿児島県姶良市西餅田3311-1
+    price: 250
+    lat: 31.7174029
+    lng: 130.6208413
+    type: 温泉
+-
+    id: 256
+    name: さつま天然温泉 立寄家族湯 つるや
+    url: 
+    map: https://maps.google.com/maps?q=31.947369,130.464569
+    address: 鹿児島県薩摩郡さつま町湯田1366-22
+    price: 500
+    lat: 31.9473511
+    lng: 130.4645519
+    type: 温泉
+-
+    id: 257
+    name: 家族湯 ふちさき
+    url: https://irikionsenfuchisaki.amebaownd.com/
+    map: https://maps.google.com/maps?q=31.823536,130.434738
+    address: 鹿児島県薩摩川内市入来町副田6075
+    price: 1000
+    lat: 31.823863
+    lng: 130.434345
+    type: 温泉
+-
+    id: 258
+    name: 桜島天然ラドンたまゆら
+    url: http://a-zmakio.com/tamayura/
+    map: https://maps.google.com/maps?q=31.726889,130.720108
+    address: 鹿児島県霧島市隼人町真孝3677
+    price: 1500
+    lat: 31.7273771
+    lng: 130.7193423
+    type: 温泉
+-
+    id: 259
+    name: 大谷の湯
+    url: 
+    map: https://maps.google.com/maps?q=31.570345,131.116247
+    address: 鹿児島県志布志市松山町尾野見542-9
+    price: 400
+    lat: 31.5723157
+    lng: 131.1162555
+    type: 温泉
+-
+    id: 260
+    name: 友の花温泉 保養センター
+    url: http://www.tokara.jp/tourism/profile/takarajima/
+    map: https://maps.google.com/maps?q=29.153383,129.205536
+    address: 鹿児島県鹿児島郡十島村宝島14
+    price: 300
+    lat: 29.1534239
+    lng: 129.2055365
+    type: 共同浴場・銭湯
+-
+    id: 261
+    name: 亀乃湯温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/korimoto/post-48.php
+    map: https://maps.google.com/?cid=3908781970309896433&hl=ja
+    address: 鹿児島県鹿児島市三和町64-16
+    price: 420
+    lat: 31.5499088
+    lng: 130.5550875
+    type: 銭湯
+-
+    id: 262
+    name: 千代田湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-72.php
+    map: https://maps.google.com/?cid=7054840565884045747&hl=ja
+    address: 鹿児島県奄美市名瀬古田町12-18
+    price: 420
+    lat: 28.370453
+    lng: 129.4992
+    type: 銭湯
+-
+    id: 263
+    name: 永盛温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/yoshino-yoshida/post-19.php
+    map: https://maps.google.com/?cid=14412412178662731067&hl=ja
+    address: 鹿児島県鹿児島市西佐多町3227-1
+    price: 300
+    lat: 31.7342719
+    lng: 130.5546729
+    type: 銭湯
+-
+    id: 264
+    name: 河原湯 こらんゆ
+    url: http://www.kagoshima-onsen1010.net/sento-map/ibusuki/post-14.php
+    map: https://maps.google.com/?cid=12458429450370997633&hl=ja
+    address: 鹿児島県指宿市東方7582
+    price: 300
+    lat: 31.2573882
+    lng: 130.6220586
+    type: 銭湯
+-
+    id: 265
+    name: 家族風呂 中原温泉
+    url: 
+    map: https://maps.google.com/?cid=40175005730092138&hl=ja
+    address: 鹿児島県姶良郡湧水町般若寺295-4
+    price: 400
+    lat: 32.0382169
+    lng: 130.7419478
+    type: 銭湯
+-
+    id: 266
+    name: はらら温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/harara/post-32.php
+    map: https://maps.google.com/?cid=12533989223216125416&hl=ja
+    address: 鹿児島県鹿児島市原良4-2-7
+    price: 420
+    lat: 31.5951667
+    lng: 130.5316102
+    type: 銭湯
+-
+    id: 267
+    name: 松元温泉 玉利浴場
+    url: https://www.ibusuki.or.jp/spa/public/matsumoto/
+    map: https://maps.google.com/?cid=2737743613430353006&hl=ja
+    address: 鹿児島県指宿市十町2558-1
+    price: 300
+    lat: 31.2474002
+    lng: 130.632075
+    type: 銭湯
+-
+    id: 268
+    name: 元祖湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/ichikikushikino/post-9.php
+    map: https://maps.google.com/?cid=12936253449515118288&hl=ja
+    address: 鹿児島県いちき串木野市小瀬町41
+    price: 250
+    lat: 31.7088062
+    lng: 130.264595
+    type: 銭湯
+-
+    id: 269
+    name: 湯の華温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/post-30.php
+    map: https://maps.google.com/?cid=14562194852437481674&hl=ja
+    address: 鹿児島県鹿児島市小山田町3807
+    price: 420
+    lat: 31.6625999
+    lng: 130.4890806
+    type: 銭湯
+-
+    id: 270
+    name: めいわ温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/harara/post-35.php
+    map: https://maps.google.com/?cid=2794530719002980821&hl=ja
+    address: 鹿児島県鹿児島市明和1-25-1
+    price: 420
+    lat: 31.6024806
+    lng: 130.5231345
+    type: 銭湯
+-
+    id: 271
+    name: ふれあい温泉 ぼんたん湯
+    url: http://www.kagoshima-onsen1010.net/sento-map/akune/post-6.php
+    map: https://maps.google.com/?cid=3241241782497536561&hl=ja
+    address: 鹿児島県阿久根市大丸町94
+    price: 350
+    lat: 32.0152128
+    lng: 130.1968173
+    type: 銭湯
+-
+    id: 272
+    name: 八尻鉱泉湯
+    url: 
+    map: https://maps.google.com/?cid=5467274645399915337&hl=ja
+    address: 鹿児島県南九州市川辺町上山田8665-17
+    price: 420
+    lat: 31.3195657
+    lng: 130.3632956
+    type: 銭湯
+-
+    id: 273
+    name: やすまる温泉
+    url: http://www.kagoshima-onsen1010.net/sento-map/kagoshima/yoshino-yoshida/post-22.php
+    map: https://maps.google.com/maps?q=31.735434,130.573077
+    address: 鹿児島県鹿児島市東佐多町2108
+    price: 420
+    lat: 31.7355309
+    lng: 130.573152
+    type: 銭湯

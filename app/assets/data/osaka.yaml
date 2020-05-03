@@ -1,0 +1,4581 @@
+---
+-
+    id: 1
+    name: スパワールド 世界の大温泉
+    url: http://www.spaworld.co.jp/
+    map: https://maps.google.com/?cid=14023248384873681322&hl=ja
+    address: 大阪府大阪市浪速区恵美須東3-4-24
+    price: 1300
+    lat: 34.6499192
+    lng: 135.5056024
+    type: 温泉
+-
+    id: 2
+    name: 天然温泉 なにわの湯
+    url: http://www.naniwanoyu.com/
+    map: https://maps.google.com/?cid=6238628220838193217&hl=ja
+    address: 大阪府大阪市北区長柄西1-7-31
+    price: 800
+    lat: 34.7150032
+    lng: 135.513671
+    type: 温泉
+-
+    id: 3
+    name: 天然露天温泉 スパスミノエ
+    url: http://www.spasuminoe.jp/index.html
+    map: https://maps.google.com/?cid=14250646131995258839&hl=ja
+    address: 大阪府大阪市住之江区泉1-1-82
+    price: 670
+    lat: 34.6099821
+    lng: 135.4682769
+    type: 温泉
+-
+    id: 4
+    name: 延羽の湯(鶴橋店)
+    url: https://www.nobuta123.co.jp/nobehatsuruhashi/
+    map: https://maps.google.com/?cid=1588685636883920534&hl=ja
+    address: 大阪府大阪市東成区玉津3-13-41
+    price: 870
+    lat: 34.6657498
+    lng: 135.5360568
+    type: 温泉
+-
+    id: 5
+    name: 湯源郷 太平のゆ(なんば店)
+    url: http://www.taiheinoyu.jp/mysite13/indexn.html
+    map: https://maps.google.com/?cid=14102303044991491894&hl=ja
+    address: 大阪府大阪市浪速区敷津東2-2-8
+    price: 850
+    lat: 34.6579619
+    lng: 135.5001892
+    type: 温泉
+-
+    id: 6
+    name: 上方温泉 一休
+    url: http://www.onsen19.com/
+    map: https://maps.google.com/?cid=11002563590776556190&hl=ja
+    address: 大阪府大阪市此花区酉島5-9-31
+    price: 750
+    lat: 34.6815485
+    lng: 135.4342251
+    type: 温泉
+-
+    id: 7
+    name: ヘルシー温泉タテバ
+    url: https://www.tateba.com/
+    map: https://maps.google.com/?cid=1871014579437045980&hl=ja
+    address: 大阪府大阪市浪速区桜川2-14-19
+    price: 450
+    lat: 34.6640305
+    lng: 135.4888394
+    type: 銭湯
+-
+    id: 8
+    name: 阿倍野橋温泉
+    url: http://www15.plala.or.jp/abenobashi/
+    map: https://maps.google.com/?cid=14149206920121915915&hl=ja
+    address: 大阪府大阪市阿倍野区阿倍野筋1-7-25
+    price: 450
+    lat: 34.6450502
+    lng: 135.5104841
+    type: 銭湯
+-
+    id: 9
+    name: 清水湯
+    url: http://www.spa-shimizuyu.com/
+    map: https://maps.google.com/?cid=5358823972209622350&hl=ja
+    address: 大阪府大阪市中央区西心斎橋1-4-18
+    price: 450
+    lat: 34.6730829
+    lng: 135.4995821
+    type: 銭湯
+-
+    id: 10
+    name: 延羽の湯(羽曳野店)
+    url: https://www.nobuta123.co.jp/nobehahabikino/
+    map: https://maps.google.com/?cid=3923979365029434231&hl=ja
+    address: 大阪府羽曳野市広瀬186-3
+    price: 850
+    lat: 34.5334288
+    lng: 135.6174848
+    type: 温泉
+-
+    id: 11
+    name: 堺浜楽天温泉 祥福
+    url: http://www.syofukunoyu.com/index.html
+    map: https://maps.google.com/?cid=36581583429660170&hl=ja
+    address: 大阪府堺市堺区築港八幡町1-1
+    price: 750
+    lat: 34.5988623
+    lng: 135.4577523
+    type: 温泉
+-
+    id: 12
+    name: ユートピア白玉温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=17522195867659753111&hl=ja
+    address: 大阪府大阪市城東区蒲生2-7-36
+    price: 450
+    lat: 34.6987389
+    lng: 135.5400571
+    type: 銭湯
+-
+    id: 13
+    name: 東香里湯元 水春
+    url: https://suisyun.jp/kohri/
+    map: https://maps.google.com/?cid=8096548174819175516&hl=ja
+    address: 大阪府寝屋川市寝屋北町2-1
+    price: 780
+    lat: 34.7733653
+    lng: 135.6580157
+    type: 温泉
+-
+    id: 14
+    name: 美人湯 祥風苑
+    url: http://www.syofuen.co.jp/
+    map: https://maps.google.com/?cid=14159018669133156556&hl=ja
+    address: 大阪府高槻市塚脇4-20-3
+    price: 900
+    lat: 34.8724233
+    lng: 135.5902984
+    type: 温泉
+-
+    id: 15
+    name: 彩都天然温泉 すみれの湯
+    url: http://sumireno-yu.com/
+    map: https://maps.google.com/?cid=18125475950422471212&hl=ja
+    address: 大阪府茨木市清水1-30-7
+    price: 770
+    lat: 34.8363912
+    lng: 135.5283369
+    type: 温泉
+-
+    id: 16
+    name: 不動の湯
+    url: http://fudouyu.com/
+    map: https://maps.google.com/?cid=8423651957387635798&hl=ja
+    address: 大阪府大阪市城東区天王田13-14
+    price: 450
+    lat: 34.6887374
+    lng: 135.5526098
+    type: 銭湯
+-
+    id: 17
+    name: 神州温泉 あるごの湯
+    url: http://www.algo7.jp/spa/
+    map: https://maps.google.com/?cid=3584027785015478606&hl=ja
+    address: 大阪府豊中市神州町1-16
+    price: 800
+    lat: 34.7382363
+    lng: 135.4782497
+    type: 温泉
+-
+    id: 18
+    name: 湯快のゆ(寝屋川店)
+    url: http://yukainoyu.jp/neyagawa/home/
+    map: https://maps.google.com/?cid=3328732542705574890&hl=ja
+    address: 大阪府寝屋川市池田中町32-22
+    price: 770
+    lat: 34.7772031
+    lng: 135.6133893
+    type: 温泉
+-
+    id: 19
+    name: 入船温泉
+    url: http://www.irihune.co.jp/
+    map: https://maps.google.com/?cid=17173546705538914615&hl=ja
+    address: 大阪府大阪市西成区萩之茶屋1-6-3
+    price: 450
+    lat: 34.6488239
+    lng: 135.5021224
+    type: 銭湯
+-
+    id: 20
+    name: 松原天然温泉 YOU・ゆ〜
+    url: http://www.e-ofuro.com/
+    map: https://maps.google.com/?cid=10397119793597947233&hl=ja
+    address: 大阪府松原市別所2-4-35
+    price: 1800
+    lat: 34.5842194
+    lng: 135.5706462
+    type: 温泉
+-
+    id: 21
+    name: 極楽湯(枚方店)
+    url: http://www.gokurakuyu.com/hirakata/hirakata.html
+    map: https://maps.google.com/?cid=7875082954910224352&hl=ja
+    address: 大阪府枚方市招提田近3-8-1
+    price: 450
+    lat: 34.8472419
+    lng: 135.6939534
+    type: 温泉
+-
+    id: 22
+    name: ラジウム温泉
+    url: https://radium.co.jp/
+    map: https://maps.google.com/?cid=10178510144566975372&hl=ja
+    address: 大阪府大阪市浪速区恵美須東1-4-13
+    price: 450
+    lat: 34.6527025
+    lng: 135.506739
+    type: 銭湯
+-
+    id: 23
+    name: 天然温泉テルメ龍宮
+    url: http://www8.plala.or.jp/terume/
+    map: https://maps.google.com/?cid=17606355659993206329&hl=ja
+    address: 大阪府大阪市港区港晴2-3-35
+    price: 450
+    lat: 34.6559702
+    lng: 135.4424893
+    type: 銭湯
+-
+    id: 24
+    name: 虹の湯(大阪狭山店)
+    url: http://nijinoyu.jp/sayama/
+    map: https://maps.google.com/?cid=15513098859276051612&hl=ja
+    address: 大阪府大阪狭山市東野西2-837
+    price: 780
+    lat: 34.5257867
+    lng: 135.5557869
+    type: 温泉
+-
+    id: 25
+    name: 末広湯
+    url: 
+    map: https://maps.google.com/?cid=18399688031762343902&hl=ja
+    address: 大阪府大阪市中央区日本橋1-16-5
+    price: 450
+    lat: 34.6663243
+    lng: 135.5076808
+    type: 銭湯
+-
+    id: 26
+    name: くつろぎの郷 湯楽
+    url: http://osaka.yuraku4126.com/
+    map: https://maps.google.com/?cid=17780661277305749326&hl=ja
+    address: 大阪府大阪市住之江区北加賀屋3-5-37
+    price: 740
+    lat: 34.6243751
+    lng: 135.4761872
+    type: 温泉
+-
+    id: 27
+    name: 鶴見緑地湯元 水春
+    url: http://suisyun.jp/tsurumi/
+    map: https://maps.google.com/?cid=13623860357058764283&hl=ja
+    address: 大阪府大阪市鶴見区緑地公園1-37
+    price: 820
+    lat: 34.7092239
+    lng: 135.5810267
+    type: 温泉
+-
+    id: 28
+    name: 錦温泉
+    url: https://nishiki-onsen.com/
+    map: https://maps.google.com/?cid=9405018284909427490&hl=ja
+    address: 大阪府大阪市住吉区苅田8-10-27
+    price: 450
+    lat: 34.5973681
+    lng: 135.5197875
+    type: 銭湯
+-
+    id: 29
+    name: 蔵前温泉 さらさのゆ
+    url: https://www.sarasanoyu.com/
+    map: https://maps.google.com/?cid=16603155250905986865&hl=ja
+    address: 大阪府堺市北区蔵前町1-3-5
+    price: 700
+    lat: 34.575882
+    lng: 135.5080852
+    type: 温泉
+-
+    id: 30
+    name: 湯快のゆ(門真店)
+    url: http://yukainoyu.jp/kadoma/home/
+    map: https://maps.google.com/?cid=11174420220385740181&hl=ja
+    address: 大阪府門真市三ツ島6-21-9
+    price: 770
+    lat: 34.7196615
+    lng: 135.6058468
+    type: 温泉
+-
+    id: 31
+    name: 箕面湯元 水春
+    url: https://suisyun.jp/mino/
+    map: https://maps.google.com/?cid=4706405418600484881&hl=ja
+    address: 大阪府箕面市船場東3-13-11
+    price: 770
+    lat: 34.8227832
+    lng: 135.4945478
+    type: 温泉
+-
+    id: 32
+    name: 天然温泉 トキワ温泉
+    url: https://tokiwaonsen.jimdo.com
+    map: https://maps.google.com/?cid=16646767474858836410&hl=ja
+    address: 大阪府堺市堺区神明町西3-1-29
+    price: 450
+    lat: 34.5862072
+    lng: 135.4778986
+    type: 銭湯
+-
+    id: 33
+    name: ユーバス(高井田店)
+    url: https://yu-bath.com/t-bath/
+    map: https://maps.google.com/?cid=14747416747597971157&hl=ja
+    address: 大阪府東大阪市高井田本通5-2-20
+    price: 800
+    lat: 34.6771138
+    lng: 135.5662559
+    type: 温泉
+-
+    id: 34
+    name: 夢の公衆浴場 五色
+    url: http://www.goshiki.co.jp/indexgoshiki.htm
+    map: https://maps.google.com/?cid=7420681541502259787&hl=ja
+    address: 大阪府豊中市庄内栄町3-24-10
+    price: 450
+    lat: 34.7469779
+    lng: 135.4644641
+    type: 温泉
+-
+    id: 35
+    name: 神徳温泉
+    url: http://www.shintoku-onsen.jp/sisetu.html
+    map: https://maps.google.com/?cid=17391193283399655696&hl=ja
+    address: 大阪府大阪市旭区大宮3-6-19
+    price: 450
+    lat: 34.7246648
+    lng: 135.5469017
+    type: 銭湯
+-
+    id: 36
+    name: 和光浴場
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=2119175508186060524&hl=ja
+    address: 大阪府大阪市西成区山王1-7-6
+    price: 450
+    lat: 34.6469081
+    lng: 135.5073242
+    type: 銭湯
+-
+    id: 37
+    name: みどり温泉
+    url: http://osaka268.com/osakasentou/%E3%81%BF%E3%81%A9%E3%82%8A%E6%B8%A9%E6%B3%89%EF%BC%88%E6%9D%B1%E4%BD%8F%E5%90%89%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=14587436115174956186&hl=ja
+    address: 大阪府大阪市東住吉区鷹合3-17-19
+    price: 450
+    lat: 34.6100594
+    lng: 135.5303024
+    type: 銭湯
+-
+    id: 38
+    name: 金比羅温泉
+    url: http://www.osaka268.com/public_bath/c_naniwa/
+    map: https://maps.google.com/?cid=8035295742578882540&hl=ja
+    address: 大阪府大阪市浪速区桜川4-17-13
+    price: 450
+    lat: 34.6637597
+    lng: 135.4832046
+    type: 銭湯
+-
+    id: 39
+    name: 天然温泉 畷の里
+    url: http://nawate-onsen.com/
+    map: https://maps.google.com/?cid=12341904222275418846&hl=ja
+    address: 大阪府四條畷市砂281-2
+    price: 720
+    lat: 34.7465341
+    lng: 135.6352627
+    type: 温泉
+-
+    id: 40
+    name: なんば温泉
+    url: http://osaka268.com/osakasentou/%E3%81%AA%E3%82%93%E3%81%B0%E6%B8%A9%E6%B3%89%EF%BC%88%E6%B5%AA%E9%80%9F%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=10686484089878277491&hl=ja
+    address: 大阪府大阪市浪速区難波中3-4-10
+    price: 450
+    lat: 34.6619635
+    lng: 135.499665
+    type: 銭湯
+-
+    id: 41
+    name: スパバレイ 枚方南
+    url: https://www.hirakata-u.com/
+    map: https://maps.google.com/?cid=8027291017954356540&hl=ja
+    address: 大阪府枚方市津田山手1-24-1
+    price: 450
+    lat: 34.8063519
+    lng: 135.7087902
+    type: 温泉
+-
+    id: 42
+    name: 露天風呂たこ湯
+    url: http://takoyu.com/
+    map: https://maps.google.com/?cid=15108053236994846739&hl=ja
+    address: 大阪府豊中市曽根東町6-7-15
+    price: 450
+    lat: 34.768464
+    lng: 135.4720786
+    type: 銭湯
+-
+    id: 43
+    name: 和泉橋本温泉 美笹のゆ
+    url: http://misasanoyu.com/
+    map: https://maps.google.com/?cid=27822564395125619&hl=ja
+    address: 大阪府貝塚市橋本991-1
+    price: 600
+    lat: 34.4295152
+    lng: 135.3642061
+    type: 温泉
+-
+    id: 44
+    name: 極楽湯(茨木店)
+    url: https://www.gokurakuyu.ne.jp/tempo/ibaraki/
+    map: https://maps.google.com/?cid=18115985536844846097&hl=ja
+    address: 大阪府茨木市田中町18-18
+    price: 720
+    lat: 34.8270765
+    lng: 135.5730106
+    type: 温泉
+-
+    id: 45
+    name: 極楽湯(吹田店)
+    url: https://www.gokurakuyu.ne.jp/tempo/suita/
+    map: https://maps.google.com/?cid=10437390784539715275&hl=ja
+    address: 大阪府吹田市岸部南1-2-1
+    price: 750
+    lat: 34.7766421
+    lng: 135.5440031
+    type: 温泉
+-
+    id: 46
+    name: 楽天温泉 祥福の湯
+    url: http://www.syofukunoyu.com/honten/syofuku.html
+    map: https://maps.google.com/?cid=18421942736904480274&hl=ja
+    address: 大阪府堺市西区浜寺船尾町東3-301
+    price: 750
+    lat: 34.5479263
+    lng: 135.4606955
+    type: 温泉
+-
+    id: 47
+    name: 源気温泉 万博おゆば
+    url: http://oyuba.com/banpaku/
+    map: https://maps.google.com/?cid=7732359244872543719&hl=ja
+    address: 大阪府吹田市千里万博公園11-11
+    price: 750
+    lat: 34.8147987
+    lng: 135.5233706
+    type: 温泉
+-
+    id: 48
+    name: 岩塩 りんくうの湯
+    url: https://rinkunoyu.jp/
+    map: https://maps.google.com/?cid=13761051300129434960&hl=ja
+    address: 大阪府泉佐野市りんくう往来南3-1
+    price: 620
+    lat: 34.4059189
+    lng: 135.2972109
+    type: 温泉
+-
+    id: 49
+    name: ヘルシー温泉桜川
+    url: https://www.tateba.com/onsen/sakura.html
+    map: https://maps.google.com/?cid=8011212584800261326&hl=ja
+    address: 大阪府大阪市浪速区桜川3-1-13
+    price: 450
+    lat: 34.667426
+    lng: 135.4876332
+    type: 銭湯
+-
+    id: 50
+    name: 極楽湯(堺泉北店)
+    url: https://www.gokurakuyu.ne.jp/tempo/sakaisenboku/
+    map: https://maps.google.com/?cid=7911659375602720505&hl=ja
+    address: 大阪府堺市南区豊田825
+    price: 720
+    lat: 34.4966356
+    lng: 135.4935572
+    type: 温泉
+-
+    id: 51
+    name: なにわ健康ランド 湯～トピア
+    url: http://www.naniwa-utopia.com/
+    map: https://maps.google.com/?cid=13889023342137895602&hl=ja
+    address: 大阪府東大阪市長堂3-4-21
+    price: 1250
+    lat: 34.6645762
+    lng: 135.5686548
+    type: 温泉
+-
+    id: 52
+    name: 平和温泉
+    url: http://heiwaonsen.com/
+    map: https://maps.google.com/?cid=15725511701081630188&hl=ja
+    address: 大阪府池田市石橋1-1-5
+    price: 450
+    lat: 34.8092729
+    lng: 135.4446903
+    type: 銭湯
+-
+    id: 53
+    name: あかし湯
+    url: http://www.osaka268.com/public_bath/c_tyuuou/
+    map: https://maps.google.com/?cid=9681315174946110004&hl=ja
+    address: 大阪府大阪市中央区東心斎橋2-2-17
+    price: 450
+    lat: 34.6705168
+    lng: 135.5054133
+    type: 銭湯
+-
+    id: 54
+    name: 源気温泉 八尾おゆば
+    url: http://oyuba.com/yao/
+    map: https://maps.google.com/?cid=14732117429840038281&hl=ja
+    address: 大阪府八尾市柏村町2-65-1
+    price: 750
+    lat: 34.6140674
+    lng: 135.6235398
+    type: 温泉
+-
+    id: 55
+    name: 御陵天然温泉 亀の湯
+    url: http://www.kamenoyu.net/
+    map: https://maps.google.com/?cid=2411889687616236611&hl=ja
+    address: 大阪府堺市北区黒土町2264-3
+    price: 700
+    lat: 34.5662717
+    lng: 135.5010227
+    type: 温泉
+-
+    id: 56
+    name: クラブ温泉
+    url: http://www.osaka268.com/public_bath/c_kita/
+    map: https://maps.google.com/?cid=4535738379072573442&hl=ja
+    address: 大阪府大阪市北区浪花町2-5
+    price: 450
+    lat: 34.7067032
+    lng: 135.5102419
+    type: 銭湯
+-
+    id: 57
+    name: サウナ&カプセル スパディオ
+    url: http://www.spadio.net/
+    map: https://maps.google.com/?cid=4865626089244470819&hl=ja
+    address: 大阪府大阪市浪速区桜川2-1-1
+    price: 1300
+    lat: 34.6679413
+    lng: 135.4914058
+    type: 温泉
+-
+    id: 58
+    name: 日の出湯
+    url: https://hinodeyu-osaka.com/
+    map: https://maps.google.com/?cid=5336934708182317773&hl=ja
+    address: 大阪府大阪市西成区山王2-7-9
+    price: 450
+    lat: 34.6452596
+    lng: 135.5064679
+    type: 銭湯
+-
+    id: 59
+    name: 三宝バスセンター
+    url: http://osaka268.com/osakasentou/%E4%B8%89%E5%AE%9D%E3%83%90%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E5%A0%BA%E5%B8%82%EF%BC%89/
+    map: https://maps.google.com/?cid=12450639538224128278&hl=ja
+    address: 大阪府堺市堺区海山町5-177
+    price: 450
+    lat: 34.5904151
+    lng: 135.4688339
+    type: 銭湯
+-
+    id: 60
+    name: ゆーとも小松
+    url: https://yutomo-komatsu.jimdo.com
+    map: https://maps.google.com/?cid=2487663429323299897&hl=ja
+    address: 大阪府大阪市東淀川区小松1-10-28
+    price: 450
+    lat: 34.7518986
+    lng: 135.5355597
+    type: 銭湯
+-
+    id: 61
+    name: 天然温泉 こうわの湯
+    url: https://www.kouwanoyu.com/
+    map: https://maps.google.com/?cid=16581571739575041712&hl=ja
+    address: 大阪府大阪市大正区千島1-23-85
+    price: 700
+    lat: 34.6497205
+    lng: 135.4768412
+    type: 温泉
+-
+    id: 62
+    name: 朝日温泉
+    url: http://asahi-onsen.com/
+    map: https://maps.google.com/?cid=1101335026147880664&hl=ja
+    address: 大阪府大阪市住吉区南住吉3-11-8
+    price: 450
+    lat: 34.6065161
+    lng: 135.5033838
+    type: 銭湯
+-
+    id: 63
+    name: 楽天地温泉
+    url: http://www.osaka268.com/public_bath/c_kita/
+    map: https://maps.google.com/?cid=14382508229667651093&hl=ja
+    address: 大阪府大阪市北区池田町7-12
+    price: 450
+    lat: 34.7074519
+    lng: 135.5129908
+    type: 銭湯
+-
+    id: 64
+    name: いりふね温泉
+    url: http://home.interlink.or.jp/~m-hnc/
+    map: https://maps.google.com/?cid=5878261308597434395&hl=ja
+    address: 大阪府大阪市阿倍野区西田辺町1-2-22
+    price: 450
+    lat: 34.6211721
+    lng: 135.515908
+    type: 銭湯
+-
+    id: 65
+    name: 虹の湯(二色の浜店)
+    url: http://nijinoyu.jp/nishikinohama/
+    map: https://maps.google.com/?cid=4843226875909769411&hl=ja
+    address: 大阪府貝塚市澤890-15
+    price: 600
+    lat: 34.4378146
+    lng: 135.3390929
+    type: 温泉
+-
+    id: 66
+    name: 天然温泉 満月
+    url: http://www.onsen-mangetsu.jp/
+    map: https://maps.google.com/?cid=14157233267999938953&hl=ja
+    address: 大阪府大阪市東淀川区小松1-12-29
+    price: 680
+    lat: 34.7516124
+    lng: 135.5334147
+    type: 温泉
+-
+    id: 67
+    name: 常盤湯
+    url: http://www.osaka268.com/public_bath/c_kita/
+    map: https://maps.google.com/?cid=7921993777104113533&hl=ja
+    address: 大阪府大阪市北区黒崎町9-18
+    price: 450
+    lat: 34.7075692
+    lng: 135.5081154
+    type: 銭湯
+-
+    id: 68
+    name: 山水温泉
+    url: http://www.e-sento.net/sansui/
+    map: https://maps.google.com/?cid=2681504679881972334&hl=ja
+    address: 大阪府茨木市大住町2-3
+    price: 450
+    lat: 34.8219708
+    lng: 135.5757355
+    type: 銭湯
+-
+    id: 69
+    name: 天然温泉 千寿の湯
+    url: http://senju-yu.com/
+    map: https://maps.google.com/?cid=17208940777700915413&hl=ja
+    address: 大阪府堺市東区日置荘西町1-18-8
+    price: 650
+    lat: 34.5449258
+    lng: 135.5264509
+    type: 温泉
+-
+    id: 70
+    name: 紅梅温泉
+    url: http://www.osaka268.com/public_bath/c_kita/
+    map: https://maps.google.com/?cid=6108227485115563646&hl=ja
+    address: 大阪府大阪市北区天神橋3-1-25
+    price: 450
+    lat: 34.6998153
+    lng: 135.5121085
+    type: 銭湯
+-
+    id: 71
+    name: ニュージャパン(梅田店)
+    url: http://www.umedasauna-newjapan.jp/
+    map: https://maps.google.com/?cid=2376771936946192039&hl=ja
+    address: 大阪府大阪市北区堂山町9-5
+    price: 1700
+    lat: 34.7032499
+    lng: 135.5037846
+    type: 温泉
+-
+    id: 72
+    name: 城南温泉
+    url: http://osaka268.com/osakasentou/%E5%9F%8E%E5%8D%97%E6%B8%A9%E6%B3%89%EF%BC%88%E6%B1%A0%E7%94%B0%E5%B8%82%EF%BC%89/
+    map: https://maps.google.com/?cid=17988411269457531426&hl=ja
+    address: 大阪府池田市城南1-2-14
+    price: 450
+    lat: 34.8209049
+    lng: 135.4300712
+    type: 銭湯
+-
+    id: 73
+    name: 天然温泉 ひなたの湯
+    url: http://www.hinatanoyu.com/index.html
+    map: https://maps.google.com/?cid=15406071290026325584&hl=ja
+    address: 大阪府大阪市淀川区三国本町1-6-15
+    price: 800
+    lat: 34.7315036
+    lng: 135.4895635
+    type: 温泉
+-
+    id: 74
+    name: 河内長野温泉 風の湯
+    url: http://tsurukame-oe.xsrv.jp/kazenoyu-kawachinagano/
+    map: https://maps.google.com/?cid=6623795196674057317&hl=ja
+    address: 大阪府河内長野市上原西町15-1
+    price: 700
+    lat: 34.4465609
+    lng: 135.5532432
+    type: 温泉
+-
+    id: 75
+    name: 天竜湯
+    url: http://osaka268.com/osakasentou/%E5%A4%A9%E7%AB%9C%E6%B9%AF%EF%BC%88%E7%94%9F%E9%87%8E%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=11358731157841067382&hl=ja
+    address: 大阪府大阪市生野区生野西4-12-29
+    price: 450
+    lat: 34.6480077
+    lng: 135.5271325
+    type: 銭湯
+-
+    id: 76
+    name: ユーバス(守口店)
+    url: https://yu-bath.com/m-yubath/
+    map: https://maps.google.com/?cid=12544609303615528889&hl=ja
+    address: 大阪府守口市佐太中町6-23-26
+    price: 770
+    lat: 34.7625654
+    lng: 135.591523
+    type: 温泉
+-
+    id: 77
+    name: Book＆Spa uguisu
+    url: https://uguisu2016.com/
+    map: https://maps.google.com/?cid=3854192533063208400&hl=ja
+    address: 大阪府富田林市昭和町2-1783
+    price: 750
+    lat: 34.5074448
+    lng: 135.5977589
+    type: 温泉
+-
+    id: 78
+    name: 鈴蘭温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=3367952454166668954&hl=ja
+    address: 大阪府大阪市城東区成育4-22-7
+    price: 450
+    lat: 34.7122667
+    lng: 135.5439223
+    type: 銭湯
+-
+    id: 79
+    name: 福徳温泉
+    url: https://e-sento.com/%E7%A6%8F%E5%BE%B3%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=14446537023491638023&hl=ja
+    address: 大阪府大阪市生野区巽南2-8-2
+    price: 450
+    lat: 34.6397622
+    lng: 135.5479898
+    type: 銭湯
+-
+    id: 80
+    name: 八戸ノ里温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=15185886885070893852&hl=ja
+    address: 大阪府東大阪市御厨南1-1-27
+    price: 450
+    lat: 34.6650744
+    lng: 135.588272
+    type: 銭湯
+-
+    id: 81
+    name: 天然温泉 華の湯
+    url: https://onsen-hananoyu.jimdo.com/
+    map: https://maps.google.com/?cid=9595718985622373197&hl=ja
+    address: 大阪府羽曳野市野453
+    price: 630
+    lat: 34.5607238
+    lng: 135.5736786
+    type: 温泉
+-
+    id: 82
+    name: 天然温泉 スパ・リフレ
+    url: http://www.spa-refre.com/
+    map: https://maps.google.com/?cid=8717311576378496416&hl=ja
+    address: 大阪府堺市南区美木多上903-6
+    price: 700
+    lat: 34.4591817
+    lng: 135.4922663
+    type: 温泉
+-
+    id: 83
+    name: 天然温泉 平野台の湯 安庵
+    url: http://www.yasuda-kousan.com/hiranodai-an.html
+    map: https://maps.google.com/?cid=8499029139864998618&hl=ja
+    address: 大阪府阪南市鳥取中629-1
+    price: 650
+    lat: 34.352659
+    lng: 135.2584682
+    type: 温泉
+-
+    id: 84
+    name: 新柏原温泉
+    url: http://esento.web.fc2.com/shinkashiwara-onsen/
+    map: https://maps.google.com/?cid=14626769134337675251&hl=ja
+    address: 大阪府柏原市大正1-3-21
+    price: 450
+    lat: 34.5868933
+    lng: 135.6200324
+    type: 銭湯
+-
+    id: 85
+    name: 天然温泉 清児の湯
+    url: http://www.eonet.ne.jp/~setiyu/
+    map: https://maps.google.com/?cid=14048382627825476035&hl=ja
+    address: 大阪府貝塚市清児583
+    price: 440
+    lat: 34.4270878
+    lng: 135.3731473
+    type: 温泉
+-
+    id: 86
+    name: 湊潮湯
+    url: http://www.eonet.ne.jp/~minatoshioyu/
+    map: https://maps.google.com/?cid=11185849369708645083&hl=ja
+    address: 大阪府堺市堺区出島海岸通1-2-13
+    price: 450
+    lat: 34.5724942
+    lng: 135.4601886
+    type: 銭湯
+-
+    id: 87
+    name: 八坂温泉
+    url: http://osaka268.com/osakasentou/%E5%85%AB%E5%9D%82%E6%B8%A9%E6%B3%89%EF%BC%88%E7%A6%8F%E5%B3%B6%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=13024734718056831699&hl=ja
+    address: 大阪府大阪市福島区大開2-8-21
+    price: 450
+    lat: 34.6924373
+    lng: 135.4696823
+    type: 銭湯
+-
+    id: 88
+    name: 昭和湯
+    url: http://morikawashoji.co.jp/
+    map: https://maps.google.com/?cid=11081022122070602360&hl=ja
+    address: 大阪府大阪市東淀川区淡路4-33-12
+    price: 450
+    lat: 34.7405412
+    lng: 135.5164703
+    type: 銭湯
+-
+    id: 89
+    name: 永和湯
+    url: 
+    map: https://maps.google.com/?cid=10633048694441714915&hl=ja
+    address: 大阪府東大阪市永和2-19-12
+    price: 450
+    lat: 34.6588719
+    lng: 135.5746141
+    type: 銭湯
+-
+    id: 90
+    name: 宝湯
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=3770880249700957446&hl=ja
+    address: 大阪府大阪市淀川区十三東3-24-3
+    price: 450
+    lat: 34.721037
+    lng: 135.4836495
+    type: 銭湯
+-
+    id: 91
+    name: 延命湯
+    url: http://www.osaka268.com/public_bath/c_fukushima/
+    map: https://maps.google.com/?cid=1712276747110322699&hl=ja
+    address: 大阪府大阪市福島区福島5-12-5
+    price: 450
+    lat: 34.6962205
+    lng: 135.4863745
+    type: 銭湯
+-
+    id: 92
+    name: 極楽湯(東大阪店)
+    url: http://www.gokurakuyu.com/higashiosaka/higashiosaka.html
+    map: https://maps.google.com/?cid=11774578156971549449&hl=ja
+    address: 大阪府東大阪市長田西3-5-17
+    price: 450
+    lat: 34.6794906
+    lng: 135.5838133
+    type: 温泉
+-
+    id: 93
+    name: リラクゼーションリゾート スパヒルズ
+    url: http://spa-hills.com/
+    map: https://maps.google.com/?cid=18118576647239720523&hl=ja
+    address: 大阪府大阪狭山市岩室1-347-1
+    price: 750
+    lat: 34.4999116
+    lng: 135.5411293
+    type: 温泉
+-
+    id: 94
+    name: 源ヶ橋温泉
+    url: http://osaka268.com/osakasentou/%E6%BA%90%E3%83%B6%E6%A9%8B%E6%B8%A9%E6%B3%89%EF%BC%88%E7%94%9F%E9%87%8E%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=13164542857286929806&hl=ja
+    address: 大阪府大阪市生野区林寺1-5-33
+    price: 450
+    lat: 34.6457659
+    lng: 135.5290149
+    type: 銭湯
+-
+    id: 95
+    name: 末広温泉
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=2628949085709863202&hl=ja
+    address: 大阪府大阪市平野区背戸口2-1-19
+    price: 450
+    lat: 34.6252269
+    lng: 135.5447327
+    type: 銭湯
+-
+    id: 96
+    name: めがね温泉
+    url: http://esento.web.fc2.com/megane/
+    map: https://maps.google.com/?cid=9168716607111713656&hl=ja
+    address: 大阪府大阪市生野区田島4-2-20
+    price: 450
+    lat: 34.6468903
+    lng: 135.541404
+    type: 銭湯
+-
+    id: 97
+    name: 大福湯
+    url: http://www.osaka268.com/public_bath/c_konohana/
+    map: https://maps.google.com/?cid=724730483053620262&hl=ja
+    address: 大阪府大阪市此花区西九条1-14-8
+    price: 450
+    lat: 34.6819831
+    lng: 135.4685808
+    type: 銭湯
+-
+    id: 98
+    name: 葉村温泉
+    url: http://www.osaka268.com/public_bath/c_kita/
+    map: https://maps.google.com/?cid=176792790539470145&hl=ja
+    address: 大阪府大阪市北区中崎西1-7-18
+    price: 450
+    lat: 34.707885
+    lng: 135.5041478
+    type: 銭湯
+-
+    id: 99
+    name: いろは湯
+    url: http://www.osaka268.com/public_bath/c_tyuuou/
+    map: https://maps.google.com/?cid=1664405682239410017&hl=ja
+    address: 大阪府大阪市中央区谷町5-3-5
+    price: 450
+    lat: 34.6772493
+    lng: 135.5181671
+    type: 銭湯
+-
+    id: 100
+    name: 辰巳温泉
+    url: http://spa-tatsumi.jugem.jp/
+    map: https://maps.google.com/?cid=2909670710467956007&hl=ja
+    address: 大阪府大阪市住吉区大領5-10-11
+    price: 450
+    lat: 34.6112752
+    lng: 135.5063566
+    type: 銭湯
+-
+    id: 101
+    name: つるが丘温泉
+    url: http://osaka268.com/osakasentou/%E3%81%A4%E3%82%8B%E3%81%8C%E4%B8%98%E6%B8%A9%E6%B3%89%EF%BC%88%E6%9D%B1%E4%BD%8F%E5%90%89%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=15953006889697013744&hl=ja
+    address: 大阪府大阪市東住吉区山坂5-4-13
+    price: 450
+    lat: 34.6174582
+    lng: 135.5185093
+    type: 銭湯
+-
+    id: 102
+    name: ゆーらく
+    url: http://esento.web.fc2.com/youraku/
+    map: https://maps.google.com/?cid=11644333693439834458&hl=ja
+    address: 大阪府大阪市淀川区木川西3-3-13
+    price: 450
+    lat: 34.725075
+    lng: 135.4864974
+    type: 銭湯
+-
+    id: 103
+    name: 玉乃湯
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/?cid=227201022038124736&hl=ja
+    address: 大阪府大阪市住吉区杉本1-4-29
+    price: 450
+    lat: 34.5952383
+    lng: 135.5100679
+    type: 銭湯
+-
+    id: 104
+    name: 湯源郷 太平のゆ(忠岡店)
+    url: http://www.taiheinoyu.jp/tadaoka/indexn.html
+    map: https://maps.google.com/?cid=15740401264741856157&hl=ja
+    address: 大阪府泉北郡忠岡町北1-11-41
+    price: 600
+    lat: 34.4947284
+    lng: 135.3974025
+    type: 温泉
+-
+    id: 105
+    name: 西石切温泉 風の湯(新石切店)
+    url: http://tsurukame-oe.xsrv.jp/kazenoyu-shinishikiri/
+    map: https://maps.google.com/?cid=5485558148861908752&hl=ja
+    address: 大阪府東大阪市西石切町7-1-25
+    price: 700
+    lat: 34.6824165
+    lng: 135.6352956
+    type: 温泉
+-
+    id: 106
+    name: 高槻天然温泉 天神の湯
+    url: https://tenjin-spa.com/
+    map: https://maps.google.com/?cid=15914829931884243761&hl=ja
+    address: 大阪府高槻市高槻町16-5
+    price: 1050
+    lat: 34.8496542
+    lng: 135.6198904
+    type: 温泉
+-
+    id: 107
+    name: 桐壺温泉
+    url: http://kiritsubo.net
+    map: https://maps.google.com/?cid=12290719320879732581&hl=ja
+    address: 大阪府大阪市平野区平野西5-7-9
+    price: 450
+    lat: 34.6191457
+    lng: 135.5474921
+    type: 銭湯
+-
+    id: 108
+    name: 大一温泉
+    url: http://www5c.biglobe.ne.jp/~moritaka/
+    map: https://maps.google.com/?cid=3114753060832956336&hl=ja
+    address: 大阪府門真市石原町39-27
+    price: 450
+    lat: 34.747529
+    lng: 135.591136
+    type: 銭湯
+-
+    id: 109
+    name: 華厳温泉
+    url: http://fudouyu.com/kagen/
+    map: https://maps.google.com/?cid=9267666339537445726&hl=ja
+    address: 大阪府大阪市城東区鴫野東2-19-5
+    price: 450
+    lat: 34.6926621
+    lng: 135.5488701
+    type: 銭湯
+-
+    id: 110
+    name: ヘルシーバス ごくらく
+    url: http://healthybath-gokuraku.com/
+    map: https://maps.google.com/?cid=10555102957889286833&hl=ja
+    address: 大阪府松原市高見の里4-789-1
+    price: 440
+    lat: 34.5744363
+    lng: 135.5493727
+    type: 温泉
+-
+    id: 111
+    name: 八尾温泉 喜多の湯
+    url: http://super-sentou.com/yao/
+    map: https://maps.google.com/?cid=4608487052718857331&hl=ja
+    address: 大阪府八尾市二俣1-8
+    price: 750
+    lat: 34.5992295
+    lng: 135.6187219
+    type: 温泉
+-
+    id: 112
+    name: 栄湯
+    url: http://www.osaka268.com/public_bath/c_fukushima/
+    map: https://maps.google.com/?cid=11222496783380207549&hl=ja
+    address: 大阪府大阪市福島区野田3-15-16
+    price: 450
+    lat: 34.687846
+    lng: 135.4744306
+    type: 銭湯
+-
+    id: 113
+    name: 八丁温泉
+    url: https://hacchou-onsen-81010.amebaownd.com/
+    map: https://maps.google.com/?cid=13861316091041464322&hl=ja
+    address: 大阪府大阪市西淀川区御幣島3-10-2
+    price: 450
+    lat: 34.7175199
+    lng: 135.4601755
+    type: 銭湯
+-
+    id: 114
+    name: 新マネキ温泉
+    url: http://www.osaka268.com/public_bath/s_matsubara/
+    map: https://maps.google.com/?cid=189677754386622641&hl=ja
+    address: 大阪府松原市天美南5-17-10
+    price: 450
+    lat: 34.5858577
+    lng: 135.5345938
+    type: 銭湯
+-
+    id: 115
+    name: 共栄温泉
+    url: http://osaka268.com/osakasentou/%E5%85%B1%E6%A0%84%E6%B8%A9%E6%B3%89%EF%BC%88%E6%B1%A0%E7%94%B0%E5%B8%82%EF%BC%89/
+    map: https://maps.google.com/?cid=16175430419128108325&hl=ja
+    address: 大阪府池田市豊島北2-4-4
+    price: 450
+    lat: 34.807094
+    lng: 135.4380559
+    type: 銭湯
+-
+    id: 116
+    name: 浜口温泉
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/?cid=12344856486432392427&hl=ja
+    address: 大阪府大阪市住吉区清水丘1-31-15
+    price: 300
+    lat: 34.6054638
+    lng: 135.490598
+    type: 銭湯
+-
+    id: 117
+    name: ニュー清滝温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=7983000809323851847&hl=ja
+    address: 大阪府大阪市生野区勝山北5-14-18
+    price: 450
+    lat: 34.6550904
+    lng: 135.5387598
+    type: 銭湯
+-
+    id: 118
+    name: 東上温泉
+    url: http://toujou-onsen.com/
+    map: https://maps.google.com/?cid=12405166829788997711&hl=ja
+    address: 大阪府大阪市天王寺区東上町7-30
+    price: 450
+    lat: 34.6632625
+    lng: 135.5292885
+    type: 銭湯
+-
+    id: 119
+    name: 浜の湯温泉
+    url: http://osaka268.com/osakasentou/%E6%B5%9C%E4%B9%8B%E6%B9%AF%E6%B8%A9%E6%B3%89%EF%BC%88%E6%B3%89%E5%A4%A7%E6%B4%A5%E5%B8%82%EF%BC%89/
+    map: https://maps.google.com/?cid=14364790893047046458&hl=ja
+    address: 大阪府泉大津市西港町9-21
+    price: 450
+    lat: 34.504836
+    lng: 135.3983381
+    type: 銭湯
+-
+    id: 120
+    name: 五月湯
+    url: http://osaka268.com/osakasentou/%E4%BA%94%E6%9C%88%E6%B9%AF%EF%BC%88%E6%B1%A0%E7%94%B0%E5%B8%82%EF%BC%89/
+    map: https://maps.google.com/?cid=16936401340470957389&hl=ja
+    address: 大阪府池田市槻木町5-3
+    price: 450
+    lat: 34.8250452
+    lng: 135.423203
+    type: 銭湯
+-
+    id: 121
+    name: 銀水湯
+    url: http://www.osaka268.com/public_bath/c_higashiyodogawa/
+    map: https://maps.google.com/?cid=6612544615066002052&hl=ja
+    address: 大阪府大阪市東淀川区東中島3-15-6
+    price: 450
+    lat: 34.7313177
+    lng: 135.5078516
+    type: 銭湯
+-
+    id: 122
+    name: 中央温泉
+    url: http://www.osaka268.com/public_bath/s_kashiwara/
+    map: https://maps.google.com/?cid=4522307912222996502&hl=ja
+    address: 大阪府柏原市河原町1-94
+    price: 450
+    lat: 34.5899385
+    lng: 135.6250163
+    type: 銭湯
+-
+    id: 123
+    name: 新町温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/?cid=6584852424480270149&hl=ja
+    address: 大阪府寝屋川市萱島東2-2-10
+    price: 450
+    lat: 34.7482786
+    lng: 135.6167657
+    type: 銭湯
+-
+    id: 124
+    name: 千鳥温泉(自転車湯)
+    url: https://jitenshayu.jp
+    map: https://maps.google.com/?cid=6267712160119573984&hl=ja
+    address: 大阪府大阪市此花区梅香2-12-20
+    price: 450
+    lat: 34.6819952
+    lng: 135.4586508
+    type: 銭湯
+-
+    id: 125
+    name: 出世湯
+    url: http://www.osaka268.com/public_bath/c_kita/
+    map: https://maps.google.com/?cid=14061070347376201232&hl=ja
+    address: 大阪府大阪市北区大淀中5-2-11
+    price: 450
+    lat: 34.7025846
+    lng: 135.481126
+    type: 銭湯
+-
+    id: 126
+    name: 蒲田新温泉
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=14717195084521495912&hl=ja
+    address: 大阪府大阪市淀川区東三国2-26-16
+    price: 450
+    lat: 34.7440639
+    lng: 135.500352
+    type: 銭湯
+-
+    id: 127
+    name: 太子温泉
+    url: http://taishi-onsen.com/
+    map: https://maps.google.com/?cid=17010799640777016867&hl=ja
+    address: 大阪府南河内郡太子町山田1131
+    price: 930
+    lat: 34.521826
+    lng: 135.6580899
+    type: 温泉
+-
+    id: 128
+    name: 錦温泉
+    url: http://www.osaka268.com/public_bath/n_takatsuki/
+    map: https://maps.google.com/?cid=6194477657290708194&hl=ja
+    address: 大阪府高槻市上田辺町3-30
+    price: 450
+    lat: 34.8503212
+    lng: 135.6172084
+    type: 銭湯
+-
+    id: 129
+    name: 福助温泉
+    url: http://www.osaka268.com/public_bath/n_suita/
+    map: https://maps.google.com/?cid=6856867546576048660&hl=ja
+    address: 大阪府吹田市垂水町3-1-34
+    price: 450
+    lat: 34.7638531
+    lng: 135.5050316
+    type: 銭湯
+-
+    id: 130
+    name: 衣摺温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=11279666643921080456&hl=ja
+    address: 大阪府東大阪市衣摺4-2-9
+    price: 450
+    lat: 34.6393638
+    lng: 135.5763256
+    type: 銭湯
+-
+    id: 131
+    name: 山空海温泉
+    url: 
+    map: https://maps.google.com/?cid=9925998902395019522&hl=ja
+    address: 大阪府豊能郡能勢町下田尻801
+    price: 800
+    lat: 34.9418552
+    lng: 135.4238913
+    type: 温泉
+-
+    id: 132
+    name: 出世湯
+    url: http://osaka268.com/osakasentou/%E5%87%BA%E4%B8%96%E6%B9%AF%EF%BC%88%E7%94%9F%E9%87%8E%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=7352612462597481226&hl=ja
+    address: 大阪府大阪市生野区生野西1-2-2
+    price: 450
+    lat: 34.6518787
+    lng: 135.5265261
+    type: 銭湯
+-
+    id: 133
+    name: コミカ温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=6469660419207719376&hl=ja
+    address: 大阪府守口市西郷通1-4-12
+    price: 450
+    lat: 34.7337942
+    lng: 135.5725113
+    type: 銭湯
+-
+    id: 134
+    name: 桃の湯
+    url: http://www.osaka268.com/public_bath/c_miyakojima/
+    map: https://maps.google.com/?cid=10833185092750780445&hl=ja
+    address: 大阪府大阪市都島区内代町4-1-14
+    price: 450
+    lat: 34.7146602
+    lng: 135.5362091
+    type: 銭湯
+-
+    id: 135
+    name: 天然温泉 だんぢり湯
+    url: http://www.danjiriyu.com/
+    map: https://maps.google.com/?cid=8742344228401553043&hl=ja
+    address: 大阪府岸和田市八幡町4-57
+    price: 750
+    lat: 34.4800555
+    lng: 135.3902967
+    type: 温泉
+-
+    id: 136
+    name: なごみ湯
+    url: http://www.osaka268.com/public_bath/s_izumisano/
+    map: https://maps.google.com/?cid=12320523875384211782&hl=ja
+    address: 大阪府泉佐野市笠松1-3-23
+    price: 450
+    lat: 34.4105122
+    lng: 135.3080172
+    type: 銭湯
+-
+    id: 137
+    name: ふれ愛温泉矢田
+    url: http://yata-jinken.com/jinken/onsen.html
+    map: https://maps.google.com/?cid=17290027834484187232&hl=ja
+    address: 大阪府大阪市東住吉区矢田6-3-16
+    price: 440
+    lat: 34.6001637
+    lng: 135.5303419
+    type: 温泉
+-
+    id: 138
+    name: 平和温泉
+    url: http://www.osaka268.com/public_bath/n_hirakata/
+    map: https://maps.google.com/?cid=6919447448239156948&hl=ja
+    address: 大阪府枚方市南中振2-12-7
+    price: 450
+    lat: 34.7911963
+    lng: 135.6298427
+    type: 銭湯
+-
+    id: 139
+    name: ゆぽぽ 大運橋温泉
+    url: http://yupopo.jp/
+    map: https://maps.google.com/?cid=8745267955953222043&hl=ja
+    address: 大阪府大阪市大正区南恩加島6-5-5
+    price: 450
+    lat: 34.6351591
+    lng: 135.4682888
+    type: 銭湯
+-
+    id: 140
+    name: 安井温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=17103378233515970639&hl=ja
+    address: 大阪府堺市堺区中安井町1-1-6
+    price: 450
+    lat: 34.572222
+    lng: 135.4759527
+    type: 銭湯
+-
+    id: 141
+    name: 湯あそびひろば ぽんぽこ温泉
+    url: 
+    map: https://maps.google.com/?cid=2153502846424803355&hl=ja
+    address: 大阪府東大阪市西岩田4-4-46
+    price: 450
+    lat: 34.6673493
+    lng: 135.5990166
+    type: 温泉
+-
+    id: 142
+    name: 姫松温泉
+    url: http://esento.web.fc2.com/himematsu/
+    map: https://maps.google.com/?cid=15248588175133439128&hl=ja
+    address: 大阪府大阪市住之江区御崎2-5-1
+    price: 450
+    lat: 34.6125755
+    lng: 135.480514
+    type: 銭湯
+-
+    id: 143
+    name: 朝日温泉
+    url: http://www.osaka268.com/public_bath/c_minato/
+    map: https://maps.google.com/?cid=18050362246894205788&hl=ja
+    address: 大阪府大阪市港区田中2-12-26
+    price: 450
+    lat: 34.6629067
+    lng: 135.4488151
+    type: 銭湯
+-
+    id: 144
+    name: 箕輪の里温泉
+    url: 
+    map: https://maps.google.com/?cid=4194947710428362541&hl=ja
+    address: 大阪府東大阪市古箕輪1-14-24
+    price: 530
+    lat: 34.6875583
+    lng: 135.6166527
+    type: 温泉
+-
+    id: 145
+    name: のびやか健康館
+    url: https://nobiyaka.com/index.html
+    map: https://maps.google.com/?cid=13854501817092982453&hl=ja
+    address: 大阪府堺市北区金岡町2760-1
+    price: 620
+    lat: 34.5588693
+    lng: 135.527504
+    type: 温泉
+-
+    id: 146
+    name: 日光温泉
+    url: http://nikkouonsen.a.la9.jp/index.html
+    map: https://maps.google.com/?cid=9150591688311152462&hl=ja
+    address: 大阪府大阪市都島区都島本通3-9-18
+    price: 450
+    lat: 34.707301
+    lng: 135.5270588
+    type: 銭湯
+-
+    id: 147
+    name: 戎湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=9110111054237358434&hl=ja
+    address: 大阪府大阪市生野区小路東1-20-6
+    price: 450
+    lat: 34.6621344
+    lng: 135.5606006
+    type: 銭湯
+-
+    id: 148
+    name: 菊水温泉
+    url: http://www.osaka268.com/public_bath/c_nishi/
+    map: https://maps.google.com/?cid=6707994386516807205&hl=ja
+    address: 大阪府大阪市西区川口4-2-4
+    price: 450
+    lat: 34.6791704
+    lng: 135.4765636
+    type: 銭湯
+-
+    id: 149
+    name: 矢柄温泉
+    url: http://osaka268.com/osakasentou/%E7%9F%A2%E6%9F%84%E6%B8%A9%E6%B3%89%EF%BC%88%E7%94%9F%E9%87%8E%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=15539569748460615655&hl=ja
+    address: 大阪府大阪市生野区巽東1-7-16
+    price: 450
+    lat: 34.6510985
+    lng: 135.5565013
+    type: 銭湯
+-
+    id: 150
+    name: 神中湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=4941405293204136804&hl=ja
+    address: 大阪府大阪市生野区桃谷4-2-18
+    price: 450
+    lat: 34.6612584
+    lng: 135.5363811
+    type: 銭湯
+-
+    id: 151
+    name: 堺新温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=483210736697852449&hl=ja
+    address: 大阪府堺市堺区甲斐町西2-2-13
+    price: 450
+    lat: 34.5785871
+    lng: 135.471418
+    type: 銭湯
+-
+    id: 152
+    name: 犬鳴山温泉 山乃湯
+    url: https://osaka-info.jp/page/inunakiyama-hot-spring-yumoto-onsenso-yamanoyu
+    map: https://maps.google.com/?cid=12987544212791101255&hl=ja
+    address: 大阪府泉佐野市大木2234
+    price: 700
+    lat: 34.3406983
+    lng: 135.3749118
+    type: 温泉
+-
+    id: 153
+    name: パール新温泉
+    url: http://www.osaka268.com/public_bath/c_tsurumi/
+    map: https://maps.google.com/?cid=14703653880420401626&hl=ja
+    address: 大阪府大阪市鶴見区鶴見3-10-30
+    price: 450
+    lat: 34.7007425
+    lng: 135.5632528
+    type: 銭湯
+-
+    id: 154
+    name: 第二栄温泉
+    url: http://www.osaka268.com/public_bath/c_tsurumi/
+    map: https://maps.google.com/?cid=1330929888142342056&hl=ja
+    address: 大阪府大阪市鶴見区茨田大宮4-19-10
+    price: 450
+    lat: 34.7128225
+    lng: 135.5952943
+    type: 銭湯
+-
+    id: 155
+    name: ゆーでるらんど都
+    url: http://www.osaka268.com/public_bath/c_miyakojima/
+    map: https://maps.google.com/?cid=14161670045405216631&hl=ja
+    address: 大阪府大阪市都島区都島中通3-3-25
+    price: 450
+    lat: 34.7027525
+    lng: 135.535011
+    type: 銭湯
+-
+    id: 156
+    name: 桃の湯
+    url: http://www.osaka268.com/public_bath/s_fujiidera/
+    map: https://maps.google.com/?cid=9039444088831975433&hl=ja
+    address: 大阪府藤井寺市林3-9-14
+    price: 450
+    lat: 34.5770662
+    lng: 135.6120223
+    type: 銭湯
+-
+    id: 157
+    name: 幸福温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/?cid=5699794809531683105&hl=ja
+    address: 大阪府豊中市蛍池南町3-3-3
+    price: 450
+    lat: 34.7889252
+    lng: 135.4497146
+    type: 銭湯
+-
+    id: 158
+    name: 極楽温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/?cid=6544420446343018628&hl=ja
+    address: 大阪府豊中市服部寿町2-14-5
+    price: 450
+    lat: 34.7594171
+    lng: 135.4728856
+    type: 銭湯
+-
+    id: 159
+    name: 生駒温泉
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=12911705323611473906&hl=ja
+    address: 大阪府大阪市東成区中道4-2-5
+    price: 450
+    lat: 34.6771561
+    lng: 135.5379473
+    type: 銭湯
+-
+    id: 160
+    name: 深草温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=9017640353087980824&hl=ja
+    address: 大阪府大阪市城東区成育5-18-11
+    price: 370
+    lat: 34.7138678
+    lng: 135.5456856
+    type: 銭湯
+-
+    id: 161
+    name: 末廣温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=15507108708645301628&hl=ja
+    address: 大阪府東大阪市末広町6-3
+    price: 450
+    lat: 34.6572103
+    lng: 135.639048
+    type: 銭湯
+-
+    id: 162
+    name: 寿温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=9046760654530713111&hl=ja
+    address: 大阪府大阪市城東区野江3-15-9
+    price: 450
+    lat: 34.7068202
+    lng: 135.5385086
+    type: 銭湯
+-
+    id: 163
+    name: 大宮温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=17415016731686291561&hl=ja
+    address: 大阪府守口市大宮通4-2-5
+    price: 450
+    lat: 34.7274804
+    lng: 135.5751639
+    type: 銭湯
+-
+    id: 164
+    name: 湯あそび広場 出世湯
+    url: http://nariyoku.com/list/list_32.html
+    map: https://maps.google.com/?cid=15089180317211474992&hl=ja
+    address: 大阪府大阪市西成区玉出西1-1-12
+    price: 450
+    lat: 34.6284217
+    lng: 135.4912524
+    type: 銭湯
+-
+    id: 165
+    name: 錦湯
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/?cid=12730479789038433705&hl=ja
+    address: 大阪府大阪市西淀川区大和田6-3-27
+    price: 450
+    lat: 34.7044312
+    lng: 135.4423034
+    type: 銭湯
+-
+    id: 166
+    name: 大正湯
+    url: http://www.osaka268.com/public_bath/c_tennouji/
+    map: https://maps.google.com/?cid=478090010200077823&hl=ja
+    address: 大阪府大阪市天王寺区松ヶ鼻町3-16
+    price: 450
+    lat: 34.6606167
+    lng: 135.5236964
+    type: 銭湯
+-
+    id: 167
+    name: 成田温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/?cid=3190185360420366901&hl=ja
+    address: 大阪府寝屋川市美井元町7-8
+    price: 450
+    lat: 34.7788709
+    lng: 135.6327332
+    type: 銭湯
+-
+    id: 168
+    name: 大正湯
+    url: http://www.osaka268.com/public_bath/c_taishou/
+    map: https://maps.google.com/?cid=15719128743804682070&hl=ja
+    address: 大阪府大阪市大正区泉尾1-30-11
+    price: 450
+    lat: 34.6604697
+    lng: 135.4740226
+    type: 銭湯
+-
+    id: 169
+    name: 稲荷湯
+    url: http://www.e-sento.net/inari/
+    map: https://maps.google.com/?cid=9871096049914278630&hl=ja
+    address: 大阪府大阪市港区八幡屋3-12-21
+    price: 450
+    lat: 34.6544831
+    lng: 135.4444917
+    type: 銭湯
+-
+    id: 170
+    name: 第二寿湯
+    url: http://osaka268.com/osakasentou/%E7%AC%AC%E4%BA%8C%E5%AF%BF%E6%B9%AF%EF%BC%88%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%EF%BC%89/
+    map: https://maps.google.com/?cid=13427260949126782370&hl=ja
+    address: 大阪府東大阪市長堂2-17-21
+    price: 450
+    lat: 34.6685752
+    lng: 135.5652808
+    type: 銭湯
+-
+    id: 171
+    name: パレス温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=11259020647574554712&hl=ja
+    address: 大阪府大阪市城東区関目3-4-8
+    price: 450
+    lat: 34.7118813
+    lng: 135.5478077
+    type: 銭湯
+-
+    id: 172
+    name: 天六温泉
+    url: http://e-sento.com/ten6/
+    map: https://maps.google.com/?cid=17493566742711988361&hl=ja
+    address: 大阪府大阪市北区長柄西1-1-19
+    price: 440
+    lat: 34.7127564
+    lng: 135.5123237
+    type: 銭湯
+-
+    id: 173
+    name: 龍美温泉
+    url: http://osaka268.com/osakasentou/%E9%BE%8D%E7%BE%8E%E6%B8%A9%E6%B3%89%EF%BC%88%E7%A6%8F%E5%B3%B6%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=11390635773426154038&hl=ja
+    address: 大阪府大阪市福島区海老江4-8-13
+    price: 450
+    lat: 34.699002
+    lng: 135.4713716
+    type: 銭湯
+-
+    id: 174
+    name: ニューみよし湯
+    url: http://www.osaka268.com/public_bath/c_asahi/
+    map: https://maps.google.com/?cid=1356938582486650609&hl=ja
+    address: 大阪府大阪市旭区大宮4-5-26
+    price: 450
+    lat: 34.7283851
+    lng: 135.5453073
+    type: 銭湯
+-
+    id: 175
+    name: 巣本温泉
+    url: http://sumoto-onsen.net/
+    map: https://maps.google.com/?cid=3852232822803945&hl=ja
+    address: 大阪府門真市巣本町5-20
+    price: 450
+    lat: 34.7398909
+    lng: 135.6200092
+    type: 銭湯
+-
+    id: 176
+    name: 新寿温泉
+    url: http://www.osaka268.com/public_bath/n_hirakata/
+    map: https://maps.google.com/?cid=17271861463940472573&hl=ja
+    address: 大阪府枚方市須山町32-6
+    price: 450
+    lat: 34.8236351
+    lng: 135.6731289
+    type: 銭湯
+-
+    id: 177
+    name: 旭湯
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=3699538642904087676&hl=ja
+    address: 大阪府堺市東区日置荘西町3丁8-7
+    price: 450
+    lat: 34.5407883
+    lng: 135.5293256
+    type: 銭湯
+-
+    id: 178
+    name: 春日湯
+    url: http://osaka268.com/osakasentou/%E6%98%A5%E6%97%A5%E6%B9%AF%EF%BC%88%E6%97%AD%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=1995667588914879712&hl=ja
+    address: 大阪府大阪市旭区森小路1-7-16
+    price: 450
+    lat: 34.7201033
+    lng: 135.5500963
+    type: 銭湯
+-
+    id: 179
+    name: 扇温泉
+    url: http://www.osaka268.com/public_bath/n_daitou/
+    map: https://maps.google.com/?cid=13776636296587250582&hl=ja
+    address: 大阪府大東市幸町6-27
+    price: 450
+    lat: 34.7085675
+    lng: 135.6258286
+    type: 銭湯
+-
+    id: 180
+    name: 宮の坂温泉
+    url: http://www.osaka268.com/public_bath/n_hirakata/
+    map: https://maps.google.com/?cid=15641661439099004244&hl=ja
+    address: 大阪府枚方市宮之阪1-10-8
+    price: 450
+    lat: 34.814051
+    lng: 135.656187
+    type: 銭湯
+-
+    id: 181
+    name: 駒川温泉
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/?cid=11426149458995103504&hl=ja
+    address: 大阪府大阪市東住吉区駒川4-17-10
+    price: 450
+    lat: 34.6195599
+    lng: 135.5324737
+    type: 銭湯
+-
+    id: 182
+    name: 入船温泉
+    url: http://www.irifune.info/
+    map: https://maps.google.com/?cid=5067948843056385791&hl=ja
+    address: 大阪府大阪市平野区平野市町3-12-15
+    price: 420
+    lat: 34.6249189
+    lng: 135.559202
+    type: 共同浴場・銭湯
+-
+    id: 183
+    name: 錦水湯
+    url: http://esento.web.fc2.com/kinsuiyu/
+    map: https://maps.google.com/?cid=11869780046318627098&hl=ja
+    address: 大阪府東大阪市菱屋西5-6-7
+    price: 450
+    lat: 34.6592094
+    lng: 135.5788706
+    type: 銭湯
+-
+    id: 184
+    name: 和泉市立 小栗の湯
+    url: http://www.city.osaka-izumi.lg.jp/kurasitetu/sisetsu_hall/1317357682423.html
+    map: https://maps.google.com/?cid=10726260402702467968&hl=ja
+    address: 大阪府和泉市幸2-8-21
+    price: 250
+    lat: 34.5015132
+    lng: 135.4389601
+    type: 温泉
+-
+    id: 185
+    name: 新大庭温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=7942543485117298880&hl=ja
+    address: 大阪府守口市大庭町1-14-1
+    price: 450
+    lat: 34.7522853
+    lng: 135.5723082
+    type: 銭湯
+-
+    id: 186
+    name: 朝日温泉
+    url: 
+    map: https://maps.google.com/?cid=878158698255509157&hl=ja
+    address: 大阪府大阪市平野区平野西1-8-21
+    price: 450
+    lat: 34.6195681
+    lng: 135.5415522
+    type: 銭湯
+-
+    id: 187
+    name: 扇湯
+    url: http://esento.web.fc2.com/ougiyu/
+    map: https://maps.google.com/?cid=15741936103840611006&hl=ja
+    address: 大阪府大阪市住之江区西加賀屋2-12-7
+    price: 450
+    lat: 34.617909
+    lng: 135.4757252
+    type: 銭湯
+-
+    id: 188
+    name: 岬町健康ふれあいセンター ピアッツァ５
+    url: https://www.asreet.com/osaka/piazza5/
+    map: https://maps.google.com/?cid=894330643915244894&hl=ja
+    address: 大阪府泉南郡岬町多奈川谷川495-1
+    price: 410
+    lat: 34.3180515
+    lng: 135.1117868
+    type: 温泉
+-
+    id: 189
+    name: パール湯
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=13148284760824508924&hl=ja
+    address: 大阪府大阪市東成区中本3-10-15
+    price: 450
+    lat: 34.6783541
+    lng: 135.5427039
+    type: 銭湯
+-
+    id: 190
+    name: 新宮温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=9342710123707730027&hl=ja
+    address: 大阪府大阪市城東区鴫野東3-28-13
+    price: 450
+    lat: 34.6892596
+    lng: 135.5501371
+    type: 銭湯
+-
+    id: 191
+    name: 阪和温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=119299901163753756&hl=ja
+    address: 大阪府堺市西区鳳中町8-270-1
+    price: 450
+    lat: 34.5348893
+    lng: 135.4550071
+    type: 銭湯
+-
+    id: 192
+    name: 若竹温泉
+    url: http://www.osaka268.com/public_bath/c_higashiyodogawa/
+    map: https://maps.google.com/?cid=1357727482743618218&hl=ja
+    address: 大阪府大阪市東淀川区豊新5-13-4
+    price: 450
+    lat: 34.7467211
+    lng: 135.536639
+    type: 銭湯
+-
+    id: 193
+    name: 福の湯
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/?cid=14614626762463941879&hl=ja
+    address: 大阪府大阪市住吉区苅田9-7-29
+    price: 450
+    lat: 34.5962098
+    lng: 135.5157492
+    type: 銭湯
+-
+    id: 194
+    name: 有楽温泉
+    url: http://www.osaka268.com/public_bath/s_izumi/
+    map: https://maps.google.com/?cid=2721621152583615589&hl=ja
+    address: 大阪府和泉市府中町7-5-52
+    price: 450
+    lat: 34.489156
+    lng: 135.4268964
+    type: 銭湯
+-
+    id: 195
+    name: みやの湯
+    url: http://www.osaka268.com/public_bath/n_kadoma/
+    map: https://maps.google.com/?cid=11860957986947369129&hl=ja
+    address: 大阪府門真市宮野町13-10
+    price: 450
+    lat: 34.7453225
+    lng: 135.605664
+    type: 銭湯
+-
+    id: 196
+    name: 清滝湯
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/?cid=18169792007920392398&hl=ja
+    address: 大阪府大阪市東住吉区湯里6-1-7
+    price: 450
+    lat: 34.6133584
+    lng: 135.5391195
+    type: 銭湯
+-
+    id: 197
+    name: 淀川温泉
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=246790505675797707&hl=ja
+    address: 大阪府大阪市淀川区東三国1-21-8
+    price: 450
+    lat: 34.7405315
+    lng: 135.5009764
+    type: 銭湯
+-
+    id: 198
+    name: 永盛温泉
+    url: http://esento.web.fc2.com/nagamori/
+    map: https://maps.google.com/?cid=693823012132697949&hl=ja
+    address: 大阪府東大阪市小若江1-17-15
+    price: 450
+    lat: 34.6488582
+    lng: 135.5797742
+    type: 銭湯
+-
+    id: 199
+    name: 新木川温泉
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=10892852396701225691&hl=ja
+    address: 大阪府大阪市淀川区木川東2-9-21
+    price: 450
+    lat: 34.7246553
+    lng: 135.4923367
+    type: 銭湯
+-
+    id: 200
+    name: パレス温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=16206193581146933237&hl=ja
+    address: 大阪府東大阪市豊浦町1-11
+    price: 450
+    lat: 34.6714874
+    lng: 135.6453539
+    type: 銭湯
+-
+    id: 201
+    name: 千寿湯
+    url: http://osaka268.com/osakasentou/%E5%8D%83%E5%AF%BF%E6%B9%AF%EF%BC%88%E6%9D%B1%E4%BD%8F%E5%90%89%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=12894645521631704523&hl=ja
+    address: 大阪府大阪市東住吉区北田辺5-9-13
+    price: 450
+    lat: 34.6305629
+    lng: 135.5237761
+    type: 銭湯
+-
+    id: 202
+    name: 寿温泉
+    url: http://www.osaka268.com/public_bath/c_minato/
+    map: https://maps.google.com/?cid=12272253764395342571&hl=ja
+    address: 大阪府大阪市港区弁天4-10-12
+    price: 450
+    lat: 34.6712109
+    lng: 135.4571619
+    type: 銭湯
+-
+    id: 203
+    name: 萬盛湯
+    url: http://osaka268.com/osakasentou/%E8%90%AC%E7%9B%9B%E6%B9%AF%EF%BC%88%E8%A5%BF%E6%88%90%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=15300920120721343981&hl=ja
+    address: 大阪府大阪市西成区山王2-14-10
+    price: 450
+    lat: 34.645929
+    lng: 135.504691
+    type: 銭湯
+-
+    id: 204
+    name: 田島新温泉
+    url: http://osaka268.com/osakasentou/%E7%94%B0%E5%B3%B6%E6%96%B0%E6%B8%A9%E6%B3%89%EF%BC%88%E7%94%9F%E9%87%8E%E5%8C%BA%EF%BC%89/
+    map: https://maps.google.com/?cid=11449713400035107070&hl=ja
+    address: 大阪府大阪市生野区田島5-15-6
+    price: 450
+    lat: 34.6452135
+    lng: 135.5415494
+    type: 銭湯
+-
+    id: 205
+    name: ニュー浴ハウス ウエルネス
+    url: http://nariyoku.com/list/list_31.html
+    map: https://maps.google.com/?cid=10615275239377031173&hl=ja
+    address: 大阪府大阪市西成区玉出東2-2-6
+    price: 450
+    lat: 34.6260224
+    lng: 135.4953881
+    type: 銭湯
+-
+    id: 206
+    name: 三宝湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=14842753904738274787&hl=ja
+    address: 大阪府大阪市生野区新今里1-5-11
+    price: 450
+    lat: 34.6648367
+    lng: 135.544965
+    type: 銭湯
+-
+    id: 207
+    name: 幸湯
+    url: http://www.osaka268.com/public_bath/c_asahi/
+    map: https://maps.google.com/?cid=11933194105406506320&hl=ja
+    address: 大阪府大阪市旭区清水1-5-22
+    price: 450
+    lat: 34.720239
+    lng: 135.5548156
+    type: 銭湯
+-
+    id: 208
+    name: 松竹温泉
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=15881489926582606060&hl=ja
+    address: 大阪府大阪市平野区瓜破東2-1-36
+    price: 450
+    lat: 34.6083122
+    lng: 135.5587194
+    type: 銭湯
+-
+    id: 209
+    name: 宮方温泉
+    url: 
+    map: https://maps.google.com/?cid=16830810042578994137&hl=ja
+    address: 大阪府大東市大野1-5-15
+    price: 450
+    lat: 34.7039299
+    lng: 135.6181726
+    type: 銭湯
+-
+    id: 210
+    name: ひかり温泉
+    url: http://osaka268.com/osakasentou/%E3%81%B2%E3%81%8B%E3%82%8A%E6%B8%A9%E6%B3%89%EF%BC%88%E9%AB%98%E6%A7%BB%E5%B8%82%EF%BC%89/
+    map: https://maps.google.com/?cid=2220506734443664603&hl=ja
+    address: 大阪府高槻市春日町1-62
+    price: 450
+    lat: 34.8414222
+    lng: 135.6278857
+    type: 銭湯
+-
+    id: 211
+    name: 日の本湯
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=16242899866143425530&hl=ja
+    address: 大阪府守口市八雲西町4-20-1
+    price: 450
+    lat: 34.7486799
+    lng: 135.5651333
+    type: 銭湯
+-
+    id: 212
+    name: 古市温泉
+    url: http://www.osaka268.com/public_bath/s_habikino/
+    map: https://maps.google.com/?cid=13592169305509968076&hl=ja
+    address: 大阪府羽曳野市古市4-3-29
+    price: 450
+    lat: 34.5527523
+    lng: 135.6099554
+    type: 銭湯
+-
+    id: 213
+    name: 高槻市立ひかり湯
+    url: http://www.takajyo.co.jp/hikariyu/
+    map: https://maps.google.com/?cid=18399746736921804724&hl=ja
+    address: 大阪府高槻市富田町2-9-12
+    price: 300
+    lat: 34.8323225
+    lng: 135.5907118
+    type: 共同浴場・銭湯
+-
+    id: 214
+    name: 七福温泉
+    url: http://www.osaka268.com/public_bath/c_tsurumi/
+    map: https://maps.google.com/?cid=9168270689941075289&hl=ja
+    address: 大阪府大阪市鶴見区今津中1-6-6
+    price: 450
+    lat: 34.691626
+    lng: 135.5667189
+    type: 銭湯
+-
+    id: 215
+    name: 松乃湯
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=8292086569936918745&hl=ja
+    address: 大阪府大阪市東成区大今里2-29-18
+    price: 450
+    lat: 34.6711677
+    lng: 135.5480089
+    type: 銭湯
+-
+    id: 216
+    name: 高槻新温泉
+    url: http://www.osaka268.com/public_bath/n_takatsuki/
+    map: https://maps.google.com/?cid=8769389655925890069&hl=ja
+    address: 大阪府高槻市北園町1-18
+    price: 450
+    lat: 34.8525567
+    lng: 135.6216113
+    type: 銭湯
+-
+    id: 217
+    name: 荒本共同浴場 寿湯
+    url: http://www.city.higashiosaka.lg.jp/0000006247.html
+    map: https://maps.google.com/?cid=15760844048014884109&hl=ja
+    address: 大阪府東大阪市荒本2-4-13
+    price: 250
+    lat: 34.6743417
+    lng: 135.6045671
+    type: 共同浴場・銭湯
+-
+    id: 218
+    name: 桃谷温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=7949372215780459342&hl=ja
+    address: 大阪府大阪市生野区勝山北1-1-8
+    price: 450
+    lat: 34.6572988
+    lng: 135.5279061
+    type: 銭湯
+-
+    id: 219
+    name: タック桃山
+    url: https://www.tac-momoyama.com
+    map: https://maps.google.com/?cid=8770394291022980306&hl=ja
+    address: 大阪府大阪市天王寺区筆ヶ崎町2-33
+    price: 2000
+    lat: 34.6627041
+    lng: 135.5266711
+    type: 温泉
+-
+    id: 220
+    name: 長瀬共同浴場 わかば温泉
+    url: http://www.city.higashiosaka.lg.jp/0000006238.html
+    map: https://maps.google.com/?cid=2930703057857772337&hl=ja
+    address: 大阪府東大阪市長瀬町2-9-16
+    price: 250
+    lat: 34.649111
+    lng: 135.5744447
+    type: 共同浴場・銭湯
+-
+    id: 221
+    name: ヘルシーバス千里丘
+    url: http://www.osaka268.com/public_bath/n_settsu/
+    map: https://maps.google.com/?cid=7384805583640733742&hl=ja
+    address: 大阪府摂津市香露園27-2
+    price: 450
+    lat: 34.7869831
+    lng: 135.5565328
+    type: 銭湯
+-
+    id: 222
+    name: ラジューム温泉
+    url: http://www.osaka268.com/public_bath/s_izumi/
+    map: https://maps.google.com/?cid=13942161983758673220&hl=ja
+    address: 大阪府和泉市府中町3-2-23
+    price: 450
+    lat: 34.4870271
+    lng: 135.4267678
+    type: 銭湯
+-
+    id: 223
+    name: 堺市立共同浴場 布袋温泉
+    url: http://www.city.sakai.lg.jp/shisei/gyosei/shiteikanrisha/sentei/hoteionsen.html
+    map: https://maps.google.com/?cid=6103754361770731956&hl=ja
+    address: 大阪府堺市堺区協和町2-61-10
+    price: 250
+    lat: 34.5648904
+    lng: 135.4693299
+    type: 共同浴場・銭湯
+-
+    id: 224
+    name: 呉服湯
+    url: http://www.osaka268.com/public_bath/n_ikeda/
+    map: https://maps.google.com/?cid=5893577890036434598&hl=ja
+    address: 大阪府池田市栄町10-17
+    price: 450
+    lat: 34.8226782
+    lng: 135.4259227
+    type: 銭湯
+-
+    id: 225
+    name: あさひ湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=4788145570920030767&hl=ja
+    address: 大阪府大阪市西成区橘3-12-20
+    price: 450
+    lat: 34.638394
+    lng: 135.4879517
+    type: 銭湯
+-
+    id: 226
+    name: 大和温泉
+    url: http://www.osaka268.com/public_bath/n_daitou/
+    map: https://maps.google.com/?cid=14806208481903016107&hl=ja
+    address: 大阪府大東市北楠の里町22-5
+    price: 450
+    lat: 34.7313454
+    lng: 135.6360382
+    type: 銭湯
+-
+    id: 227
+    name: 久宝寺新温泉
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/?cid=17433497192259021459&hl=ja
+    address: 大阪府八尾市久宝寺4-3-13
+    price: 450
+    lat: 34.6258323
+    lng: 135.5910253
+    type: 銭湯
+-
+    id: 228
+    name: 蓬莱温泉
+    url: http://www.e-sento.net/hourai-onsen/index.html
+    map: https://maps.google.com/?cid=4252769084311344091&hl=ja
+    address: 大阪府東大阪市衣摺2-14-3
+    price: 450
+    lat: 34.6434787
+    lng: 135.5702774
+    type: 銭湯
+-
+    id: 229
+    name: 朝日温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=16801055693344245742&hl=ja
+    address: 大阪府東大阪市小若江3-21-13
+    price: 450
+    lat: 34.6489387
+    lng: 135.5893642
+    type: 銭湯
+-
+    id: 230
+    name: 末盛湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=17724563790112164973&hl=ja
+    address: 大阪府大阪市西成区萩之茶屋2-8-2
+    price: 450
+    lat: 34.6465696
+    lng: 135.5003181
+    type: 銭湯
+-
+    id: 231
+    name: 初芝温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=7336975415759491789&hl=ja
+    address: 大阪府堺市東区日置荘北町1-2-15
+    price: 450
+    lat: 34.5449965
+    lng: 135.5341563
+    type: 銭湯
+-
+    id: 232
+    name: 八尾市立共同浴場 錦温泉
+    url: 
+    map: https://maps.google.com/?cid=7290466046346007220&hl=ja
+    address: 大阪府八尾市幸町3-45
+    price: 300
+    lat: 34.6481299
+    lng: 135.6076118
+    type: 共同浴場・銭湯
+-
+    id: 233
+    name: 福水温泉
+    url: http://www.osaka268.com/public_bath/c_abeno/
+    map: https://maps.google.com/?cid=1949852495757211335&hl=ja
+    address: 大阪府大阪市阿倍野区阪南町2-2-16
+    price: 450
+    lat: 34.6327958
+    lng: 135.5143191
+    type: 銭湯
+-
+    id: 234
+    name: 新小春温泉
+    url: http://esento.web.fc2.com/shin-koharu/
+    map: https://maps.google.com/?cid=17889594781075286128&hl=ja
+    address: 大阪府守口市小春町5-31
+    price: 450
+    lat: 34.7295474
+    lng: 135.5611277
+    type: 銭湯
+-
+    id: 235
+    name: 錦湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=15205751267465961922&hl=ja
+    address: 大阪府大阪市生野区新今里4-10-5
+    price: 450
+    lat: 34.6625731
+    lng: 135.5499088
+    type: 銭湯
+-
+    id: 236
+    name: 大栄湯
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=7828778293455196090&hl=ja
+    address: 大阪府大阪市東成区大今里南5-17-18
+    price: 450
+    lat: 34.6654987
+    lng: 135.5543307
+    type: 銭湯
+-
+    id: 237
+    name: 北中島新温泉
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=15031277710880040888&hl=ja
+    address: 大阪府大阪市淀川区東三国4-12-14
+    price: 450
+    lat: 34.7407326
+    lng: 135.4956785
+    type: 銭湯
+-
+    id: 238
+    name: 宝徳湯
+    url: 
+    map: https://maps.google.com/?cid=15466507080366864663&hl=ja
+    address: 大阪府東大阪市永和2-16-29
+    price: 450
+    lat: 34.6603427
+    lng: 135.5757492
+    type: 銭湯
+-
+    id: 239
+    name: 豊温泉
+    url: http://yao2683.com/yutaka-onsen/
+    map: https://maps.google.com/?cid=11538688252518374030&hl=ja
+    address: 大阪府八尾市北本町4-8-13
+    price: 450
+    lat: 34.6371524
+    lng: 135.6017625
+    type: 銭湯
+-
+    id: 240
+    name: 河内長野市立福祉センター 錦渓苑
+    url: http://business4.plala.or.jp/kinkeien/
+    map: https://maps.google.com/?cid=6888720760799587852&hl=ja
+    address: 大阪府河内長野市大師町26-1
+    price: 100
+    lat: 34.4461231
+    lng: 135.5717156
+    type: 温泉
+-
+    id: 241
+    name: 新泉温泉
+    url: http://www.osaka268.com/public_bath/n_suita/
+    map: https://maps.google.com/?cid=16505666911283305217&hl=ja
+    address: 大阪府吹田市泉町2-36-30
+    price: 450
+    lat: 34.7597436
+    lng: 135.5134782
+    type: 銭湯
+-
+    id: 242
+    name: 扇温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=15149753417972579167&hl=ja
+    address: 大阪府東大阪市俊徳町5-3-18
+    price: 450
+    lat: 34.6530243
+    lng: 135.5737624
+    type: 銭湯
+-
+    id: 243
+    name: 新菊水温泉
+    url: http://www.osaka268.com/public_bath/c_higashiyodogawa/
+    map: https://maps.google.com/?cid=12500131209010744344&hl=ja
+    address: 大阪府大阪市東淀川区豊新4-7-16
+    price: 450
+    lat: 34.7440244
+    lng: 135.5356935
+    type: 銭湯
+-
+    id: 244
+    name: 幸福温泉
+    url: http://www.osaka268.com/public_bath/s_matsubara/
+    map: https://maps.google.com/?cid=15503673643229794188&hl=ja
+    address: 大阪府松原市高見の里6-15-17
+    price: 450
+    lat: 34.5714019
+    lng: 135.5479536
+    type: 銭湯
+-
+    id: 245
+    name: ニューナショナル温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=13979871387360766000&hl=ja
+    address: 大阪府大阪市西成区天下茶屋1-10-2
+    price: 450
+    lat: 34.6395152
+    lng: 135.4998296
+    type: 銭湯
+-
+    id: 246
+    name: 大峰温泉
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=15463060220199794892&hl=ja
+    address: 大阪府大阪市平野区平野南1-9-25
+    price: 450
+    lat: 34.6188616
+    lng: 135.556671
+    type: 銭湯
+-
+    id: 247
+    name: ヘルシー温泉福助
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/?cid=15621779752771410044&hl=ja
+    address: 大阪府大阪市東住吉区駒川1-6-19
+    price: 450
+    lat: 34.6334541
+    lng: 135.5286913
+    type: 銭湯
+-
+    id: 248
+    name: フォーユー
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=511318625926438960&hl=ja
+    address: 大阪府堺市北区東三国ヶ丘町5-8-7
+    price: 450
+    lat: 34.571104
+    lng: 135.501088
+    type: 銭湯
+-
+    id: 249
+    name: 宝栄湯
+    url: http://www.osaka268.com/public_bath/c_fukushima/
+    map: https://maps.google.com/?cid=9245826067549295885&hl=ja
+    address: 大阪府大阪市福島区吉野1-6-12
+    price: 450
+    lat: 34.6931897
+    lng: 135.479215
+    type: 銭湯
+-
+    id: 250
+    name: 天水湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=13705372391315587337&hl=ja
+    address: 大阪府大阪市西成区天下茶屋3-18-27
+    price: 450
+    lat: 34.6362943
+    lng: 135.4985691
+    type: 銭湯
+-
+    id: 251
+    name: 湯の国温泉
+    url: http://www.osaka268.com/public_bath/c_higashiyodogawa/
+    map: https://maps.google.com/?cid=13945970091478608246&hl=ja
+    address: 大阪府大阪市東淀川区淡路4-31-30
+    price: 450
+    lat: 34.7408543
+    lng: 135.516136
+    type: 銭湯
+-
+    id: 252
+    name: 極楽温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=18329541385494885074&hl=ja
+    address: 大阪府大阪市生野区勝山北1-6-19
+    price: 450
+    lat: 34.6567627
+    lng: 135.5299864
+    type: 銭湯
+-
+    id: 253
+    name: 泉佐野市立鶴原共同浴場 扇湯
+    url: http://www.city.izumisano.lg.jp/kakuka/kenkou/shogai/menu/fukushi_somu/1423724313626.html
+    map: https://maps.google.com/?cid=15500497651619930707&hl=ja
+    address: 大阪府泉佐野市鶴原1091-1
+    price: 250
+    lat: 34.4185471
+    lng: 135.3427323
+    type: 共同浴場・銭湯
+-
+    id: 254
+    name: 浪華温泉 ジャブジャブランド
+    url: 
+    map: https://maps.google.com/?cid=15063166546640339172&hl=ja
+    address: 大阪府大阪市此花区春日出北3-9-27
+    price: 450
+    lat: 34.6816302
+    lng: 135.4471801
+    type: 銭湯
+-
+    id: 255
+    name: 三星温泉
+    url: 
+    map: https://maps.google.com/?cid=11705050827279602583&hl=ja
+    address: 大阪府大阪市西成区長橋3-5-32
+    price: 450
+    lat: 34.6481352
+    lng: 135.4883063
+    type: 銭湯
+-
+    id: 256
+    name: 清水湯
+    url: http://www.osaka268.com/public_bath/s_matsubara/
+    map: https://maps.google.com/?cid=3940583316853906754&hl=ja
+    address: 大阪府松原市阿保6-4-4
+    price: 450
+    lat: 34.5821525
+    lng: 135.5570588
+    type: 銭湯
+-
+    id: 257
+    name: ふろやさんわ
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=11787877802707031341&hl=ja
+    address: 大阪府大阪市西成区天下茶屋北1-1-12
+    price: 450
+    lat: 34.6442328
+    lng: 135.5030132
+    type: 銭湯
+-
+    id: 258
+    name: アクアイグニス関西空港 泉州温泉
+    url: https://aquaignis.jp/kanku/spa.php
+    map: https://maps.google.com/?cid=2683718117087251953&hl=ja
+    address: 大阪府泉佐野市りんくう往来北1-23
+    price: 800
+    lat: 34.4149317
+    lng: 135.2975887
+    type: 温泉
+-
+    id: 259
+    name: 空庭温泉
+    url: https://www.solaniwa.com/
+    map: https://maps.google.com/?cid=1467265949762250308&hl=ja
+    address: 大阪府大阪市港区弁天1-2-3
+    price: 2400
+    lat: 34.6704531
+    lng: 135.4598789
+    type: 温泉
+-
+    id: 260
+    name: 三光湯
+    url: http://www.osaka268.com/public_bath/c_taishou/
+    map: https://maps.google.com/?cid=9608499848308806117&hl=ja
+    address: 大阪府大阪市大正区三軒家東1-16-9
+    price: 450
+    lat: 34.6646174
+    lng: 135.479971
+    type: 銭湯
+-
+    id: 261
+    name: 三宝湯
+    url: http://www.osaka268.com/public_bath/c_higashiyodogawa/
+    map: https://maps.google.com/?cid=15589227253425191386&hl=ja
+    address: 大阪府大阪市東淀川区大隅2-7-21
+    price: 450
+    lat: 34.7514988
+    lng: 135.5485404
+    type: 銭湯
+-
+    id: 262
+    name: 安中温泉
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/?cid=11329234407787895708&hl=ja
+    address: 大阪府八尾市安中町6-8-3
+    price: 450
+    lat: 34.616996
+    lng: 135.6025462
+    type: 銭湯
+-
+    id: 263
+    name: 生駒湯
+    url: http://www.osaka268.com/public_bath/c_abeno/
+    map: https://maps.google.com/?cid=13645505543082361158&hl=ja
+    address: 大阪府大阪市阿倍野区阪南町3-43-11
+    price: 450
+    lat: 34.6268958
+    lng: 135.5150492
+    type: 銭湯
+-
+    id: 264
+    name: 泉南市立共同浴場 若松湯
+    url: http://www.city.sennan.lg.jp/kakuka/sougouseisaku/jinkensuishinka/jinkenfureaisentakakari/wakamatsuyu.html
+    map: https://maps.google.com/maps?q=34.374458,135.268967
+    address: 大阪府泉南市樽井8-6-3
+    price: 250
+    lat: 34.3744624
+    lng: 135.2689463
+    type: 共同浴場・銭湯
+-
+    id: 265
+    name: 泉佐野市立樫井共同浴場 旭湯
+    url: http://www.city.izumisano.lg.jp/kakuka/kenkou/shogai/menu/fukushi_somu/1423724438846.html
+    map: https://maps.google.com/maps?q=34.38184,135.293243
+    address: 大阪府泉佐野市南中樫井550-1
+    price: 200
+    lat: 34.3818423
+    lng: 135.2932636
+    type: 共同浴場・銭湯
+-
+    id: 266
+    name: ヘルシーバス花園
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=15541254169607300982&hl=ja
+    address: 大阪府大阪市西成区松1-4-10
+    price: 450
+    lat: 34.6410233
+    lng: 135.4949055
+    type: 銭湯
+-
+    id: 267
+    name: 緑湯
+    url: http://www.osaka268.com/public_bath/n_suita/
+    map: https://maps.google.com/?cid=5017307376211395549&hl=ja
+    address: 大阪府吹田市寿町1-11
+    price: 450
+    lat: 34.7558768
+    lng: 135.520409
+    type: 銭湯
+-
+    id: 268
+    name: 羽曳野市立向野共同浴場 ひかり湯
+    url: https://www.city.habikino.lg.jp/reikishu/act/frame/frame110000453.htm
+    map: https://maps.google.com/maps?q=34.562626,135.578735
+    address: 大阪府羽曳野市向野2-5-21
+    price: 420
+    lat: 34.5624128
+    lng: 135.5789167
+    type: 共同浴場・銭湯
+-
+    id: 269
+    name: ハイジの家
+    url: 
+    map: https://maps.google.com/maps?q=34.94838,135.442344
+    address: 大阪府豊能郡能勢町野間出野58
+    price: 600
+    lat: 34.9484679
+    lng: 135.4423298
+    type: 温泉
+-
+    id: 270
+    name: 常盤温泉
+    url: http://www.tokiwa-onsen.com/
+    map: https://maps.google.com/?cid=4191334152869590380&hl=ja
+    address: 大阪府門真市常盤町20-10
+    price: 450
+    lat: 34.7393378
+    lng: 135.5986629
+    type: 銭湯
+-
+    id: 271
+    name: 神石温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=4139136943405882856&hl=ja
+    address: 大阪府堺市堺区石津町1-14-28
+    price: 450
+    lat: 34.5549021
+    lng: 135.4622181
+    type: 銭湯
+-
+    id: 272
+    name: 梅香温泉
+    url: http://www.osaka268.com/public_bath/c_konohana/
+    map: https://maps.google.com/?cid=7367864291002674786&hl=ja
+    address: 大阪府大阪市此花区梅香3-30-7
+    price: 450
+    lat: 34.6838287
+    lng: 135.4573615
+    type: 銭湯
+-
+    id: 273
+    name: 深井中央温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=11707675129681142853&hl=ja
+    address: 大阪府堺市中区深井北町757
+    price: 450
+    lat: 34.5382688
+    lng: 135.4870237
+    type: 銭湯
+-
+    id: 274
+    name: 七福湯
+    url: http://www.osaka268.com/public_bath/n_suita/
+    map: https://maps.google.com/?cid=4628367715402157487&hl=ja
+    address: 大阪府吹田市泉町4-36
+    price: 450
+    lat: 34.7600632
+    lng: 135.5094325
+    type: 銭湯
+-
+    id: 275
+    name: 藤田温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=2757324781786962338&hl=ja
+    address: 大阪府守口市藤田町5-34-1
+    price: 450
+    lat: 34.7471333
+    lng: 135.5992902
+    type: 銭湯
+-
+    id: 276
+    name: 清水温泉
+    url: http://esento.web.fc2.com/shimizu-onsen/
+    map: https://maps.google.com/?cid=354450320272033839&hl=ja
+    address: 大阪府松原市南新町1-13-18
+    price: 450
+    lat: 34.5777502
+    lng: 135.5353124
+    type: 銭湯
+-
+    id: 277
+    name: 梅月温泉
+    url: http://www.osaka268.com/public_bath/n_kadoma/
+    map: https://maps.google.com/?cid=16273711025054002875&hl=ja
+    address: 大阪府門真市千石東町38-27
+    price: 450
+    lat: 34.7233101
+    lng: 135.6084422
+    type: 銭湯
+-
+    id: 278
+    name: 皆様温泉
+    url: http://www.osaka268.com/public_bath/n_sijyounawate/
+    map: https://maps.google.com/?cid=1651785246367501866&hl=ja
+    address: 大阪府四條畷市塚脇町6-18
+    price: 450
+    lat: 34.7347843
+    lng: 135.6417255
+    type: 銭湯
+-
+    id: 279
+    name: 皆様温泉
+    url: http://www.osaka268.com/public_bath/n_kadoma/
+    map: https://maps.google.com/?cid=14260083704240331716&hl=ja
+    address: 大阪府門真市石原町11-1
+    price: 450
+    lat: 34.7438579
+    lng: 135.5886642
+    type: 銭湯
+-
+    id: 280
+    name: 白鶴温泉
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=6216172341976362954&hl=ja
+    address: 大阪府大阪市東成区東小橋3-14-32
+    price: 450
+    lat: 34.6670241
+    lng: 135.5311325
+    type: 銭湯
+-
+    id: 281
+    name: 生野温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=10580397333712267814&hl=ja
+    address: 大阪府大阪市生野区勝山南1-21-12
+    price: 450
+    lat: 34.6522871
+    lng: 135.5289593
+    type: 銭湯
+-
+    id: 282
+    name: 松の湯
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=15912158125231920992&hl=ja
+    address: 大阪府大阪市淀川区塚本2-25-17
+    price: 450
+    lat: 34.7135826
+    lng: 135.4699284
+    type: 銭湯
+-
+    id: 283
+    name: 協和温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=12669638297392006397&hl=ja
+    address: 大阪府守口市八雲東町2-60-9
+    price: 450
+    lat: 34.7452583
+    lng: 135.5764178
+    type: 銭湯
+-
+    id: 284
+    name: 摂津温泉
+    url: http://www.osaka268.com/public_bath/n_takatsuki/
+    map: https://maps.google.com/?cid=8485507958577591212&hl=ja
+    address: 大阪府高槻市寿町1-2-22
+    price: 450
+    lat: 34.8303733
+    lng: 135.5983935
+    type: 銭湯
+-
+    id: 285
+    name: 青山温泉
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=18048450009218201957&hl=ja
+    address: 大阪府大阪市淀川区西三国3-18-35
+    price: 450
+    lat: 34.7392799
+    lng: 135.4873216
+    type: 銭湯
+-
+    id: 286
+    name: つぼ花温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=13080315060151593630&hl=ja
+    address: 大阪府大阪市城東区古市2-8-13
+    price: 450
+    lat: 34.7116865
+    lng: 135.5601798
+    type: 銭湯
+-
+    id: 287
+    name: しきしま温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/?cid=10944736295580909323&hl=ja
+    address: 大阪府大阪市城東区放出西2-7-15
+    price: 450
+    lat: 34.6923146
+    lng: 135.55657
+    type: 銭湯
+-
+    id: 288
+    name: エンゼル温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=4656326568482232279&hl=ja
+    address: 大阪府東大阪市俊徳町3-6-4
+    price: 450
+    lat: 34.6549709
+    lng: 135.5711809
+    type: 銭湯
+-
+    id: 289
+    name: 七福温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/?cid=12222836691063669593&hl=ja
+    address: 大阪府豊中市大黒町3-3-3
+    price: 450
+    lat: 34.740182
+    lng: 135.4698758
+    type: 銭湯
+-
+    id: 290
+    name: みどり湯
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=12865853645835561330&hl=ja
+    address: 大阪府守口市梶町3-14-7
+    price: 450
+    lat: 34.747246
+    lng: 135.5887011
+    type: 銭湯
+-
+    id: 291
+    name: 春日温泉
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/?cid=1621370683313796867&hl=ja
+    address: 大阪府八尾市春日町4-6-10
+    price: 450
+    lat: 34.616372
+    lng: 135.5906564
+    type: 銭湯
+-
+    id: 292
+    name: 都温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=5980301462515863914&hl=ja
+    address: 大阪府大阪市西成区長橋1-13-5
+    price: 450
+    lat: 34.6476046
+    lng: 135.4938746
+    type: 銭湯
+-
+    id: 293
+    name: 美津和温泉
+    url: http://www.osaka268.com/public_bath/s_takaishi/
+    map: https://maps.google.com/?cid=11423227743008688709&hl=ja
+    address: 大阪府高石市綾園7-5-60
+    price: 450
+    lat: 34.5131003
+    lng: 135.4263633
+    type: 銭湯
+-
+    id: 294
+    name: 花園新温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=11971671896626673937&hl=ja
+    address: 大阪府東大阪市花園西町1-19-2
+    price: 450
+    lat: 34.6612663
+    lng: 135.6145782
+    type: 銭湯
+-
+    id: 295
+    name: 三津屋温泉
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/?cid=11427138356038057348&hl=ja
+    address: 大阪府大阪市淀川区三津屋中2-11-19
+    price: 450
+    lat: 34.7267964
+    lng: 135.4682296
+    type: 銭湯
+-
+    id: 296
+    name: 引江湯
+    url: http://www.osaka268.com/public_bath/c_higashiyodogawa/
+    map: https://maps.google.com/?cid=2079887555612492168&hl=ja
+    address: 大阪府大阪市東淀川区西淡路4-20-18
+    price: 450
+    lat: 34.7416463
+    lng: 135.508666
+    type: 銭湯
+-
+    id: 297
+    name: みどり湯
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=5213722219860468263&hl=ja
+    address: 大阪府堺市北区南長尾町2-4-26
+    price: 450
+    lat: 34.572525
+    lng: 135.4975097
+    type: 銭湯
+-
+    id: 298
+    name: 第二栄湯
+    url: http://www.osaka268.com/public_bath/s_kashiwara/
+    map: https://maps.google.com/?cid=8060778808038960802&hl=ja
+    address: 大阪府柏原市法善寺2-7-14
+    price: 450
+    lat: 34.5916336
+    lng: 135.6276193
+    type: 銭湯
+-
+    id: 299
+    name: 新庄温泉
+    url: http://www.osaka268.com/public_bath/c_higashiyodogawa/
+    map: https://maps.google.com/?cid=8419971525967410335&hl=ja
+    address: 大阪府大阪市東淀川区下新庄4-3-16
+    price: 450
+    lat: 34.7452618
+    lng: 135.518214
+    type: 銭湯
+-
+    id: 300
+    name: 蓬莱温泉
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=13957706288387798904&hl=ja
+    address: 大阪府大阪市平野区加美東4-14-17
+    price: 450
+    lat: 34.6295528
+    lng: 135.567757
+    type: 銭湯
+-
+    id: 301
+    name: 大日温泉
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=17763097373115497300&hl=ja
+    address: 大阪府大阪市平野区長吉長原東1-1-15
+    price: 450
+    lat: 34.6063012
+    lng: 135.5752295
+    type: 銭湯
+-
+    id: 302
+    name: 岸の里温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=18208972518116111580&hl=ja
+    address: 大阪府大阪市西成区岸里東2-16-3
+    price: 450
+    lat: 34.6294195
+    lng: 135.4962085
+    type: 銭湯
+-
+    id: 303
+    name: 南生野温泉
+    url: http://spa3719.web.fc2.com/
+    map: https://maps.google.com/?cid=4181472111338069045&hl=ja
+    address: 大阪府大阪市生野区生野西4-7-15
+    price: 450
+    lat: 34.647482
+    lng: 135.5293485
+    type: 銭湯
+-
+    id: 304
+    name: 山水温泉
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/?cid=17546410920970790945&hl=ja
+    address: 大阪府大阪市西淀川区姫島4-2-10
+    price: 450
+    lat: 34.7048874
+    lng: 135.4560678
+    type: 銭湯
+-
+    id: 305
+    name: 久米田バスセンター
+    url: http://www.osaka268.com/public_bath/s_kishiwada/
+    map: https://maps.google.com/?cid=2520258144570407032&hl=ja
+    address: 大阪府岸和田市小松里町1054
+    price: 450
+    lat: 34.4627039
+    lng: 135.4090505
+    type: 銭湯
+-
+    id: 306
+    name: 三香湯
+    url: http://esento.web.fc2.com/sankouyu/index.html
+    map: https://maps.google.com/?cid=3117863812482284874&hl=ja
+    address: 大阪府東大阪市若江本町3-5-24
+    price: 450
+    lat: 34.6569984
+    lng: 135.6067932
+    type: 銭湯
+-
+    id: 307
+    name: 竹仙湯
+    url: http://www.osaka268.com/public_bath/c_asahi/
+    map: https://maps.google.com/?cid=8374515616216112860&hl=ja
+    address: 大阪府大阪市旭区大宮1-16-15
+    price: 450
+    lat: 34.7220145
+    lng: 135.547505
+    type: 銭湯
+-
+    id: 308
+    name: 末吉温泉
+    url: http://www.osaka268.com/public_bath/s_tadaoka/
+    map: https://maps.google.com/?cid=1160415959941746895&hl=ja
+    address: 大阪府泉北郡忠岡町忠岡南3-7-15
+    price: 450
+    lat: 34.494136
+    lng: 135.3896134
+    type: 銭湯
+-
+    id: 309
+    name: 羽倉崎温泉
+    url: http://www.osaka268.com/public_bath/s_izumisano/
+    map: https://maps.google.com/?cid=3234477411685496640&hl=ja
+    address: 大阪府泉佐野市東羽倉崎町6-10
+    price: 450
+    lat: 34.3997715
+    lng: 135.3049962
+    type: 銭湯
+-
+    id: 310
+    name: 奥本温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=12246262514320442337&hl=ja
+    address: 大阪府堺市北区奥本町1-78
+    price: 450
+    lat: 34.5814888
+    lng: 135.5092668
+    type: 銭湯
+-
+    id: 311
+    name: 丸乃湯
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/?cid=17646583480246857866&hl=ja
+    address: 大阪府大阪市西淀川区野里1-30-12
+    price: 450
+    lat: 34.7127732
+    lng: 135.4639884
+    type: 銭湯
+-
+    id: 312
+    name: 旭温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=10138413174295201715&hl=ja
+    address: 大阪府大阪市西成区鶴見橋1-5-20
+    price: 450
+    lat: 34.6454641
+    lng: 135.4952745
+    type: 銭湯
+-
+    id: 313
+    name: 新美濃温泉
+    url: http://www.hiranoku.info/268link/t_shinmino.html
+    map: https://maps.google.com/?cid=10191287853579243057&hl=ja
+    address: 大阪府大阪市平野区平野本町1-12-4
+    price: 450
+    lat: 34.6244549
+    lng: 135.5495969
+    type: 銭湯
+-
+    id: 314
+    name: 湯たんぽ日之出
+    url: http://www.osaka268.com/public_bath/c_suminoe/
+    map: https://maps.google.com/?cid=9661789679986797047&hl=ja
+    address: 大阪府大阪市住之江区粉浜2-1-25
+    price: 450
+    lat: 34.6185667
+    lng: 135.4907289
+    type: 銭湯
+-
+    id: 315
+    name: 生駒湯
+    url: http://www.osaka268.com/public_bath/n_takatsuki/
+    map: https://maps.google.com/?cid=18109004297812795308&hl=ja
+    address: 大阪府高槻市永楽町7-8
+    price: 450
+    lat: 34.8457203
+    lng: 135.635909
+    type: 銭湯
+-
+    id: 316
+    name: ねぼけ温泉
+    url: http://www.osaka268.com/public_bath/n_ibaraki/
+    map: https://maps.google.com/?cid=1846123082429779103&hl=ja
+    address: 大阪府茨木市中総持寺町4-4
+    price: 450
+    lat: 34.8254969
+    lng: 135.5855655
+    type: 銭湯
+-
+    id: 317
+    name: 熱海温泉
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/?cid=18318142020385137433&hl=ja
+    address: 大阪府大阪市住吉区遠里小野5-11-13
+    price: 450
+    lat: 34.5999021
+    lng: 135.4949477
+    type: 銭湯
+-
+    id: 318
+    name: 加賀温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=1778581234802681714&hl=ja
+    address: 大阪府東大阪市稲田新町1-23-51
+    price: 450
+    lat: 34.6877993
+    lng: 135.5823696
+    type: 銭湯
+-
+    id: 319
+    name: 出城温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=17445324398831928177&hl=ja
+    address: 大阪府大阪市西成区出城2-1-4
+    price: 450
+    lat: 34.6498505
+    lng: 135.4929749
+    type: 銭湯
+-
+    id: 320
+    name: 巽湯
+    url: http://www.osaka268.com/public_bath/c_asahi/
+    map: https://maps.google.com/?cid=11228331105936753020&hl=ja
+    address: 大阪府大阪市旭区新森4-16-23
+    price: 450
+    lat: 34.7170977
+    lng: 135.556683
+    type: 銭湯
+-
+    id: 321
+    name: 加賀温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=17463154654787628005&hl=ja
+    address: 大阪府大阪市生野区巽西4-3-37
+    price: 450
+    lat: 34.6438061
+    lng: 135.5450765
+    type: 銭湯
+-
+    id: 322
+    name: 旭ヶ丘温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=11606612216318439408&hl=ja
+    address: 大阪府堺市堺区緑ヶ丘北町2-3-8
+    price: 450
+    lat: 34.5562529
+    lng: 135.4729419
+    type: 銭湯
+-
+    id: 323
+    name: 清滝温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=11986199629481824340&hl=ja
+    address: 大阪府守口市滝井元町3-8-5
+    price: 450
+    lat: 34.7257849
+    lng: 135.5589022
+    type: 銭湯
+-
+    id: 324
+    name: 千歳温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=7134394617990969323&hl=ja
+    address: 大阪府大阪市生野区鶴橋5-12-2
+    price: 450
+    lat: 34.6637577
+    lng: 135.5379438
+    type: 銭湯
+-
+    id: 325
+    name: 牡丹湯
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/?cid=1654156171172043415&hl=ja
+    address: 大阪府大阪市住吉区帝塚山東4-8-6
+    price: 450
+    lat: 34.6156451
+    lng: 135.4995291
+    type: 銭湯
+-
+    id: 326
+    name: 水昌湯
+    url: http://www.osaka268.com/public_bath/c_miyakojima/
+    map: https://maps.google.com/?cid=14162399869690888054&hl=ja
+    address: 大阪府大阪市都島区内代町2-5-9
+    price: 450
+    lat: 34.711073
+    lng: 135.5383626
+    type: 銭湯
+-
+    id: 327
+    name: 大枝温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=2779666118614749003&hl=ja
+    address: 大阪府守口市大枝北町5-1
+    price: 450
+    lat: 34.7325038
+    lng: 135.5658148
+    type: 銭湯
+-
+    id: 328
+    name: 白菊温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/?cid=9111319807552842937&hl=ja
+    address: 大阪府寝屋川市仁和寺町24-8
+    price: 450
+    lat: 34.7633548
+    lng: 135.5997403
+    type: 銭湯
+-
+    id: 329
+    name: 小松湯
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=16209401098108189426&hl=ja
+    address: 大阪府大阪市東成区中本2-9-30
+    price: 450
+    lat: 34.6798245
+    lng: 135.5416879
+    type: 銭湯
+-
+    id: 330
+    name: 和の湯
+    url: http://www.osaka268.com/public_bath/c_suminoe/
+    map: https://maps.google.com/?cid=17054443006154815892&hl=ja
+    address: 大阪府大阪市住之江区西加賀屋4-6-30
+    price: 450
+    lat: 34.615647
+    lng: 135.4753086
+    type: 銭湯
+-
+    id: 331
+    name: 太陽温泉
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/?cid=3143391784603952399&hl=ja
+    address: 大阪府大阪市西淀川区大和田3-9-12
+    price: 450
+    lat: 34.7091136
+    lng: 135.446232
+    type: 銭湯
+-
+    id: 332
+    name: 千鶴温泉
+    url: http://www.osaka268.com/public_bath/s_kishiwada/
+    map: https://maps.google.com/?cid=16065437828172896412&hl=ja
+    address: 大阪府岸和田市箕土路町3-2-1
+    price: 450
+    lat: 34.470293
+    lng: 135.4086095
+    type: 銭湯
+-
+    id: 333
+    name: 庚申湯
+    url: http://www.osaka268.com/public_bath/c_konohana/
+    map: https://maps.google.com/?cid=12155080949506678288&hl=ja
+    address: 大阪府大阪市此花区伝法5-3-41
+    price: 450
+    lat: 34.6873144
+    lng: 135.4471833
+    type: 銭湯
+-
+    id: 334
+    name: 七福湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=4210525679193792474&hl=ja
+    address: 大阪府大阪市西成区旭2-6-23
+    price: 450
+    lat: 34.6450469
+    lng: 135.4920961
+    type: 銭湯
+-
+    id: 335
+    name: 新朝日温泉
+    url: http://www.osaka268.com/public_bath/c_tsurumi/
+    map: https://maps.google.com/?cid=16806334791549393743&hl=ja
+    address: 大阪府大阪市鶴見区今津南2-2-39
+    price: 450
+    lat: 34.6902952
+    lng: 135.5716234
+    type: 銭湯
+-
+    id: 336
+    name: 池田新温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/?cid=15324124012234268457&hl=ja
+    address: 大阪府寝屋川市池田南18-6
+    price: 450
+    lat: 34.7684946
+    lng: 135.6159349
+    type: 銭湯
+-
+    id: 337
+    name: 勝温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/?cid=15062774523958158368&hl=ja
+    address: 大阪府寝屋川市池田旭町12-14
+    price: 450
+    lat: 34.7689923
+    lng: 135.6132034
+    type: 銭湯
+-
+    id: 338
+    name: 宝来温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=6747250100124103351&hl=ja
+    address: 大阪府大阪市西成区潮路1-6-16
+    price: 450
+    lat: 34.6364949
+    lng: 135.4941135
+    type: 銭湯
+-
+    id: 339
+    name: 栄湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=18179473861915869549&hl=ja
+    address: 大阪府大阪市生野区林寺4-11-14
+    price: 450
+    lat: 34.6414481
+    lng: 135.5337053
+    type: 銭湯
+-
+    id: 340
+    name: おーごん湯
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=17308823056414296152&hl=ja
+    address: 大阪府大阪市平野区瓜破西2-4-28
+    price: 450
+    lat: 34.6045796
+    lng: 135.5478428
+    type: 銭湯
+-
+    id: 341
+    name: 白滝温泉
+    url: http://www.osaka268.com/public_bath/c_asahi/
+    map: https://maps.google.com/?cid=5781275158210604265&hl=ja
+    address: 大阪府大阪市旭区赤川2-14-9
+    price: 450
+    lat: 34.7258352
+    lng: 135.5339453
+    type: 銭湯
+-
+    id: 342
+    name: 福寿湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=18141396657851111085&hl=ja
+    address: 大阪府大阪市西成区千本北2-24-13
+    price: 450
+    lat: 34.6349677
+    lng: 135.4875547
+    type: 銭湯
+-
+    id: 343
+    name: 鶴町湯
+    url: http://www.osaka268.com/public_bath/c_taishou/
+    map: https://maps.google.com/?cid=15678279512457015743&hl=ja
+    address: 大阪府大阪市大正区鶴町2-13-3
+    price: 450
+    lat: 34.6370176
+    lng: 135.4552705
+    type: 銭湯
+-
+    id: 344
+    name: 第1近江湯
+    url: http://www.osaka268.com/public_bath/c_konohana/
+    map: https://maps.google.com/?cid=3417829827728475950&hl=ja
+    address: 大阪府大阪市此花区春日出北2-6-4
+    price: 450
+    lat: 34.6814863
+    lng: 135.4496723
+    type: 銭湯
+-
+    id: 345
+    name: 百万石温泉
+    url: http://www.osaka268.com/public_bath/n_takatsuki/
+    map: https://maps.google.com/?cid=14476720257447500117&hl=ja
+    address: 大阪府高槻市芝生町2-9-1
+    price: 450
+    lat: 34.8305087
+    lng: 135.6058588
+    type: 銭湯
+-
+    id: 346
+    name: 高砂温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/?cid=2903209711803000846&hl=ja
+    address: 大阪府寝屋川市成美町19-22
+    price: 450
+    lat: 34.7618545
+    lng: 135.6138622
+    type: 銭湯
+-
+    id: 347
+    name: 宝来湯
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=3488018164491461681&hl=ja
+    address: 大阪府東大阪市瓜生堂1-20-12
+    price: 450
+    lat: 34.6627854
+    lng: 135.6050838
+    type: 銭湯
+-
+    id: 348
+    name: 南四条温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=3116935032172732343&hl=ja
+    address: 大阪府東大阪市南四条町7-7
+    price: 450
+    lat: 34.656308
+    lng: 135.6421891
+    type: 銭湯
+-
+    id: 349
+    name: 矢田温泉
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/?cid=1525055044509268046&hl=ja
+    address: 大阪府大阪市東住吉区照ケ丘矢田3-3-29
+    price: 450
+    lat: 34.604223
+    lng: 135.5329409
+    type: 銭湯
+-
+    id: 350
+    name: 鹿島湯
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=1970714978269618395&hl=ja
+    address: 大阪府大阪市東成区神路3-10-7
+    price: 450
+    lat: 34.6712827
+    lng: 135.5534875
+    type: 銭湯
+-
+    id: 351
+    name: いとうぴあ
+    url: http://www.osaka268.com/public_bath/c_taishou/
+    map: https://maps.google.com/?cid=9827269767079024878&hl=ja
+    address: 大阪府大阪市大正区鶴町3-8-2
+    price: 450
+    lat: 34.6423108
+    lng: 135.4552715
+    type: 銭湯
+-
+    id: 352
+    name: たちばな温泉
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=14040672256184649271&hl=ja
+    address: 大阪府大阪市平野区加美東5-8-28
+    price: 450
+    lat: 34.6273005
+    lng: 135.5693067
+    type: 銭湯
+-
+    id: 353
+    name: 双葉湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/?cid=9004708616673899637&hl=ja
+    address: 大阪府大阪市西成区岸里3-9-9
+    price: 450
+    lat: 34.6298582
+    lng: 135.4929679
+    type: 銭湯
+-
+    id: 354
+    name: 日の出湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=11990396680831792356&hl=ja
+    address: 大阪府大阪市生野区小路東1-8-15
+    price: 450
+    lat: 34.6617764
+    lng: 135.5583772
+    type: 銭湯
+-
+    id: 355
+    name: 花園温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=13490364706027797344&hl=ja
+    address: 大阪府東大阪市吉田5-7-6
+    price: 450
+    lat: 34.6637966
+    lng: 135.6222412
+    type: 銭湯
+-
+    id: 356
+    name: 八阪湯
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=9435996365721630534&hl=ja
+    address: 大阪府大阪市東成区中道4-10-12
+    price: 450
+    lat: 34.6751093
+    lng: 135.5379167
+    type: 銭湯
+-
+    id: 357
+    name: 新松の内温泉
+    url: http://www.osaka268.com/public_bath/s_matsubara/
+    map: https://maps.google.com/?cid=7494927055182973234&hl=ja
+    address: 大阪府松原市上田5-8-18
+    price: 450
+    lat: 34.5727122
+    lng: 135.5570772
+    type: 銭湯
+-
+    id: 358
+    name: 大和温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=13359809402528561121&hl=ja
+    address: 大阪府大阪市生野区生野東3-1-45
+    price: 450
+    lat: 34.6512121
+    lng: 135.533018
+    type: 銭湯
+-
+    id: 359
+    name: 生駒湯
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=17298821774255268287&hl=ja
+    address: 大阪府東大阪市御厨南2-2-22
+    price: 450
+    lat: 34.665385
+    lng: 135.5908136
+    type: 銭湯
+-
+    id: 360
+    name: 瓜破温泉
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=9703459391725446437&hl=ja
+    address: 大阪府大阪市平野区瓜破東1-12-31
+    price: 450
+    lat: 34.6063795
+    lng: 135.5568629
+    type: 銭湯
+-
+    id: 361
+    name: 布施温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=15545532605834142422&hl=ja
+    address: 大阪府東大阪市荒川1-16-1
+    price: 450
+    lat: 34.6612686
+    lng: 135.569055
+    type: 銭湯
+-
+    id: 362
+    name: 万代湯
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/?cid=2180250749971580656&hl=ja
+    address: 大阪府大阪市住吉区万代6-9-26
+    price: 450
+    lat: 34.6140129
+    lng: 135.5013999
+    type: 銭湯
+-
+    id: 363
+    name: 勇湯
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=4846378168793353323&hl=ja
+    address: 大阪府東大阪市大蓮南1-17-24
+    price: 450
+    lat: 34.6360822
+    lng: 135.5791472
+    type: 銭湯
+-
+    id: 364
+    name: 千福温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=773009501762775524&hl=ja
+    address: 大阪府東大阪市菱屋西6-6-22
+    price: 450
+    lat: 34.6671009
+    lng: 135.5798111
+    type: 銭湯
+-
+    id: 365
+    name: 喜野河温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=513732598596209052&hl=ja
+    address: 大阪府堺市堺区出島町3-4-12
+    price: 450
+    lat: 34.5680299
+    lng: 135.4603834
+    type: 銭湯
+-
+    id: 366
+    name: 源氏ヶ丘温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=13891992070506878435&hl=ja
+    address: 大阪府東大阪市源氏ヶ丘8-2
+    price: 450
+    lat: 34.6458889
+    lng: 135.5787077
+    type: 銭湯
+-
+    id: 367
+    name: 高砂温泉
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/?cid=6546535275980802258&hl=ja
+    address: 大阪府八尾市高砂町3-26
+    price: 450
+    lat: 34.6492155
+    lng: 135.6122958
+    type: 銭湯
+-
+    id: 368
+    name: 入船温泉
+    url: http://www.osaka268.com/public_bath/c_minato/
+    map: https://maps.google.com/?cid=1933523192625128424&hl=ja
+    address: 大阪府大阪市港区八幡屋2-10-17
+    price: 450
+    lat: 34.6555871
+    lng: 135.447604
+    type: 銭湯
+-
+    id: 369
+    name: 橘湯
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/?cid=17513930067557101626&hl=ja
+    address: 大阪府大阪市平野区加美正覚寺1-16-18
+    price: 450
+    lat: 34.6313117
+    lng: 135.5574202
+    type: 銭湯
+-
+    id: 370
+    name: 桃之湯
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=6836892424275204762&hl=ja
+    address: 大阪府東大阪市岸田堂北1-5
+    price: 450
+    lat: 34.6575273
+    lng: 135.5644696
+    type: 銭湯
+-
+    id: 371
+    name: 美吉湯
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/?cid=14824461406487136277&hl=ja
+    address: 大阪府東大阪市森河内西2-17-2
+    price: 450
+    lat: 34.686493
+    lng: 135.5684889
+    type: 銭湯
+-
+    id: 372
+    name: 浪華温泉
+    url: http://www.osaka268.com/public_bath/c_miyakojima/
+    map: https://maps.google.com/?cid=13098826530227982454&hl=ja
+    address: 大阪府大阪市都島区大東町3-6-14
+    price: 450
+    lat: 34.7280278
+    lng: 135.5278272
+    type: 銭湯
+-
+    id: 373
+    name: 宝来温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/?cid=7824991449456755618&hl=ja
+    address: 大阪府守口市東光町1-22-34
+    price: 450
+    lat: 34.7317238
+    lng: 135.570101
+    type: 銭湯
+-
+    id: 374
+    name: 余喜温泉
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/?cid=8576900993401733062&hl=ja
+    address: 大阪府大阪市東成区深江南3-17-25
+    price: 450
+    lat: 34.6700283
+    lng: 135.5597494
+    type: 銭湯
+-
+    id: 375
+    name: 文化温泉
+    url: 
+    map: https://maps.google.com/?cid=9542763919441403746&hl=ja
+    address: 大阪府大阪市西成区南開2-2-28
+    price: 450
+    lat: 34.6510751
+    lng: 135.4899805
+    type: 銭湯
+-
+    id: 376
+    name: 香ヶ丘温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/?cid=7575541823881492169&hl=ja
+    address: 大阪府堺市堺区香ケ丘町2-7-1
+    price: 450
+    lat: 34.5878856
+    lng: 135.4937621
+    type: 銭湯
+-
+    id: 377
+    name: 白鶴湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=14059432286044224003&hl=ja
+    address: 大阪府大阪市生野区中川3-3-2
+    price: 450
+    lat: 34.6605218
+    lng: 135.5441201
+    type: 銭湯
+-
+    id: 378
+    name: 栄湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/?cid=17079364125501251155&hl=ja
+    address: 大阪府大阪市生野区田島4-16-8
+    price: 450
+    lat: 34.6457738
+    lng: 135.544206
+    type: 銭湯
+-
+    id: 379
+    name: 春日湯
+    url: http://www.osaka268.com/public_bath/s_kishiwada/
+    map: https://maps.google.com/?cid=13013886768416269468&hl=ja
+    address: 大阪府岸和田市大北町3-8
+    price: 450
+    lat: 34.4639939
+    lng: 135.3703679
+    type: 銭湯
+-
+    id: 380
+    name: 松之浜温泉
+    url: http://www.osaka268.com/public_bath/s_izumiootsu/
+    map: https://maps.google.com/maps?q=34.509842,135.414104
+    address: 大阪府泉大津市松之浜町2-7-1
+    price: 450
+    lat: 34.5099118
+    lng: 135.414104
+    type: 銭湯
+-
+    id: 381
+    name: 金岡温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/maps?q=34.576804,135.49914
+    address: 大阪府堺市北区北長尾町1-7-16
+    price: 450
+    lat: 34.5768072
+    lng: 135.4991553
+    type: 銭湯
+-
+    id: 382
+    name: 寿温泉
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/maps?q=34.591643,135.50203
+    address: 大阪府大阪市住吉区山之内4-15-2
+    price: 450
+    lat: 34.5916164
+    lng: 135.5020856
+    type: 銭湯
+-
+    id: 383
+    name: 藤井寺温泉
+    url: http://www.osaka268.com/public_bath/s_fujiidera/
+    map: https://maps.google.com/maps?q=34.571095,135.595508
+    address: 大阪府藤井寺市藤井寺藤井寺1-2-20
+    price: 450
+    lat: 34.5710978
+    lng: 135.5955512
+    type: 銭湯
+-
+    id: 384
+    name: 玉水温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/maps?q=34.637798,135.491211
+    address: 大阪府大阪市西成区潮路2-4-40
+    price: 450
+    lat: 34.6378109
+    lng: 135.4912191
+    type: 銭湯
+-
+    id: 385
+    name: 松ノ湯
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/maps?q=34.704575,135.460052
+    address: 大阪府大阪市西淀川区姫里1-19-24
+    price: 450
+    lat: 34.7045436
+    lng: 135.4601038
+    type: 銭湯
+-
+    id: 386
+    name: 岸和田新温泉
+    url: http://www.osaka268.com/public_bath/s_kishiwada/
+    map: https://maps.google.com/maps?q=34.461559,135.377319
+    address: 大阪府岸和田市宮本町2-14
+    price: 450
+    lat: 34.4615389
+    lng: 135.3773453
+    type: 銭湯
+-
+    id: 387
+    name: 大福湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/maps?q=34.641083,135.49884
+    address: 大阪府大阪市西成区天下茶屋1-22-13
+    price: 450
+    lat: 34.6410117
+    lng: 135.4986676
+    type: 銭湯
+-
+    id: 388
+    name: 宝湯
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/maps?q=34.629444,135.52829
+    address: 大阪府大阪市東住吉区北田辺6-9-8
+    price: 450
+    lat: 34.629432
+    lng: 135.5283634
+    type: 銭湯
+-
+    id: 389
+    name: 恩智温泉
+    url: http://yao2683.com/onji-onsen/
+    map: https://maps.google.com/maps?q=34.606784,135.627398
+    address: 大阪府八尾市恩智中町1-178
+    price: 450
+    lat: 34.6069325
+    lng: 135.6273577
+    type: 銭湯
+-
+    id: 390
+    name: ナショナル温泉
+    url: http://www.osaka268.com/public_bath/n_kadoma/
+    map: https://maps.google.com/maps?q=34.73589,135.581637
+    address: 大阪府門真市栄町6-14
+    price: 450
+    lat: 34.7358827
+    lng: 135.5815078
+    type: 銭湯
+-
+    id: 391
+    name: 鶴の湯
+    url: http://www.osaka268.com/public_bath/s_fujiidera/
+    map: https://maps.google.com/maps?q=34.573294,135.612188
+    address: 大阪府藤井寺市沢田3-5-8
+    price: 450
+    lat: 34.5732335
+    lng: 135.61217
+    type: 銭湯
+-
+    id: 392
+    name: 天美温泉
+    url: http://www.osaka268.com/public_bath/s_matsubara/
+    map: https://maps.google.com/maps?q=34.589514,135.533728
+    address: 大阪府松原市天美東9-2-17
+    price: 450
+    lat: 34.5895304
+    lng: 135.5337647
+    type: 銭湯
+-
+    id: 393
+    name: 平和温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.645107,135.55545
+    address: 大阪府大阪市生野区巽東2-16-7
+    price: 450
+    lat: 34.645219
+    lng: 135.5554895
+    type: 銭湯
+-
+    id: 394
+    name: 寿楽温泉
+    url: http://www.osaka268.com/public_bath/c_suminoe/
+    map: https://maps.google.com/maps?q=34.62419,135.480365
+    address: 大阪府大阪市住之江区北加賀屋1-10-1
+    price: 450
+    lat: 34.6242229
+    lng: 135.4803871
+    type: 銭湯
+-
+    id: 395
+    name: 花里温泉
+    url: http://esento.web.fc2.com/hanazato/
+    map: https://maps.google.com/maps?q=34.606025,135.509104
+    address: 大阪府大阪市住吉区長居4-10-14
+    price: 450
+    lat: 34.6060442
+    lng: 135.5091195
+    type: 銭湯
+-
+    id: 396
+    name: 常盤温泉
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/maps?q=34.605491,135.53686
+    address: 大阪府大阪市東住吉区照ケ丘矢田4-1-12
+    price: 450
+    lat: 34.6055153
+    lng: 135.5368762
+    type: 銭湯
+-
+    id: 397
+    name: 湯里新温泉
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/maps?q=34.61647,135.537125
+    address: 大阪府大阪市東住吉区湯里2-17-5
+    price: 450
+    lat: 34.6165012
+    lng: 135.5371303
+    type: 銭湯
+-
+    id: 398
+    name: 昌の湯
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/maps?q=34.685028,135.546616
+    address: 大阪府大阪市城東区東中浜2-5-6
+    price: 450
+    lat: 34.6850179
+    lng: 135.5466311
+    type: 銭湯
+-
+    id: 399
+    name: 泉温泉
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/maps?q=34.63003,135.490119
+    address: 大阪府大阪市西成区千本南1-19-19
+    price: 450
+    lat: 34.6300938
+    lng: 135.4901389
+    type: 銭湯
+-
+    id: 400
+    name: 天竜湯
+    url: http://www.osaka268.com/public_bath/c_nishinari/
+    map: https://maps.google.com/maps?q=34.648285,135.495636
+    address: 大阪府大阪市西成区長橋1-6-30
+    price: 450
+    lat: 34.6482695
+    lng: 135.4956452
+    type: 銭湯
+-
+    id: 401
+    name: 喜楽温泉
+    url: http://www.osaka268.com/public_bath/n_kadoma/
+    map: https://maps.google.com/maps?q=34.739532,135.601242
+    address: 大阪府門真市野里町34-13
+    price: 450
+    lat: 34.7394447
+    lng: 135.6012459
+    type: 銭湯
+-
+    id: 402
+    name: 七福温泉
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/maps?q=34.639812,135.587677
+    address: 大阪府八尾市久宝園2-68
+    price: 450
+    lat: 34.6397422
+    lng: 135.587742
+    type: 銭湯
+-
+    id: 403
+    name: 豊栄温泉
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/maps?q=34.627342,135.623632
+    address: 大阪府八尾市東山本町1-8-12
+    price: 450
+    lat: 34.6272963
+    lng: 135.6236023
+    type: 銭湯
+-
+    id: 404
+    name: 平和湯
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/maps?q=34.634257,135.532549
+    address: 大阪府大阪市東住吉区西今川1-2-14
+    price: 450
+    lat: 34.6342686
+    lng: 135.5326658
+    type: 銭湯
+-
+    id: 405
+    name: 戎湯
+    url: http://www.osaka268.com/public_bath/c_hirano/
+    map: https://maps.google.com/maps?q=34.622086,135.553223
+    address: 大阪府大阪市平野区平野本町5-8-7
+    price: 450
+    lat: 34.6219675
+    lng: 135.5532545
+    type: 銭湯
+-
+    id: 406
+    name: 万楽湯
+    url: http://www.osaka268.com/public_bath/c_minato/
+    map: https://maps.google.com/maps?q=34.660709,135.453491
+    address: 大阪府大阪市港区三先1-12-7
+    price: 450
+    lat: 34.6606862
+    lng: 135.4535194
+    type: 銭湯
+-
+    id: 407
+    name: 春木新温泉
+    url: http://www.osaka268.com/public_bath/s_kishiwada/
+    map: https://maps.google.com/maps?q=34.472599,135.388687
+    address: 大阪府岸和田市加守町4-11-29
+    price: 450
+    lat: 34.4725896
+    lng: 135.3886582
+    type: 銭湯
+-
+    id: 408
+    name: 七福温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/maps?q=34.580826,135.50267
+    address: 大阪府堺市北区大豆塚町1-28
+    price: 450
+    lat: 34.5807561
+    lng: 135.5026928
+    type: 銭湯
+-
+    id: 409
+    name: 重の井温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/maps?q=34.745679,135.474494
+    address: 大阪府豊中市庄内西町5-2-29
+    price: 450
+    lat: 34.7456682
+    lng: 135.4744907
+    type: 銭湯
+-
+    id: 410
+    name: 豊湯
+    url: http://www.osaka268.com/public_bath/c_konohana/
+    map: https://maps.google.com/maps?q=34.684345,135.4524
+    address: 大阪府大阪市此花区春日出北1-19-15
+    price: 450
+    lat: 34.6844039
+    lng: 135.4523619
+    type: 銭湯
+-
+    id: 411
+    name: 錦船温泉
+    url: http://www.osaka268.com/public_bath/c_sumiyoshi/
+    map: https://maps.google.com/maps?q=34.620763,135.508309
+    address: 大阪府大阪市住吉区大領1-1-5
+    price: 450
+    lat: 34.6208108
+    lng: 135.5082975
+    type: 銭湯
+-
+    id: 412
+    name: 小春湯
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/maps?q=34.70721,135.447618
+    address: 大阪府大阪市西淀川区大和田3-4-7
+    price: 450
+    lat: 34.7072288
+    lng: 135.447639
+    type: 銭湯
+-
+    id: 413
+    name: 野里温泉
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/maps?q=34.710993,135.462498
+    address: 大阪府大阪市西淀川区野里2-22-30
+    price: 450
+    lat: 34.7110125
+    lng: 135.4624776
+    type: 銭湯
+-
+    id: 414
+    name: 東温泉
+    url: http://www.osaka268.com/public_bath/c_higashisumiyoshi/
+    map: https://maps.google.com/maps?q=34.626529,135.53651
+    address: 大阪府大阪市東住吉区今川4-26-26
+    price: 450
+    lat: 34.6264858
+    lng: 135.5365285
+    type: 銭湯
+-
+    id: 415
+    name: 末吉湯
+    url: http://www.osaka268.com/public_bath/c_higashinari/
+    map: https://maps.google.com/maps?q=34.671587,135.549944
+    address: 大阪府大阪市東成区大今里2-23-10
+    price: 450
+    lat: 34.6716044
+    lng: 135.5499072
+    type: 銭湯
+-
+    id: 416
+    name: 海老江新温泉
+    url: http://www.osaka268.com/public_bath/c_fukushima/
+    map: https://maps.google.com/maps?q=34.700447,135.473572
+    address: 大阪府大阪市福島区海老江3-13-10
+    price: 450
+    lat: 34.7004757
+    lng: 135.4735903
+    type: 銭湯
+-
+    id: 417
+    name: 日之出温泉
+    url: http://www.osaka268.com/public_bath/c_fukushima/
+    map: https://maps.google.com/maps?q=34.696884,135.477783
+    address: 大阪府大阪市福島区鷺洲3-8-20
+    price: 450
+    lat: 34.6968589
+    lng: 135.4777185
+    type: 銭湯
+-
+    id: 418
+    name: 大将軍湯
+    url: http://www.osaka268.com/public_bath/s_izumisano/
+    map: https://maps.google.com/maps?q=34.415833,135.314529
+    address: 大阪府泉佐野市本町13-14
+    price: 450
+    lat: 34.4157783
+    lng: 135.3145574
+    type: 銭湯
+-
+    id: 419
+    name: 太陽温泉
+    url: http://www.osaka268.com/public_bath/s_sakai/
+    map: https://maps.google.com/maps?q=34.579955,135.482831
+    address: 大阪府堺市堺区中向陽町1-1-32
+    price: 450
+    lat: 34.5799473
+    lng: 135.4828403
+    type: 銭湯
+-
+    id: 420
+    name: 鴻之湯
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/maps?q=34.697526,135.604383
+    address: 大阪府東大阪市鴻池町2-8-10
+    price: 450
+    lat: 34.6974776
+    lng: 135.6043888
+    type: 銭湯
+-
+    id: 421
+    name: 日光温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/maps?q=34.668312,135.587588
+    address: 大阪府東大阪市御厨中1-14-11
+    price: 450
+    lat: 34.6683563
+    lng: 135.5875575
+    type: 銭湯
+-
+    id: 422
+    name: 鴫野湯
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/maps?q=34.69197,135.537634
+    address: 大阪府大阪市城東区鴫野西2-8-6
+    price: 450
+    lat: 34.6919628
+    lng: 135.5376527
+    type: 銭湯
+-
+    id: 423
+    name: 第一三福湯
+    url: http://www.osaka268.com/public_bath/c_miyakojima/
+    map: https://maps.google.com/maps?q=34.704366,135.534207
+    address: 大阪府大阪市都島区都島中通3-10-9
+    price: 450
+    lat: 34.7044201
+    lng: 135.534382
+    type: 銭湯
+-
+    id: 424
+    name: 島田温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/maps?q=34.751194,135.467668
+    address: 大阪府豊中市庄内栄町1-11-1
+    price: 450
+    lat: 34.7511937
+    lng: 135.4677416
+    type: 銭湯
+-
+    id: 425
+    name: 栄楽温泉
+    url: http://www.osaka268.com/public_bath/n_higashioosaka/
+    map: https://maps.google.com/maps?q=34.660748,135.60318
+    address: 大阪府東大阪市瓜生堂2-29-20
+    price: 450
+    lat: 34.660708
+    lng: 135.6031345
+    type: 銭湯
+-
+    id: 426
+    name: 新町湯
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/maps?q=34.752274,135.603119
+    address: 大阪府守口市大久保町5-10-10
+    price: 450
+    lat: 34.7521494
+    lng: 135.6031884
+    type: 銭湯
+-
+    id: 427
+    name: 本道湯
+    url: http://www.osaka268.com/public_bath/c_asahi/
+    map: https://maps.google.com/maps?q=34.722909,135.532143
+    address: 大阪府大阪市旭区赤川1-5-35
+    price: 450
+    lat: 34.722882
+    lng: 135.5321328
+    type: 銭湯
+-
+    id: 428
+    name: 敷島湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.645791,135.534723
+    address: 大阪府大阪市生野区林寺3-4-28
+    price: 450
+    lat: 34.6458098
+    lng: 135.5346928
+    type: 銭湯
+-
+    id: 429
+    name: 新曙温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.656835,135.534962
+    address: 大阪府大阪市生野区勝山北4-4-16
+    price: 450
+    lat: 34.6568202
+    lng: 135.5349528
+    type: 銭湯
+-
+    id: 430
+    name: 鶴亀温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.657852,135.540985
+    address: 大阪府大阪市生野区中川西2-25-10
+    price: 450
+    lat: 34.6578274
+    lng: 135.5410245
+    type: 銭湯
+-
+    id: 431
+    name: 中島温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.644693,135.536271
+    address: 大阪府大阪市生野区林寺5-4-30
+    price: 450
+    lat: 34.6446949
+    lng: 135.5362649
+    type: 銭湯
+-
+    id: 432
+    name: 百草湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.662476,135.538239
+    address: 大阪府大阪市生野区鶴橋5-21-5
+    price: 450
+    lat: 34.6624809
+    lng: 135.5383434
+    type: 銭湯
+-
+    id: 433
+    name: 天然温泉 JOY大正
+    url: https://ucme8.crayonsite.net/
+    map: https://maps.google.com/maps?q=34.64283,135.470581
+    address: 大阪府大阪市大正区平尾4-23-6
+    price: 450
+    lat: 34.6428434
+    lng: 135.4706131
+    type: 銭湯
+-
+    id: 434
+    name: 住吉温泉
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/maps?q=34.709232,135.463577
+    address: 大阪府大阪市西淀川区野里1-14-3
+    price: 450
+    lat: 34.7091463
+    lng: 135.4635995
+    type: 銭湯
+-
+    id: 435
+    name: 湯の華温泉
+    url: http://www.osaka268.com/public_bath/n_takatsuki/
+    map: https://maps.google.com/maps?q=34.828213,135.602493
+    address: 大阪府高槻市栄町2-21-1
+    price: 450
+    lat: 34.8282122
+    lng: 135.6026477
+    type: 銭湯
+-
+    id: 436
+    name: 喜楽温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/maps?q=34.751415,135.481812
+    address: 大阪府豊中市豊南町西1-15-13
+    price: 450
+    lat: 34.7514175
+    lng: 135.481882
+    type: 銭湯
+-
+    id: 437
+    name: 泰温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/maps?q=34.765648,135.629044
+    address: 大阪府寝屋川市本町5-1
+    price: 450
+    lat: 34.7656563
+    lng: 135.6290039
+    type: 銭湯
+-
+    id: 438
+    name: 天美中温泉
+    url: http://www.osaka268.com/public_bath/s_matsubara/
+    map: https://maps.google.com/maps?q=34.588238,135.528256
+    address: 大阪府松原市天美西5-116
+    price: 450
+    lat: 34.5900547
+    lng: 135.5263772
+    type: 銭湯
+-
+    id: 439
+    name: 橋波温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/maps?q=34.730969,135.575496
+    address: 大阪府守口市大宮通2-7-12
+    price: 450
+    lat: 34.7309531
+    lng: 135.5753852
+    type: 銭湯
+-
+    id: 440
+    name: 元町温泉
+    url: http://www.osaka268.com/public_bath/n_moriguchi/
+    map: https://maps.google.com/maps?q=34.727258,135.57131
+    address: 大阪府守口市寺方元町1-6-10
+    price: 450
+    lat: 34.7273032
+    lng: 135.5712764
+    type: 銭湯
+-
+    id: 441
+    name: ヘルシーバスニュー栄
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/maps?q=34.613712,135.590942
+    address: 大阪府八尾市植松町8-1-24
+    price: 450
+    lat: 34.613778
+    lng: 135.5909762
+    type: 銭湯
+-
+    id: 442
+    name: 山本新温泉
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/maps?q=34.646808,135.615935
+    address: 大阪府八尾市山本町北8-1-22
+    price: 450
+    lat: 34.6468119
+    lng: 135.6159289
+    type: 銭湯
+-
+    id: 443
+    name: 弘徳温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.663644,135.540859
+    address: 大阪府大阪市生野区中川西1-10-21
+    price: 450
+    lat: 34.6636657
+    lng: 135.5408175
+    type: 銭湯
+-
+    id: 444
+    name: 観幸温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/maps?q=34.686841,135.549096
+    address: 大阪府大阪市城東区東中浜4-4-3
+    price: 450
+    lat: 34.6868133
+    lng: 135.5490934
+    type: 銭湯
+-
+    id: 445
+    name: 菊水温泉
+    url: http://www.osaka268.com/public_bath/c_jyoutou/
+    map: https://maps.google.com/maps?q=34.687885,135.542664
+    address: 大阪府大阪市城東区東中浜1-3-6
+    price: 450
+    lat: 34.6869506
+    lng: 135.5460267
+    type: 銭湯
+-
+    id: 446
+    name: 美福湯
+    url: http://www.osaka268.com/public_bath/c_suminoe/
+    map: https://maps.google.com/maps?q=34.616665,135.483843
+    address: 大阪府大阪市住之江区東加賀屋2-5-8
+    price: 450
+    lat: 34.6166735
+    lng: 135.4838246
+    type: 銭湯
+-
+    id: 447
+    name: 宝生湯
+    url: http://www.osaka268.com/public_bath/c_nishiyodogawa/
+    map: https://maps.google.com/maps?q=34.717395,135.447592
+    address: 大阪府大阪市西淀川区佃1-20-2
+    price: 450
+    lat: 34.7173434
+    lng: 135.4476736
+    type: 銭湯
+-
+    id: 448
+    name: 扇温泉
+    url: http://www.osaka268.com/public_bath/c_minato/
+    map: https://maps.google.com/maps?q=34.66185,135.460114
+    address: 大阪府大阪市港区市岡2-14-1
+    price: 450
+    lat: 34.6618522
+    lng: 135.460032
+    type: 銭湯
+-
+    id: 449
+    name: 新双葉温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/maps?q=34.743633,135.482978
+    address: 大阪府豊中市豊南町南5-3-11
+    price: 450
+    lat: 34.7436267
+    lng: 135.4829632
+    type: 銭湯
+-
+    id: 450
+    name: 橘温泉
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.648834,135.542793
+    address: 大阪府大阪市生野区田島3-6-11
+    price: 450
+    lat: 34.648747
+    lng: 135.5428304
+    type: 銭湯
+-
+    id: 451
+    name: 日の出湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.648775,135.532438
+    address: 大阪府大阪市生野区生野東1-16-24
+    price: 450
+    lat: 34.6487741
+    lng: 135.5325119
+    type: 銭湯
+-
+    id: 452
+    name: 大徳湯
+    url: http://www.osaka268.com/public_bath/c_tsurumi/
+    map: https://maps.google.com/maps?q=34.710665,135.594549
+    address: 大阪府大阪市鶴見区茨田大宮4-2-28
+    price: 450
+    lat: 34.7106913
+    lng: 135.5945672
+    type: 銭湯
+-
+    id: 453
+    name: 新旭温泉
+    url: http://www.osaka268.com/public_bath/c_miyakojima/
+    map: https://maps.google.com/maps?q=34.71936,135.531867
+    address: 大阪府大阪市都島区高倉町3-7-3
+    price: 450
+    lat: 34.7193336
+    lng: 135.5319223
+    type: 銭湯
+-
+    id: 454
+    name: 長島温泉
+    url: http://www.osaka268.com/public_bath/n_toyonaka/
+    map: https://maps.google.com/maps?q=34.744999,135.479752
+    address: 大阪府豊中市豊南町南2-2-3
+    price: 450
+    lat: 34.7450054
+    lng: 135.4797535
+    type: 銭湯
+-
+    id: 455
+    name: 楽々湯
+    url: http://www.osaka268.com/public_bath/c_ikuno/
+    map: https://maps.google.com/maps?q=34.658461,135.538353
+    address: 大阪府大阪市生野区桃谷5-10-34
+    price: 450
+    lat: 34.658466
+    lng: 135.5382613
+    type: 銭湯
+-
+    id: 456
+    name: 昭栄温泉
+    url: http://www.osaka268.com/public_bath/n_newagawa/
+    map: https://maps.google.com/maps?q=34.756951,135.624573
+    address: 大阪府寝屋川市昭栄町14-6
+    price: 450
+    lat: 34.7569358
+    lng: 135.6245508
+    type: 銭湯
+-
+    id: 457
+    name: ゆ 大和
+    url: http://www.osaka268.com/public_bath/n_yao/
+    map: https://maps.google.com/maps?q=34.646816,135.610177
+    address: 大阪府八尾市高砂町1-75-2
+    price: 450
+    lat: 34.646852
+    lng: 135.6101873
+    type: 銭湯
+-
+    id: 458
+    name: 十八条湯
+    url: http://www.osaka268.com/public_bath/c_yodogawa/
+    map: https://maps.google.com/maps?q=34.745808,135.490173
+    address: 大阪府大阪市淀川区十八条3-1-57
+    price: 450
+    lat: 34.7457836
+    lng: 135.4903041
+    type: 銭湯

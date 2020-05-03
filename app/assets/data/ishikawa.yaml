@@ -1,0 +1,1041 @@
+---
+-
+    id: 1
+    name: 天然温泉・健康ランド 金沢ゆめのゆ
+    url: https://yumenoyu.net/kanazawa/facilities.html
+    map: https://maps.google.com/?cid=5560531946598558544&hl=ja
+    address: 石川県金沢市藤江南3-26
+    price: 1100
+    lat: 36.5837204
+    lng: 136.6201567
+    type: 温泉
+-
+    id: 2
+    name: 和倉温泉総湯
+    url: http://www.wakura.co.jp/
+    map: https://maps.google.com/?cid=17070675962944564186&hl=ja
+    address: 石川県七尾市和倉町ワ5-1
+    price: 440
+    lat: 37.0889362
+    lng: 136.9164731
+    type: 温泉
+-
+    id: 3
+    name: れもん湯
+    url: https://ishikawa1010.com/bath/9/
+    map: https://maps.google.com/?cid=12627892615642270916&hl=ja
+    address: 石川県金沢市有松3-11-6
+    price: 440
+    lat: 36.5384214
+    lng: 136.6398762
+    type: 銭湯
+-
+    id: 4
+    name: CCZ 松任海浜温泉
+    url: http://www.hakusan-spa.com/c6032.html
+    map: https://maps.google.com/?cid=16896258065387574061&hl=ja
+    address: 石川県白山市徳光町2665-1
+    price: 460
+    lat: 36.5360049
+    lng: 136.5302923
+    type: 温泉
+-
+    id: 5
+    name: 山中温泉 総湯菊の湯
+    url: http://tabimati.net/midokoro/detail_kanko.php?p=3967
+    map: https://maps.google.com/?cid=9985547436169519879&hl=ja
+    address: 石川県加賀市山中温泉湯の出町レ11
+    price: 440
+    lat: 36.2467853
+    lng: 136.3728346
+    type: 共同浴場・銭湯
+-
+    id: 6
+    name: ぽかぽか御経塚の湯
+    url: https://you-yu.jp/okyo.html
+    map: https://maps.google.com/?cid=17586662297369046716&hl=ja
+    address: 石川県野々市市御経塚4-38
+    price: 440
+    lat: 36.5490097
+    lng: 136.6009696
+    type: 銭湯
+-
+    id: 7
+    name: ピュア涌泉寺
+    url: https://ishikawa1010.com/bath/28/
+    map: https://maps.google.com/?cid=16516123596461054652&hl=ja
+    address: 石川県小松市中海町12-38
+    price: 440
+    lat: 36.3925406
+    lng: 136.5249949
+    type: 銭湯
+-
+    id: 8
+    name: 加賀ゆめのゆ
+    url: https://yumenoyu.net/kaga/facilities.html
+    map: https://maps.google.com/?cid=15062421376110261368&hl=ja
+    address: 石川県加賀市箱宮町ル1
+    price: 960
+    lat: 36.3243118
+    lng: 136.4106668
+    type: 温泉
+-
+    id: 9
+    name: 山代温泉 古総湯
+    url: http://www.tabimati.net/recommend/index/detail?course_id=66&list_p=1
+    map: https://maps.google.com/?cid=1308909315509118523&hl=ja
+    address: 石川県加賀市山代温泉18-128
+    price: 500
+    lat: 36.2888668
+    lng: 136.361447
+    type: 共同浴場・銭湯
+-
+    id: 10
+    name: 湯けむり屋敷 和おんの湯
+    url: http://www.waonnoyu.com/
+    map: https://maps.google.com/?cid=6410577975268330394&hl=ja
+    address: 石川県金沢市神宮寺2-30-1
+    price: 700
+    lat: 36.58988739999999
+    lng: 136.6689143
+    type: 温泉
+-
+    id: 11
+    name: ぽかぽか 諸江の湯
+    url: https://you-yu.jp/moroe.html
+    map: https://maps.google.com/?cid=3322537212165658142&hl=ja
+    address: 石川県金沢市諸江町中丁180-3
+    price: 440
+    lat: 36.5957514
+    lng: 136.6446375
+    type: 銭湯
+-
+    id: 12
+    name: 極楽湯(金沢野々市店)
+    url: https://www.gokurakuyu.ne.jp/tempo/nonoichi/
+    map: https://maps.google.com/?cid=8177688172292907656&hl=ja
+    address: 石川県野々市市若松町18-1
+    price: 700
+    lat: 36.5350116
+    lng: 136.6123809
+    type: 温泉
+-
+    id: 13
+    name: 満天の湯(金沢店)
+    url: http://www.manten-yu.co.jp/kanazawa/
+    map: https://maps.google.com/?cid=1570154148230249&hl=ja
+    address: 石川県金沢市中村町5-52
+    price: 750
+    lat: 36.560131
+    lng: 136.644844
+    type: 温泉
+-
+    id: 14
+    name: ひょっこり温泉 島の湯
+    url: http://user.notojima.jp/shimanoyu/top.html
+    map: https://maps.google.com/?cid=11903657888614306841&hl=ja
+    address: 石川県七尾市能登島佐波町ラ29-1
+    price: 550
+    lat: 37.1191746
+    lng: 136.9968326
+    type: 温泉
+-
+    id: 15
+    name: 湯来楽(内灘店)
+    url: http://www.yu-yurara.jp/uchinada/
+    map: https://maps.google.com/?cid=2813502783594023006&hl=ja
+    address: 石川県河北郡内灘町字千鳥台4-2-1
+    price: 870
+    lat: 36.6381547
+    lng: 136.6235717
+    type: 温泉
+-
+    id: 16
+    name: 山中温泉 ゆけむり健康村 ゆーゆー館
+    url: https://yukemuri.kagashi-ss.com/
+    map: https://maps.google.com/?cid=17062248727329732577&hl=ja
+    address: 石川県加賀市山中温泉こおろぎ町イ19
+    price: 580
+    lat: 36.2350567
+    lng: 136.3660578
+    type: 温泉
+-
+    id: 17
+    name: 湯涌温泉総湯 白鷺の湯
+    url: https://yuwaku.gr.jp/yu/
+    map: https://maps.google.com/?cid=10460951400382832840&hl=ja
+    address: 石川県金沢市湯涌町イ139-2
+    price: 420
+    lat: 36.4855428
+    lng: 136.7576714
+    type: 温泉
+-
+    id: 18
+    name: 加賀片山津温泉 総湯
+    url: https://sou-yu.net/
+    map: https://maps.google.com/?cid=15039200123907458331&hl=ja
+    address: 石川県加賀市片山津温泉乙65-2
+    price: 440
+    lat: 36.3454063
+    lng: 136.3687818
+    type: 温泉
+-
+    id: 19
+    name: 金城温泉元湯
+    url: https://kinjo-onsen.jp/
+    map: https://maps.google.com/?cid=13366633785728428205&hl=ja
+    address: 石川県金沢市赤土町ト100-2
+    price: 420
+    lat: 36.5803817
+    lng: 136.5973885
+    type: 温泉
+-
+    id: 20
+    name: 白峰温泉総湯
+    url: http://www.shiramine-m.com/
+    map: https://maps.google.com/?cid=9872583512303687211&hl=ja
+    address: 石川県白山市白峰ロ9
+    price: 670
+    lat: 36.174758
+    lng: 136.6266577
+    type: 温泉
+-
+    id: 21
+    name: 大桑おんま温泉 楽ちんの湯
+    url: http://www.rakuchinnoyu.com/
+    map: https://maps.google.com/?cid=9513259424034303753&hl=ja
+    address: 石川県金沢市大桑2-115
+    price: 650
+    lat: 36.536988
+    lng: 136.6751021
+    type: 温泉
+-
+    id: 22
+    name: 石引温泉 亀の湯
+    url: https://ishikawa1010.com/bath/21/
+    map: https://maps.google.com/?cid=17659858202137058540&hl=ja
+    address: 石川県金沢市石引2-15-31
+    price: 440
+    lat: 36.5530292
+    lng: 136.6705906
+    type: 銭湯
+-
+    id: 23
+    name: 満天の湯(白山インター店)
+    url: http://www.manten-yu.co.jp/hakusan/
+    map: https://maps.google.com/?cid=2314429913499229496&hl=ja
+    address: 石川県野々市市柳町460番地
+    price: 750
+    lat: 36.5276549
+    lng: 136.5828614
+    type: 温泉
+-
+    id: 24
+    name: 兼六温泉
+    url: https://ishikawa1010.com/bath/19/
+    map: https://maps.google.com/?cid=15743115258576650192&hl=ja
+    address: 石川県金沢市暁町18-36
+    price: 440
+    lat: 36.56227
+    lng: 136.6716679
+    type: 銭湯
+-
+    id: 25
+    name: さくら湯
+    url: http://www.sakurayu5060.com/sub1.html
+    map: https://maps.google.com/?cid=5270190565563942168&hl=ja
+    address: 石川県小松市土居原町784
+    price: 440
+    lat: 36.405588
+    lng: 136.4515201
+    type: 銭湯
+-
+    id: 26
+    name: 金沢温泉 金石荘
+    url: https://ishikawa1010.com/bath/3/
+    map: https://maps.google.com/?cid=12410933105219362489&hl=ja
+    address: 石川県金沢市金石本町ニ91
+    price: 440
+    lat: 36.5984248
+    lng: 136.591892
+    type: 銭湯
+-
+    id: 27
+    name: 松の湯
+    url: https://ishikawa1010.com/bath/12/
+    map: https://maps.google.com/?cid=4156519492500470498&hl=ja
+    address: 石川県金沢市長町1-5-56
+    price: 440
+    lat: 36.565158
+    lng: 136.6517376
+    type: 銭湯
+-
+    id: 28
+    name: くわな湯
+    url: https://ishikawa1010.com/bath/16/
+    map: https://maps.google.com/?cid=16149631984989968834&hl=ja
+    address: 石川県金沢市東山3-1-5
+    price: 440
+    lat: 36.572638
+    lng: 136.664124
+    type: 銭湯
+-
+    id: 29
+    name: 源泉掛け流し しあわせの湯
+    url: http://www.shiawasenoyu.co.jp/
+    map: https://maps.google.com/?cid=6640607995244356739&hl=ja
+    address: 石川県野々市市横宮町6-3
+    price: 600
+    lat: 36.5359867
+    lng: 136.6178925
+    type: 温泉
+-
+    id: 30
+    name: アクアパーク シ・オン
+    url: http://www.shi-on.jp/
+    map: https://maps.google.com/?cid=10534734164460864955&hl=ja
+    address: 石川県羽咋郡志賀町末吉新保向22-1
+    price: 500
+    lat: 37.0080755
+    lng: 136.779949
+    type: 温泉
+-
+    id: 31
+    name: 大和温泉
+    url: https://ishikawa1010.com/bath/14/
+    map: https://maps.google.com/?cid=7889003866529039165&hl=ja
+    address: 石川県金沢市東山3-25-17
+    price: 440
+    lat: 36.5764761
+    lng: 136.6648579
+    type: 銭湯
+-
+    id: 32
+    name: 海浜あみだ湯
+    url: https://ishikawa1010.com/bath/44/
+    map: https://maps.google.com/?cid=15703806720140046201&hl=ja
+    address: 石川県珠洲市野々江町ナ5-3
+    price: 440
+    lat: 37.4396416
+    lng: 137.2735975
+    type: 銭湯
+-
+    id: 33
+    name: ほっとらんどNANAO
+    url: http://www.hotland-n.com/
+    map: https://maps.google.com/?cid=4860472065014922933&hl=ja
+    address: 石川県七尾市旭町イ24-1
+    price: 945
+    lat: 37.0234934
+    lng: 136.9196644
+    type: 温泉
+-
+    id: 34
+    name: 浅の川温泉 湯楽
+    url: http://www.yuraku-onsen.jp/index_02.html
+    map: https://maps.google.com/?cid=18035303894384348709&hl=ja
+    address: 石川県金沢市東町ロ80
+    price: 390
+    lat: 36.49239840000001
+    lng: 136.7608579
+    type: 温泉
+-
+    id: 35
+    name: ヘルシーバス268
+    url: https://ishikawa1010.com/bath/6/
+    map: https://maps.google.com/?cid=4802099204546297301&hl=ja
+    address: 石川県金沢市新保本5-115
+    price: 440
+    lat: 36.5553913
+    lng: 136.6073669
+    type: 銭湯
+-
+    id: 36
+    name: 里山健康学校 せせらぎの郷
+    url: https://www.k-seseragi.com
+    map: https://maps.google.com/?cid=6667347609507956460&hl=ja
+    address: 石川県小松市瀬領町丁1-1
+    price: 370
+    lat: 36.3322998
+    lng: 136.4849441
+    type: 温泉
+-
+    id: 37
+    name: 天然温泉 西圓寺温泉
+    url: http://www.bussien.com/saienji/spa.html
+    map: https://maps.google.com/?cid=10032040987504274976&hl=ja
+    address: 石川県小松市野田町丁68
+    price: 400
+    lat: 36.4316896
+    lng: 136.4792549
+    type: 温泉
+-
+    id: 38
+    name: ユーフォリア千里浜
+    url: http://www.hakui.ne.jp/euphoria/
+    map: https://maps.google.com/?cid=3992515713799612181&hl=ja
+    address: 石川県羽咋市千里浜町タ1-67
+    price: 460
+    lat: 36.8897313
+    lng: 136.7679441
+    type: 温泉
+-
+    id: 39
+    name: なかじま猿田彦温泉 いやしの湯
+    url: http://www.qkamura-s.com/omakidai/onsen/
+    map: https://maps.google.com/?cid=4527269584273833909&hl=ja
+    address: 石川県七尾市中島町小牧ヨ116
+    price: 550
+    lat: 37.1441426
+    lng: 136.8739835
+    type: 温泉
+-
+    id: 40
+    name: 双葉湯
+    url: https://ishikawa1010.com/bath/5/
+    map: https://maps.google.com/?cid=8939637263721112722&hl=ja
+    address: 石川県金沢市駅西新町1-14-24
+    price: 440
+    lat: 36.5888303
+    lng: 136.6404888
+    type: 銭湯
+-
+    id: 41
+    name: 志乎桜の里温泉 古墳の湯
+    url: http://www.hodatsushimizu.jp/kanko/spot/detail.jsp?id=196&genre=2
+    map: https://maps.google.com/?cid=14719598777164646956&hl=ja
+    address: 石川県羽咋郡宝達志水町石坂リ16-1
+    price: 420
+    lat: 36.8562352
+    lng: 136.816083
+    type: 温泉
+-
+    id: 42
+    name: 美川温泉元湯ほんだ
+    url: http://p2222.nsk.ne.jp/mikawaonsen/
+    map: https://maps.google.com/?cid=15082853299358660152&hl=ja
+    address: 石川県白山市長屋町イ111
+    price: 440
+    lat: 36.4865475
+    lng: 136.4975498
+    type: 温泉
+-
+    id: 43
+    name: 行善寺温泉 海の湯/山の湯
+    url: http://www.bussien.com/gyozenji/spa.html
+    map: https://maps.google.com/?cid=2326442903485595848&hl=ja
+    address: 石川県白山市北安田町548-2
+    price: 440
+    lat: 36.5262424
+    lng: 136.5515764
+    type: 温泉
+-
+    id: 44
+    name: 祥楽の湯(津幡店)
+    url: https://www.ynx-grp.jp/shoraku/tsubata/
+    map: https://maps.google.com/?cid=9158616953411859101&hl=ja
+    address: 石川県河北郡津幡町北中条地区1-7
+    price: 680
+    lat: 36.659847
+    lng: 136.7268229
+    type: 温泉
+-
+    id: 45
+    name: 粟津温泉総湯
+    url: http://awazu.onsen-guide.net/spa/awazu-spa.html
+    map: https://maps.google.com/?cid=18257453156740228581&hl=ja
+    address: 石川県小松市粟津町ワ35
+    price: 400
+    lat: 36.3303735
+    lng: 136.4465678
+    type: 温泉
+-
+    id: 46
+    name: 今江温泉元湯
+    url: https://ishikawa1010.com/bath/26/
+    map: https://maps.google.com/?cid=12891164506006527953&hl=ja
+    address: 石川県小松市今江町7-205
+    price: 440
+    lat: 36.3817545
+    lng: 136.4366733
+    type: 銭湯
+-
+    id: 47
+    name: シェア金沢
+    url: http://share-kanazawa.com/sparest/spa.html
+    map: https://maps.google.com/?cid=3168593939620299103&hl=ja
+    address: 石川県金沢市若松町セ104-1
+    price: 400
+    lat: 36.5467794
+    lng: 136.6955328
+    type: 温泉
+-
+    id: 48
+    name: 川北温泉 ふれあいの湯
+    url: https://kawakitaonsen.amebaownd.com/
+    map: https://maps.google.com/?cid=5901099491749364882&hl=ja
+    address: 石川県能美郡川北町字壱ツ屋100
+    price: 300
+    lat: 36.4698835
+    lng: 136.541368
+    type: 温泉
+-
+    id: 49
+    name: 別所温泉
+    url: http://www.tabimati.net/midokoro/detail_kanko.php?p=12332
+    map: https://maps.google.com/?cid=7214471829360400844&hl=ja
+    address: 石川県加賀市別所町1-91
+    price: 440
+    lat: 36.2730873
+    lng: 136.361214
+    type: 共同浴場・銭湯
+-
+    id: 50
+    name: 千里浜なぎさ温泉 里湯ちりはま
+    url: https://www.hot-ishikawa.jp/spot/21337
+    map: https://maps.google.com/?cid=11376530072389171098&hl=ja
+    address: 石川県羽咋郡宝達志水町今浜北93
+    price: 450
+    lat: 36.83857830000001
+    lng: 136.754035
+    type: 温泉
+-
+    id: 51
+    name: 辰口温泉総湯 里山の湯
+    url: https://www.city.nomi.ishikawa.jp/www/contents/1001000000790/index.html
+    map: https://maps.google.com/?cid=6340730980381564090&hl=ja
+    address: 石川県能美市辰口町ヌ3-1
+    price: 520
+    lat: 36.4438264
+    lng: 136.5470324
+    type: 温泉
+-
+    id: 52
+    name: 鉢ヶ崎温泉 元気の湯
+    url: https://www.suzu-beachhotel.jp/genkinoyu/
+    map: https://maps.google.com/?cid=4231658068859015202&hl=ja
+    address: 石川県珠洲市蛸島町鉢ヶ崎36-4
+    price: 700
+    lat: 37.444567
+    lng: 137.327802
+    type: 温泉
+-
+    id: 53
+    name: 白山杉の子温泉
+    url: https://hakusansuginokoonsen.jimdofree.com/
+    map: https://maps.google.com/?cid=5601777296577175345&hl=ja
+    address: 石川県白山市佐良タ121
+    price: 440
+    lat: 36.332042
+    lng: 136.6426301
+    type: 温泉
+-
+    id: 54
+    name: バードハミング鳥越 弘法の湯
+    url: http://www.hakusan-spa.com/c6033.html
+    map: https://maps.google.com/?cid=7726386996992636323&hl=ja
+    address: 石川県白山市上野町ヤ74
+    price: 370
+    lat: 36.3715728
+    lng: 136.6090374
+    type: 温泉
+-
+    id: 55
+    name: 展望温泉 ほのぼの湯
+    url: http://www.town.uchinada.lg.jp/webapps/www/info/detail.jsp?id=10850
+    map: https://maps.google.com/?cid=11971393557205400515&hl=ja
+    address: 石川県河北郡内灘町宮坂に455
+    price: 500
+    lat: 36.6622652
+    lng: 136.6531189
+    type: 温泉
+-
+    id: 56
+    name: 道の駅 倶利伽羅塾 源平の湯
+    url: http://www.kurikara.org/facilities.html
+    map: https://maps.google.com/?cid=5753165554678119711&hl=ja
+    address: 石川県河北郡津幡町字竹橋西270
+    price: 300
+    lat: 36.662689
+    lng: 136.7677665
+    type: 温泉
+-
+    id: 57
+    name: クアハウス九谷
+    url: http://www.kurhaus-kutani.com/
+    map: https://maps.google.com/?cid=9589525754355616337&hl=ja
+    address: 石川県能美市泉台町東10
+    price: 370
+    lat: 36.4326406
+    lng: 136.5259068
+    type: 温泉
+-
+    id: 58
+    name: あわづ湯
+    url: https://ishikawa1010.com/bath/8/
+    map: https://maps.google.com/?cid=2012090135657473512&hl=ja
+    address: 石川県金沢市中村町3-1
+    price: 440
+    lat: 36.56100929999999
+    lng: 136.6452137
+    type: 銭湯
+-
+    id: 59
+    name: 癒しの湯 天領
+    url: http://sam-hakusan.com/tenryou/
+    map: https://maps.google.com/?cid=1481445565461424571&hl=ja
+    address: 石川県白山市尾添チ28
+    price: 650
+    lat: 36.2661898
+    lng: 136.7179683
+    type: 温泉
+-
+    id: 60
+    name: めおと岩温泉ラクヨウ
+    url: http://www.hakusan-spa.com/c6034.html
+    map: https://maps.google.com/?cid=1535015836309884958&hl=ja
+    address: 石川県白山市河内町江津い23-1
+    price: 370
+    lat: 36.3846988
+    lng: 136.6128922
+    type: 温泉
+-
+    id: 61
+    name: 泉龍温泉
+    url: 
+    map: https://maps.google.com/?cid=4297665281257315299&hl=ja
+    address: 石川県小松市平面町ヘ34-1
+    price: 420
+    lat: 36.4201828
+    lng: 136.4680912
+    type: 温泉
+-
+    id: 62
+    name: 美川温泉 安産の湯
+    url: http://www.yasumaru-onsen.jp/
+    map: https://maps.google.com/?cid=1419495469120558798&hl=ja
+    address: 石川県白山市平加町ワ6-2
+    price: 420
+    lat: 36.4942436
+    lng: 136.4890258
+    type: 温泉
+-
+    id: 63
+    name: 弘法湯
+    url: https://ishikawa1010.com/bath/40/
+    map: https://maps.google.com/?cid=4246690770756632247&hl=ja
+    address: 石川県七尾市北藤橋町ロ91-1
+    price: 440
+    lat: 37.0440198
+    lng: 136.9623811
+    type: 銭湯
+-
+    id: 64
+    name: 比咩の湯(ひめのゆ)
+    url: https://www.himenoyu.jp/
+    map: https://maps.google.com/?cid=9676184779487036893&hl=ja
+    address: 石川県白山市瀬戸辰3-1
+    price: 500
+    lat: 36.2884736
+    lng: 136.6511527
+    type: 温泉
+-
+    id: 65
+    name: 額温泉
+    url: https://ishikawa1010.com/bath/7/
+    map: https://maps.google.com/?cid=7283667447724837971&hl=ja
+    address: 石川県金沢市額新町1-30
+    price: 440
+    lat: 36.5185638
+    lng: 136.6201593
+    type: 銭湯
+-
+    id: 66
+    name: 百乃湯
+    url: https://ishikawa1010.com/bath/15/
+    map: https://maps.google.com/?cid=1490378297029490177&hl=ja
+    address: 石川県金沢市小坂町中45
+    price: 440
+    lat: 36.5896499
+    lng: 136.6760986
+    type: 銭湯
+-
+    id: 67
+    name: 新中宮温泉センター
+    url: http://www.hakusan-spa.com/c6036.html
+    map: https://maps.google.com/?cid=2102435183938188923&hl=ja
+    address: 石川県白山市中宮カ8
+    price: 370
+    lat: 36.2765578
+    lng: 136.6895623
+    type: 温泉
+-
+    id: 68
+    name: 天然温泉 宝湯
+    url: https://www.houdatsushimizu.info/spot/takara_yu
+    map: https://maps.google.com/?cid=3063697844585272107&hl=ja
+    address: 石川県羽咋郡宝達志水町宿2甲31-13
+    price: 440
+    lat: 36.8419977
+    lng: 136.7660343
+    type: 温泉
+-
+    id: 69
+    name: 白山湯
+    url: https://ishikawa1010.com/bath/48/
+    map: https://maps.google.com/?cid=13205373133674924306&hl=ja
+    address: 石川県輪島市河井町4-114
+    price: 440
+    lat: 37.395567
+    lng: 136.9040122
+    type: 銭湯
+-
+    id: 70
+    name: 倉見温泉 ウェルピア倉見
+    url: http://www2.spacelan.ne.jp/~welpia/
+    map: https://maps.google.com/?cid=9562302658159033839&hl=ja
+    address: 石川県河北郡津幡町字倉見ソ1
+    price: 400
+    lat: 36.6768136
+    lng: 136.7603089
+    type: 温泉
+-
+    id: 71
+    name: こんぴら浴泉
+    url: https://ishikawa1010.com/bath/35/
+    map: https://maps.google.com/?cid=7892389209817278990&hl=ja
+    address: 石川県羽咋市大川町2-63
+    price: 440
+    lat: 36.9028989
+    lng: 136.7779704
+    type: 銭湯
+-
+    id: 72
+    name: 健康増進センターアスロン
+    url: http://athlon.sakura.ne.jp/
+    map: https://maps.google.com/?cid=8813021376131393617&hl=ja
+    address: 石川県七尾市高田町ち10
+    price: 500
+    lat: 37.0552366
+    lng: 136.8972429
+    type: 温泉
+-
+    id: 73
+    name: 加賀八幡温泉総湯
+    url: https://ishikawa1010.com/bath/27/
+    map: https://maps.google.com/?cid=7845277637855219953&hl=ja
+    address: 石川県小松市八幡イ14-4
+    price: 440
+    lat: 36.3927398
+    lng: 136.4909421
+    type: 銭湯
+-
+    id: 74
+    name: 穴水湯ったり館
+    url: http://www.notozi.com/2manai.htm
+    map: https://maps.google.com/?cid=16547789440630042638&hl=ja
+    address: 石川県鳳珠郡穴水町川島井61-1
+    price: 510
+    lat: 37.2230247
+    lng: 136.918343
+    type: 温泉
+-
+    id: 75
+    name: 上矢田温泉 やたの湯
+    url: http://yatanoyu.sakura.ne.jp/
+    map: https://maps.google.com/?cid=302146661170761017&hl=ja
+    address: 石川県河北郡津幡町字上矢田ハ22
+    price: 500
+    lat: 36.7069984
+    lng: 136.7482179
+    type: 温泉
+-
+    id: 76
+    name: いきいきランドかが aim BS
+    url: https://www.fitness-aim.com/institution-09/
+    map: https://maps.google.com/?cid=18268022971659886887&hl=ja
+    address: 石川県加賀市熊坂町乙1-1
+    price: 580
+    lat: 36.2857609
+    lng: 136.2915787
+    type: 温泉
+-
+    id: 77
+    name: 大門温泉センター
+    url: http://www.hakusan-spa.com/c6035.html
+    map: https://maps.google.com/?cid=2864656711405432528&hl=ja
+    address: 石川県白山市佐良ニ136
+    price: 370
+    lat: 36.3238742
+    lng: 136.6468905
+    type: 温泉
+-
+    id: 78
+    name: 辰口福祉会館 ふるさと温泉
+    url: http://www.nomi-furusato-kousha.jp/facilities/index.html
+    map: https://maps.google.com/?cid=14834712959291548884&hl=ja
+    address: 石川県能美市辰口町ヌ10
+    price: 200
+    lat: 36.4439634
+    lng: 136.5478246
+    type: 温泉
+-
+    id: 79
+    name: Ｚささのゆ
+    url: https://ishikawa1010.com/bath/2/
+    map: https://maps.google.com/?cid=6610659226097435753&hl=ja
+    address: 石川県金沢市泉野町3-18-16
+    price: 440
+    lat: 36.5466065
+    lng: 136.6513149
+    type: 銭湯
+-
+    id: 80
+    name: 山中温泉 菊の湯第二
+    url: 
+    map: https://maps.google.com/?cid=7836860815445836682&hl=ja
+    address: 石川県加賀市山中温泉長谷田町リ-391
+    price: 440
+    lat: 36.2650648
+    lng: 136.361261
+    type: 共同浴場・銭湯
+-
+    id: 81
+    name: 角湯
+    url: https://ishikawa1010.com/bath/25/
+    map: https://maps.google.com/?cid=18380501110411952835&hl=ja
+    address: 石川県小松市向本折町己221-3
+    price: 440
+    lat: 36.3964411
+    lng: 136.4165966
+    type: 銭湯
+-
+    id: 82
+    name: 健康ハウス憩
+    url: https://www.hot-ishikawa.jp/spot/5281
+    map: https://maps.google.com/?cid=11383548976921875680&hl=ja
+    address: 石川県鹿島郡中能登町金丸143
+    price: 400
+    lat: 36.9542428
+    lng: 136.8555671
+    type: 温泉
+-
+    id: 83
+    name: ジョイアクロス
+    url: https://www.konami.com/sportsclub/trust/joyacross/
+    map: https://maps.google.com/?cid=6613721319850665061&hl=ja
+    address: 石川県かほく市内高松212
+    price: 630
+    lat: 36.7657049
+    lng: 136.7375127
+    type: 温泉
+-
+    id: 84
+    name: 太子温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=6171451889556502387&hl=ja
+    address: 石川県加賀市直下町カ1
+    price: 400
+    lat: 36.2756415
+    lng: 136.328113
+    type: 共同浴場・銭湯
+-
+    id: 85
+    name: 老人福祉センター 山せみ荘
+    url: https://www.hot-ishikawa.jp/spot/5273
+    map: https://maps.google.com/?cid=5690975353275183772&hl=ja
+    address: 石川県鳳珠郡能登町黒川33-70
+    price: 410
+    lat: 37.3654982
+    lng: 137.0415341
+    type: 温泉
+-
+    id: 86
+    name: 山代温泉 総湯
+    url: http://tabimati.net/midokoro/detail_kanko.php?p=3172
+    map: https://maps.google.com/?cid=15521700185794387623&hl=ja
+    address: 石川県加賀市山代温泉万松園通2-1
+    price: 440
+    lat: 36.2884783
+    lng: 136.3612483
+    type: 共同浴場・銭湯
+-
+    id: 87
+    name: 宝湯
+    url: https://ishikawa1010.com/bath/43/
+    map: https://maps.google.com/?cid=12893302577362446238&hl=ja
+    address: 石川県珠洲市宝立町鵜飼2-16-1
+    price: 440
+    lat: 37.4028085
+    lng: 137.2411489
+    type: 銭湯
+-
+    id: 88
+    name: 能美市寺井老人福祉センター  亀齢荘
+    url: https://www.hot-ishikawa.jp/spot/6191
+    map: https://maps.google.com/?cid=7806541991120990312&hl=ja
+    address: 石川県能美市湯谷町乙25
+    price: 100
+    lat: 36.43466770000001
+    lng: 136.5204402
+    type: 温泉
+-
+    id: 89
+    name: 木場温泉
+    url: https://ishikawa1010.com/bath/29/
+    map: https://maps.google.com/?cid=7891363361575972882&hl=ja
+    address: 石川県小松市木場町む20
+    price: 440
+    lat: 36.3603176
+    lng: 136.4507577
+    type: 銭湯
+-
+    id: 90
+    name: 瓢箪湯
+    url: https://ishikawa1010.com/bath/11/
+    map: https://maps.google.com/?cid=2654384131762226932&hl=ja
+    address: 石川県金沢市瓢箪町1-7
+    price: 440
+    lat: 36.57649869999999
+    lng: 136.6565328
+    type: 銭湯
+-
+    id: 91
+    name: 宝湯
+    url: https://ishikawa1010.com/bath/38/
+    map: https://maps.google.com/?cid=944015218393751537&hl=ja
+    address: 石川県七尾市木町28
+    price: 440
+    lat: 37.0489792
+    lng: 136.9619691
+    type: 銭湯
+-
+    id: 92
+    name: 勝崎の湯
+    url: https://ishikawa1010.com/bath/37/
+    map: https://maps.google.com/?cid=8848802694514416420&hl=ja
+    address: 石川県河北郡津幡町字庄イ2-1
+    price: 440
+    lat: 36.6735499
+    lng: 136.730532
+    type: 銭湯
+-
+    id: 93
+    name: 寺井湯
+    url: https://ishikawa1010.com/bath/30/
+    map: https://maps.google.com/?cid=8488761921584490720&hl=ja
+    address: 石川県能美市寺井町タ227
+    price: 440
+    lat: 36.4378174
+    lng: 136.4939073
+    type: 銭湯
+-
+    id: 94
+    name: 万才湯
+    url: https://ishikawa1010.com/bath/23/
+    map: https://maps.google.com/?cid=8059384424260753073&hl=ja
+    address: 石川県小松市茶屋町リ112
+    price: 440
+    lat: 36.4174
+    lng: 136.4540591
+    type: 銭湯
+-
+    id: 95
+    name: 常盤湯
+    url: https://ishikawa1010.com/bath/50/
+    map: https://maps.google.com/?cid=1090277196692542233&hl=ja
+    address: 石川県輪島市鳳至町鳳至丁42-2
+    price: 440
+    lat: 37.3987819
+    lng: 136.897561
+    type: 銭湯
+-
+    id: 96
+    name: 湊湯
+    url: https://ishikawa1010.com/bath/45/
+    map: https://maps.google.com/?cid=302825386062170526&hl=ja
+    address: 石川県鳳珠郡能登町字宇出津新32-1
+    price: 440
+    lat: 37.3080995
+    lng: 137.1484174
+    type: 銭湯
+-
+    id: 97
+    name: ことぶき湯
+    url: https://ishikawa1010.com/bath/42/
+    map: https://maps.google.com/?cid=4699089803735005170&hl=ja
+    address: 石川県七尾市阿良町20
+    price: 440
+    lat: 37.0471555
+    lng: 136.9634807
+    type: 銭湯
+-
+    id: 98
+    name: 川辺湯
+    url: https://ishikawa1010.com/bath/24/
+    map: https://maps.google.com/?cid=6859534399899055342&hl=ja
+    address: 石川県小松市川辺町3-61
+    price: 440
+    lat: 36.4130228
+    lng: 136.4760774
+    type: 銭湯
+-
+    id: 99
+    name: あづま湯
+    url: https://ishikawa1010.com/bath/1/
+    map: https://maps.google.com/?cid=5673001950508488678&hl=ja
+    address: 石川県金沢市金石北1-7-1
+    price: 440
+    lat: 36.6047016
+    lng: 136.5948552
+    type: 銭湯
+-
+    id: 100
+    name: 末広湯
+    url: https://ishikawa1010.com/bath/47/
+    map: https://maps.google.com/?cid=4730812461278226219&hl=ja
+    address: 石川県輪島市河井町5-236
+    price: 440
+    lat: 37.3945455
+    lng: 136.9084808
+    type: 銭湯
+-
+    id: 101
+    name: 女原老人憩の家
+    url: http://shizenjin.net/guide/onsen/ishikawa/onahara.html
+    map: https://maps.google.com/?cid=1838235652268394987&hl=ja
+    address: 石川県白山市女原ホ60
+    price: 370
+    lat: 36.2786635
+    lng: 136.6472354
+    type: 銭湯
+-
+    id: 102
+    name: 弁天湯
+    url: https://ishikawa1010.com/bath/41/
+    map: https://maps.google.com/?cid=9961422755363995845&hl=ja
+    address: 石川県七尾市石崎町ハ33番甲
+    price: 440
+    lat: 37.0766046
+    lng: 136.9341657
+    type: 銭湯
+-
+    id: 103
+    name: こばし湯
+    url: https://ishikawa1010.com/bath/13/
+    map: https://maps.google.com/?cid=10255130627913812105&hl=ja
+    address: 石川県金沢市東山3-16-3
+    price: 440
+    lat: 36.5757744
+    lng: 136.6620062
+    type: 銭湯
+-
+    id: 104
+    name: 千代野温泉
+    url: https://ishikawa1010.com/bath/34/
+    map: https://maps.google.com/maps?q=36.515809,136.541413
+    address: 石川県白山市米永町275-1
+    price: 440
+    lat: 36.5157592
+    lng: 136.5414108
+    type: 銭湯

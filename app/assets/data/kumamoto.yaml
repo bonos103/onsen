@@ -1,0 +1,1851 @@
+---
+-
+    id: 1
+    name: 玉名温泉 つかさの湯
+    url: http://www.tsukasanoyu.jp/
+    map: https://maps.google.com/?cid=17929762370575582465&hl=ja
+    address: 熊本県玉名市立願寺656-1
+    price: 750
+    lat: 32.9387104
+    lng: 130.5559841
+    type: 温泉
+-
+    id: 2
+    name: あしはらの湯
+    url: https://kuma1010.com/custom/403
+    map: https://maps.google.com/?cid=18040538992588153754&hl=ja
+    address: 熊本県熊本市北区植木町田底2031-1
+    price: 400
+    lat: 32.9691602
+    lng: 130.7247085
+    type: 銭湯
+-
+    id: 3
+    name: 湯らっくす ゲンキスクエア
+    url: https://www.yulax.info/
+    map: https://maps.google.com/?cid=12903535130132858699&hl=ja
+    address: 熊本県熊本市中央区本荘町722
+    price: 590
+    lat: 32.785363
+    lng: 130.7023882
+    type: 温泉
+-
+    id: 4
+    name: 山鹿温泉 さくら湯
+    url: https://yamaga.site/?page_id=1548
+    map: https://maps.google.com/?cid=11248740542352054193&hl=ja
+    address: 熊本県山鹿市山鹿1-1
+    price: 350
+    lat: 33.0144068
+    lng: 130.6889973
+    type: 温泉
+-
+    id: 5
+    name: はげの湯温泉 くぬぎ湯
+    url: https://www.kunugiyu.com/
+    map: https://maps.google.com/?cid=10338465989771767002&hl=ja
+    address: 熊本県阿蘇郡小国町西里2978
+    price: 1000
+    lat: 33.153296
+    lng: 131.1376194
+    type: 温泉
+-
+    id: 6
+    name: 菊南温泉スパリゾート あがんなっせ
+    url: http://agannasse-spa.jp/
+    map: https://maps.google.com/?cid=14265724415199355708&hl=ja
+    address: 熊本県熊本市北区鶴羽田3-10-1
+    price: 1280
+    lat: 32.8597174
+    lng: 130.7281065
+    type: 温泉
+-
+    id: 7
+    name: 石段の郷 佐俣の湯
+    url: http://samatanoyu-misato.jp/
+    map: https://maps.google.com/?cid=370763398073679195&hl=ja
+    address: 熊本県下益城郡美里町佐俣705
+    price: 500
+    lat: 32.623509
+    lng: 130.8224932
+    type: 温泉
+-
+    id: 8
+    name: 阿蘇白水温泉 瑠璃
+    url: https://ruri.aso-hakusui.com/spa
+    map: https://maps.google.com/?cid=15703331348504381857&hl=ja
+    address: 熊本県阿蘇郡南阿蘇村一関1260-1
+    price: 400
+    lat: 32.8350438
+    lng: 131.0694373
+    type: 温泉
+-
+    id: 9
+    name: 水辺プラザかもと 湯花里
+    url: http://www.mizube-plaza.co.jp/facility/yukaridetail.html
+    map: https://maps.google.com/?cid=5769437093517800582&hl=ja
+    address: 熊本県山鹿市鹿本町梶屋1257
+    price: 390
+    lat: 32.987249
+    lng: 130.7556306
+    type: 温泉
+-
+    id: 10
+    name: 天然温泉 一休
+    url: http://www.19-onsen.com/
+    map: https://maps.google.com/?cid=4004173762461016398&hl=ja
+    address: 熊本県熊本市東区佐土原2-2-1
+    price: 580
+    lat: 32.7903578
+    lng: 130.7760856
+    type: 温泉
+-
+    id: 11
+    name: 七城温泉ドーム
+    url: http://www.onsendome.com/
+    map: https://maps.google.com/?cid=16119767915060575950&hl=ja
+    address: 熊本県菊池市七城町林原962-1
+    price: 330
+    lat: 32.9618643
+    lng: 130.7498728
+    type: 温泉
+-
+    id: 12
+    name: つる乃湯(熊本インター店)
+    url: http://tsurunoyu-onsen.com/kumamoto.html
+    map: https://maps.google.com/?cid=4851655097340997998&hl=ja
+    address: 熊本県熊本市東区石原2-4-11
+    price: 400
+    lat: 32.8422485
+    lng: 130.7812768
+    type: 温泉
+-
+    id: 13
+    name: 下大谷温泉 大谷の湯
+    url: https://seiseikai.net/general
+    map: https://maps.google.com/?cid=10425281630809803883&hl=ja
+    address: 熊本県菊池郡菊陽町原水下大谷3880-14
+    price: 580
+    lat: 32.89308570000001
+    lng: 130.8419259
+    type: 温泉
+-
+    id: 14
+    name: 草枕温泉 てんすい
+    url: http://www.kusamakura.jp/kusa_on/
+    map: https://maps.google.com/?cid=5788629140183628837&hl=ja
+    address: 熊本県玉名市天水町小天511-1
+    price: 500
+    lat: 32.8516203
+    lng: 130.5921117
+    type: 温泉
+-
+    id: 15
+    name: 天然温泉 ばってんの湯
+    url: http://www.battennoyu.com/
+    map: https://maps.google.com/?cid=2222814540225109995&hl=ja
+    address: 熊本県熊本市東区江津3-5-17
+    price: 580
+    lat: 32.7755788
+    lng: 130.7382037
+    type: 温泉
+-
+    id: 16
+    name: 大福湯
+    url: https://kuma1010.com/custom/399
+    map: https://maps.google.com/?cid=6687530805763811208&hl=ja
+    address: 熊本県熊本市中央区坪井2-5-28
+    price: 400
+    lat: 32.8102411
+    lng: 130.7125676
+    type: 銭湯
+-
+    id: 17
+    name: 幸福温泉
+    url: 
+    map: https://maps.google.com/?cid=13506981510181895565&hl=ja
+    address: 熊本県人吉市古仏頂町1408-1
+    price: 300
+    lat: 32.17598290000001
+    lng: 130.7646378
+    type: 銭湯
+-
+    id: 18
+    name: 熊本城天然温泉 城の湯
+    url: https://www.shironoyu.co.jp/
+    map: https://maps.google.com/?cid=10145358541515155978&hl=ja
+    address: 熊本県熊本市西区上熊本2-8-43
+    price: 600
+    lat: 32.81076910000001
+    lng: 130.701458
+    type: 温泉
+-
+    id: 19
+    name: 天然温泉 ぶぶたん
+    url: http://www.ootsuka-group.co.jp/original7.html
+    map: https://maps.google.com/?cid=8598332788879089834&hl=ja
+    address: 熊本県熊本市東区戸島2-2-1
+    price: 400
+    lat: 32.8159476
+    lng: 130.7926555
+    type: 温泉
+-
+    id: 20
+    name: 隠れ家温泉 古保山リゾート
+    url: http://www.kohyamaresort.com/
+    map: https://maps.google.com/?cid=10527419153527619123&hl=ja
+    address: 熊本県宇城市松橋町古保山97-1
+    price: 550
+    lat: 32.6693044
+    lng: 130.707123
+    type: 温泉
+-
+    id: 21
+    name: 上天草市交流センター スパ・タラソ天草
+    url: https://www.spa-thalasso.jp/
+    map: https://maps.google.com/?cid=10327354069189788111&hl=ja
+    address: 熊本県上天草市大矢野町上732-14
+    price: 500
+    lat: 32.5793902
+    lng: 130.4182818
+    type: 温泉
+-
+    id: 22
+    name: 岳の湯 地獄谷温泉 裕花
+    url: http://yu-ka.info/
+    map: https://maps.google.com/?cid=1205380082255824556&hl=ja
+    address: 熊本県阿蘇郡小国町北里天句松1800-33
+    price: 600
+    lat: 33.1586086
+    lng: 131.1207364
+    type: 温泉
+-
+    id: 23
+    name: リップルランド さざ波の湯
+    url: http://rippleland.com/sazanaminoyu.html
+    map: https://maps.google.com/?cid=17822359487467880430&hl=ja
+    address: 熊本県天草市有明町上津浦1955
+    price: 500
+    lat: 32.5050985
+    lng: 130.3060024
+    type: 温泉
+-
+    id: 24
+    name: 山鹿温泉 サンパレス松坂
+    url: http://www.sunpalace-matsuzaka.com/
+    map: https://maps.google.com/?cid=13442701787975256556&hl=ja
+    address: 熊本県山鹿市山鹿1104
+    price: 300
+    lat: 33.0203711
+    lng: 130.6884465
+    type: 銭湯
+-
+    id: 25
+    name: 平山温泉 日帰りスパ フローラ
+    url: http://www.hirayama-flora.jp/
+    map: https://maps.google.com/?cid=8794172537943138474&hl=ja
+    address: 熊本県山鹿市平山5235
+    price: 650
+    lat: 33.0542568
+    lng: 130.6600209
+    type: 温泉
+-
+    id: 26
+    name: ならのさこ温泉 いやしの湯
+    url: https://www.naranosako.com
+    map: https://maps.google.com/?cid=6057763280831112380&hl=ja
+    address: 熊本県山鹿市鹿校通2-5-9
+    price: 550
+    lat: 33.010672
+    lng: 130.7013987
+    type: 温泉
+-
+    id: 27
+    name: 合志市総合健康センター ユーパレス弁天
+    url: http://www.u-benten.jp/
+    map: https://maps.google.com/?cid=8226376096796172878&hl=ja
+    address: 熊本県合志市野々島2441-1
+    price: 400
+    lat: 32.892672
+    lng: 130.7321727
+    type: 温泉
+-
+    id: 28
+    name: 温泉邸 湯～庵
+    url: http://yu-an.info/
+    map: https://maps.google.com/?cid=9577954135010768925&hl=ja
+    address: 熊本県熊本市北区植木町亀甲1526-1
+    price: 1300
+    lat: 32.9354225
+    lng: 130.7250939
+    type: 温泉
+-
+    id: 29
+    name: 日奈久温泉センター ばんぺい湯
+    url: http://www.hinagu-spa.com
+    map: https://maps.google.com/?cid=7842676739188976004&hl=ja
+    address: 熊本県八代市日奈久中町316
+    price: 520
+    lat: 32.4323515
+    lng: 130.5752006
+    type: 温泉
+-
+    id: 30
+    name: 温泉の郷 山鹿どんぐり村
+    url: https://www.dongurimura.info/
+    map: https://maps.google.com/?cid=533722203414641403&hl=ja
+    address: 熊本県山鹿市久原3905
+    price: 450
+    lat: 33.0210808
+    lng: 130.711969
+    type: 温泉
+-
+    id: 31
+    name: 麻生釣温泉 亀山の湯
+    url: http://kamespa.com/
+    map: https://maps.google.com/?cid=2164288355638183654&hl=ja
+    address: 熊本県阿蘇郡小国町西里麻生釣2053-53
+    price: 1000
+    lat: 33.1786868
+    lng: 131.1169058
+    type: 温泉
+-
+    id: 32
+    name: 平山温泉 華の番台
+    url: http://hananobandai.com/
+    map: https://maps.google.com/?cid=15215105398854303761&hl=ja
+    address: 熊本県山鹿市平山陣ノ内4998
+    price: 400
+    lat: 33.0565326
+    lng: 130.6557132
+    type: 温泉
+-
+    id: 33
+    name: なごみ温泉 やすらぎの湯
+    url: https://www.nagomionsen.com
+    map: https://maps.google.com/?cid=1382331085845267123&hl=ja
+    address: 熊本県宇城市小川町北新田5-1
+    price: 550
+    lat: 32.5991599
+    lng: 130.7032592
+    type: 温泉
+-
+    id: 34
+    name: 嘉島湯元 水春
+    url: https://suisyun.jp/kashima/
+    map: https://maps.google.com/?cid=14420777488399205969&hl=ja
+    address: 熊本県上益城郡嘉島町上島字長池2232
+    price: 610
+    lat: 32.7376379
+    lng: 130.7454151
+    type: 温泉
+-
+    id: 35
+    name: 家族湯 はなみずき
+    url: https://hanamizuki.in/
+    map: https://maps.google.com/?cid=15909552690010392404&hl=ja
+    address: 熊本県熊本市北区植木町平井987-1
+    price: 1600
+    lat: 32.941102
+    lng: 130.72589
+    type: 温泉
+-
+    id: 36
+    name: 植木温泉 星の湯
+    url: http://www.hosinoyu.com/
+    map: https://maps.google.com/?cid=1903671276477853341&hl=ja
+    address: 熊本県熊本市北区植木町有泉821
+    price: 580
+    lat: 32.9135266
+    lng: 130.7092743
+    type: 温泉
+-
+    id: 37
+    name: 荒尾温泉 ドリームの湯
+    url: http://www.heiseikai.jp/health/dream_yu/
+    map: https://maps.google.com/?cid=5686304655427385680&hl=ja
+    address: 熊本県荒尾市水野1534-1
+    price: 650
+    lat: 32.961895
+    lng: 130.44935
+    type: 温泉
+-
+    id: 38
+    name: 辰頭温泉
+    url: https://ja-jp.facebook.com/tatsugashira/
+    map: https://maps.google.com/?cid=6219289670186714298&hl=ja
+    address: 熊本県菊池市泗水町田島620-1
+    price: 300
+    lat: 32.9320815
+    lng: 130.7391142
+    type: 温泉
+-
+    id: 39
+    name: つなぎ温泉 四季彩
+    url: http://www.town.tsunagi.lg.jp/shikisai/
+    map: https://maps.google.com/?cid=2058384245580217690&hl=ja
+    address: 熊本県葦北郡津奈木町岩城435
+    price: 400
+    lat: 32.2325199
+    lng: 130.4561633
+    type: 温泉
+-
+    id: 40
+    name: 平山温泉 元湯
+    url: https://yamaga-tanbou.jp/spot/1877/
+    map: https://maps.google.com/?cid=11105021215442434791&hl=ja
+    address: 熊本県山鹿市平山256
+    price: 300
+    lat: 33.0497272
+    lng: 130.6532198
+    type: 共同浴場・銭湯
+-
+    id: 41
+    name: 杖立温泉 観音岩温泉
+    url: https://tsuetate-onsen.com/Facilities/251
+    map: https://maps.google.com/?cid=7851870817513349952&hl=ja
+    address: 熊本県阿蘇郡小国町下城杖立4111
+    price: 1000
+    lat: 33.1758632
+    lng: 131.0369945
+    type: 温泉
+-
+    id: 42
+    name: 阿蘇乙姫温泉 湯ら癒ら
+    url: http://www.kosugiresort.com/yurayura/
+    map: https://maps.google.com/?cid=15605745924587198715&hl=ja
+    address: 熊本県阿蘇市乙姫2052-3
+    price: 1650
+    lat: 32.9335027
+    lng: 131.0413029
+    type: 温泉
+-
+    id: 43
+    name: 大野温泉センター
+    url: http://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/oonoonsen/oonoonsen.html
+    map: https://maps.google.com/?cid=5074391196125858438&hl=ja
+    address: 熊本県葦北郡芦北町天月1000
+    price: 300
+    lat: 32.2897286
+    lng: 130.5823262
+    type: 温泉
+-
+    id: 44
+    name: 相良路の湯 おおが
+    url: 
+    map: https://maps.google.com/?cid=17624591869985030441&hl=ja
+    address: 熊本県人吉市灰久保町21
+    price: 350
+    lat: 32.2088311
+    lng: 130.7557076
+    type: 共同浴場・銭湯
+-
+    id: 45
+    name: 湯亭 上弦の月
+    url: https://www.jougennotsuki.com/
+    map: https://maps.google.com/?cid=14919760698482059243&hl=ja
+    address: 熊本県玉名郡和水町大田黒310-1
+    price: 1800
+    lat: 33.0401103
+    lng: 130.6150392
+    type: 温泉
+-
+    id: 46
+    name: つる乃湯(八代店)
+    url: http://tsurunoyu-onsen.com/yatsushiro.html
+    map: https://maps.google.com/?cid=10810347000213743311&hl=ja
+    address: 熊本県八代市川田町西505
+    price: 400
+    lat: 32.5144546
+    lng: 130.6515789
+    type: 温泉
+-
+    id: 47
+    name: 火の山温泉 どんどこ湯
+    url: https://dondokonoyu.jp/
+    map: https://maps.google.com/?cid=14563972116023518801&hl=ja
+    address: 熊本県阿蘇郡南阿蘇村下野135-1
+    price: 620
+    lat: 32.9041022
+    lng: 130.9904191
+    type: 温泉
+-
+    id: 48
+    name: みふね観音温泉 華ほたる
+    url: http://hana-hotaru.com/
+    map: https://maps.google.com/?cid=12345779593010651590&hl=ja
+    address: 熊本県上益城郡御船町辺田見840-3
+    price: 500
+    lat: 32.7146034
+    lng: 130.8112839
+    type: 温泉
+-
+    id: 49
+    name: 湯処 風月
+    url: http://fu-getu.com/ofuro.html
+    map: https://maps.google.com/?cid=6119485866876356808&hl=ja
+    address: 熊本県山鹿市平山5955
+    price: 1500
+    lat: 33.055877
+    lng: 130.66113
+    type: 温泉
+-
+    id: 50
+    name: とよみずの湯
+    url: https://www.toyomizunoyu.com/
+    map: https://maps.google.com/?cid=2239515089619681146&hl=ja
+    address: 熊本県菊池市泗水町豊水3575
+    price: 350
+    lat: 32.9237405
+    lng: 130.7694202
+    type: 温泉
+-
+    id: 51
+    name: 守護陣温泉
+    url: http://www.at-ml.jp/?in=57832/
+    map: https://maps.google.com/?cid=13872905577330585119&hl=ja
+    address: 熊本県阿蘇郡小国町西里3160
+    price: 1600
+    lat: 33.16511750000001
+    lng: 131.0897913
+    type: 温泉
+-
+    id: 52
+    name: 一勝地温泉 かわせみ
+    url: http://kawasemi-onsen.kbz.jp/
+    map: https://maps.google.com/?cid=16455081631296021053&hl=ja
+    address: 熊本県球磨郡球磨村一勝地乙39-2
+    price: 400
+    lat: 32.2419418
+    lng: 130.6458713
+    type: 温泉
+-
+    id: 53
+    name: 家族湯 七城の森
+    url: https://www.higonavi.net/shop/shop.shtml?s=2187
+    map: https://maps.google.com/?cid=15918371806776045614&hl=ja
+    address: 熊本県菊池市七城町亀尾1491-1
+    price: 1000
+    lat: 32.9503907
+    lng: 130.762029
+    type: 温泉
+-
+    id: 54
+    name: 天草下田温泉 白鷺館
+    url: http://shirasagikan.net/
+    map: https://maps.google.com/?cid=11672737895685600630&hl=ja
+    address: 熊本県天草市天草町下田北1290-1
+    price: 500
+    lat: 32.4248999
+    lng: 130.0112167
+    type: 温泉
+-
+    id: 55
+    name: 露天湯 椛
+    url: https://yamaga-tanbou.jp/spot/1485/
+    map: https://maps.google.com/?cid=3246655826001732431&hl=ja
+    address: 熊本県山鹿市中1326-11
+    price: 1500
+    lat: 33.0173035
+    lng: 130.7108069
+    type: 温泉
+-
+    id: 56
+    name: 東陽交流センター せせらぎ
+    url: http://www.toyo-seseragi.com/
+    map: https://maps.google.com/?cid=4340224760967027325&hl=ja
+    address: 熊本県八代市東陽町南1051-1
+    price: 500
+    lat: 32.5478147
+    lng: 130.7157778
+    type: 温泉
+-
+    id: 57
+    name: 宝田温泉 宝の湯
+    url: 
+    map: https://maps.google.com/?cid=9260434280061488344&hl=ja
+    address: 熊本県熊本市北区植木町宝田1641
+    price: 300
+    lat: 32.9046053
+    lng: 130.6924049
+    type: 温泉
+-
+    id: 58
+    name: 天草市総合交流施設 天然温泉 愛夢里
+    url: http://www.amuri-onsen.com/
+    map: https://maps.google.com/?cid=14217064718341090862&hl=ja
+    address: 熊本県天草市河浦町河浦4747-1
+    price: 500
+    lat: 32.3295622
+    lng: 130.0740375
+    type: 温泉
+-
+    id: 59
+    name: 白岩温泉家族風呂
+    url: https://tsuetate-onsen.com/Facilities/250
+    map: https://maps.google.com/?cid=11993639470199607500&hl=ja
+    address: 熊本県阿蘇郡小国町下城杖立4111
+    price: 600
+    lat: 33.1758632
+    lng: 131.0369945
+    type: 温泉
+-
+    id: 60
+    name: 華まき温泉
+    url: 
+    map: https://maps.google.com/?cid=3455687451358371980&hl=ja
+    address: 熊本県人吉市下原田町1518
+    price: 400
+    lat: 32.2306112
+    lng: 130.723461
+    type: 温泉
+-
+    id: 61
+    name: 宇土市健康福祉館 あじさいの湯
+    url: https://www.city.uto.kumamoto.jp/q/aview/85/1141.html
+    map: https://maps.google.com/?cid=11153273185371669525&hl=ja
+    address: 熊本県宇土市網津町2283
+    price: 400
+    lat: 32.6892015
+    lng: 130.5982511
+    type: 温泉
+-
+    id: 62
+    name: 新温泉
+    url: 
+    map: https://maps.google.com/?cid=3527916190452189155&hl=ja
+    address: 熊本県人吉市紺屋町80-2
+    price: 300
+    lat: 32.214226
+    lng: 130.757212
+    type: 共同浴場・銭湯
+-
+    id: 63
+    name: 家族温泉 湯の川
+    url: https://www.yunokawa-hirayama.jp/
+    map: https://maps.google.com/?cid=8522302587929970840&hl=ja
+    address: 熊本県山鹿市小群327-1
+    price: 1800
+    lat: 33.0457668
+    lng: 130.6629855
+    type: 温泉
+-
+    id: 64
+    name: さんふれあ さんさんの湯
+    url: http://www.sanfurea.co.jp/
+    map: https://maps.google.com/?cid=16612485030851277750&hl=ja
+    address: 熊本県菊池郡菊陽町原水5359
+    price: 400
+    lat: 32.8684583
+    lng: 130.8055364
+    type: 温泉
+-
+    id: 65
+    name: 人吉温泉元湯
+    url: 
+    map: https://maps.google.com/?cid=9749148636215327824&hl=ja
+    address: 熊本県人吉市麓町9
+    price: 200
+    lat: 32.2092686
+    lng: 130.7632272
+    type: 共同浴場・銭湯
+-
+    id: 66
+    name: 玉名温泉家族風呂 純乃時 湯願
+    url: http://yu-gan.com/
+    map: https://maps.google.com/?cid=7222429759195611239&hl=ja
+    address: 熊本県玉名市岩崎字高津原355
+    price: 2000
+    lat: 32.93769
+    lng: 130.559543
+    type: 温泉
+-
+    id: 67
+    name: 南阿蘇村温泉センター ウィナス
+    url: http://www.uinasu.co.jp/
+    map: https://maps.google.com/?cid=16341662185192177951&hl=ja
+    address: 熊本県阿蘇郡南阿蘇村河陽4530
+    price: 400
+    lat: 32.8711522
+    lng: 131.0063952
+    type: 温泉
+-
+    id: 68
+    name: 癒しの森 ゆ〜かむ
+    url: https://comhits2014.wixsite.com/yukamu
+    map: https://maps.google.com/?cid=8225255593845304046&hl=ja
+    address: 熊本県山鹿市鹿北町椎持5-2
+    price: 400
+    lat: 33.116016
+    lng: 130.7012546
+    type: 温泉
+-
+    id: 69
+    name: アゼリア21 長者乃湯
+    url: http://www.aso-azalea21.com/
+    map: https://maps.google.com/?cid=8573416775912500829&hl=ja
+    address: 熊本県阿蘇市一の宮町宮地5812
+    price: 400
+    lat: 32.9289264
+    lng: 131.1109649
+    type: 温泉
+-
+    id: 70
+    name: 奴留湯温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=4367171704780057999&hl=ja
+    address: 熊本県阿蘇郡小国町北里2284
+    price: 200
+    lat: 33.1410399
+    lng: 131.1017463
+    type: 共同浴場・銭湯
+-
+    id: 71
+    name: 人吉温泉 貸切湯 癒しの杜
+    url: http://iyashi.hayaplan.co.jp/room
+    map: https://maps.google.com/?cid=3694225436858226922&hl=ja
+    address: 熊本県人吉市鬼木町1008
+    price: 1300
+    lat: 32.2257499
+    lng: 130.7681649
+    type: 温泉
+-
+    id: 72
+    name: 黒川日帰り温泉 彩もみぢ
+    url: http://www.iromomiji.com/
+    map: https://maps.google.com/?cid=9681083750648707533&hl=ja
+    address: 熊本県阿蘇郡南小国町満願寺6777
+    price: 500
+    lat: 33.0742461
+    lng: 131.1300697
+    type: 温泉
+-
+    id: 73
+    name: 宮苑温泉
+    url: https://yamaga-tanbou.jp/spot/1892/
+    map: https://maps.google.com/?cid=3158494227083873577&hl=ja
+    address: 熊本県山鹿市下吉田店田646-2
+    price: 300
+    lat: 33.024648
+    lng: 130.6908596
+    type: 温泉
+-
+    id: 74
+    name: 菊水ロマン舘
+    url: http://kikusuiromankan.jp/
+    map: https://maps.google.com/?cid=5277766222268688912&hl=ja
+    address: 熊本県玉名郡和水町江田455
+    price: 300
+    lat: 32.9733008
+    lng: 130.6022297
+    type: 温泉
+-
+    id: 75
+    name: 亀の甲温泉
+    url: https://kamenokouonsen.com/
+    map: https://maps.google.com/?cid=6721666411149096567&hl=ja
+    address: 熊本県菊池市泗水町田島1773
+    price: 300
+    lat: 32.9385643
+    lng: 130.7457722
+    type: 温泉
+-
+    id: 76
+    name: 天然温泉 きしゃぽっぽ
+    url: http://www.popopo.jp/
+    map: https://maps.google.com/?cid=9604822185592986159&hl=ja
+    address: 熊本県合志市野々島5635-1
+    price: 1000
+    lat: 32.886364
+    lng: 130.7308157
+    type: 温泉
+-
+    id: 77
+    name: 天然いで湯の里 野の湯
+    url: 
+    map: https://maps.google.com/?cid=3491147713497785173&hl=ja
+    address: 熊本県菊池市泗水町富納161-1
+    price: 1400
+    lat: 32.9335717
+    lng: 130.8024039
+    type: 温泉
+-
+    id: 78
+    name: 栗山温泉 紅さんざし
+    url: http://www.benisanzashi.jp/
+    map: https://maps.google.com/?cid=16924106312562509670&hl=ja
+    address: 熊本県玉名郡和水町大田黒松ヶ本284
+    price: 1800
+    lat: 33.0394676
+    lng: 130.6117962
+    type: 温泉
+-
+    id: 79
+    name: 御立岬温泉センター
+    url: http://www.otachimisaki.com/park/hotspring.html
+    map: https://maps.google.com/?cid=14048754772032369984&hl=ja
+    address: 熊本県葦北郡芦北町田浦町124
+    price: 500
+    lat: 32.3667285
+    lng: 130.4933648
+    type: 温泉
+-
+    id: 80
+    name: しすいラドン温泉
+    url: 
+    map: https://maps.google.com/?cid=5023666811374572355&hl=ja
+    address: 熊本県菊池市泗水町吉富2865-8
+    price: 250
+    lat: 32.9313008
+    lng: 130.7746433
+    type: 温泉
+-
+    id: 81
+    name: 天草市牛深温泉センター やすらぎの湯
+    url: https://www.higonavi.net/shop/shop.shtml?s=2026
+    map: https://maps.google.com/?cid=11096997379062977891&hl=ja
+    address: 熊本県天草市久玉町内の原2193-1
+    price: 500
+    lat: 32.2294252
+    lng: 130.0530568
+    type: 温泉
+-
+    id: 82
+    name: さかもと温泉センター クレオン
+    url: http://www.sakamoto-catv.jp/sakamoto-kureon/kureon/sakamoto_kureon.html
+    map: https://maps.google.com/?cid=11423069164026506832&hl=ja
+    address: 熊本県八代市坂本町川嶽1091
+    price: 450
+    lat: 32.4134234
+    lng: 130.638753
+    type: 温泉
+-
+    id: 83
+    name: 家族湯 山伏
+    url: https://yamaga-tanbou.jp/spot/1483/
+    map: https://maps.google.com/?cid=5869965163220322062&hl=ja
+    address: 熊本県山鹿市中伏鍋1028-3
+    price: 1300
+    lat: 33.0190558
+    lng: 130.70303
+    type: 温泉
+-
+    id: 84
+    name: 玉名市営 玉の湯
+    url: https://www.city.tamana.lg.jp/q/aview/429/3494.html
+    map: https://maps.google.com/?cid=18204776630185936324&hl=ja
+    address: 熊本県玉名市岩崎391-1
+    price: 200
+    lat: 32.9371308
+    lng: 130.5586818
+    type: 温泉
+-
+    id: 85
+    name: 蘇傳寺温泉
+    url: https://www.higonavi.net/shop/shop.shtml?s=5984
+    map: https://maps.google.com/?cid=18198708184505670878&hl=ja
+    address: 熊本県菊池市泗水町永2940-1
+    price: 300
+    lat: 32.916071
+    lng: 130.805736
+    type: 温泉
+-
+    id: 86
+    name: 幸徳温泉
+    url: http://www.yano-system.co.jp/kotoku/
+    map: https://maps.google.com/?cid=5711483880524978476&hl=ja
+    address: 熊本県山鹿市長坂117
+    price: 300
+    lat: 32.9885264
+    lng: 130.7040529
+    type: 温泉
+-
+    id: 87
+    name: 岳の湯温泉 ゆけむり茶屋
+    url: https://www.town.kumamoto-oguni.lg.jp/q/aview/142/281.html
+    map: https://maps.google.com/?cid=5516736272606917369&hl=ja
+    address: 熊本県阿蘇郡小国町西里2816
+    price: 500
+    lat: 33.155714
+    lng: 131.135633
+    type: 温泉
+-
+    id: 88
+    name: 熊入温泉センター
+    url: http://www.y-kankoukyoukai.com/tachiyori.php
+    map: https://maps.google.com/?cid=7748362958516548788&hl=ja
+    address: 熊本県山鹿市熊入町72
+    price: 250
+    lat: 33.021618
+    lng: 130.6857281
+    type: 温泉
+-
+    id: 89
+    name: 天然家族温泉 蘇ざき
+    url: https://www.higonavi.net/shop/shop.shtml?s=1494
+    map: https://maps.google.com/?cid=10691444160039651740&hl=ja
+    address: 熊本県菊池市七城町蘇崎1281
+    price: 1500
+    lat: 32.9507419
+    lng: 130.7413582
+    type: 温泉
+-
+    id: 90
+    name: 家族湯 竹乃香
+    url: http://www.tikusuien.co.jp/?page=spa&no=1
+    map: https://maps.google.com/?cid=10101540052873582915&hl=ja
+    address: 熊本県玉名市玉名2020-1
+    price: 1800
+    lat: 32.938912
+    lng: 130.5623374
+    type: 温泉
+-
+    id: 91
+    name: みゆきの里 ウェルネススクエアー和楽
+    url: https://miyukinosato.or.jp/kenseikai/hpkiji/pub/List.aspx?c_id=3&class_set_id=11&class_id=706
+    map: https://maps.google.com/?cid=215160261316841591&hl=ja
+    address: 熊本県熊本市南区御幸笛田町西宮前1202
+    price: 400
+    lat: 32.7576481
+    lng: 130.7090463
+    type: 温泉
+-
+    id: 92
+    name: 菊池わくわく温泉
+    url: https://www.higonavi.net/shop/shop.shtml?s=1223
+    map: https://maps.google.com/?cid=2320757101013671575&hl=ja
+    address: 熊本県菊池市亘37-5
+    price: 300
+    lat: 32.9784722
+    lng: 130.8154812
+    type: 温泉
+-
+    id: 93
+    name: 後藤温泉
+    url: 
+    map: https://maps.google.com/?cid=10806406725812599523&hl=ja
+    address: 熊本県菊池市大琳寺152-1
+    price: 150
+    lat: 32.9733218
+    lng: 130.8034894
+    type: 温泉
+-
+    id: 94
+    name: 薬師温泉
+    url: http://www.city.aso.kumamoto.jp/tourism/spot/accommodation_hot-springs/spa_center/
+    map: https://maps.google.com/?cid=10568979518106709475&hl=ja
+    address: 熊本県阿蘇市内牧39
+    price: 200
+    lat: 32.9772842
+    lng: 131.0468645
+    type: 共同浴場・銭湯
+-
+    id: 95
+    name: 御湯船温泉館
+    url: http://oyubune.ubuyama.com/
+    map: https://maps.google.com/?cid=16585693317697371794&hl=ja
+    address: 熊本県阿蘇郡産山村産山1448
+    price: 300
+    lat: 33.013823
+    lng: 131.2200232
+    type: 温泉
+-
+    id: 96
+    name: 不二の湯
+    url: http://www.kumafuji.co.jp/fujinoyu.html
+    map: https://maps.google.com/?cid=8740558802374959538&hl=ja
+    address: 熊本県菊池市泗水町田島2444
+    price: 120
+    lat: 32.9384817
+    lng: 130.7502064
+    type: 共同浴場・銭湯
+-
+    id: 97
+    name: 寺尾野温泉 薬師湯
+    url: 
+    map: https://maps.google.com/?cid=17735738905774578585&hl=ja
+    address: 熊本県阿蘇郡小国町上田寺尾野
+    price: 100
+    lat: 33.123406
+    lng: 131.1190997
+    type: 共同浴場・銭湯
+-
+    id: 98
+    name: 日奈久温泉 松の湯
+    url: http://matsunoyu.iinaa.net/
+    map: https://maps.google.com/?cid=4947023947699534282&hl=ja
+    address: 熊本県八代市日奈久中西町380
+    price: 200
+    lat: 32.432027
+    lng: 130.5735132
+    type: 共同浴場・銭湯
+-
+    id: 99
+    name: 杖立温泉元湯
+    url: https://tsuetate-onsen.com/Facilities/937
+    map: https://maps.google.com/?cid=2569268362477709522&hl=ja
+    address: 熊本県阿蘇郡小国町杖立
+    price: 無料
+    lat: 33.1315923
+    lng: 131.0615113
+    type: 共同浴場・銭湯
+-
+    id: 100
+    name: 梶尾温泉
+    url: https://kumamoto-guide.jp/spots/detail/5
+    map: https://maps.google.com/?cid=15290107980039344158&hl=ja
+    address: 熊本県熊本市北区梶尾町1294-2
+    price: 430
+    lat: 32.8737793
+    lng: 130.7293568
+    type: 温泉
+-
+    id: 101
+    name: 不知火温泉 ロマンの湯
+    url: http://www.shiranuhi-spa.co.jp/
+    map: https://maps.google.com/?cid=3490123569738128498&hl=ja
+    address: 熊本県宇城市不知火町永尾1910-1
+    price: 500
+    lat: 32.6337699
+    lng: 130.6288545
+    type: 温泉
+-
+    id: 102
+    name: 三加和温泉 ふるさと交流センター なごみ乃湯
+    url: https://www.marumiya-g.co.jp/mikawa/
+    map: https://maps.google.com/?cid=3060201237610135439&hl=ja
+    address: 熊本県玉名郡和水町大田黒768-1
+    price: 400
+    lat: 33.0389295
+    lng: 130.6204796
+    type: 温泉
+-
+    id: 103
+    name: 湯浦温泉センター
+    url: http://ashikita-kankou.com/introduce/%E6%B9%AF%E6%B5%A6%E6%B8%A9%E6%B3%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/
+    map: https://maps.google.com/?cid=670435301394791111&hl=ja
+    address: 熊本県葦北郡芦北町湯浦224
+    price: 170
+    lat: 32.2746422
+    lng: 130.499831
+    type: 温泉
+-
+    id: 104
+    name: 苓北町温泉センター 麟泉の湯
+    url: https://reihoku-kumamoto.jp/rinnsennnoyu/
+    map: https://maps.google.com/?cid=425759791916605248&hl=ja
+    address: 熊本県天草郡苓北町志岐1281
+    price: 500
+    lat: 32.5030016
+    lng: 130.0551735
+    type: 温泉
+-
+    id: 105
+    name: たかの湯
+    url: https://kuma1010.com/custom/400
+    map: https://maps.google.com/?cid=12272541766325506724&hl=ja
+    address: 熊本県熊本市東区栄町1-46
+    price: 400
+    lat: 32.7752666
+    lng: 130.7593395
+    type: 銭湯
+-
+    id: 106
+    name: 本渡温泉センター
+    url: http://www.ja-hondoituwa.or.jp/onsen.php
+    map: https://maps.google.com/?cid=8819298729514802625&hl=ja
+    address: 熊本県天草市瀬戸町1-1
+    price: 550
+    lat: 32.4526522
+    lng: 130.2094447
+    type: 温泉
+-
+    id: 107
+    name: 庄屋の湯
+    url: 
+    map: https://maps.google.com/?cid=7369942447739442247&hl=ja
+    address: 熊本県玉名市河崎408-2
+    price: 400
+    lat: 32.9350844
+    lng: 130.5725802
+    type: 温泉
+-
+    id: 108
+    name: 家族湯 リバーサイドパーク
+    url: http://www.onsendome.com/hot-spring.html
+    map: https://maps.google.com/?cid=13913028185422855395&hl=ja
+    address: 熊本県菊池市七城町林原962-1
+    price: 1050
+    lat: 32.9618643
+    lng: 130.7498728
+    type: 温泉
+-
+    id: 109
+    name: 天草ゆ楽園
+    url: https://www.t-island.jp/p/spot/detail/301
+    map: https://maps.google.com/?cid=521940868512049006&hl=ja
+    address: 熊本県天草市新和町碇石81-8
+    price: 410
+    lat: 32.356159
+    lng: 130.1526717
+    type: 温泉
+-
+    id: 110
+    name: 総合交流ターミナル施設 ユメール
+    url: https://www.t-island.jp/p/spot/detail/62
+    map: https://maps.google.com/?cid=1096453376286140941&hl=ja
+    address: 熊本県天草市五和町二江547
+    price: 500
+    lat: 32.5513994
+    lng: 130.1128717
+    type: 温泉
+-
+    id: 111
+    name: 家族湯 藤の瀬
+    url: 
+    map: https://maps.google.com/?cid=7121688734677091031&hl=ja
+    address: 熊本県熊本市北区植木町米塚21
+    price: 1000
+    lat: 32.9559859
+    lng: 130.7269406
+    type: 温泉
+-
+    id: 112
+    name: 家族湯 源氏
+    url: https://yamaga-tanbou.jp/spot/1461/
+    map: https://maps.google.com/?cid=1524226574292180111&hl=ja
+    address: 熊本県山鹿市中央通201
+    price: 1200
+    lat: 33.0144407
+    lng: 130.6845194
+    type: 温泉
+-
+    id: 113
+    name: 堤温泉
+    url: 
+    map: https://maps.google.com/?cid=2710986894716166884&hl=ja
+    address: 熊本県人吉市新町40
+    price: 200
+    lat: 32.2094692
+    lng: 130.7596951
+    type: 共同浴場・銭湯
+-
+    id: 114
+    name: 阿蘇市立 一の宮温泉センター
+    url: http://www.city.aso.kumamoto.jp/tourism/spot/accommodation_hot-springs/spa_center/
+    map: https://maps.google.com/?cid=13886265239370843788&hl=ja
+    address: 熊本県阿蘇市一の宮町手野963-1
+    price: 200
+    lat: 32.9747777
+    lng: 131.1294334
+    type: 温泉
+-
+    id: 115
+    name: 相良藩 願成寺温泉
+    url: 
+    map: https://maps.google.com/?cid=12898401328380844578&hl=ja
+    address: 熊本県人吉市願成寺町402-4
+    price: 200
+    lat: 32.2172163
+    lng: 130.7707063
+    type: 共同浴場・銭湯
+-
+    id: 116
+    name: 山川温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=17187213621221063591&hl=ja
+    address: 熊本県阿蘇郡小国町北里1515
+    price: 300
+    lat: 33.1436527
+    lng: 131.1143168
+    type: 共同浴場・銭湯
+-
+    id: 117
+    name: 湯山温泉元湯
+    url: https://mizukami-ichifusa.com/nature/onsen/
+    map: https://maps.google.com/?cid=8311992775325610433&hl=ja
+    address: 熊本県球磨郡水上村湯山1458-3
+    price: 410
+    lat: 32.3215134
+    lng: 131.0464835
+    type: 温泉
+-
+    id: 118
+    name: 山鹿温泉 千代湯
+    url: https://yamaga-tanbou.jp/spot/1479/
+    map: https://maps.google.com/?cid=604215604045976973&hl=ja
+    address: 熊本県山鹿市古閑1075-12
+    price: 300
+    lat: 33.0094174
+    lng: 130.7101929
+    type: 共同浴場・銭湯
+-
+    id: 119
+    name: 山川温泉 ホタルの里温泉
+    url: 
+    map: https://maps.google.com/?cid=15733725304695777423&hl=ja
+    address: 熊本県阿蘇郡小国町北里1534
+    price: 300
+    lat: 33.1456297
+    lng: 131.110163
+    type: 温泉
+-
+    id: 120
+    name: 五木温泉 夢唄
+    url: https://www.itsuki-bussan.net/onen
+    map: https://maps.google.com/?cid=10990362581884658743&hl=ja
+    address: 熊本県球磨郡五木村甲2672-54
+    price: 400
+    lat: 32.3970895
+    lng: 130.8261628
+    type: 温泉
+-
+    id: 121
+    name: 湯の屋台村
+    url: 
+    map: https://maps.google.com/?cid=902614604906000014&hl=ja
+    address: 熊本県合志市野々島502
+    price: 200
+    lat: 32.91526770000001
+    lng: 130.7371418
+    type: 温泉
+-
+    id: 122
+    name: しあわせの湯
+    url: 
+    map: https://maps.google.com/?cid=7232459547777748309&hl=ja
+    address: 熊本県熊本市南区富合町田尻611
+    price: 500
+    lat: 32.7015242
+    lng: 130.6694653
+    type: 温泉
+-
+    id: 123
+    name: 黒川温泉 穴湯共同浴場
+    url: 
+    map: https://maps.google.com/?cid=8768050857672706761&hl=ja
+    address: 熊本県阿蘇郡南小国町満願寺黒川
+    price: 100
+    lat: 33.0780427
+    lng: 131.1417178
+    type: 共同浴場・銭湯
+-
+    id: 124
+    name: 多良木町ふれあい交流センター えびすの湯
+    url: http://www.town.taragi.lg.jp/gyousei/kurashi/sumai/ebisunoyu/969.html
+    map: https://maps.google.com/?cid=80595645207738286&hl=ja
+    address: 熊本県球磨郡多良木町多良木1561
+    price: 300
+    lat: 32.26347520000001
+    lng: 130.933376
+    type: 温泉
+-
+    id: 125
+    name: ふれあいの丘 交流センター
+    url: http://www.town.gyokuto.kumamoto.jp/fureainooka/fureainooka.html
+    map: https://maps.google.com/?cid=10581646246061850466&hl=ja
+    address: 熊本県玉名郡玉東町木葉372
+    price: 400
+    lat: 32.9136869
+    lng: 130.621476
+    type: 温泉
+-
+    id: 126
+    name: 満願寺温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=16358247290985815987&hl=ja
+    address: 熊本県阿蘇郡南小国町満願寺
+    price: 300
+    lat: 33.0742461
+    lng: 131.1300697
+    type: 共同浴場・銭湯
+-
+    id: 127
+    name: 世安湯
+    url: https://kuma1010.com/custom/378
+    map: https://maps.google.com/?cid=14393637330311216160&hl=ja
+    address: 熊本県熊本市中央区世安町448
+    price: 400
+    lat: 32.7855293
+    lng: 130.696368
+    type: 銭湯
+-
+    id: 128
+    name: 岱明ふれあい健康センター
+    url: https://www.city.tamana.lg.jp/q/aview/302/5725.html
+    map: https://maps.google.com/?cid=14254916514450691827&hl=ja
+    address: 熊本県玉名市岱明町中土1022
+    price: 500
+    lat: 32.9168017
+    lng: 130.5125871
+    type: 温泉
+-
+    id: 129
+    name: あさぎり町ふれあい温泉 温華乃遥
+    url: 
+    map: https://maps.google.com/?cid=18020502959375642033&hl=ja
+    address: 熊本県球磨郡あさぎり町岡原北929
+    price: 310
+    lat: 32.2401649
+    lng: 130.9294108
+    type: 温泉
+-
+    id: 130
+    name: 鶴亀温泉
+    url: 
+    map: https://maps.google.com/?cid=9412177059428321448&hl=ja
+    address: 熊本県人吉市瓦屋町1120-5
+    price: 300
+    lat: 32.2206328
+    lng: 130.7576469
+    type: 共同浴場・銭湯
+-
+    id: 131
+    name: 平小城温泉 城山公衆浴場
+    url: https://www.tabirai.net/sightseeing/column/0005284.aspx
+    map: https://maps.google.com/?cid=11185749771161447557&hl=ja
+    address: 熊本県山鹿市平山5084-4
+    price: 100
+    lat: 33.0564394
+    lng: 130.6585608
+    type: 共同浴場・銭湯
+-
+    id: 132
+    name: 湯の鶴温泉保健センター ほたるの湯
+    url: 
+    map: https://maps.google.com/?cid=14324451842421821141&hl=ja
+    address: 熊本県水俣市湯出1532-2
+    price: 200
+    lat: 32.1474281
+    lng: 130.4394688
+    type: 温泉
+-
+    id: 133
+    name: 岩の湯
+    url: 
+    map: https://maps.google.com/?cid=5891184811948910977&hl=ja
+    address: 熊本県葦北郡芦北町湯浦230-10
+    price: 170
+    lat: 32.2744086
+    lng: 130.5005706
+    type: 共同浴場・銭湯
+-
+    id: 134
+    name: 湯の鶴温泉 きくの湯
+    url: 
+    map: https://maps.google.com/?cid=878325059727929285&hl=ja
+    address: 熊本県水俣市湯出1372-3
+    price: 100
+    lat: 32.1524524
+    lng: 130.4414864
+    type: 共同浴場・銭湯
+-
+    id: 135
+    name: 大人の日帰り温泉 るりの湯
+    url: https://rurinoyu.business.site/
+    map: https://maps.google.com/?cid=1349025697624261427&hl=ja
+    address: 熊本県阿蘇郡南小国町満願寺瀧ノ上5887-1
+    price: 1500
+    lat: 33.0742451
+    lng: 131.122169
+    type: 温泉
+-
+    id: 136
+    name: 筌場温泉 花手箱
+    url: 
+    map: https://maps.google.com/?cid=6008695934116152468&hl=ja
+    address: 熊本県人吉市中神町城本1044
+    price: 300
+    lat: 32.219936
+    lng: 130.722993
+    type: 温泉
+-
+    id: 137
+    name: ヘルシーパーク芦北
+    url: http://ashikita-kankou.com/introduce/%e3%83%98%e3%83%ab%e3%82%b7%e3%83%bc%e3%83%91%e3%83%bc%e3%82%af%e8%8a%a6%e5%8c%97/
+    map: https://maps.google.com/?cid=11953613060025439583&hl=ja
+    address: 熊本県葦北郡芦北町湯浦253
+    price: 300
+    lat: 32.2726899
+    lng: 130.5021011
+    type: 温泉
+-
+    id: 138
+    name: 天然温泉 家族湯 もみじ湯
+    url: https://yamaga-tanbou.jp/spot/1527/
+    map: https://maps.google.com/?cid=4371932174012761084&hl=ja
+    address: 熊本県山鹿市菊鹿町木野平原3873-1
+    price: 1200
+    lat: 33.0022701
+    lng: 130.7741289
+    type: 温泉
+-
+    id: 139
+    name: 地蔵湯
+    url: https://www.tabirai.net/sightseeing/column/0002785.aspx
+    map: https://maps.google.com/?cid=7473074898764716619&hl=ja
+    address: 熊本県阿蘇郡南小国町黒川温泉
+    price: 200
+    lat: 33.0780427
+    lng: 131.1417178
+    type: 共同浴場・銭湯
+-
+    id: 140
+    name: 南小国町交流促進センター 温泉館きよら
+    url: 
+    map: https://maps.google.com/?cid=9590019046279116455&hl=ja
+    address: 熊本県阿蘇郡南小国町赤馬場3396-1
+    price: 300
+    lat: 33.0924208
+    lng: 131.0688408
+    type: 温泉
+-
+    id: 141
+    name: ふろや湯湧
+    url: 
+    map: https://maps.google.com/?cid=13417438773431624648&hl=ja
+    address: 熊本県熊本市北区植木町米塚22
+    price: 300
+    lat: 32.9557885
+    lng: 130.7267515
+    type: 温泉
+-
+    id: 142
+    name: 玉名市岱明コミュニティセンター 潮湯
+    url: 
+    map: https://maps.google.com/?cid=10038447350554048753&hl=ja
+    address: 熊本県玉名市岱明町鍋3188
+    price: 420
+    lat: 32.8976654
+    lng: 130.4892681
+    type: 温泉
+-
+    id: 143
+    name: ささ原温泉
+    url: 
+    map: https://maps.google.com/?cid=13455864273347074178&hl=ja
+    address: 熊本県葦北郡芦北町湯浦66-1
+    price: 220
+    lat: 32.2762613
+    lng: 130.5002494
+    type: 共同浴場・銭湯
+-
+    id: 144
+    name: あさぎり町ヘルシーランド 薬師温泉
+    url: https://www.town.asagiri.lg.jp/q/list/175.html
+    map: https://maps.google.com/?cid=4453502195649145203&hl=ja
+    address: 熊本県球磨郡あさぎり町上北1874
+    price: 400
+    lat: 32.2172677
+    lng: 130.9005444
+    type: 温泉
+-
+    id: 145
+    name: 吉尾温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=722843253836371090&hl=ja
+    address: 熊本県葦北郡芦北町吉尾24-3
+    price: 170
+    lat: 32.329133
+    lng: 130.5955379
+    type: 共同浴場・銭湯
+-
+    id: 146
+    name: さかもと温泉 いこいの家
+    url: http://www.sakamoto-catv.jp/sakamoto-kureon/ikoinoie/sakamoto_ikoinoie.html
+    map: https://maps.google.com/?cid=1559604603583696737&hl=ja
+    address: 熊本県八代市坂本町鶴喰893
+    price: 350
+    lat: 32.4171451
+    lng: 130.6174107
+    type: 温泉
+-
+    id: 147
+    name: 日奈久温泉 東湯
+    url: http://www.hinagu-spa.com/public_bath_east/
+    map: https://maps.google.com/?cid=14383112358710724102&hl=ja
+    address: 熊本県八代市日奈久浜町232
+    price: 200
+    lat: 32.43359090000001
+    lng: 130.575486
+    type: 共同浴場・銭湯
+-
+    id: 148
+    name: 七福温泉
+    url: http://www.city.aso.kumamoto.jp/tourism/spot/accommodation_hot-springs/spa_center/
+    map: https://maps.google.com/?cid=2197350559415423879&hl=ja
+    address: 熊本県阿蘇市内牧520-10
+    price: 200
+    lat: 32.9730266
+    lng: 131.0386278
+    type: 共同浴場・銭湯
+-
+    id: 149
+    name: 鶴の川宿 湯治屋 TōJIYA
+    url: https://tojiya.net/
+    map: https://maps.google.com/?cid=4183901756125098405&hl=ja
+    address: 熊本県水俣市湯出1561-1
+    price: 300
+    lat: 32.1485757
+    lng: 130.4397664
+    type: 温泉
+-
+    id: 150
+    name: 共同湯 御前湯
+    url: https://tsuetate-onsen.com/Facilities/252
+    map: https://maps.google.com/?cid=13481826688607087763&hl=ja
+    address: 熊本県阿蘇郡小国町下城
+    price: 200
+    lat: 33.12155720000001
+    lng: 131.0681257
+    type: 共同浴場・銭湯
+-
+    id: 151
+    name: 再会温泉
+    url: https://yamaga-tanbou.jp/spot/1467/
+    map: https://maps.google.com/?cid=9265822949593605021&hl=ja
+    address: 熊本県山鹿市泉町306
+    price: 800
+    lat: 33.0161006
+    lng: 130.6857106
+    type: 温泉
+-
+    id: 152
+    name: 松の井温泉
+    url: 
+    map: https://maps.google.com/?cid=2686017959889937353&hl=ja
+    address: 熊本県菊池市亘357
+    price: 250
+    lat: 32.9816053
+    lng: 130.8191581
+    type: 共同浴場・銭湯
+-
+    id: 153
+    name: 白岳温泉 しろみづき荘
+    url: 
+    map: https://maps.google.com/?cid=11403749806336957230&hl=ja
+    address: 熊本県人吉市矢黒町1961-1
+    price: 500
+    lat: 32.2085012
+    lng: 130.7512349
+    type: 温泉
+-
+    id: 154
+    name: 湯の児天然温泉 白梅湯裸楽
+    url: http://www.kaigocsc.co.jp/shiraume/yurara/
+    map: https://maps.google.com/?cid=2212393421384413755&hl=ja
+    address: 熊本県水俣市大迫1213-23
+    price: 400
+    lat: 32.2328558
+    lng: 130.4158652
+    type: 温泉
+-
+    id: 155
+    name: 中神温泉
+    url: 
+    map: https://maps.google.com/?cid=7712410360911768576&hl=ja
+    address: 熊本県人吉市中神町段405
+    price: 200
+    lat: 32.224537
+    lng: 130.72151
+    type: 共同浴場・銭湯
+-
+    id: 156
+    name: 計石温泉センター
+    url: http://ashikita-kankou.com/introduce/%E8%A8%88%E7%9F%B3%E6%B8%A9%E6%B3%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/
+    map: https://maps.google.com/?cid=15306038062055671454&hl=ja
+    address: 熊本県葦北郡芦北町計石2963-1
+    price: 170
+    lat: 32.3017267
+    lng: 130.478244
+    type: 温泉
+-
+    id: 157
+    name: 湯田温泉 湯夢プラザ
+    url: 
+    map: https://maps.google.com/?cid=1092638514147886868&hl=ja
+    address: 熊本県阿蘇郡南小国町中原4172
+    price: 300
+    lat: 33.0728896
+    lng: 131.0318782
+    type: 温泉
+-
+    id: 158
+    name: 富合サウナランド
+    url: 
+    map: https://maps.google.com/?cid=4339526279478875749&hl=ja
+    address: 熊本県熊本市南区富合町田尻45-1
+    price: 600
+    lat: 32.7021229
+    lng: 130.6732417
+    type: 温泉
+-
+    id: 159
+    name: 満願寺温泉 上湯
+    url: 
+    map: https://maps.google.com/?cid=10779859011893033054&hl=ja
+    address: 熊本県阿蘇郡南小国町満願寺
+    price: 300
+    lat: 33.0742461
+    lng: 131.1300697
+    type: 共同浴場・銭湯
+-
+    id: 160
+    name: 乙姫さま温泉 弁財天の湯
+    url: 
+    map: https://maps.google.com/?cid=4897021412381013636&hl=ja
+    address: 熊本県阿蘇市乙姫2073
+    price: 600
+    lat: 32.929845
+    lng: 131.0431717
+    type: 温泉
+-
+    id: 161
+    name: 横島総合保健福祉センター ゆとりーむ
+    url: https://www.city.tamana.lg.jp/q/aview/302/5236.html
+    map: https://maps.google.com/?cid=892746656319886540&hl=ja
+    address: 熊本県玉名市横島町横島3923
+    price: 500
+    lat: 32.8770247
+    lng: 130.5563386
+    type: 温泉
+-
+    id: 162
+    name: 岳の湯露天風呂
+    url: 
+    map: https://maps.google.com/?cid=1726950249918719030&hl=ja
+    address: 熊本県阿蘇郡小国町西里岳の湯2798-2
+    price: 300
+    lat: 33.1556474
+    lng: 131.1365277
+    type: 温泉
+-
+    id: 163
+    name: わいた温泉郷 富温泉
+    url: 
+    map: https://maps.google.com/?cid=247373962192213341&hl=ja
+    address: 熊本県阿蘇郡小国町西里麻生鶴2053-194
+    price: 400
+    lat: 33.1786868
+    lng: 131.1169058
+    type: 温泉
+-
+    id: 164
+    name: 涼水戸温泉
+    url: 
+    map: https://maps.google.com/?cid=3730854264689135903&hl=ja
+    address: 熊本県人吉市中神町字大柿490
+    price: 300
+    lat: 32.226547
+    lng: 130.7073213
+    type: 共同浴場・銭湯
+-
+    id: 165
+    name: 天然温泉 家族湯 幸泉閣
+    url: https://www.dongurimura.info/kousenkaku.html
+    map: https://maps.google.com/?cid=12690517314096987374&hl=ja
+    address: 熊本県山鹿市鹿校通1-23-8
+    price: 1300
+    lat: 33.0148735
+    lng: 130.7059742
+    type: 温泉
+-
+    id: 166
+    name: 宮原福祉センタ－ さくら
+    url: https://www.shakyo.or.jp/hp/article/index.php?s=1669&m=1084
+    map: https://maps.google.com/?cid=1277959241880583164&hl=ja
+    address: 熊本県八代郡氷川町宮原702-5
+    price: 200
+    lat: 32.5543735
+    lng: 130.6823398
+    type: 共同浴場・銭湯
+-
+    id: 167
+    name: 新穂湯
+    url: http://www.aso-domannaka.com/spa.html
+    map: https://maps.google.com/?cid=11801369547995729463&hl=ja
+    address: 熊本県阿蘇市内牧新町46-1
+    price: 200
+    lat: 32.9772976
+    lng: 131.0465505
+    type: 共同浴場・銭湯
+-
+    id: 168
+    name: 千丁町福祉健康センター パトリア千丁
+    url: https://www.city.yatsushiro.lg.jp/kankou/kiji0036968/index.html
+    map: https://maps.google.com/?cid=4063161014612323987&hl=ja
+    address: 熊本県八代市千丁町新牟田1433
+    price: 400
+    lat: 32.5348279
+    lng: 130.6333366
+    type: 温泉
+-
+    id: 169
+    name: 共同湯 薬師湯
+    url: https://tsuetate-onsen.com/Facilities/425
+    map: https://maps.google.com/?cid=9943650066726645959&hl=ja
+    address: 熊本県阿蘇郡小国町下城
+    price: 200
+    lat: 33.12155720000001
+    lng: 131.0681257
+    type: 共同浴場・銭湯
+-
+    id: 170
+    name: すずめの湯
+    url: http://jigoku-onsen.co.jp/charge/
+    map: https://maps.google.com/?cid=14276798318559772113&hl=ja
+    address: 熊本県阿蘇郡南阿蘇村河陽2327
+    price: 1200
+    lat: 32.85914200000001
+    lng: 131.0342271
+    type: 温泉
+-
+    id: 171
+    name: 家族温泉ひらおぎ
+    url: https://yamaga-tanbou.jp/spot/1518/
+    map: https://maps.google.com/?cid=17893011579226764997&hl=ja
+    address: 熊本県山鹿市平山5579
+    price: 1500
+    lat: 33.0525008
+    lng: 130.659744
+    type: 温泉
+-
+    id: 172
+    name: 豊礼の湯
+    url: http://houreinoyuyado.com/
+    map: https://maps.google.com/?cid=10055994145016872621&hl=ja
+    address: 熊本県阿蘇郡小国町西里2917
+    price: 500
+    lat: 33.152894
+    lng: 131.135044
+    type: 温泉
+-
+    id: 173
+    name: 宝湯
+    url: http://www.city.aso.kumamoto.jp/tourism/spot/accommodation_hot-springs/spa_center/
+    map: https://maps.google.com/?cid=4598181524436855334&hl=ja
+    address: 熊本県阿蘇市内牧186-1
+    price: 400
+    lat: 32.9742241
+    lng: 131.0416431
+    type: 共同浴場・銭湯
+-
+    id: 174
+    name: 家族湯 中村温泉
+    url: 
+    map: https://maps.google.com/?cid=2106387959714792868&hl=ja
+    address: 熊本県水俣市大迫湯の児1213
+    price: 1000
+    lat: 32.2337613
+    lng: 130.4167723
+    type: 温泉
+-
+    id: 175
+    name: 益城町 町民憩いの家
+    url: https://ikoi-ie.wixsite.com/website
+    map: https://maps.google.com/?cid=7603698386687818854&hl=ja
+    address: 熊本県上益城郡益城町赤井2167
+    price: 400
+    lat: 32.7705511
+    lng: 130.8239824
+    type: 温泉
+-
+    id: 176
+    name: 家族湯 美感遊創
+    url: https://www.town.nagomi.lg.jp/kankou/hpkiji/pub/detail.aspx?c_id=3&id=939&class_set_id=6&class_id=769
+    map: https://maps.google.com/maps?q=33.040447,130.618912
+    address: 熊本県玉名郡和水町大田黒637-1
+    price: 1000
+    lat: 33.0406221
+    lng: 130.6189088
+    type: 温泉
+-
+    id: 177
+    name: 家族風呂 いつでも一番風呂
+    url: http://www.heiseikai.jp/health/dream_yu/ichiban_furo/
+    map: https://maps.google.com/maps?q=32.961503,130.449982
+    address: 熊本県荒尾市水野1534-1
+    price: 1500
+    lat: 32.961895
+    lng: 130.44935
+    type: 温泉
+-
+    id: 178
+    name: 錦町温泉センター
+    url: https://kumamoto.guide/spots/detail/1833
+    map: https://maps.google.com/maps?q=32.201462,130.839828
+    address: 熊本県球磨郡錦町一武1587
+    price: 310
+    lat: 32.2013021
+    lng: 130.8401793
+    type: 温泉
+-
+    id: 179
+    name: そよ風パーク
+    url: https://s-kaze.jp/
+    map: https://maps.google.com/maps?q=32.727528,131.163177
+    address: 熊本県上益城郡山都町今297
+    price: 400
+    lat: 32.7265741
+    lng: 131.163488
+    type: 温泉
+-
+    id: 180
+    name: 松の湯
+    url: https://kuma1010.com/custom/404
+    map: https://maps.google.com/?cid=10885455525140530485&hl=ja
+    address: 熊本県熊本市北区植木町田底311
+    price: 400
+    lat: 32.957443
+    lng: 130.7257076
+    type: 銭湯
+-
+    id: 181
+    name: 龍の湯
+    url: https://kuma1010.com/custom/382
+    map: https://maps.google.com/?cid=18142148920005133884&hl=ja
+    address: 熊本県熊本市中央区琴平本町5-54
+    price: 400
+    lat: 32.78785
+    lng: 130.7049941
+    type: 銭湯
+-
+    id: 182
+    name: 潮湯センター海老屋
+    url: https://kuma1010.com/custom/411
+    map: https://maps.google.com/?cid=2936761061676843762&hl=ja
+    address: 熊本県玉名郡長洲町長洲3308
+    price: 400
+    lat: 32.9313296
+    lng: 130.440591
+    type: 銭湯
+-
+    id: 183
+    name: 早稲田の湯
+    url: 
+    map: https://maps.google.com/?cid=4064576322940421269&hl=ja
+    address: 熊本県阿蘇市一の宮町中通2585-4
+    price: 400
+    lat: 32.9749265
+    lng: 131.1154852
+    type: 銭湯
+-
+    id: 184
+    name: 玉名ファミリー温泉
+    url: https://kuma1010.com/custom/410
+    map: https://maps.google.com/?cid=14737308331074988294&hl=ja
+    address: 熊本県玉名市立願寺428
+    price: 400
+    lat: 32.9363418
+    lng: 130.5518505
+    type: 銭湯
+-
+    id: 185
+    name: 冨乃湯
+    url: https://kuma1010.com/custom/402
+    map: https://maps.google.com/maps?q=32.737361,130.681765
+    address: 熊本県熊本市南区川尻4-10-20
+    price: 400
+    lat: 32.7372529
+    lng: 130.6816781
+    type: 銭湯

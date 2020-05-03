@@ -1,0 +1,341 @@
+---
+-
+    id: 1
+    name: スパリゾート雄琴 あがりゃんせ
+    url: https://www.agaryanse.co.jp/
+    map: https://maps.google.com/?cid=9244277160532354470&hl=ja
+    address: 滋賀県大津市苗鹿3-9-5
+    price: 1350
+    lat: 35.0860397
+    lng: 135.8946328
+    type: 温泉
+-
+    id: 2
+    name: 守山天然温泉 ほたるの湯
+    url: https://hotarunoyu.jp/
+    map: https://maps.google.com/?cid=9613801159937654102&hl=ja
+    address: 滋賀県守山市吉身4-5
+    price: 850
+    lat: 35.0595028
+    lng: 136.0018118
+    type: 温泉
+-
+    id: 3
+    name: あねがわ温泉
+    url: https://www.mau.co.jp/onsen/
+    map: https://maps.google.com/?cid=16164732377216860470&hl=ja
+    address: 滋賀県長浜市八島町181
+    price: 865
+    lat: 35.4350348
+    lng: 136.299079
+    type: 温泉
+-
+    id: 4
+    name: 永源寺温泉 八風の湯
+    url: https://www.happuno-yu.com/eigenji/
+    map: https://maps.google.com/?cid=10461445315337396924&hl=ja
+    address: 滋賀県東近江市永源寺高野町352
+    price: 1300
+    lat: 35.0762519
+    lng: 136.3120818
+    type: 温泉
+-
+    id: 5
+    name: 草津湯元 水春
+    url: https://suisyun.jp/kusatsu/
+    map: https://maps.google.com/?cid=959627506180028638&hl=ja
+    address: 滋賀県草津市新浜町300
+    price: 800
+    lat: 34.99775400000001
+    lng: 135.9174385
+    type: 温泉
+-
+    id: 6
+    name: 極楽湯(彦根店)
+    url: https://www.gokurakuyu.ne.jp/tempo/hikone/
+    map: https://maps.google.com/?cid=8323725249536713715&hl=ja
+    address: 滋賀県彦根市西沼波町175-1
+    price: 770
+    lat: 35.2575316
+    lng: 136.2670775
+    type: 温泉
+-
+    id: 7
+    name: 水口温泉 つばきの湯
+    url: https://tsubakinoyu.jp/
+    map: https://maps.google.com/?cid=6088590768777211727&hl=ja
+    address: 滋賀県甲賀市水口町水口5572
+    price: 670
+    lat: 34.9654288
+    lng: 136.1695322
+    type: 温泉
+-
+    id: 8
+    name: グリーンパーク想い出の森 くつき温泉てんくう
+    url: http://gp-kutsuki.com/spa
+    map: https://maps.google.com/?cid=12604087536577865672&hl=ja
+    address: 滋賀県高島市朽木柏341-3
+    price: 700
+    lat: 35.3439746
+    lng: 135.9211543
+    type: 温泉
+-
+    id: 9
+    name: マキノ高原温泉さらさ
+    url: http://www.makinokougen.co.jp/
+    map: https://maps.google.com/?cid=7176273861433239014&hl=ja
+    address: 滋賀県高島市マキノ町牧野931-3
+    price: 700
+    lat: 35.4960408
+    lng: 136.0311353
+    type: 温泉
+-
+    id: 10
+    name: 十二坊温泉ゆらら
+    url: http://www.12-yurara.jp/
+    map: https://maps.google.com/?cid=12966969777816817297&hl=ja
+    address: 滋賀県湖南市岩根678-28
+    price: 600
+    lat: 35.0127429
+    lng: 136.1087289
+    type: 温泉
+-
+    id: 11
+    name: おふろcafé びわこ座
+    url: https://ofurocafe-biwakoza.com/
+    map: https://maps.google.com/?cid=8421808485331765014&hl=ja
+    address: 滋賀県大津市月輪1-9-18
+    price: 1458
+    lat: 34.9907021
+    lng: 135.9354558
+    type: 温泉
+-
+    id: 12
+    name: 天然温泉 蒲生野の湯
+    url: https://www.gamounonoyu.net/
+    map: https://maps.google.com/?cid=14720517835155680682&hl=ja
+    address: 滋賀県蒲生郡竜王町山之上7104-1
+    price: 750
+    lat: 35.0444288
+    lng: 136.1404715
+    type: 温泉
+-
+    id: 13
+    name: びわこ大橋 天然温泉 みずほの湯
+    url: https://www.mizuhonoyu.jp/
+    map: https://maps.google.com/?cid=16024906814725872676&hl=ja
+    address: 滋賀県守山市水保町1172-1
+    price: 600
+    lat: 35.1078729
+    lng: 135.9548358
+    type: 温泉
+-
+    id: 14
+    name: 北近江リゾート 北近江の湯
+    url: https://kitaoumi.com/spa
+    map: https://maps.google.com/?cid=3351930124476862510&hl=ja
+    address: 滋賀県長浜市高月町唐川89
+    price: 900
+    lat: 35.4859461
+    lng: 136.226872
+    type: 温泉
+-
+    id: 15
+    name: 天然温泉 比良とぴあ
+    url: https://www.hiratopia.com/
+    map: https://maps.google.com/?cid=15230029747703766006&hl=ja
+    address: 滋賀県大津市北比良1039-2
+    price: 610
+    lat: 35.2332846
+    lng: 135.9426759
+    type: 温泉
+-
+    id: 16
+    name: 甲賀温泉 やっぽんぽんの湯
+    url: https://www.diamond-s.co.jp/yappon/
+    map: https://maps.google.com/?cid=13263489027401369275&hl=ja
+    address: 滋賀県甲賀市土山町黒川1711
+    price: 1260
+    lat: 34.92847820000001
+    lng: 136.3398014
+    type: 温泉
+-
+    id: 17
+    name: 湯～トピアきりしま
+    url: 
+    map: https://maps.google.com/?cid=8403220428767737847&hl=ja
+    address: 滋賀県大津市中央1-7-27
+    price: 430
+    lat: 35.0097255
+    lng: 135.8639965
+    type: 銭湯
+-
+    id: 18
+    name: 桜湯
+    url: 
+    map: https://maps.google.com/?cid=18118505279867345290&hl=ja
+    address: 滋賀県草津市大路1-16-6
+    price: 430
+    lat: 35.0197133
+    lng: 135.9629873
+    type: 銭湯
+-
+    id: 19
+    name: ゆーゆーらんど大津湯
+    url: https://www.facebook.com/otsuyusiga
+    map: https://maps.google.com/?cid=2557865154115239027&hl=ja
+    address: 滋賀県大津市大門通16-55
+    price: 430
+    lat: 35.0143401
+    lng: 135.858467
+    type: 銭湯
+-
+    id: 20
+    name: 琵琶湖湯
+    url: 
+    map: https://maps.google.com/?cid=13661853219242387111&hl=ja
+    address: 滋賀県長浜市神前5-18
+    price: 430
+    lat: 35.3849495
+    lng: 136.2707631
+    type: 銭湯
+-
+    id: 21
+    name: 延命湯
+    url: https://enmeiyu.info
+    map: https://maps.google.com/?cid=3805087306689872179&hl=ja
+    address: 滋賀県東近江市八日市本町11-9
+    price: 430
+    lat: 35.11206670000001
+    lng: 136.1947606
+    type: 銭湯
+-
+    id: 22
+    name: 伊吹薬草の里文化センター いぶき薬草湯
+    url: https://joyibuki.info/facilities/hot-spa/
+    map: https://maps.google.com/?cid=6811297861065769323&hl=ja
+    address: 滋賀県米原市春照37
+    price: 620
+    lat: 35.3822513
+    lng: 136.3827541
+    type: 共同浴場・銭湯
+-
+    id: 23
+    name: 健康パークあざい バーデあざい
+    url: http://www.kenkoupark.com/
+    map: https://maps.google.com/?cid=6365144630778421284&hl=ja
+    address: 滋賀県長浜市野瀬町828
+    price: 550
+    lat: 35.463415
+    lng: 136.319096
+    type: 温泉
+-
+    id: 24
+    name: 福助湯
+    url: https://fukusukeyu.business.site
+    map: https://maps.google.com/?cid=5418592689060359413&hl=ja
+    address: 滋賀県東近江市八日市東本町5-29
+    price: 430
+    lat: 35.110185
+    lng: 136.2034972
+    type: 銭湯
+-
+    id: 25
+    name: 近江湯
+    url: 
+    map: https://maps.google.com/?cid=16180183972552860654&hl=ja
+    address: 滋賀県大津市錦織3-12-23
+    price: 430
+    lat: 35.0291655
+    lng: 135.8589526
+    type: 銭湯
+-
+    id: 26
+    name: 容輝湯
+    url: https://twitter.com/youkiyu_1126
+    map: https://maps.google.com/?cid=11453054744407710392&hl=ja
+    address: 滋賀県大津市栄町17-10
+    price: 430
+    lat: 34.9750073
+    lng: 135.9001625
+    type: 銭湯
+-
+    id: 27
+    name: 碧水の湯
+    url: https://sauna-hekisui.jp/
+    map: https://maps.google.com/?cid=12382479817765279252&hl=ja
+    address: 滋賀県甲賀市水口町北脇237-8
+    price: 1300
+    lat: 34.9787978
+    lng: 136.1604092
+    type: 温泉
+-
+    id: 28
+    name: 小町湯
+    url: 
+    map: https://maps.google.com/?cid=1911310474297908144&hl=ja
+    address: 滋賀県大津市逢坂2-1-17
+    price: 430
+    lat: 35.0041378
+    lng: 135.8602976
+    type: 銭湯
+-
+    id: 29
+    name: いこい湯
+    url: 
+    map: https://maps.google.com/?cid=2780482986542077613&hl=ja
+    address: 滋賀県近江八幡市八幡町213
+    price: 250
+    lat: 35.1355345
+    lng: 136.0977283
+    type: 共同浴場・銭湯
+-
+    id: 30
+    name: 都湯
+    url: 
+    map: https://maps.google.com/?cid=1165288497331401716&hl=ja
+    address: 滋賀県大津市馬場3-12-21
+    price: 430
+    lat: 34.99841809999999
+    lng: 135.8837523
+    type: 銭湯
+-
+    id: 31
+    name: 守山湯元水春 ピエリ守山
+    url: https://suisyun.jp/pieri-moriyama/
+    map: https://maps.google.com/?cid=3953645712332541209&hl=ja
+    address: 滋賀県守山市今浜町2620-5
+    price: 850
+    lat: 35.1230477
+    lng: 135.9455788
+    type: 温泉
+-
+    id: 32
+    name: 清水湯
+    url: 
+    map: https://maps.google.com/?cid=11519360654742833294&hl=ja
+    address: 滋賀県甲賀市水口町本町2-5-10
+    price: 430
+    lat: 34.9688609
+    lng: 136.1746169
+    type: 銭湯
+-
+    id: 33
+    name: 福井湯
+    url: 
+    map: https://maps.google.com/?cid=5239173917329598530&hl=ja
+    address: 滋賀県大津市中庄1-7-24
+    price: 430
+    lat: 34.9883388
+    lng: 135.8929169
+    type: 銭湯
+-
+    id: 34
+    name: 神楽湯
+    url: 
+    map: https://maps.google.com/?cid=14280644659955190529&hl=ja
+    address: 滋賀県大津市中央3-6-4
+    price: 430
+    lat: 35.0066628
+    lng: 135.8696484
+    type: 銭湯

@@ -1,0 +1,381 @@
+---
+-
+    id: 1
+    name: 日乃丸温泉
+    url: https://tottori1010.web.fc2.com/hinomaru.html
+    map: https://maps.google.com/?cid=6906094211079438654&hl=ja
+    address: 鳥取県鳥取市末広温泉町401
+    price: 400
+    lat: 35.4953883
+    lng: 134.2317771
+    type: 銭湯
+-
+    id: 2
+    name: 日帰り温泉 オーシャン
+    url: https://www.ocean-g.com/
+    map: https://maps.google.com/?cid=14317427196467854251&hl=ja
+    address: 鳥取県米子市新開3-2-46
+    price: 1370
+    lat: 35.4594155
+    lng: 133.3524336
+    type: 温泉
+-
+    id: 3
+    name: 元湯温泉
+    url: http://www8.plala.or.jp/motoyu1126/
+    map: https://maps.google.com/?cid=17035392355551056367&hl=ja
+    address: 鳥取県鳥取市末広温泉町557
+    price: 400
+    lat: 35.4938955
+    lng: 134.2333694
+    type: 銭湯
+-
+    id: 4
+    name: 鳥取ぽかぽか温泉
+    url: http://www.souyu.co.jp/tottori/
+    map: https://maps.google.com/?cid=11459184147779920371&hl=ja
+    address: 鳥取県鳥取市古海570
+    price: 700
+    lat: 35.4953085
+    lng: 134.2059824
+    type: 温泉
+-
+    id: 5
+    name: 皆生温泉 おーゆ・ランド
+    url: http://www.ou-kaike.co.jp/
+    map: https://maps.google.com/?cid=12780239557807212889&hl=ja
+    address: 鳥取県米子市皆生温泉1-18-1
+    price: 400
+    lat: 35.4551749
+    lng: 133.3607658
+    type: 温泉
+-
+    id: 6
+    name: 大山火の神岳温泉 豪円湯院
+    url: http://tourismdaisen.com/spot/88/
+    map: https://maps.google.com/?cid=8706217031695686790&hl=ja
+    address: 鳥取県西伯郡大山町大山25
+    price: 390
+    lat: 35.3930151
+    lng: 133.530861
+    type: 温泉
+-
+    id: 7
+    name: 米子湯
+    url: https://tottori1010.web.fc2.com/yonago.html
+    map: https://maps.google.com/?cid=8385108126477680686&hl=ja
+    address: 鳥取県米子市明治町213
+    price: 400
+    lat: 35.4244931
+    lng: 133.3329929
+    type: 銭湯
+-
+    id: 8
+    name: 岩井ゆかむり温泉
+    url: http://www.yukamuri.net/
+    map: https://maps.google.com/?cid=657319177515208193&hl=ja
+    address: 鳥取県岩美郡岩美町岩井521
+    price: 310
+    lat: 35.5555377
+    lng: 134.3622365
+    type: 温泉
+-
+    id: 9
+    name: 三朝温泉 株湯
+    url: https://spa-misasa.jp/enjoy/
+    map: https://maps.google.com/?cid=6153518186014768152&hl=ja
+    address: 鳥取県東伯郡三朝町三朝634-1
+    price: 350
+    lat: 35.4076206
+    lng: 133.8982899
+    type: 共同浴場・銭湯
+-
+    id: 10
+    name: 関金温泉 湯命館
+    url: https://yumeikan.com/
+    map: https://maps.google.com/?cid=14958352535285407280&hl=ja
+    address: 鳥取県倉吉市関金町関金宿1139
+    price: 820
+    lat: 35.3637702
+    lng: 133.760378
+    type: 温泉
+-
+    id: 11
+    name: 湧くわく天然温泉 ラピスパ
+    url: https://www.rapi-spa.com/
+    map: https://maps.google.com/?cid=5812705757859993529&hl=ja
+    address: 鳥取県米子市淀江町淀江2-38
+    price: 800
+    lat: 35.4563844
+    lng: 133.43408
+    type: 温泉
+-
+    id: 12
+    name: 淀江ゆめ温泉 白鳳の里
+    url: http://www.hakuhou.jp/onsen_top.html
+    map: https://maps.google.com/?cid=17780880610602427815&hl=ja
+    address: 鳥取県米子市淀江町福岡1547
+    price: 550
+    lat: 35.4534085
+    lng: 133.4415641
+    type: 温泉
+-
+    id: 13
+    name: みさき屋 ともの湯
+    url: 
+    map: https://maps.google.com/?cid=7131384388483393305&hl=ja
+    address: 鳥取県鳥取市江津453-2
+    price: 390
+    lat: 35.522833
+    lng: 134.2166844
+    type: 温泉
+-
+    id: 14
+    name: 宝喜温泉館
+    url: http://www.houki-onsen.com/onsen/
+    map: https://maps.google.com/?cid=4595547879822090168&hl=ja
+    address: 鳥取県鳥取市気高町下光元690
+    price: 420
+    lat: 35.4985596
+    lng: 134.078671
+    type: 温泉
+-
+    id: 15
+    name: ハワイゆ～たうん
+    url: http://www.ryuhoukaku.jp/hawaiyutauntop.html
+    map: https://maps.google.com/?cid=8591874379637717265&hl=ja
+    address: 鳥取県東伯郡湯梨浜町上浅津204-2
+    price: 370
+    lat: 35.4830179
+    lng: 133.8808275
+    type: 温泉
+-
+    id: 16
+    name: みなと温泉 ほのかみ
+    url: http://honokami.com/
+    map: https://maps.google.com/?cid=1555252036167411136&hl=ja
+    address: 鳥取県境港市竹内団地255-3
+    price: 700
+    lat: 35.5197593
+    lng: 133.259164
+    type: 温泉
+-
+    id: 17
+    name: 砂丘温泉 ふれあい会館
+    url: https://www.tottori-guide.jp/tourism/tour/view/31
+    map: https://maps.google.com/?cid=12645453127750304222&hl=ja
+    address: 鳥取県鳥取市福部町海士1013-1
+    price: 560
+    lat: 35.5563886
+    lng: 134.2667987
+    type: 温泉
+-
+    id: 18
+    name: 温泉館ホットピア鹿野
+    url: https://www.shikano-net.com/2012/06/post.html
+    map: https://maps.google.com/?cid=14940631771775650103&hl=ja
+    address: 鳥取県鳥取市鹿野町今市418-2
+    price: 430
+    lat: 35.4645193
+    lng: 134.0570579
+    type: 温泉
+-
+    id: 19
+    name: 岸本温泉 ゆうあいパル
+    url: https://www.houki-town.jp/new2/5/3/2/
+    map: https://maps.google.com/?cid=936142727548944221&hl=ja
+    address: 鳥取県西伯郡伯耆町大殿1010
+    price: 510
+    lat: 35.3872186
+    lng: 133.3962654
+    type: 温泉
+-
+    id: 20
+    name: 三朝温泉 たまわりの湯
+    url: https://spa-misasa.jp/enjoy/
+    map: https://maps.google.com/?cid=14530990241830970287&hl=ja
+    address: 鳥取県東伯郡三朝町三朝
+    price: 550
+    lat: 35.4074993
+    lng: 133.8935833
+    type: 共同浴場・銭湯
+-
+    id: 21
+    name: 吉岡温泉会館 一ノ湯
+    url: http://mirai-yoshioka.com/onsenkaikan/
+    map: https://maps.google.com/?cid=17781855418920156521&hl=ja
+    address: 鳥取県鳥取市吉岡温泉町666
+    price: 500
+    lat: 35.4800684
+    lng: 134.1304815
+    type: 温泉
+-
+    id: 22
+    name: 宝温泉
+    url: https://tottori1010.web.fc2.com/takara.html
+    map: https://maps.google.com/?cid=10469171109269910717&hl=ja
+    address: 鳥取県鳥取市吉方温泉3-601
+    price: 400
+    lat: 35.4919933
+    lng: 134.2354863
+    type: 銭湯
+-
+    id: 23
+    name: なかやま温泉 ゆーゆー倶楽部 naspal
+    url: http://www.kik-kaike.com/naspal/
+    map: https://maps.google.com/?cid=5948555799950517350&hl=ja
+    address: 鳥取県西伯郡大山町赤坂708
+    price: 430
+    lat: 35.5145825
+    lng: 133.5792704
+    type: 温泉
+-
+    id: 24
+    name: ゆアシス東郷 龍鳳閣
+    url: http://www.ryuhoukaku.jp/yuashisutop.html
+    map: https://maps.google.com/?cid=9627583116692610188&hl=ja
+    address: 鳥取県東伯郡湯梨浜町引地560-7
+    price: 890
+    lat: 35.4667114
+    lng: 133.8935087
+    type: 温泉
+-
+    id: 25
+    name: 八上比売の美肌の湯 湯谷荘
+    url: https://www.kawahara-yutani.com/
+    map: https://maps.google.com/?cid=17587853597851117880&hl=ja
+    address: 鳥取県鳥取市河原町湯谷249
+    price: 420
+    lat: 35.3840002
+    lng: 134.1527316
+    type: 温泉
+-
+    id: 26
+    name: 若桜ゆはら温泉 ふれあいの湯
+    url: http://kanko.town.wakasa.tottori.jp/search/exp/yuhara-onsen/
+    map: https://maps.google.com/?cid=18383651278519978506&hl=ja
+    address: 鳥取県八頭郡若桜町湯原627
+    price: 400
+    lat: 35.342194
+    lng: 134.4347758
+    type: 温泉
+-
+    id: 27
+    name: 関金温泉 関の湯共同温泉
+    url: 
+    map: https://maps.google.com/?cid=17850541955243588283&hl=ja
+    address: 鳥取県倉吉市関金町関金宿1127-1
+    price: 200
+    lat: 35.3426291
+    lng: 133.7669217
+    type: 共同浴場・銭湯
+-
+    id: 28
+    name: やまもり温泉キャンプ場
+    url: https://localplace.jp/t100055901/
+    map: https://maps.google.com/?cid=4322535478496755056&hl=ja
+    address: 鳥取県倉吉市関金町堀
+    price: 1000
+    lat: 35.3459209
+    lng: 133.6806995
+    type: 温泉
+-
+    id: 29
+    name: 鍛冶屋温泉 八東地域福祉センター
+    url: https://www.tottori-guide.jp/tourism/tour/view/130
+    map: https://maps.google.com/?cid=589447530744415171&hl=ja
+    address: 鳥取県八頭郡八頭町東593-1
+    price: 500
+    lat: 35.3590957
+    lng: 134.32767
+    type: 温泉
+-
+    id: 30
+    name: 岩美町介護予防拠点施設 たきさん温泉
+    url: http://www.iwami.gr.jp/1998.htm
+    map: https://maps.google.com/?cid=5734683922224729295&hl=ja
+    address: 鳥取県岩美郡岩美町外邑110
+    price: 200
+    lat: 35.5060069
+    lng: 134.3359428
+    type: 共同浴場・銭湯
+-
+    id: 31
+    name: みなとさかい交流館 さかいポートサウナ
+    url: http://www.sakaiminato.net/site2/page/suisan/conents/gaiyo/sisetsuinfo/spa/
+    map: https://maps.google.com/?cid=2001762177095687136&hl=ja
+    address: 鳥取県境港市大正町215
+    price: 510
+    lat: 35.5453719
+    lng: 133.2228621
+    type: 温泉
+-
+    id: 32
+    name: 東郷温泉 寿湯
+    url: 
+    map: https://maps.google.com/?cid=15083950739791585684&hl=ja
+    address: 鳥取県東伯郡湯梨浜町旭404
+    price: 200
+    lat: 35.4696686
+    lng: 133.9025421
+    type: 共同浴場・銭湯
+-
+    id: 33
+    name: 大社湯
+    url: https://tottori1010.web.fc2.com/taisya.html
+    map: https://maps.google.com/?cid=3712322559645810921&hl=ja
+    address: 鳥取県倉吉市新町3-2292
+    price: 400
+    lat: 35.4328891
+    lng: 133.8203502
+    type: 銭湯
+-
+    id: 34
+    name: 鹿野温泉 今市集会所
+    url: 
+    map: https://maps.google.com/?cid=13890241034073267691&hl=ja
+    address: 鳥取県鳥取市鹿野町今市1039-7
+    price: 300
+    lat: 35.4720637
+    lng: 134.0513033
+    type: 共同浴場・銭湯
+-
+    id: 35
+    name: 湯梨浜町老人福祉センター東湖園
+    url: http://www.yurihama-shakyo.jp/rojinfukushi.html
+    map: https://maps.google.com/?cid=11683713031461451959&hl=ja
+    address: 鳥取県東伯郡湯梨浜町旭83
+    price: 370
+    lat: 35.4681046
+    lng: 133.8995878
+    type: 温泉
+-
+    id: 36
+    name: GOOD BLESS GARDEN
+    url: https://gbg-yonago.jp
+    map: https://maps.google.com/maps?q=35.431458,133.333405
+    address: 鳥取県米子市角盤町1-27-2
+    price: 1100
+    lat: 35.4318118
+    lng: 133.3334832
+    type: 温泉
+-
+    id: 37
+    name: 木島温泉
+    url: https://tottori1010.web.fc2.com/kisima.html
+    map: https://maps.google.com/?cid=9174978405533661206&hl=ja
+    address: 鳥取県鳥取市吉方温泉1-320
+    price: 400
+    lat: 35.4934167
+    lng: 134.2353384
+    type: 銭湯
+-
+    id: 38
+    name: 日の出湯
+    url: https://tottori1010.web.fc2.com/hinode.html
+    map: https://maps.google.com/?cid=7247522947284854475&hl=ja
+    address: 鳥取県米子市立町3-61
+    price: 400
+    lat: 35.43593620000001
+    lng: 133.3261463
+    type: 銭湯

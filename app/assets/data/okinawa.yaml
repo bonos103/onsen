@@ -1,0 +1,161 @@
+---
+-
+    id: 1
+    name: EMウェルネスリゾート コスタビスタ沖縄
+    url: https://www.costavista.jp/
+    map: https://maps.google.com/?cid=6598476163135676559&hl=ja
+    address: 沖縄県中頭郡北中城村喜舎場1478
+    price: 1500
+    lat: 26.3061513
+    lng: 127.7948318
+    type: 温泉
+-
+    id: 2
+    name: テルメヴィラ ちゅらーゆ
+    url: https://www.hotespa.net/spa/chula-u/
+    map: https://maps.google.com/?cid=9181558848253828021&hl=ja
+    address: 沖縄県中頭郡北谷町字美浜2
+    price: 1300
+    lat: 26.3132722
+    lng: 127.7557628
+    type: 温泉
+-
+    id: 3
+    name: 天然温泉アロマ
+    url: https://www.aroma1126.com/
+    map: https://maps.google.com/?cid=3879626438433684797&hl=ja
+    address: 沖縄県宜野湾市大山7-7-1
+    price: 1500
+    lat: 26.2883402
+    lng: 127.7461074
+    type: 温泉
+-
+    id: 4
+    name: 宮古島シギラリゾート シギラ黄金温泉
+    url: https://www.nanseirakuen.com/onsen/
+    map: https://maps.google.com/?cid=5336424137975495437&hl=ja
+    address: 沖縄県宮古島市上野新里1405-223
+    price: 1530
+    lat: 24.7199676
+    lng: 125.3348081
+    type: 温泉
+-
+    id: 5
+    name: 天然温泉さしきの 猿人の湯
+    url: https://www.yuinchi.jp/hotspring/
+    map: https://maps.google.com/?cid=5588428260334827069&hl=ja
+    address: 沖縄県南城市佐敷新里1688
+    price: 1650
+    lat: 26.1651036
+    lng: 127.7690209
+    type: 温泉
+-
+    id: 6
+    name: ゆんたくあしび温泉 りっかりっか湯
+    url: https://www.nahacen.com/index.html
+    map: https://maps.google.com/?cid=14364379366686308992&hl=ja
+    address: 沖縄県那覇市牧志2-16-36
+    price: 1450
+    lat: 26.2181703
+    lng: 127.6885996
+    type: 温泉
+-
+    id: 7
+    name: 中乃湯温泉
+    url: 
+    map: https://maps.google.com/?cid=17523418646086119813&hl=ja
+    address: 沖縄県沖縄市安慶田1-5-2
+    price: 370
+    lat: 26.3374352
+    lng: 127.8108337
+    type: 銭湯
+-
+    id: 8
+    name: バーデハウス久米島
+    url: http://bade-kumejima.co.jp/
+    map: https://maps.google.com/?cid=18418605995851321205&hl=ja
+    address: 沖縄県島尻郡久米島町字奥武170-1
+    price: 2000
+    lat: 26.3365527
+    lng: 126.8250958
+    type: 温泉
+-
+    id: 9
+    name: ジスタス浦添 浦添の湯
+    url: https://www.xystus.okinawa/fitness_shopinfo.php#i02
+    map: https://maps.google.com/?cid=7142260619422961913&hl=ja
+    address: 沖縄県浦添市沢岻2-23-1
+    price: 700
+    lat: 26.2343192
+    lng: 127.707466
+    type: 温泉
+-
+    id: 10
+    name: SAUNA&SPA うちな〜ゆ
+    url: http://uchina-yu.jp
+    map: https://maps.google.com/?cid=1308287487758955967&hl=ja
+    address: 沖縄県島尻郡南風原町宮平3-3
+    price: 1200
+    lat: 26.1961639
+    lng: 127.7316166
+    type: 温泉
+-
+    id: 11
+    name: かりゆし カンナタラソラグーナ
+    url: https://kanassa.jp/
+    map: https://maps.google.com/?cid=2208323532807131202&hl=ja
+    address: 沖縄県国頭郡宜野座村字漢那1817
+    price: 2400
+    lat: 26.4744748
+    lng: 127.9604619
+    type: 温泉
+-
+    id: 12
+    name: 沖縄健康サウナ
+    url: http://okinawa-kenkousauna.com
+    map: https://maps.google.com/?cid=14568953818990647160&hl=ja
+    address: 沖縄県沖縄市与儀3-10-20
+    price: 1400
+    lat: 26.3089761
+    lng: 127.8168573
+    type: 温泉
+-
+    id: 13
+    name: 岩盤浴 石の湯 伊の前
+    url: http://luiyu-okinawa.com/ishinoyu.html
+    map: https://maps.google.com/?cid=4083025300412975585&hl=ja
+    address: 沖縄県島尻郡八重瀬町字仲座270
+    price: 1100
+    lat: 26.1108397
+    lng: 127.7268609
+    type: 温泉
+-
+    id: 14
+    name: 健康サウナ 美原
+    url: http://maichu.jp/0601/
+    map: https://maps.google.com/?cid=6172494469927581644&hl=ja
+    address: 沖縄県うるま市石川東恩納1681-11
+    price: 1100
+    lat: 26.410605
+    lng: 127.834208
+    type: 温泉
+-
+    id: 15
+    name: 金武町総合保健福祉センター
+    url: https://www.town.kin.okinawa.jp/guide/36/115
+    map: https://maps.google.com/?cid=16496937772452166303&hl=ja
+    address: 沖縄県国頭郡金武町字金武1842
+    price: 600
+    lat: 26.4488978
+    lng: 127.9275875
+    type: 共同浴場・銭湯
+-
+    id: 16
+    name: 体験王国むら咲むら 癒し工房 ゆーふる
+    url: https://murasakimura.com/?page_id=388
+    map: https://maps.google.com/?cid=9602299750741006615&hl=ja
+    address: 沖縄県読谷村高志保1020-1
+    price: 600
+    lat: 26.4072684
+    lng: 127.7203623
+    type: 銭湯

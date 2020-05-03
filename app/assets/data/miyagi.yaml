@@ -1,0 +1,601 @@
+---
+-
+    id: 1
+    name: 竜泉寺の湯(仙台泉店)
+    url: https://ryusenjinoyu.com/izumi/
+    map: https://maps.google.com/?cid=8612767810518325523&hl=ja
+    address: 宮城県仙台市泉区大沢2-5-9
+    price: 600
+    lat: 38.3531271
+    lng: 140.8768078
+    type: 温泉
+-
+    id: 2
+    name: 鳴子・中山平温泉 しんとろの湯
+    url: http://spa.shintoro.com/
+    map: https://maps.google.com/?cid=2394198271648668083&hl=ja
+    address: 宮城県大崎市鳴子温泉星沼18-9
+    price: 440
+    lat: 38.7283784
+    lng: 140.677254
+    type: 温泉
+-
+    id: 3
+    name: 極楽湯(名取店)
+    url: http://www.gokurakuyu.jp/natori.html
+    map: https://maps.google.com/?cid=18328810546476617199&hl=ja
+    address: 宮城県名取市田高字原463
+    price: 580
+    lat: 38.1798171
+    lng: 140.8770178
+    type: 温泉
+-
+    id: 4
+    name: 極楽湯(富谷店)
+    url: https://www.gokurakuyu.ne.jp/tempo/tomiya/index.html
+    map: https://maps.google.com/?cid=4401045110760891213&hl=ja
+    address: 宮城県黒川郡富谷町成田1-4-1
+    price: 680
+    lat: 38.3654682
+    lng: 140.8941207
+    type: 温泉
+-
+    id: 5
+    name: 仙台湯処 サンピアの湯
+    url: https://sunpia-sendai.jp/onsen/
+    map: https://maps.google.com/?cid=6975664491100265592&hl=ja
+    address: 宮城県仙台市若林区蒲町東4-2
+    price: 970
+    lat: 38.2471939
+    lng: 140.9322139
+    type: 温泉
+-
+    id: 6
+    name: 遠刈田温泉 共同浴場 神の湯
+    url: http://toogattaspa.jp/kaminoyu.html
+    map: https://maps.google.com/?cid=1396794477762985044&hl=ja
+    address: 宮城県刈田郡蔵王町遠刈田温泉仲町32
+    price: 330
+    lat: 38.124154
+    lng: 140.577216
+    type: 共同浴場・銭湯
+-
+    id: 7
+    name: おおがわら天然温泉 いい湯
+    url: https://eeyu.jp/
+    map: https://maps.google.com/?cid=11047499902941575043&hl=ja
+    address: 宮城県柴田郡大河原町新寺字北185-11
+    price: 800
+    lat: 38.0570605
+    lng: 140.702323
+    type: 温泉
+-
+    id: 8
+    name: 夢実の国
+    url: https://www.yumeminokuni.net/
+    map: https://maps.google.com/?cid=17441127775253854343&hl=ja
+    address: 宮城県黒川郡大郷町東成田字新田11-1
+    price: 600
+    lat: 38.3855587
+    lng: 140.9770199
+    type: 温泉
+-
+    id: 9
+    name: 遠刈田温泉 まほろばの湯
+    url: http://mahorobanoyu.jp/
+    map: https://maps.google.com/?cid=729186616205537912&hl=ja
+    address: 宮城県刈田郡蔵王町遠刈田温泉新地東裏山34-208
+    price: 700
+    lat: 38.1164539
+    lng: 140.5836982
+    type: 温泉
+-
+    id: 10
+    name: 駒の湯
+    url: 
+    map: https://maps.google.com/?cid=5055733102807413228&hl=ja
+    address: 宮城県仙台市青葉区国分町1-4-19
+    price: 440
+    lat: 38.26123279999999
+    lng: 140.8686213
+    type: 銭湯
+-
+    id: 11
+    name: 鳴子温泉 滝の湯
+    url: https://www.city.osaki.miyagi.jp/index.cfm/24,1129,107,232,html
+    map: https://maps.google.com/?cid=3078513131290631289&hl=ja
+    address: 宮城県大崎市鳴子温泉湯元47-1
+    price: 200
+    lat: 38.7415793
+    lng: 140.7178483
+    type: 共同浴場・銭湯
+-
+    id: 12
+    name: 天然温泉元湯 元気の湯
+    url: https://genkinoyu.com/
+    map: https://maps.google.com/?cid=4203990396764926050&hl=ja
+    address: 宮城県石巻市大街道北1-6-29
+    price: 700
+    lat: 38.4318258
+    lng: 141.2866385
+    type: 温泉
+-
+    id: 13
+    name: 加護坊温泉 さくらの湯
+    url: http://www.sakuranoyu.jp/
+    map: https://maps.google.com/?cid=2523408069865960999&hl=ja
+    address: 宮城県大崎市田尻小塩字八ツ沢37-1
+    price: 600
+    lat: 38.5897947
+    lng: 141.0728571
+    type: 温泉
+-
+    id: 14
+    name: 青根温泉 じゃっぽの湯
+    url: https://japponoyu.jp/
+    map: https://maps.google.com/?cid=14946988635996546697&hl=ja
+    address: 宮城県柴田郡川崎町青根温泉9-1
+    price: 320
+    lat: 38.1464418
+    lng: 140.5358647
+    type: 共同浴場・銭湯
+-
+    id: 15
+    name: 汗蒸幕のゆ
+    url: http://hanjunmakunoyu.jp/
+    map: https://maps.google.com/?cid=1181729879352908355&hl=ja
+    address: 宮城県仙台市泉区市名坂南前67-1
+    price: 1050
+    lat: 38.3187765
+    lng: 140.8965857
+    type: 温泉
+-
+    id: 16
+    name: やすらぎの湯 ゆっぽ
+    url: http://yuppo-shiroishi.sub.jp/shiroishi/
+    map: https://maps.google.com/?cid=15773579533538291804&hl=ja
+    address: 宮城県白石市大平森合字森合沖86
+    price: 650
+    lat: 37.9964777
+    lng: 140.6100167
+    type: 温泉
+-
+    id: 17
+    name: 金成延年閣
+    url: http://www.ennenkaku.jp/
+    map: https://maps.google.com/?cid=13702789540895529111&hl=ja
+    address: 宮城県栗原市金成三沢32
+    price: 500
+    lat: 38.8312566
+    lng: 141.0846761
+    type: 温泉
+-
+    id: 18
+    name: 女川温泉 ゆぽっぽ
+    url: http://onagawa-yupoppo.com/
+    map: https://maps.google.com/?cid=16165847433597514793&hl=ja
+    address: 宮城県牡鹿郡女川町女川浜大原
+    price: 500
+    lat: 38.4524113
+    lng: 141.4321263
+    type: 温泉
+-
+    id: 19
+    name: やくらい薬師の湯
+    url: http://kami-tr.com/yakurai/yakushinoyu
+    map: https://maps.google.com/?cid=3704117719871116597&hl=ja
+    address: 宮城県加美郡加美町字味ケ袋薬莱原1-76
+    price: 800
+    lat: 38.5721142
+    lng: 140.7284736
+    type: 温泉
+-
+    id: 20
+    name: 鶴の湯
+    url: 
+    map: https://maps.google.com/?cid=718599785275689107&hl=ja
+    address: 宮城県仙台市太白区太白長町4-3-24
+    price: 440
+    lat: 38.2295097
+    lng: 140.8834372
+    type: 銭湯
+-
+    id: 21
+    name: 極楽湯(多賀城店)
+    url: http://tagajo.gokurakuyu.jp
+    map: https://maps.google.com/?cid=4768301666712355653&hl=ja
+    address: 宮城県多賀城市町前1-2-5
+    price: 580
+    lat: 38.2839069
+    lng: 140.9966494
+    type: 温泉
+-
+    id: 22
+    name: 天然温泉 たかもりの湯
+    url: http://takamorinoyu.com/
+    map: https://maps.google.com/?cid=13389253729182783946&hl=ja
+    address: 宮城県栗原市築館上高森下字24-1
+    price: 700
+    lat: 38.71389629999999
+    lng: 140.9794006
+    type: 温泉
+-
+    id: 23
+    name: ひまわり温泉 花おりの湯
+    url: http://kaorinoyu.com/
+    map: https://maps.google.com/?cid=6743120962996416359&hl=ja
+    address: 宮城県大崎市三本木坂本青山31-1
+    price: 680
+    lat: 38.5172283
+    lng: 140.914481
+    type: 温泉
+-
+    id: 24
+    name: ゆっぽ とみや大清水
+    url: http://yuppo-tomiya.com/
+    map: https://maps.google.com/?cid=17803281104041268335&hl=ja
+    address: 宮城県黒川郡富谷町大清水1-32-3
+    price: 600
+    lat: 38.368852
+    lng: 140.8743223
+    type: 温泉
+-
+    id: 25
+    name: 喜代乃湯
+    url: 
+    map: https://maps.google.com/?cid=10196013409708343291&hl=ja
+    address: 宮城県仙台市宮城野区小田原1-8-5
+    price: 400
+    lat: 38.265136
+    lng: 140.8913495
+    type: 銭湯
+-
+    id: 26
+    name: 鳴子温泉 早稲田桟敷湯
+    url: https://www.city.osaki.miyagi.jp/index.cfm/24,1130,107,232,html
+    map: https://maps.google.com/?cid=250515378675082221&hl=ja
+    address: 宮城県大崎市鳴子温泉新屋敷124-1
+    price: 550
+    lat: 38.7437925
+    lng: 140.7173273
+    type: 温泉
+-
+    id: 27
+    name: わくや天平の湯
+    url: http://tenpyou.com/
+    map: https://maps.google.com/?cid=5878013975359110086&hl=ja
+    address: 宮城県遠田郡涌谷町涌谷字中江南222
+    price: 600
+    lat: 38.53942420000001
+    lng: 141.1511692
+    type: 温泉
+-
+    id: 28
+    name: 秋保温泉共同浴場
+    url: https://akiusato.jp/tabi/higaeri.html
+    map: https://maps.google.com/?cid=14205979797512139988&hl=ja
+    address: 宮城県仙台市太白区秋保町湯元薬師100
+    price: 300
+    lat: 38.2266421
+    lng: 140.7198355
+    type: 共同浴場・銭湯
+-
+    id: 29
+    name: 極楽湯(古川店)
+    url: http://furukawa.gokurakuyu.jp
+    map: https://maps.google.com/?cid=3700119099532994830&hl=ja
+    address: 宮城県大崎市古川稲葉字鴻ノ巣184-1
+    price: 580
+    lat: 38.5572876
+    lng: 140.9478291
+    type: 温泉
+-
+    id: 30
+    name: 松島日帰り天然温泉 芭蕉の湯
+    url: https://basyonoyu.jp/
+    map: https://maps.google.com/?cid=3067464129806942033&hl=ja
+    address: 宮城県宮城郡松島町松島石田沢32-1
+    price: 600
+    lat: 38.3715511
+    lng: 141.0508258
+    type: 温泉
+-
+    id: 31
+    name: 天然温泉 スパ泉ヶ岳
+    url: http://www.supa-supa.net/
+    map: https://maps.google.com/?cid=3700042012803879736&hl=ja
+    address: 宮城県仙台市泉区福岡上鼬原12-9
+    price: 800
+    lat: 38.3715797
+    lng: 140.7579602
+    type: 温泉
+-
+    id: 32
+    name: 長沼温泉 ヴィーナスの湯
+    url: http://www.venus-no-yu.jp/
+    map: https://maps.google.com/?cid=14819110773701094789&hl=ja
+    address: 宮城県登米市迫町北方字兵粮120-1
+    price: 600
+    lat: 38.69972140000001
+    lng: 141.1473848
+    type: 温泉
+-
+    id: 33
+    name: 豆坂温泉 三峰荘
+    url: http://sanpouso.com/
+    map: https://maps.google.com/?cid=17659689990336325752&hl=ja
+    address: 宮城県大崎市三本木新沼字中谷地屋敷4
+    price: 580
+    lat: 38.5348552
+    lng: 140.9328059
+    type: 温泉
+-
+    id: 34
+    name: 色麻平沢温泉 かっぱのゆ
+    url: http://kappanoyu.com/
+    map: https://maps.google.com/?cid=1938887883499551723&hl=ja
+    address: 宮城県加美郡色麻町平沢新早坂21
+    price: 1000
+    lat: 38.5472721
+    lng: 140.7777756
+    type: 温泉
+-
+    id: 35
+    name: 老人憩いの家 黄金川温泉 白鳥荘
+    url: http://www.town.zao.miyagi.jp/kurashi/kurashi_guide/koukyoushisetsu/ikoi/index.html
+    map: https://maps.google.com/?cid=2605872268446702861&hl=ja
+    address: 宮城県刈田郡蔵王町宮中野129
+    price: 350
+    lat: 38.0657261
+    lng: 140.65669
+    type: 温泉
+-
+    id: 36
+    name: 花の湯
+    url: 
+    map: https://maps.google.com/?cid=14330898555124452994&hl=ja
+    address: 宮城県仙台市青葉区中江1-20-23
+    price: 440
+    lat: 38.274374
+    lng: 140.8920319
+    type: 銭湯
+-
+    id: 37
+    name: 天守閣自然公園 市太郎の湯
+    url: http://akiu-sizen.co.jp/ichiyu.html
+    map: https://maps.google.com/?cid=10271417698813506930&hl=ja
+    address: 宮城県仙台市太白区秋保町湯元源兵衛原10
+    price: 800
+    lat: 38.2311071
+    lng: 140.7092347
+    type: 温泉
+-
+    id: 38
+    name: 明日の湯温泉
+    url: 
+    map: https://maps.google.com/?cid=3064868042881470638&hl=ja
+    address: 宮城県仙台市泉区根白石新坂上34-10
+    price: 700
+    lat: 38.3387936
+    lng: 140.8001436
+    type: 温泉
+-
+    id: 39
+    name: 道の駅 上品の郷 ふたごの湯
+    url: http://www.joubon.com/home/
+    map: https://maps.google.com/?cid=6947977953480259305&hl=ja
+    address: 宮城県石巻市小船越二子北下1-1
+    price: 550
+    lat: 38.5010779
+    lng: 141.2956299
+    type: 温泉
+-
+    id: 40
+    name: 秋保森林スポーツ公園 森林の湯
+    url: http://www.h-crescent.co.jp/sportspark/
+    map: https://maps.google.com/?cid=17938798230654419468&hl=ja
+    address: 宮城県仙台市太白区秋保町湯元青木33-1
+    price: 561
+    lat: 38.2321356
+    lng: 140.7206481
+    type: 温泉
+-
+    id: 41
+    name: 遠刈田温泉 壽の湯
+    url: http://toogattaspa.jp/kotobukinoyu.html
+    map: https://maps.google.com/?cid=9726509132961514395&hl=ja
+    address: 宮城県刈田郡蔵王町遠刈田温泉旭町5-1
+    price: 330
+    lat: 38.1230587
+    lng: 140.578978
+    type: 共同浴場・銭湯
+-
+    id: 42
+    name: やくらいウォーターパーク
+    url: http://kami-tr.com/yakurai/waterpark
+    map: https://maps.google.com/?cid=2722794959834969560&hl=ja
+    address: 宮城県加美郡加美町味ヶ袋薬莱原1-333
+    price: 600
+    lat: 38.573926
+    lng: 140.726911
+    type: 温泉
+-
+    id: 43
+    name: 川渡温泉浴場
+    url: 
+    map: https://maps.google.com/?cid=17549904707390300716&hl=ja
+    address: 宮城県大崎市鳴子温泉川渡25-59
+    price: 200
+    lat: 38.7321293
+    lng: 140.7675132
+    type: 共同浴場・銭湯
+-
+    id: 44
+    name: 小原温泉 岩風呂 かつらの湯
+    url: http://www.city.shiroishi.miyagi.jp/soshiki/1/17.html
+    map: https://maps.google.com/?cid=10827014394201367086&hl=ja
+    address: 宮城県白石市小原坂上66
+    price: 200
+    lat: 37.9783066
+    lng: 140.5686258
+    type: 共同浴場・銭湯
+-
+    id: 45
+    name: 友の湯
+    url: http://tomonoyu.info/
+    map: https://maps.google.com/?cid=15562325200183868513&hl=ja
+    address: 宮城県気仙沼市古町1-3-23
+    price: 440
+    lat: 38.9065795
+    lng: 141.5631246
+    type: 銭湯
+-
+    id: 46
+    name: やまびこの湯
+    url: https://spa-yamabiko.jp/
+    map: https://maps.google.com/?cid=123907835636396487&hl=ja
+    address: 宮城県仙台市太白区西多賀5-24-1
+    price: 700
+    lat: 38.219414
+    lng: 140.8489516
+    type: 温泉
+-
+    id: 47
+    name: 宮城栗駒山 駒の湯温泉 駒の湯
+    url: http://komanoyu.net/
+    map: https://maps.google.com/?cid=10610214327413692625&hl=ja
+    address: 宮城県栗原市栗駒沼倉耕英東88
+    price: 500
+    lat: 38.937726
+    lng: 140.8377013
+    type: 温泉
+-
+    id: 48
+    name: 東松島市健康増進センター ゆぷと 矢本温泉
+    url: https://h-yuputo.sakura.ne.jp/
+    map: https://maps.google.com/?cid=8975158996527352102&hl=ja
+    address: 宮城県東松島市矢本字河戸342-2
+    price: 800
+    lat: 38.4197601
+    lng: 141.209157
+    type: 温泉
+-
+    id: 49
+    name: 天然温泉 海神の湯
+    url: https://www.hotespa.net/hotels/sendai_sea/spa/
+    map: https://maps.google.com/?cid=17510254358503931655&hl=ja
+    address: 宮城県仙台市宮城野区中野3-4-9
+    price: 1000
+    lat: 38.2706469
+    lng: 140.9899556
+    type: 温泉
+-
+    id: 50
+    name: ホテルきよ水別館 せせらぎ
+    url: https://www.kiyo-mizu.jp/dayplan.html#p3
+    map: https://maps.google.com/?cid=5052809887972703665&hl=ja
+    address: 宮城県仙台市太白区秋保町湯元平倉1
+    price: 1390
+    lat: 38.2354268
+    lng: 140.7045
+    type: 温泉
+-
+    id: 51
+    name: 天然温泉 不忘の湯
+    url: 
+    map: https://maps.google.com/?cid=7814688554747802457&hl=ja
+    address: 宮城県白石市福岡八宮字大網前140-3
+    price: 500
+    lat: 38.0611842
+    lng: 140.5429524
+    type: 温泉
+-
+    id: 52
+    name: 鬼首温泉 せんとう目の湯
+    url: https://www.miyalabo.jp/shop/shop.shtml?s=7483
+    map: https://maps.google.com/?cid=8227701351633506439&hl=ja
+    address: 宮城県大崎市鳴子温泉鬼首字轟8-1
+    price: 500
+    lat: 38.7969983
+    lng: 140.6634322
+    type: 共同浴場・銭湯
+-
+    id: 53
+    name: 吹上高原 すぱ鬼首の湯
+    url: http://new.onikoube.com/fukiage/spa
+    map: https://maps.google.com/?cid=15171847259447636042&hl=ja
+    address: 宮城県大崎市鳴子温泉鬼首本宮原23-38
+    price: 520
+    lat: 38.8020415
+    lng: 140.6661235
+    type: 温泉
+-
+    id: 54
+    name: 作並温泉 都の湯
+    url: http://miyakonoyu.com/
+    map: https://maps.google.com/?cid=6870585899233372058&hl=ja
+    address: 宮城県仙台市青葉区作並元木2-36
+    price: 1800
+    lat: 38.3289804
+    lng: 140.6172653
+    type: 温泉
+-
+    id: 55
+    name: 七ヶ浜健康スポーツセンター アクアリーナ
+    url: https://shichigahama.com/aquarena/index.html
+    map: https://maps.google.com/?cid=2498522046380879232&hl=ja
+    address: 宮城県宮城郡七ヶ浜町吉田浜野山5-1
+    price: 880
+    lat: 38.3024821
+    lng: 141.0638181
+    type: 温泉
+-
+    id: 56
+    name: 山脈ハウス
+    url: https://www.kurihara-kb.net/publics/index/129/
+    map: https://maps.google.com/?cid=1449076526619801723&hl=ja
+    address: 宮城県栗原市栗駒沼倉耕英東45
+    price: 400
+    lat: 38.9342796
+    lng: 140.8328902
+    type: 温泉
+-
+    id: 57
+    name: 川崎町健康福祉センター やすらぎの郷
+    url: 
+    map: https://maps.google.com/?cid=13638594002761537326&hl=ja
+    address: 宮城県柴田郡川崎町前川字北原23-1
+    price: 500
+    lat: 38.18201870000001
+    lng: 140.6306972
+    type: 温泉
+-
+    id: 58
+    name: 気仙沼市 大曲コミュニティーセンター
+    url: http://taihei-sendai.com/oomagari/
+    map: https://maps.google.com/?cid=7926385160622009017&hl=ja
+    address: 宮城県気仙沼市九条1番地
+    price: 250
+    lat: 38.884637
+    lng: 141.5363165
+    type: 共同浴場・銭湯
+-
+    id: 59
+    name: 鶴亀の湯
+    url: https://kesennuma-tsurukame.com/
+    map: https://maps.google.com/?cid=7713852793629650590&hl=ja
+    address: 宮城県気仙沼市魚市場前4-5
+    price: 440
+    lat: 38.8991879
+    lng: 141.5807161
+    type: 銭湯
+-
+    id: 60
+    name: えびす湯
+    url: 
+    map: https://maps.google.com/maps?q=38.315571,141.019302
+    address: 宮城県塩釜市南町1-16
+    price: 400
+    lat: 38.3155346
+    lng: 141.019336
+    type: 銭湯
