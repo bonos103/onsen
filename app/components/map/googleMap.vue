@@ -142,7 +142,7 @@ export default {
             width: 40,
             height: 46.5,
             anchorIcon: [23.25, 0],
-            anchorText: [6, 0],
+            anchorText: [9, 0],
             // textColor: '#fff',
             className: this.$style.cluster1,
           },
@@ -151,7 +151,7 @@ export default {
             width: 45,
             height: 52.315,
             anchorIcon: [26.1575, 0],
-            anchorText: [8.5, 0],
+            anchorText: [11.5, 0],
             // textColor: '#fff',
             className: this.$style.cluster2,
           },
@@ -160,7 +160,7 @@ export default {
             width: 50,
             height: 58.125,
             anchorIcon: [24.0625, 0],
-            anchorText: [11, 0],
+            anchorText: [14, 0],
             // textColor: '#fff',
             className: this.$style.cluster3,
           },
@@ -189,15 +189,15 @@ export default {
     height: 100%;
   }
   .cluster1 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: var(--blue-dark);
   }
   .cluster2 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: var(--green-dark);
   }
   .cluster3 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: var(--salmon-dark);
   }
 </style>
