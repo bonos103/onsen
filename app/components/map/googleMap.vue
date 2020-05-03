@@ -5,6 +5,9 @@
 import { mapState } from 'vuex'
 import GoogleMapsApiLoader from 'google-maps-api-loader'
 import MarkerClusterer from '@google/markerclustererplus'
+import clusterImage1 from '@/assets/images/map/cluster1.png'
+import clusterImage2 from '@/assets/images/map/cluster2.png'
+import clusterImage3 from '@/assets/images/map/cluster3.png'
 import markerImage1 from '@/assets/images/map/marker1.png'
 import markerImage2 from '@/assets/images/map/marker2.png'
 import markerImage3 from '@/assets/images/map/marker3.png'
@@ -127,28 +130,38 @@ export default {
         // imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m',
         // imageExtension: 'png',
         // imageSizes: [30, 40, 50],
-        gridSize: 60,
+        enableRetinaIcons: true,
+        // gridSize: 60,
         maxZoom: 11,
         averageCenter: true,
         minimumClusterSize: 4,
 
         styles: [
           {
-            width: 30,
-            height: 30,
-            textColor: '#fff',
+            url: clusterImage1,
+            width: 40,
+            height: 46.5,
+            anchorIcon: [23.25, 0],
+            anchorText: [6, 0],
+            // textColor: '#fff',
             className: this.$style.cluster1,
           },
           {
-            width: 35,
-            height: 35,
-            textColor: '#fff',
+            url: clusterImage2,
+            width: 45,
+            height: 52.315,
+            anchorIcon: [26.1575, 0],
+            anchorText: [8.5, 0],
+            // textColor: '#fff',
             className: this.$style.cluster2,
           },
           {
-            width: 40,
-            height: 40,
-            textColor: '#fff',
+            url: clusterImage3,
+            width: 50,
+            height: 58.125,
+            anchorIcon: [24.0625, 0],
+            anchorText: [11, 0],
+            // textColor: '#fff',
             className: this.$style.cluster3,
           },
         ],
@@ -176,21 +189,15 @@ export default {
     height: 100%;
   }
   .cluster1 {
-    line-height: 30px;
-    background-color: #FBD27B;
-    border-radius: 50%;
-    box-shadow: 0 0 10px #FBD27B;
+    font-size: 2rem;
+    color: var(--blue-dark);
   }
   .cluster2 {
-    line-height: 35px;
-    background-color: #FEA354;
-    border-radius: 50%;
-    box-shadow: 0 0 10px #FEA354;
+    font-size: 2rem;
+    color: var(--green-dark);
   }
   .cluster3 {
-    line-height: 40px;
-    background-color: #F55F49;
-    border-radius: 50%;
-    box-shadow: 0 0 10px #F55F49;
+    font-size: 2rem;
+    color: var(--salmon-dark);
   }
 </style>
