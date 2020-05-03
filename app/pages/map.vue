@@ -12,7 +12,7 @@
     nuxt-child(:key="$route.fullPath")
 </template>
 <script>
-import { mapState } from 'vuex'
+import { mapGetters } from 'vuex'
 // import csv from '@/assets/data/hokkaido.csv'
 import GoogleMap from '@/components/Map/GoogleMap'
 import MapFilter from '@/components/Map/MapFilter'
@@ -23,14 +23,20 @@ export default {
     GoogleMap,
     MapFilter,
   },
+  fetch({ params, store }) {
+    const pref = params.pref || ''
+    if (pref) {
+      store.commit('onsen/setFilters', { pref })
+    }
+  },
   data() {
     return {
       windowHeight: 300,
     }
   },
   computed: {
-    ...mapState('onsen', {
-      items: 'list',
+    ...mapGetters('onsen', {
+      items: 'filteredList',
     }),
     mapStyle() {
       return {
