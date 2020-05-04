@@ -8,7 +8,7 @@
         h1(:class="$style.name") {{item.name}}
         div(:class="$style.item", v-if="item.price")
           div(:class="$style.label") 料金
-          div(:class="$style.value") {{item.price}}
+          div(:class="$style.value") {{item.price | formatPrice}}
         div(:class="$style.item", v-if="item.url")
           div(:class="$style.label") ホームページ
           div(:class="$style.value")
@@ -33,6 +33,17 @@
 export default {
   transition: {
     name: 'fade',
+  },
+  filters: {
+    formatPrice(value) {
+      if (value === 0) {
+        return '無料 もしくは 寸志'
+      }
+      if (typeof value === 'number') {
+        return `¥${value.toLocaleString('ja-JP')}`
+      }
+      return value
+    },
   },
   asyncData({ params, store }) {
     return {
