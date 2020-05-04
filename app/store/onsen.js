@@ -13,13 +13,15 @@ const list = Object.entries(prefecturesData).map(o => (
 )).flat(1)
 
 export const state = () => ({
+  // list: [],
   list,
   ...prefecturesData,
   prefectures,
   filters: {
     pref: '',
-    priceRange: [0, 0],
+    priceRange: [0, 1000],
   },
+  steps: [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000],
 })
 
 export const getters = {
@@ -39,7 +41,33 @@ export const getters = {
 }
 
 export const mutations = {
-  setFilters(state, { pref = '', priceRange = [0, 0] }) {
-    state.filters = { ...state.filters, ...{ pref, priceRange } }
+  setFilters(state, { pref, priceRange }) {
+    if (pref !== undefined) {
+      state.filters.pref = pref
+    }
+    if (priceRange !== undefined) {
+      state.filters.priceRange = priceRange
+    }
+    // state.filters = { ...state.filters, ...{ pref, priceRange } }
+  },
+  initList(state) {
+    // 都道府県のCSVデータをマージ＆正規化
+    const list = Object.entries(prefecturesData).map(o => (
+      o[1].map((i) => {
+        i.pref = o[0]
+        return i
+      })
+    )).flat(1)
+    state.list = list
+    return Object.assign(state, prefecturesData)
+  },
+}
+
+export const actions = {
+  setFilters({ commit }, data) {
+    commit('setFilters', data)
+  },
+  initList({ commit }) {
+    commit('initList')
   },
 }

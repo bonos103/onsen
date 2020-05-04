@@ -4,13 +4,16 @@
       filter-icon
     filter-box(
       v-if="visibleBox",
-      :range="range",
+      :prefecture="filters.pref",
+      :range="filters.priceRange",
       :steps="steps",
       @close="handleClose",
+      @change:pref="handleChangePref",
       @change:range="handleChangeRange",
     )
 </template>
 <script>
+import { mapActions, mapState } from 'vuex'
 import FilterIcon from '@/assets/images/commons/filter.svg'
 import FilterBox from '@/components/Map/FilterBox'
 
@@ -20,22 +23,34 @@ export default {
     FilterBox,
   },
   data() {
-    const steps = [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
+    // const steps = [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
     return {
-      range: [steps[0], steps[steps.length - 1]],
-      steps,
+      // range: [steps[0], steps[steps.length - 1]],
+      // steps,
       visibleBox: true,
     }
   },
+  computed: {
+    ...mapState('onsen', {
+      steps: 'steps',
+      filters: 'filters',
+    }),
+  },
   methods: {
+    ...mapActions('onsen', {
+      setFilters: 'setFilters',
+    }),
     handleToggle() {
       this.visibleBox = !this.visibleBox
     },
     handleClose() {
       this.visibleBox = false
     },
+    handleChangePref(pref) {
+      this.setFilters({ pref })
+    },
     handleChangeRange(range) {
-      this.range = range
+      this.setFilters({ priceRange: range })
     },
   },
 }

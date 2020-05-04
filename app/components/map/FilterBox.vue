@@ -18,7 +18,7 @@
           )
       div(:class="$style.formItem")
         div(:class="$style.formLabel") エリア
-        form-select(:value="prefecture")
+        form-select(:value="prefecture", @change="handlePrefecture")
           option(value="") 都道府県で絞り込み
           option(v-for="pref in prefectures", :key="pref.value", :value="pref.value") {{pref.name}}
 </template>
@@ -82,6 +82,9 @@ export default {
     },
     updateRange(range) {
       this.$emit('change:range', range)
+    },
+    handlePrefecture(pref) {
+      this.$emit('change:pref', pref)
     },
   },
 }
