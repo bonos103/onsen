@@ -28,9 +28,7 @@ export default {
   fetch({ params, query, store }) {
     const pref = params.pref || ''
     const range = query.range
-    if (pref) {
-      store.dispatch('onsen/setFilters', { pref, priceRange: range })
-    }
+    store.dispatch('onsen/setFilters', { pref, priceRange: range })
   },
   data() {
     return {
@@ -50,6 +48,14 @@ export default {
   mounted() {
     this.calcWindowHeight()
     this.$listen(window, 'resize', this.calcWindowHeight)
+  },
+  beforeRouteUpdate(to, from, next) {
+    this.calcWindowHeight()
+    const { params, query } = to
+    const pref = params.pref || ''
+    const range = query.range
+    this.$store.dispatch('onsen/setFilters', { pref, priceRange: range })
+    next()
   },
   methods: {
     handleClickMarker(item) {
