@@ -12,6 +12,29 @@ const list = Object.entries(prefecturesData).map(o => (
   })
 )).flat(1)
 
+const trimPriceRange = (range, steps) => {
+  const trimming = (r) => {
+    if (typeof r === 'string' && typeof Number(r) === 'number') {
+      return [0, Number(r)]
+    }
+    if (Array.isArray(r)) {
+      if (r.length === 1) {
+        return [0, r[0]]
+      }
+      return [r[0], r[1]]
+    }
+    return undefined
+  }
+  const trimRange = trimming(range)
+  if (!trimRange) {
+    return trimRange
+  }
+  if (trimRange[1] > steps[steps.length - 1]) {
+    trimRange[1] = steps[steps.length - 1]
+  }
+  return trimRange
+}
+
 export const state = () => ({
   // list: [],
   list,
@@ -64,8 +87,8 @@ export const mutations = {
 }
 
 export const actions = {
-  setFilters({ commit }, data) {
-    commit('setFilters', data)
+  setFilters({ commit, state }, { pref, priceRange }) {
+    commit('setFilters', { pref, priceRange: trimPriceRange(priceRange) })
   },
   initList({ commit }) {
     commit('initList')

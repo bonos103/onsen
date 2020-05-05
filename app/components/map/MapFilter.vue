@@ -47,10 +47,18 @@ export default {
       this.visibleBox = false
     },
     handleChangePref(pref) {
-      this.setFilters({ pref })
+      // this.setFilters({ pref })
+      const query = { ...this.$route.query }
+      const params = { ...this.$route.params, pref }
+      const name = params.pref ? 'map-pref' : 'map'
+      this.$router.push({ name, params, query })
     },
     handleChangeRange(range) {
-      this.setFilters({ priceRange: range })
+      // this.setFilters({ priceRange: range })
+      const query = { ...this.$route.query, range }
+      const params = { ...this.$route.params }
+      const name = params.pref ? 'map-pref' : 'map'
+      this.$router.push({ name, params, query })
     },
   },
 }

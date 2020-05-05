@@ -2,6 +2,7 @@
   div
     div(:style="mapStyle")
       google-map(@click-marker="handleClickMarker")
+      //- google-map(@click-marker="handleClickMarker", v-if="visibleMap")
       map-filter
     div(v-for="item in items.slice(0, 10)", :key="`${item.pref}${item.id}`")
       div {{item.name}}
@@ -13,6 +14,7 @@
 </template>
 <script>
 import { mapGetters } from 'vuex'
+// import { mapActions, mapGetters } from 'vuex'
 // import csv from '@/assets/data/hokkaido.csv'
 import GoogleMap from '@/components/Map/GoogleMap'
 import MapFilter from '@/components/Map/MapFilter'
@@ -23,10 +25,11 @@ export default {
     GoogleMap,
     MapFilter,
   },
-  fetch({ params, store }) {
+  fetch({ params, query, store }) {
     const pref = params.pref || ''
+    const range = query.range
     if (pref) {
-      store.commit('onsen/setFilters', { pref })
+      store.dispatch('onsen/setFilters', { pref, priceRange: range })
     }
   },
   data() {
