@@ -61,6 +61,27 @@ export const getters = {
       return typeof item.price !== 'number' || rangeFitler(item.price, priceRange)
     })
   },
+  center: (state) => {
+    if (state.filters.pref) {
+      const prefInfo = state.prefectures.find(p => p.value === state.filters.pref)
+      if (prefInfo) {
+        return {
+          lat: prefInfo.lat,
+          lng: prefInfo.lng,
+        }
+      }
+    }
+    return { lat: 39.365596, lng: 136.866669 }
+  },
+  zoom: (state) => {
+    if (state.filters.pref === 'hokkaido') {
+      return 7
+    }
+    if (state.filters.pref) {
+      return 8
+    }
+    return 5
+  },
 }
 
 export const mutations = {

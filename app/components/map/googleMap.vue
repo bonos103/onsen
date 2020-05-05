@@ -2,7 +2,7 @@
   div(ref="map", :class="$style.map")
 </template>
 <script>
-import { mapGetters } from 'vuex'
+import { mapGetters, mapState } from 'vuex'
 import GoogleMapsApiLoader from 'google-maps-api-loader'
 import MarkerClusterer from '@google/markerclustererplus'
 import clusterImage1 from '@/assets/images/map/cluster1.png'
@@ -20,14 +20,34 @@ export default {
     }
   },
   computed: {
+    ...mapState('onsen', {
+      filteredPrefecture: state => state.filters.pref,
+    }),
     ...mapGetters('onsen', {
       items: 'filteredList',
+      center: 'center',
+      zoom: 'zoom',
     }),
     locations() {
       if (!this.items.length) {
         return []
       }
       return this.items.map(item => ({ lat: item.lat, lng: item.lng }))
+    },
+  },
+  watch: {
+    items() {
+      this.reset()
+      this.createMarkers()
+
+      setTimeout(this.addCluster, 100)
+    },
+    filteredPrefecture(next, prev) {
+      if (next !== prev) {
+        const zoom = window.innerWidth < 768 ? this.zoom : this.zoom + 1
+        this.map.setZoom(zoom)
+        this.map.setCenter(this.center)
+      }
     },
   },
   async mounted() {
@@ -43,23 +63,16 @@ export default {
       this.addCluster()
     }
   },
-  watch: {
-    items() {
-      this.reset()
-      this.createMarkers()
-      this.addCluster()
-    },
-  },
   methods: {
     async loadMap() {
       this.google = await GoogleMapsApiLoader({
         apiKey: process.env.GOOGLE_API_KEY,
       })
       // const center = await this.getCurrentPosition()
-      const center = { lat: 39.365596, lng: 136.866669 }
-      const zoom = window.innerWidth < 768 ? 5 : 6
+      // const center = { lat: 39.365596, lng: 136.866669 }
+      const zoom = window.innerWidth < 768 ? this.zoom : this.zoom + 1
       this.map = new this.google.maps.Map(this.$refs.map, {
-        center,
+        center: this.center,
         zoom,
         disableDefaultUI: true,
       })
