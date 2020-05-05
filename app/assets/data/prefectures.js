@@ -18,7 +18,7 @@ const list = [
   { value: 'tochigi', name: '栃木' },
 
   // { value: 'hokuriku-koshinetsu', name: 'ー北陸・甲信越' },
-  { value: 'nigata', name: '新潟' },
+  { value: 'niigata', name: '新潟' },
   { value: 'nagano', name: '長野' },
   { value: 'yamanashi', name: '山梨' },
   { value: 'toyama', name: '富山' },
