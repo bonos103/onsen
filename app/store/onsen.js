@@ -88,7 +88,7 @@ export const mutations = {
 
 export const actions = {
   setFilters({ commit, state }, { pref, priceRange }) {
-    commit('setFilters', { pref, priceRange: trimPriceRange(priceRange) })
+    commit('setFilters', { pref, priceRange: trimPriceRange(priceRange, state.steps) })
   },
   initList({ commit }) {
     commit('initList')
