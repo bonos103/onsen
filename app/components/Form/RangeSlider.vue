@@ -121,7 +121,6 @@ export default {
       return (100 / (this.stepCount - 1)) * step
     },
     handleKnobStart(e, target) {
-      console.log(e)
       this.origin = {
         x: e.clientX || e.touches[0].clientX,
         y: e.clientY || e.touches[0].clientY,
@@ -134,7 +133,6 @@ export default {
       window.addEventListener('touchend', this.handleKnobEnd, { passive: false })
     },
     handleKnobMove(e) {
-      console.log(e)
       e.preventDefault()
       if (!this.timer) {
         this.timer = setTimeout(() => {
@@ -146,7 +144,6 @@ export default {
       }
     },
     handleKnobEnd(e) {
-      console.log(e)
       e.preventDefault()
       window.removeEventListener('mousemove', this.handleKnobMove, { passive: false })
       window.removeEventListener('touchmove', this.handleKnobMove, { passive: false })
