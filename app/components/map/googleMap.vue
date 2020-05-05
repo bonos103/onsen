@@ -2,7 +2,7 @@
   div(ref="map", :class="$style.map")
 </template>
 <script>
-import { mapState } from 'vuex'
+import { mapGetters } from 'vuex'
 import GoogleMapsApiLoader from 'google-maps-api-loader'
 import MarkerClusterer from '@google/markerclustererplus'
 import clusterImage1 from '@/assets/images/map/cluster1.png'
@@ -12,6 +12,7 @@ import clusterImage3 from '@/assets/images/map/cluster3.png'
 export default {
   data() {
     return {
+      cluster: null,
       google: null,
       map: null,
       markers: [],
@@ -19,8 +20,8 @@ export default {
     }
   },
   computed: {
-    ...mapState('onsen', {
-      items: 'list',
+    ...mapGetters('onsen', {
+      items: 'filteredList',
     }),
     locations() {
       if (!this.items.length) {
@@ -41,6 +42,13 @@ export default {
       this.createMarkers()
       this.addCluster()
     }
+  },
+  watch: {
+    items() {
+      this.reset()
+      this.createMarkers()
+      this.addCluster()
+    },
   },
   methods: {
     async loadMap() {
@@ -125,7 +133,7 @@ export default {
       )
     },
     addCluster() {
-      return new MarkerClusterer(this.map, this.markers, {
+      this.cluster = new MarkerClusterer(this.map, this.markers, {
         // imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m',
         // imageExtension: 'png',
         // imageSizes: [30, 40, 50],
@@ -177,6 +185,12 @@ export default {
         return 1
       }
       return 0
+    },
+    reset() {
+      this.cluster.setMap(null)
+      this.markers.forEach(m => m.setMap(null))
+      this.cluster = null
+      this.markers = []
     },
   },
 }
