@@ -8,10 +8,6 @@ import MarkerClusterer from '@google/markerclustererplus'
 import clusterImage1 from '@/assets/images/map/cluster1.png'
 import clusterImage2 from '@/assets/images/map/cluster2.png'
 import clusterImage3 from '@/assets/images/map/cluster3.png'
-import markerImage1 from '@/assets/images/map/marker1.png'
-import markerImage2 from '@/assets/images/map/marker2.png'
-import markerImage3 from '@/assets/images/map/marker3.png'
-import markerImage4 from '@/assets/images/map/marker4.png'
 
 export default {
   data() {
@@ -19,6 +15,7 @@ export default {
       google: null,
       map: null,
       markers: [],
+      markerIcons: [],
     }
   },
   computed: {
@@ -35,6 +32,12 @@ export default {
   async mounted() {
     await this.loadMap()
     if (this.google) {
+      this.markerIcons = [
+        this.createMarkerIcon('/images/map/marker1.png'),
+        this.createMarkerIcon('/images/map/marker2.png'),
+        this.createMarkerIcon('/images/map/marker3.png'),
+        this.createMarkerIcon('/images/map/marker4.png'),
+      ]
       this.createMarkers()
       this.addCluster()
     }
@@ -98,22 +101,9 @@ export default {
         lat: item.lat,
         lng: item.lng,
       }
-      const markerImages = [
-        markerImage1,
-        markerImage2,
-        markerImage3,
-        markerImage4,
-      ]
-      const markerImage = markerImages[this.markerLevelOf(item)]
       const marker = new this.google.maps.Marker({
         position: location,
-        icon: new this.google.maps.MarkerImage(
-          markerImage, // マーカー画像URL
-          null,
-          new this.google.maps.Point(0, 0), // マーカー画像表示の起点（変更しない）
-          new this.google.maps.Point(13.5, 40), // マーカー位置の調整
-          new this.google.maps.Size(27, 40), // マーカー画像のサイズ
-        ),
+        icon: this.markerIcons[this.markerLevelOf(item)],
       })
       marker.addListener('click', () => {
         self.$emit('click-marker', item)
@@ -124,6 +114,15 @@ export default {
       this.markers = this.items.map((item) => {
         return this.createMarker(item)
       })
+    },
+    createMarkerIcon(path) {
+      return new this.google.maps.MarkerImage(
+        path, // マーカー画像URL
+        null,
+        new this.google.maps.Point(0, 0), // マーカー画像表示の起点（変更しない）
+        new this.google.maps.Point(13.5, 40), // マーカー位置の調整
+        new this.google.maps.Size(27, 40), // マーカー画像のサイズ
+      )
     },
     addCluster() {
       return new MarkerClusterer(this.map, this.markers, {
@@ -141,7 +140,7 @@ export default {
             url: clusterImage1,
             width: 40,
             height: 46.5,
-            anchorIcon: [23.25, 0],
+            anchorIcon: [46.5, 20],
             anchorText: [9, 0],
             // textColor: '#fff',
             className: this.$style.cluster1,
@@ -150,7 +149,7 @@ export default {
             url: clusterImage2,
             width: 45,
             height: 52.315,
-            anchorIcon: [26.1575, 0],
+            anchorIcon: [52.315, 22.5],
             anchorText: [11.5, 0],
             // textColor: '#fff',
             className: this.$style.cluster2,
@@ -159,7 +158,7 @@ export default {
             url: clusterImage3,
             width: 50,
             height: 58.125,
-            anchorIcon: [24.0625, 0],
+            anchorIcon: [58.125, 25],
             anchorText: [14, 0],
             // textColor: '#fff',
             className: this.$style.cluster3,
