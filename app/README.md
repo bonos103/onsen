@@ -1,4 +1,4 @@
-# onsen
+# furomap
 
 > My sensational Nuxt.js project
 
@@ -33,3 +33,10 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Production
+
+```
+$ docker-compose -f docker-compose.production.yml builid
+$ docker-compose -f docker-compose.production.yml up -d
+```
