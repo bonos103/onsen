@@ -18,7 +18,7 @@ services:
       LETSENCRYPT_HOST: "furomap.bonos.work"
       LETSENCRYPT_EMAIL: "tomi@ryou103.com"
       LETSENCRYPT_TEST: "false"
-    command: yarn start
+    command: yarn build && yarn start
 
 networks:
   common_link:

@@ -9,5 +9,3 @@ COPY ./app/package.json ./
 COPY ./app/yarn.lock ./
 
 RUN yarn
-
-RUN yarn build
