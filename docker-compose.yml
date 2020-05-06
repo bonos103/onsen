@@ -8,8 +8,8 @@ services:
       - ./app:/app
       - ./cert:/cert
       - /app/node_modules
-    command: yarn start # production
-    # command: yarn dev
+    # command: yarn start # production
+    command: yarn dev
     environment:
       HOST: 0.0.0.0
    
