@@ -5,6 +5,7 @@ services:
     volumes:
       - ./app:/app
       - /app/node_modules
+      - /app/.nuxt
     networks:
       - common_link
     expose:
