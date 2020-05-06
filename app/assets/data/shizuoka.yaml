@@ -1,0 +1,1361 @@
+---
+-
+    id: 1
+    name: 駿河健康ランド
+    url: https://www.kur-hotel.co.jp/suruga/
+    map: https://maps.google.com/?cid=17142007948987650013&hl=ja
+    address: 静岡県静岡市清水区興津東町1234
+    price: 1980
+    lat: 35.0569843
+    lng: 138.5331545
+    type: 温泉
+-
+    id: 2
+    name: 赤沢日帰り温泉館
+    url: https://www.izuakazawa.jp/daytrip/
+    map: https://maps.google.com/?cid=13484527468155312620&hl=ja
+    address: 静岡県伊東市赤沢170-2
+    price: 1600
+    lat: 34.8585181
+    lng: 139.0912153
+    type: 温泉
+-
+    id: 3
+    name: おふろcafe 美肌湯
+    url: https://ofurocafe-bijinyu.com/
+    map: https://maps.google.com/?cid=6212753567494158397&hl=ja
+    address: 静岡県静岡市葵区籠上15-15
+    price: 1380
+    lat: 34.9896396
+    lng: 138.3711435
+    type: 温泉
+-
+    id: 4
+    name: 沼津・湯河原温泉 万葉の湯
+    url: https://www.manyo.co.jp/numazu/
+    map: https://maps.google.com/?cid=3027316818977504651&hl=ja
+    address: 静岡県沼津市岡宮1208-1
+    price: 1520
+    lat: 35.1352725
+    lng: 138.871739
+    type: 温泉
+-
+    id: 5
+    name: 道の駅 くるら戸田 西伊豆戸田温泉 壱の湯
+    url: http://kururaheda.com/spa/
+    map: https://maps.google.com/?cid=12684476812590857834&hl=ja
+    address: 静岡県沼津市戸田1294-3
+    price: 500
+    lat: 34.9712141
+    lng: 138.7865542
+    type: 温泉
+-
+    id: 6
+    name: ATAMI BAY RESORT KORAKUEN オーシャンスパ Fuua
+    url: https://atamibayresort.com/
+    map: https://maps.google.com/?cid=1727661357408834793&hl=ja
+    address: 静岡県熱海市和田浜南町10-1
+    price: 2900
+    lat: 35.0886316
+    lng: 139.0786448
+    type: 温泉
+-
+    id: 7
+    name: 川根温泉 ふれあいの泉
+    url: http://kawaneonsen.jp/
+    map: https://maps.google.com/?cid=4384600541545749268&hl=ja
+    address: 静岡県島田市川根町笹間渡220
+    price: 520
+    lat: 34.9597788
+    lng: 138.0898576
+    type: 温泉
+-
+    id: 8
+    name: ごてんば市温泉会館
+    url: http://gotemba-onsen.jp/
+    map: https://maps.google.com/?cid=6671629606557860233&hl=ja
+    address: 静岡県御殿場市深沢2160-1
+    price: 500
+    lat: 35.2905065
+    lng: 138.9670368
+    type: 温泉
+-
+    id: 9
+    name: ごてんば高原 御胎内温泉
+    url: https://otainai-onsen.gr.jp/
+    map: https://maps.google.com/?cid=5861038550678069804&hl=ja
+    address: 静岡県御殿場市印野1380-25
+    price: 800
+    lat: 35.29645250000001
+    lng: 138.8678058
+    type: 温泉
+-
+    id: 10
+    name: 袋井温泉 和の湯
+    url: http://www.yawaraginoyu.co.jp/index.html
+    map: https://maps.google.com/?cid=7914113127354757705&hl=ja
+    address: 静岡県袋井市諸井2022-3
+    price: 1000
+    lat: 34.7291203
+    lng: 137.9234642
+    type: 温泉
+-
+    id: 11
+    name: 立ち寄り温泉 伊豆高原の湯
+    url: http://www.suiransou.com/
+    map: https://maps.google.com/?cid=703109356910383666&hl=ja
+    address: 静岡県伊東市八幡野1180
+    price: 1000
+    lat: 34.8794666
+    lng: 139.1051538
+    type: 温泉
+-
+    id: 12
+    name: 日帰り天然温泉 美肌の湯 あらたまの湯
+    url: http://www.aratamanoyu.jp/
+    map: https://maps.google.com/?cid=194842166936842800&hl=ja
+    address: 静岡県浜松市浜北区四大地9-921
+    price: 680
+    lat: 34.8418396
+    lng: 137.7670836
+    type: 温泉
+-
+    id: 13
+    name: 浜松温泉 喜多の湯
+    url: http://super-sentou.com/hamamatsu/
+    map: https://maps.google.com/?cid=16782922153123051094&hl=ja
+    address: 静岡県浜松市東区天王町1982-1
+    price: 700
+    lat: 34.7351025
+    lng: 137.7639334
+    type: 温泉
+-
+    id: 14
+    name: 東静岡 天然温泉 柚木の郷
+    url: http://www.yunokinosato.com/
+    map: https://maps.google.com/?cid=1239015505292489576&hl=ja
+    address: 静岡県静岡市葵区長沼577
+    price: 850
+    lat: 34.9904722
+    lng: 138.4150404
+    type: 温泉
+-
+    id: 15
+    name: さがら子生れ温泉会館
+    url: http://koumareonsen.com
+    map: https://maps.google.com/?cid=14838277722595107544&hl=ja
+    address: 静岡県牧之原市西萩間672-1
+    price: 550
+    lat: 34.7348472
+    lng: 138.1603157
+    type: 温泉
+-
+    id: 16
+    name: RAKU SPA Cafe 浜松
+    url: https://rakuspa.com/hamamatsu/
+    map: https://maps.google.com/?cid=13435405634058924455&hl=ja
+    address: 静岡県浜松市南区若林町1680-5
+    price: 1309
+    lat: 34.6918326
+    lng: 137.6986766
+    type: 温泉
+-
+    id: 17
+    name: すその美人の湯 ヘルシーパーク裾野
+    url: http://www.susono-shinkou.jp/#id1
+    map: https://maps.google.com/?cid=4321655610570873366&hl=ja
+    address: 静岡県裾野市須山3408
+    price: 530
+    lat: 35.24794
+    lng: 138.8718698
+    type: 温泉
+-
+    id: 18
+    name: 極楽湯(三島店)
+    url: https://www.gokurakuyu.ne.jp/tempo/mishima/
+    map: https://maps.google.com/?cid=7566606033693128998&hl=ja
+    address: 静岡県三島市三好町4-23
+    price: 730
+    lat: 35.1105221
+    lng: 138.9075164
+    type: 温泉
+-
+    id: 19
+    name: 湯風景しおり
+    url: http://www.yufukeishiori.com/
+    map: https://maps.google.com/?cid=5246054252980791609&hl=ja
+    address: 静岡県浜松市中区高林1-13-13
+    price: 750
+    lat: 34.7246738
+    lng: 137.7303054
+    type: 温泉
+-
+    id: 20
+    name: あおい温泉 草薙の湯
+    url: https://www.kusanagino-yu.com/
+    map: https://maps.google.com/?cid=14187868594045882749&hl=ja
+    address: 静岡県静岡市清水区草薙1865-2
+    price: 750
+    lat: 35.00549609999999
+    lng: 138.444219
+    type: 温泉
+-
+    id: 21
+    name: 健康ゆ空間 磐田 ななつぼし
+    url: http://iwata-nanatsuboshi.com/
+    map: https://maps.google.com/?cid=1547606998306661447&hl=ja
+    address: 静岡県磐田市下万能410-1
+    price: 600
+    lat: 34.7172457
+    lng: 137.8324659
+    type: 温泉
+-
+    id: 22
+    name: 天然温泉ざぶ〜ん
+    url: http://joyland.jp/contents/spa/
+    map: https://maps.google.com/?cid=18217181236992563295&hl=ja
+    address: 静岡県沼津市原町中2-14-8
+    price: 780
+    lat: 35.1298273
+    lng: 138.8006698
+    type: 温泉
+-
+    id: 23
+    name: 湯らぎの里
+    url: https://www.yuraginosato.com/
+    map: https://maps.google.com/?cid=8698670661227157783&hl=ja
+    address: 静岡県富士市蓼原227-1
+    price: 700
+    lat: 35.1506566
+    lng: 138.6695144
+    type: 温泉
+-
+    id: 24
+    name: 浜名湖かんざんじ温泉 華咲の湯
+    url: https://hanasakinoyu.jp
+    map: https://maps.google.com/?cid=7383266897421893719&hl=ja
+    address: 静岡県浜松市西区舘山寺町1891
+    price: 1420
+    lat: 34.7631743
+    lng: 137.6154273
+    type: 温泉
+-
+    id: 25
+    name: EXPASA足柄 下り あしがら湯
+    url: https://sapa.c-nexco.co.jp/sapa/shop/detail?sapashopid=41
+    map: https://maps.google.com/?cid=10632082544360230781&hl=ja
+    address: 静岡県駿東郡小山町
+    price: 680
+    lat: 35.3601103
+    lng: 138.9873289
+    type: 温泉
+-
+    id: 26
+    name: 伊豆温泉村 百笑の湯
+    url: http://izu.tokinosumika.com/hyakuwarai/
+    map: https://maps.google.com/?cid=8430437205025687852&hl=ja
+    address: 静岡県伊豆市瓜生野410-1
+    price: 1400
+    lat: 34.9889911
+    lng: 138.9424049
+    type: 温泉
+-
+    id: 27
+    name: 田代の郷温泉 伊太和里の湯
+    url: http://www.itawarinoyu.jp/
+    map: https://maps.google.com/?cid=15945581861064678261&hl=ja
+    address: 静岡県島田市伊太88-1
+    price: 520
+    lat: 34.8728516
+    lng: 138.1545718
+    type: 温泉
+-
+    id: 28
+    name: 小山町町民いこいの家 あしがら温泉
+    url: https://www.ashigaraonsen.jp/
+    map: https://maps.google.com/?cid=13277667176870768801&hl=ja
+    address: 静岡県駿東郡小山町竹之下456-1
+    price: 500
+    lat: 35.3276384
+    lng: 138.9730436
+    type: 温泉
+-
+    id: 29
+    name: エキチカ温泉・くろしお
+    url: http://spa-kuroshio.com
+    map: https://maps.google.com/?cid=11409461109092121133&hl=ja
+    address: 静岡県焼津市栄町1-13-1
+    price: 1400
+    lat: 34.8703824
+    lng: 138.3173616
+    type: 温泉
+-
+    id: 30
+    name: 道の駅 花の三聖苑伊豆松崎 かじかの湯
+    url: http://www.izu-matsuzaki.com/publics/index/55
+    map: https://maps.google.com/?cid=1102412868009101913&hl=ja
+    address: 静岡県茂郡松崎町大澤20-1
+    price: 500
+    lat: 34.7578776
+    lng: 138.8252724
+    type: 温泉
+-
+    id: 31
+    name: 天然温泉 湯～トピアかんなみ
+    url: http://yu-topiakannami.jp/
+    map: https://maps.google.com/?cid=12045047506927747745&hl=ja
+    address: 静岡県田方郡函南町柏谷259
+    price: 700
+    lat: 35.082335
+    lng: 138.9520066
+    type: 温泉
+-
+    id: 32
+    name: 日航亭・大湯
+    url: http://shizuoka.mytabi.net/izu/archives/nikkoutei-ooyu.php
+    map: https://maps.google.com/?cid=1398471162604801738&hl=ja
+    address: 静岡県熱海市上宿町5-26
+    price: 1000
+    lat: 35.0981621
+    lng: 139.0710374
+    type: 温泉
+-
+    id: 33
+    name: 笑福の湯
+    url: http://www.shoufukunoyu.jp/index.html
+    map: https://maps.google.com/?cid=4646593686542146556&hl=ja
+    address: 静岡県焼津市柳新屋241-1
+    price: 850
+    lat: 34.8551035
+    lng: 138.2851672
+    type: 温泉
+-
+    id: 34
+    name: 遠州 みなみの湯
+    url: https://www.minaminoyu.jp/
+    map: https://maps.google.com/?cid=5226359865384699498&hl=ja
+    address: 静岡県浜松市南区松島町1960
+    price: 800
+    lat: 34.6544073
+    lng: 137.7802124
+    type: 温泉
+-
+    id: 35
+    name: マリンスパあたみ
+    url: https://www.marinespa.com/
+    map: https://maps.google.com/?cid=4823036634092658885&hl=ja
+    address: 静岡県熱海市和田浜南町4-39
+    price: 1010
+    lat: 35.0909523
+    lng: 139.0746876
+    type: 温泉
+-
+    id: 36
+    name: 瀬戸谷温泉 ゆらく
+    url: http://yuraku.tv/
+    map: https://maps.google.com/?cid=8628094816679783658&hl=ja
+    address: 静岡県藤枝市本郷5437
+    price: 510
+    lat: 34.9283881
+    lng: 138.2042042
+    type: 温泉
+-
+    id: 37
+    name: 東海館
+    url: https://itospa.com/feature/tokaikan/
+    map: https://maps.google.com/?cid=5870937454229905529&hl=ja
+    address: 静岡県伊東市東松原町12-10
+    price: 500
+    lat: 34.9716499
+    lng: 139.0970722
+    type: 温泉
+-
+    id: 38
+    name: 伊東マリンタウン シーサイドスパ
+    url: https://ito-marinetown.co.jp/seasidespa
+    map: https://maps.google.com/?cid=17568001652256296991&hl=ja
+    address: 静岡県伊東市湯川571-19
+    price: 1000
+    lat: 34.9853519
+    lng: 139.0942644
+    type: 温泉
+-
+    id: 39
+    name: EXPASA 足柄 上り レストイン時之栖
+    url: http://www.tokinosumika.com/restinn/bath.html
+    map: https://maps.google.com/?cid=11324269202537715640&hl=ja
+    address: 静岡県御殿場市深沢字前野原1801-1
+    price: 680
+    lat: 35.3149187
+    lng: 138.9637494
+    type: 温泉
+-
+    id: 40
+    name: 修善寺温泉 筥湯
+    url: http://www.shuzenji-kankou.com/spa.html#hakoyu
+    map: https://maps.google.com/?cid=8147514105771354091&hl=ja
+    address: 静岡県伊豆市修善寺924-1
+    price: 350
+    lat: 34.9705324
+    lng: 138.928371
+    type: 温泉
+-
+    id: 41
+    name: 島田蓬莱の湯
+    url: http://www.hourainoyu.jp/index.html
+    map: https://maps.google.com/?cid=2557467151449113045&hl=ja
+    address: 静岡県島田市旭2-1-30
+    price: 690
+    lat: 34.8326723
+    lng: 138.1917126
+    type: 温泉
+-
+    id: 42
+    name: 富士山 天母の湯
+    url: http://www.anmonoyu.com/
+    map: https://maps.google.com/?cid=17887703511450924053&hl=ja
+    address: 静岡県富士宮市山宮3670-1
+    price: 730
+    lat: 35.2801874
+    lng: 138.6382508
+    type: 温泉
+-
+    id: 43
+    name: 駿河の湯 坂口屋
+    url: https://www.suruganoyu.co.jp/
+    map: https://maps.google.com/?cid=6935926893380158183&hl=ja
+    address: 静岡県沼津市岡宮1265-3
+    price: 1100
+    lat: 35.1386191
+    lng: 138.868897
+    type: 温泉
+-
+    id: 44
+    name: 富士八景の湯
+    url: http://www.fujihakkei.jp/
+    map: https://maps.google.com/?cid=11406308884590527956&hl=ja
+    address: 静岡県御殿場市深沢2564-19
+    price: 1000
+    lat: 35.2889718
+    lng: 138.9718603
+    type: 温泉
+-
+    id: 45
+    name: 下賀茂温泉 銀の湯会館
+    url: http://ginnoyu.com/
+    map: https://maps.google.com/?cid=1557271966192624939&hl=ja
+    address: 静岡県賀茂郡南伊豆町下賀茂247-1
+    price: 1000
+    lat: 34.6489847
+    lng: 138.8602545
+    type: 温泉
+-
+    id: 46
+    name: スーパー銭湯 和合の湯
+    url: http://wagoonoyu.main.jp/
+    map: https://maps.google.com/?cid=17508643458593066769&hl=ja
+    address: 静岡県浜松市中区和合町1146
+    price: 600
+    lat: 34.7321611
+    lng: 137.705915
+    type: 温泉
+-
+    id: 47
+    name: あさぎり温泉 風の湯
+    url: https://www.kazenoyu.net
+    map: https://maps.google.com/?cid=2190991473605850073&hl=ja
+    address: 静岡県富士宮市上井出3470-1
+    price: 900
+    lat: 35.3282464
+    lng: 138.5935631
+    type: 温泉
+-
+    id: 48
+    name: 踊り子温泉会館
+    url: http://www.kawazu-onsen.com/onsen/onsen.html
+    map: https://maps.google.com/?cid=14694141309066592517&hl=ja
+    address: 静岡県賀茂郡河津町峰457-1
+    price: 1000
+    lat: 34.758642
+    lng: 138.983746
+    type: 温泉
+-
+    id: 49
+    name: 薬石汗蒸房 風と月
+    url: http://www.kazetotsuki.com/index.php
+    map: https://maps.google.com/?cid=2135519524273160045&hl=ja
+    address: 静岡県浜松市浜北区平口2861
+    price: 800
+    lat: 34.79483099999999
+    lng: 137.7608281
+    type: 温泉
+-
+    id: 50
+    name: 大東温泉シートピア
+    url: http://seatopia.info/
+    map: https://maps.google.com/?cid=9811092698639249703&hl=ja
+    address: 静岡県掛川市国安2808-2
+    price: 510
+    lat: 34.6480107
+    lng: 138.0669432
+    type: 温泉
+-
+    id: 51
+    name: 梅ヶ島新田温泉 黄金の湯
+    url: http://www.koganenoyu.com/
+    map: https://maps.google.com/?cid=15723678291339251001&hl=ja
+    address: 静岡県静岡市葵区梅ヶ島5342-3
+    price: 700
+    lat: 35.285193
+    lng: 138.3399328
+    type: 温泉
+-
+    id: 52
+    name: 舟戸の番屋
+    url: http://funadonobanya.web.fc2.com/index.html
+    map: https://maps.google.com/?cid=17087091149555227474&hl=ja
+    address: 静岡県賀茂郡河津町見高358-2
+    price: 300
+    lat: 34.7528941
+    lng: 139.0081685
+    type: 温泉
+-
+    id: 53
+    name: 湯の国会館
+    url: https://yunokuni-izu.com
+    map: https://maps.google.com/?cid=7586093574866625639&hl=ja
+    address: 静岡県伊豆市青羽根188
+    price: 880
+    lat: 34.9324712
+    lng: 138.9339846
+    type: 温泉
+-
+    id: 54
+    name: オアシス御殿場
+    url: http://www.oasisgotemba.com/
+    map: https://maps.google.com/?cid=13568371348717990678&hl=ja
+    address: 静岡県御殿場市新橋420-1
+    price: 1500
+    lat: 35.29859920000001
+    lng: 138.945087
+    type: 温泉
+-
+    id: 55
+    name: 北川温泉 黒根岩風呂
+    url: https://www.hokkawa-onsen.com/kurone
+    map: https://maps.google.com/?cid=15159175174071379902&hl=ja
+    address: 静岡県賀茂郡東伊豆町北川
+    price: 600
+    lat: 34.8336294
+    lng: 139.0759619
+    type: 温泉
+-
+    id: 56
+    name: 人参湯
+    url: 
+    map: https://maps.google.com/?cid=10549580723806930766&hl=ja
+    address: 静岡県御殿場市新橋2036
+    price: 400
+    lat: 35.3018325
+    lng: 138.9312444
+    type: 銭湯
+-
+    id: 57
+    name: 西里温泉浴場 やませみの湯
+    url: https://www.yamaseminoyu.com/
+    map: https://maps.google.com/?cid=9862590819547937922&hl=ja
+    address: 静岡県静岡市清水区西里1449
+    price: 700
+    lat: 35.1225821
+    lng: 138.432866
+    type: 温泉
+-
+    id: 58
+    name: 森の都温泉 ならここの湯
+    url: https://narakoko.info/71643/
+    map: https://maps.google.com/?cid=1435969860219339222&hl=ja
+    address: 静岡県掛川市居尻179
+    price: 510
+    lat: 34.8756551
+    lng: 138.0162582
+    type: 温泉
+-
+    id: 59
+    name: 用宗みなと温泉
+    url: https://minato-onsen.jp/
+    map: https://maps.google.com/?cid=766821808539704338&hl=ja
+    address: 静岡県静岡市駿河区用宗2-18-1
+    price: 800
+    lat: 34.9242657
+    lng: 138.3664173
+    type: 温泉
+-
+    id: 60
+    name: 湖西市複合運動施設 アメニティプラザ
+    url: https://www.konami.com/sportsclub/trust/kosaishi/
+    map: https://maps.google.com/?cid=12998918954749834330&hl=ja
+    address: 静岡県湖西市吉美3294-48
+    price: 330
+    lat: 34.7141239
+    lng: 137.5042878
+    type: 温泉
+-
+    id: 61
+    name: 桜湯
+    url: 
+    map: https://maps.google.com/?cid=3377160147892625269&hl=ja
+    address: 静岡県静岡市葵区駒形通3-2-1
+    price: 400
+    lat: 34.9682403
+    lng: 138.3772579
+    type: 銭湯
+-
+    id: 62
+    name: 沢田公園露天風呂
+    url: http://www.town.nishiizu.shizuoka.jp/kakuka/kankou/kankou/onsen/sawada.html
+    map: https://maps.google.com/?cid=16128867965801957386&hl=ja
+    address: 静岡県賀茂郡西伊豆町仁科沢田2817-1
+    price: 600
+    lat: 34.7774233
+    lng: 138.7657484
+    type: 温泉
+-
+    id: 63
+    name: ラフォーレ修善寺 森の湯
+    url: https://www.laforet.co.jp/resort-shuzenji/hotspring/index.html
+    map: https://maps.google.com/?cid=9083679359323481596&hl=ja
+    address: 静岡県伊豆市大平1529
+    price: 850
+    lat: 34.9575602
+    lng: 138.908982
+    type: 温泉
+-
+    id: 64
+    name: トゴール湯 鷹の湯
+    url: 
+    map: https://maps.google.com/?cid=724619602863336580&hl=ja
+    address: 静岡県富士市久沢788-1
+    price: 650
+    lat: 35.1977683
+    lng: 138.6521989
+    type: 温泉
+-
+    id: 65
+    name: 源泉 駒の湯荘
+    url: https://komanoyusou.com/
+    map: https://maps.google.com/?cid=13472707905993404733&hl=ja
+    address: 静岡県伊豆の国市奈古谷1882-1
+    price: 700
+    lat: 35.0757383
+    lng: 138.9783619
+    type: 温泉
+-
+    id: 66
+    name: 竜洋海洋公園 しおさい竜洋
+    url: http://www.ryu-yo.co.jp/SIOSAI/
+    map: https://maps.google.com/?cid=3318787973872676527&hl=ja
+    address: 静岡県磐田市駒場6866-10
+    price: 360
+    lat: 34.6523131
+    lng: 137.8066936
+    type: 温泉
+-
+    id: 67
+    name: 南アルプス赤石温泉 白樺荘
+    url: https://nanpusu.jp/healing/008.html
+    map: https://maps.google.com/?cid=7819080130018193189&hl=ja
+    address: 静岡県静岡市葵区田代ハネ草利1110-5
+    price: 510
+    lat: 35.307024
+    lng: 138.196501
+    type: 温泉
+-
+    id: 68
+    name: 接岨の湯 接岨峡温泉会館
+    url: http://www.sessonoyu.jp/
+    map: https://maps.google.com/?cid=10147066498412127350&hl=ja
+    address: 静岡県榛原郡川根本町梅地175-2
+    price: 500
+    lat: 35.1821101
+    lng: 138.1870321
+    type: 温泉
+-
+    id: 69
+    name: 掛川つま恋温泉 森林の湯
+    url: https://www.sainosato.jp/relaxation/index.html
+    map: https://maps.google.com/?cid=17218729892235053137&hl=ja
+    address: 静岡県掛川市満水2000
+    price: 1100
+    lat: 34.7647645
+    lng: 138.0397092
+    type: 温泉
+-
+    id: 70
+    name: 巴湯
+    url: https://www.facebook.com/tomoeyu1010
+    map: https://maps.google.com/?cid=17727306622280831555&hl=ja
+    address: 静岡県浜松市中区大工町50
+    price: 400
+    lat: 34.7040028
+    lng: 137.7272884
+    type: 銭湯
+-
+    id: 71
+    name: ビジネスホテル中島 富士見湯
+    url: http://www.fujinokuni.co.jp/hotel-nakajima/
+    map: https://maps.google.com/?cid=3291197037601917081&hl=ja
+    address: 静岡県富士市中島352-1
+    price: 400
+    lat: 35.16134820000001
+    lng: 138.6531108
+    type: 銭湯
+-
+    id: 72
+    name: 玖須美温泉会館 毘沙門天芝の湯
+    url: https://itospa.com/spa/detail_54042.html
+    map: https://maps.google.com/?cid=6536939319844544500&hl=ja
+    address: 静岡県伊東市芝町2
+    price: 300
+    lat: 34.96869179999999
+    lng: 139.1045291
+    type: 共同浴場・銭湯
+-
+    id: 73
+    name: 湯治場ほたる
+    url: http://www.tokinosumika.com/hotaruizu/
+    map: https://maps.google.com/?cid=123480585678000793&hl=ja
+    address: 静岡県伊豆市上船原545
+    price: 1500
+    lat: 34.9150012
+    lng: 138.9016717
+    type: 温泉
+-
+    id: 74
+    name: 熱海駅前温泉浴場
+    url: 
+    map: https://maps.google.com/?cid=12217939091913969988&hl=ja
+    address: 静岡県熱海市田原本町8-16
+    price: 500
+    lat: 35.1026235
+    lng: 139.0783562
+    type: 温泉
+-
+    id: 75
+    name: 昭和湯
+    url: http://hellonavi.jp/detail/page/detail/1908
+    map: https://maps.google.com/?cid=3603393084407682643&hl=ja
+    address: 静岡県下田市三-5-11
+    price: 400
+    lat: 34.6720176
+    lng: 138.9443575
+    type: 共同浴場・銭湯
+-
+    id: 76
+    name: 里山のくつろぎ処 湯ノ島温泉浴場
+    url: http://www.yunoshimaonsen.jp/
+    map: https://maps.google.com/?cid=4999552066415795615&hl=ja
+    address: 静岡県静岡市葵区湯ノ島304-3
+    price: 500
+    lat: 35.1074207
+    lng: 138.2274695
+    type: 温泉
+-
+    id: 77
+    name: みどり湯
+    url: 
+    map: https://maps.google.com/?cid=8963780548953938400&hl=ja
+    address: 静岡県湖西市新居町新居1127
+    price: 400
+    lat: 34.6929959
+    lng: 137.5599377
+    type: 銭湯
+-
+    id: 78
+    name: ふれあい健康増進館 ゆらら
+    url: https://www.yurarashizuoka.com/
+    map: https://maps.google.com/?cid=13673040789297134752&hl=ja
+    address: 静岡県静岡市葵区南沼上1379-1
+    price: 1010
+    lat: 35.0257949
+    lng: 138.4124952
+    type: 温泉
+-
+    id: 79
+    name: 新稲子川温泉 ユー・トリオ
+    url: http://u-trio.com/
+    map: https://maps.google.com/?cid=17733026648011198292&hl=ja
+    address: 静岡県富士宮市上稲子1219
+    price: 1030
+    lat: 35.2567927
+    lng: 138.5335897
+    type: 温泉
+-
+    id: 80
+    name: 伊豆見高入谷高原温泉
+    url: http://mitakairiyakougen-spa.com/onsen.html
+    map: https://maps.google.com/?cid=10711373908742982562&hl=ja
+    address: 静岡県賀茂郡河津町見高2064-13
+    price: 500
+    lat: 34.7772202
+    lng: 139.0100799
+    type: 温泉
+-
+    id: 81
+    name: 竹倉温泉 みなくち荘
+    url: 
+    map: https://maps.google.com/?cid=3086719993981030580&hl=ja
+    address: 静岡県三島市竹倉21
+    price: 500
+    lat: 35.1154159
+    lng: 138.9441766
+    type: 温泉
+-
+    id: 82
+    name: サンフレンド 遊湯の里
+    url: https://sunfriend1126.wixsite.com/yuyu
+    map: https://maps.google.com/?cid=790889544071989091&hl=ja
+    address: 静岡県榛原郡吉田町川尻3446-13
+    price: 750
+    lat: 34.7653941
+    lng: 138.2813327
+    type: 温泉
+-
+    id: 83
+    name: 町営露天風呂 美女づくりの湯
+    url: http://sumatakyo-spa.com/spa/index.html
+    map: https://maps.google.com/?cid=2922047589074497523&hl=ja
+    address: 静岡県榛原郡川根本町千頭368-3
+    price: 400
+    lat: 35.174904
+    lng: 138.118239
+    type: 温泉
+-
+    id: 84
+    name: やいづ黒潮温泉 サンライフ焼津
+    url: http://sunlifeyaizu.ec-net.jp/
+    map: https://maps.google.com/?cid=12613023222842038606&hl=ja
+    address: 静岡県焼津市中港3-3-12
+    price: 510
+    lat: 34.87381999999999
+    lng: 138.3251792
+    type: 温泉
+-
+    id: 85
+    name: みよし湯
+    url: 
+    map: https://maps.google.com/?cid=11719553346299604507&hl=ja
+    address: 静岡県浜松市中区曳馬6-5-30
+    price: 400
+    lat: 34.7341424
+    lng: 137.7403832
+    type: 銭湯
+-
+    id: 86
+    name: 口坂本温泉浴場
+    url: http://kuchisakamoto.jp/
+    map: https://maps.google.com/?cid=7753784697704909368&hl=ja
+    address: 静岡県静岡市葵区口坂本652-1
+    price: 300
+    lat: 35.1818619
+    lng: 138.2737319
+    type: 温泉
+-
+    id: 87
+    name: 千頭温泉 旬
+    url: http://www.senzu-onsen.jp/
+    map: https://maps.google.com/?cid=923486990414811002&hl=ja
+    address: 静岡県榛原郡川根本町東藤川669-1
+    price: 500
+    lat: 35.111147
+    lng: 138.1422305
+    type: 温泉
+-
+    id: 88
+    name: 弓ヶ浜温泉 みなと湯
+    url: http://ginnoyu.com/minato-no-yu
+    map: https://maps.google.com/?cid=12663451185779557322&hl=ja
+    address: 静岡県賀茂郡南伊豆町湊973-4
+    price: 400
+    lat: 34.637499
+    lng: 138.8888467
+    type: 温泉
+-
+    id: 89
+    name: 土肥温泉 弁天の湯
+    url: http://kanko.city.izu.shizuoka.jp/form1.html?c1=6&c2=5&pid=2544
+    map: https://maps.google.com/?cid=16310961593755127314&hl=ja
+    address: 静岡県伊豆市土肥61-3
+    price: 500
+    lat: 34.914587
+    lng: 138.7878695
+    type: 共同浴場・銭湯
+-
+    id: 90
+    name: 梅ヶ島温泉 湯元屋 虹乃湯
+    url: https://umegashima-yumotoya.blogspot.com/
+    map: https://maps.google.com/?cid=5922266888562942801&hl=ja
+    address: 静岡県静岡市葵区梅ヶ島5258-13
+    price: 700
+    lat: 35.3058425
+    lng: 138.3378097
+    type: 温泉
+-
+    id: 91
+    name: 妙楽湯
+    url: http://www2.plala.or.jp/myourakuyu/
+    map: https://maps.google.com/?cid=17255962720833535704&hl=ja
+    address: 静岡県熱海市下多賀1118-8
+    price: 1000
+    lat: 35.0486772
+    lng: 139.0596426
+    type: 温泉
+-
+    id: 92
+    name: 湯郷三島温泉
+    url: https://yugo.co.jp/
+    map: https://maps.google.com/?cid=4474342380136958461&hl=ja
+    address: 静岡県三島市徳倉1195
+    price: 770
+    lat: 35.160881
+    lng: 138.9480746
+    type: 温泉
+-
+    id: 93
+    name: 和田寿老人の湯
+    url: https://itospa.com/spa/detail_54040.html
+    map: https://maps.google.com/?cid=1297627040358943742&hl=ja
+    address: 静岡県伊東市竹の内2-2-16
+    price: 300
+    lat: 34.969033
+    lng: 139.0984801
+    type: 温泉
+-
+    id: 94
+    name: 伊豆長岡温泉 あやめ湯
+    url: 
+    map: https://maps.google.com/?cid=5880463758397417139&hl=ja
+    address: 静岡県伊豆の国市古奈72-1
+    price: 300
+    lat: 35.0353754
+    lng: 138.9362831
+    type: 共同浴場・銭湯
+-
+    id: 95
+    name: リゾートセンター みのり温泉
+    url: https://minorinomura.wixsite.com/minorinomura/spa
+    map: https://maps.google.com/?cid=4279270726093867904&hl=ja
+    address: 静岡県伊東市宇佐美3226-100
+    price: 800
+    lat: 34.99246249999999
+    lng: 139.0562615
+    type: 温泉
+-
+    id: 96
+    name: 松原大黒天神の湯
+    url: 
+    map: https://maps.google.com/?cid=9305924424129227444&hl=ja
+    address: 静岡県伊東市松原本町13-3
+    price: 300
+    lat: 34.9729157
+    lng: 139.0962777
+    type: 共同浴場・銭湯
+-
+    id: 97
+    name: 熱海温泉 山田湯
+    url: 
+    map: https://maps.google.com/?cid=12716344847075578780&hl=ja
+    address: 静岡県熱海市和田町3-9
+    price: 300
+    lat: 35.0908131
+    lng: 139.0695732
+    type: 共同浴場・銭湯
+-
+    id: 98
+    name: 西伊豆町営 なぎさの湯
+    url: http://www.town.nishiizu.shizuoka.jp/kakuka/kankou/kankou/onsen/nagisa.html
+    map: https://maps.google.com/?cid=259423676109269627&hl=ja
+    address: 静岡県賀茂郡西伊豆町仁科814-4
+    price: 600
+    lat: 34.7690332
+    lng: 138.774731
+    type: 温泉
+-
+    id: 99
+    name: ハトヤ大漁苑
+    url: http://www.sunhatoya.co.jp/higaeri/kaitei/index.html
+    map: https://maps.google.com/?cid=18373387346535053465&hl=ja
+    address: 静岡県伊東市湯川572-12
+    price: 2000
+    lat: 34.99045630000001
+    lng: 139.0926854
+    type: 温泉
+-
+    id: 100
+    name: 西伊豆町営 せせらぎの湯
+    url: http://www.town.nishiizu.shizuoka.jp/kakuka/kankou/kankou/onsen/seseragi.html
+    map: https://maps.google.com/?cid=16766719217092394309&hl=ja
+    address: 静岡県賀茂郡西伊豆町中532
+    price: 600
+    lat: 34.7741361
+    lng: 138.7888028
+    type: 温泉
+-
+    id: 101
+    name: しおさいの湯
+    url: http://www.town.nishiizu.shizuoka.jp/kakuka/kankou/kankou/onsen/shiosai.html
+    map: https://maps.google.com/?cid=15401841707725123853&hl=ja
+    address: 静岡県賀茂郡西伊豆町仁科浮島2190-1
+    price: 600
+    lat: 34.79343900000001
+    lng: 138.760518
+    type: 温泉
+-
+    id: 102
+    name: 伊東温泉 湯川弁天の湯
+    url: 
+    map: https://maps.google.com/?cid=809492347660407112&hl=ja
+    address: 静岡県伊東市湯川2-9-9
+    price: 250
+    lat: 34.9746981
+    lng: 139.0949331
+    type: 共同浴場・銭湯
+-
+    id: 103
+    name: 白岩の湯
+    url: http://kanko.city.izu.shizuoka.jp/form1.html?c1=6&c2=5&aid=2&pid=3171
+    map: https://maps.google.com/?cid=2401406285040496241&hl=ja
+    address: 静岡県伊豆市上白岩367
+    price: 400
+    lat: 34.9645864
+    lng: 138.98372
+    type: 共同浴場・銭湯
+-
+    id: 104
+    name: 元湯温泉 元湯共同浴場
+    url: http://kanko.city.izu.shizuoka.jp/form1.html?c1=6&c2=5&aid=3&pid=2546
+    map: https://maps.google.com/?cid=1521671662439582270&hl=ja
+    address: 静岡県伊豆市土肥1053-5
+    price: 300
+    lat: 34.9084274
+    lng: 138.8006719
+    type: 共同浴場・銭湯
+-
+    id: 105
+    name: 馬場温泉 楠の湯共同浴場
+    url: http://kanko.city.izu.shizuoka.jp/form1.html?pid=2545
+    map: https://maps.google.com/?cid=8977023886522404170&hl=ja
+    address: 静岡県伊豆市土肥795-2
+    price: 400
+    lat: 34.9104233
+    lng: 138.7982182
+    type: 共同浴場・銭湯
+-
+    id: 106
+    name: 湯ヶ島温泉 河鹿の湯
+    url: http://kanko.city.izu.shizuoka.jp/form1.html?pid=2505
+    map: https://maps.google.com/?cid=15662040301037716509&hl=ja
+    address: 静岡県伊豆市湯ヶ島1650-3
+    price: 300
+    lat: 34.8901819
+    lng: 138.9238662
+    type: 共同浴場・銭湯
+-
+    id: 107
+    name: 岡布袋の湯
+    url: https://itospa.com/spa/detail_54043.html
+    map: https://maps.google.com/?cid=46930146253210494&hl=ja
+    address: 静岡県伊東市桜木町2-2-16
+    price: 250
+    lat: 34.9659802
+    lng: 139.0931393
+    type: 共同浴場・銭湯
+-
+    id: 108
+    name: 望月プラザ もりの湯
+    url: https://www.town.morimachi.shizuoka.jp/gyosei/choseijoho/machinogaiyo/machinoshisetsu/1157.html
+    map: https://maps.google.com/?cid=8234540439465553647&hl=ja
+    address: 静岡県周智郡森町森50-1
+    price: 300
+    lat: 34.8368384
+    lng: 137.9283841
+    type: 温泉
+-
+    id: 109
+    name: 湯ヶ島温泉 世古の大湯
+    url: http://kanko.city.izu.shizuoka.jp/form1.html?c1=6&c2=5&pid=3232
+    map: https://maps.google.com/?cid=3248726803908065067&hl=ja
+    address: 静岡県伊豆市湯ヶ島1964
+    price: 100
+    lat: 34.8865102
+    lng: 138.9231919
+    type: 共同浴場・銭湯
+-
+    id: 110
+    name: 鎌田福禄寿の湯
+    url: https://itospa.com/spa/detail_54044.html
+    map: https://maps.google.com/?cid=8660332321713234047&hl=ja
+    address: 静岡県伊東市宮川町1-2-16
+    price: 200
+    lat: 34.9553055
+    lng: 139.0865079
+    type: 共同浴場・銭湯
+-
+    id: 111
+    name: 長岡南浴場
+    url: https://www.city.izunokuni.shizuoka.jp/kankou/kanko/onsen/shisetsu/
+    map: https://maps.google.com/?cid=10373434131790055720&hl=ja
+    address: 静岡県伊豆の国市長岡1082-2
+    price: 310
+    lat: 35.0293487
+    lng: 138.932071
+    type: 共同浴場・銭湯
+-
+    id: 112
+    name: 伊豆の国市 高齢者温泉館
+    url: https://www.city.izunokuni.shizuoka.jp/sien_koureisha/kenko/koureisha/onsen/index.html
+    map: https://maps.google.com/?cid=2810384891714711758&hl=ja
+    address: 静岡県伊豆の国市寺家679-6
+    price: 460
+    lat: 35.0407664
+    lng: 138.9412632
+    type: 温泉
+-
+    id: 113
+    name: 資源循環体験プラザ しずもーる西ケ谷
+    url: https://www.shizuoka4r.jp/nishigaya/outline/hotspring.html
+    map: https://maps.google.com/?cid=13734126847519353521&hl=ja
+    address: 静岡県静岡市葵区西ケ谷553-2
+    price: 410
+    lat: 35.0148613
+    lng: 138.3500016
+    type: 温泉
+-
+    id: 114
+    name: 恵比寿あらいの湯
+    url: https://itospa.com/spa/detail_54045.html
+    map: https://maps.google.com/?cid=10407708275682445031&hl=ja
+    address: 静岡県伊東市新井1-9-4
+    price: 250
+    lat: 34.9702664
+    lng: 139.1078261
+    type: 共同浴場・銭湯
+-
+    id: 115
+    name: 大井川福祉センター ほほえみ
+    url: http://www.yaizu-shakyo.or.jp/fukushi_katsudokyoten.html
+    map: https://maps.google.com/?cid=8087377550513629964&hl=ja
+    address: 静岡県焼津市宗高572-1
+    price: 300
+    lat: 34.80333650000001
+    lng: 138.2904589
+    type: 温泉
+-
+    id: 116
+    name: 初島アイランドリゾート 海泉浴 島の湯
+    url: https://www.pica-resort.jp/hatsushima/special/shimanoyu.php
+    map: https://maps.google.com/?cid=12016274538910440941&hl=ja
+    address: 静岡県熱海市初島
+    price: 900
+    lat: 35.04051680000001
+    lng: 139.1714529
+    type: 温泉
+-
+    id: 117
+    name: 屋形共同浴場
+    url: http://www.toi-onsen.com/sightseeing/detail.php?id=11
+    map: https://maps.google.com/?cid=11242829280528126751&hl=ja
+    address: 静岡県伊豆市土肥2791-21
+    price: 400
+    lat: 34.9081442
+    lng: 138.7903699
+    type: 共同浴場・銭湯
+-
+    id: 118
+    name: 湯川第三浴場 汐留の湯
+    url: 
+    map: https://maps.google.com/?cid=12172590143968349308&hl=ja
+    address: 静岡県伊東市湯川4-1-6
+    price: 250
+    lat: 34.9777929
+    lng: 139.0936525
+    type: 共同浴場・銭湯
+-
+    id: 119
+    name: 清水町共同浴場
+    url: https://www.city.atami.lg.jp/kanko/onsen/1001821.html
+    map: https://maps.google.com/?cid=4147277985354234528&hl=ja
+    address: 静岡県熱海市清水町11-1
+    price: 500
+    lat: 35.0940131
+    lng: 139.0712643
+    type: 共同浴場・銭湯
+-
+    id: 120
+    name: 龍山入浴施設 やすらぎの湯
+    url: http://hellonavi.jp/detail/page/detail/33180
+    map: https://maps.google.com/?cid=17123981067483915713&hl=ja
+    address: 静岡県浜松市天竜区龍山町戸倉711-2
+    price: 820
+    lat: 34.9784552
+    lng: 137.8304854
+    type: 温泉
+-
+    id: 121
+    name: 湯川第一浴場 子持湯
+    url: 
+    map: https://maps.google.com/?cid=8358257202305366697&hl=ja
+    address: 静岡県伊東市湯川1-16-10
+    price: 250
+    lat: 34.9737767
+    lng: 139.0925669
+    type: 共同浴場・銭湯
+-
+    id: 122
+    name: 小川共同浴場
+    url: http://kanko.city.izu.shizuoka.jp/form1.html?c1=6&c2=5&pid=4756
+    map: https://maps.google.com/?cid=14021623319600425364&hl=ja
+    address: 静岡県伊豆市上白岩1268-2
+    price: 200
+    lat: 34.9618569
+    lng: 138.9793665
+    type: 共同浴場・銭湯
+-
+    id: 123
+    name: 福田健康福祉会館 リフレU
+    url: http://www.rifure-u.jp/
+    map: https://maps.google.com/?cid=4894726374833183717&hl=ja
+    address: 静岡県磐田市宇兵衛新田186-1
+    price: 310
+    lat: 34.6743958
+    lng: 137.8598664
+    type: 温泉
+-
+    id: 124
+    name: 滝ノ谷温泉センター
+    url: 
+    map: https://maps.google.com/?cid=13104184199937934455&hl=ja
+    address: 静岡県静岡市葵区北1239-1
+    price: 500
+    lat: 35.0420557
+    lng: 138.4061217
+    type: 温泉
+-
+    id: 125
+    name: 韮山温泉館
+    url: https://www.city.izunokuni.shizuoka.jp/kankou/kanko/onsen/shisetsu/
+    map: https://maps.google.com/?cid=8835960261117382569&hl=ja
+    address: 静岡県伊豆の国市南條1603-1
+    price: 260
+    lat: 35.0398522
+    lng: 138.9453775
+    type: 共同浴場・銭湯
+-
+    id: 126
+    name: 伊豆山温泉 伊豆山浜浴場
+    url: 
+    map: https://maps.google.com/?cid=5801590194229337661&hl=ja
+    address: 静岡県熱海市伊豆山579-37
+    price: 350
+    lat: 35.1115891
+    lng: 139.0854027
+    type: 共同浴場・銭湯
+-
+    id: 127
+    name: 焼津黒潮温泉 元湯なかむら館
+    url: 
+    map: https://maps.google.com/?cid=3425246152385353081&hl=ja
+    address: 静岡県焼津市駅北1-14-7
+    price: 400
+    lat: 34.8745649
+    lng: 138.3216848
+    type: 共同浴場・銭湯
+-
+    id: 128
+    name: 創造と生きがいの湯
+    url: http://www.town.kawanehon.shizuoka.jp/shisetsu/4/891.html
+    map: https://maps.google.com/?cid=1172310039132752520&hl=ja
+    address: 静岡県榛原郡川根本町東藤川792-1
+    price: 150
+    lat: 35.1051282
+    lng: 138.1396956
+    type: 温泉
+-
+    id: 129
+    name: 希望園
+    url: https://oominosato.com/tomaru/dayspa/
+    map: https://maps.google.com/?cid=15723988103966028688&hl=ja
+    address: 静岡県伊豆市上白岩1516
+    price: 600
+    lat: 34.9542648
+    lng: 138.9748891
+    type: 温泉
+-
+    id: 130
+    name: 小川布袋の湯
+    url: https://itospa.com/spa/detail_54046.html
+    map: https://maps.google.com/?cid=7867918335488382985&hl=ja
+    address: 静岡県伊東市岡広町12-17
+    price: 250
+    lat: 34.9683797
+    lng: 139.0908695
+    type: 共同浴場・銭湯
+-
+    id: 131
+    name: 白岩荘
+    url: http://shiraiwa-s.com/index.html
+    map: https://maps.google.com/?cid=2395216303947801718&hl=ja
+    address: 静岡県伊豆市上白岩1475-11
+    price: 550
+    lat: 34.9610989
+    lng: 138.9758111
+    type: 温泉
+-
+    id: 132
+    name: 天神湯
+    url: 
+    map: https://maps.google.com/?cid=2018452429913037713&hl=ja
+    address: 静岡県静岡市葵区浅間町1-29
+    price: 400
+    lat: 34.9840328
+    lng: 138.3779636
+    type: 銭湯
+-
+    id: 133
+    name: 駿府天然温泉 天神の湯
+    url: http://www.tokinosumika.com/tenjin/
+    map: https://maps.google.com/maps?q=34.979417,138.41121
+    address: 静岡県静岡市駿河区曲金5-5-1
+    price: 1180
+    lat: 34.9793884
+    lng: 138.4111928
+    type: 温泉
+-
+    id: 134
+    name: 浜名湖レークサイドプラザ 三ヶ日温泉 万葉の華
+    url: https://www.h-lsp.com/spend/spa/
+    map: https://maps.google.com/maps?q=34.7915,137.548691
+    address: 静岡県浜松市北区三ヶ日町下尾奈200
+    price: 1650
+    lat: 34.7909129
+    lng: 137.5487532
+    type: 温泉
+-
+    id: 135
+    name: 木の花の湯
+    url: https://www.gotemba-konohananoyu.jp/
+    map: https://maps.google.com/maps?q=35.304852,138.967102
+    address: 静岡県御殿場市深沢2839-1
+    price: 1600
+    lat: 35.30734229999999
+    lng: 138.9669704
+    type: 温泉
+-
+    id: 136
+    name: ホテル玉や 玉の湯
+    url: 
+    map: https://maps.google.com/?cid=14499177500260536825&hl=ja
+    address: 静岡県富士市横割5-1-1
+    price: 400
+    lat: 35.1482792
+    lng: 138.6588169
+    type: 銭湯

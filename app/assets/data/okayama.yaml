@@ -1,0 +1,541 @@
+---
+-
+    id: 1
+    name: 瀬戸内温泉 たまの湯
+    url: https://www.seto-tamanoyu.jp/
+    map: https://maps.google.com/?cid=8028283616964137639&hl=ja
+    address: 岡山県玉野市築港1-1-11
+    price: 1600
+    lat: 34.492871
+    lng: 133.956232
+    type: 温泉
+-
+    id: 2
+    name: 岡山みやび温泉 大家族の湯
+    url: http://okayama-daikazokunoyu.com
+    map: https://maps.google.com/?cid=7674436972731122325&hl=ja
+    address: 岡山県岡山市北区久米197-1
+    price: 800
+    lat: 34.6479089
+    lng: 133.8713737
+    type: 温泉
+-
+    id: 3
+    name: 湯郷鷺温泉館
+    url: http://yunogosagionsen.net/
+    map: https://maps.google.com/?cid=7860894360256256202&hl=ja
+    address: 岡山県美作市湯郷595-1
+    price: 600
+    lat: 34.9929017
+    lng: 134.1356395
+    type: 温泉
+-
+    id: 4
+    name: 岡山空港温泉 レスパール藤ヶ鳴
+    url: http://www.resparle.jp/
+    map: https://maps.google.com/?cid=11839496147503050355&hl=ja
+    address: 岡山県岡山市北区菅野3399-1
+    price: 670
+    lat: 34.7605898
+    lng: 133.8698594
+    type: 温泉
+-
+    id: 5
+    name: 天然温泉ゆずき
+    url: http://yuzuki.click
+    map: https://maps.google.com/?cid=2333402947348939577&hl=ja
+    address: 岡山県岡山市北区野殿東町291
+    price: 750
+    lat: 34.6611921
+    lng: 133.8834387
+    type: 温泉
+-
+    id: 6
+    name: 後楽温泉 ほのかの湯
+    url: https://www.honokanoyu.jp/
+    map: https://maps.google.com/?cid=15531300874305869405&hl=ja
+    address: 岡山県岡山市北区奥田南町6-27
+    price: 750
+    lat: 34.6407788
+    lng: 133.9241504
+    type: 温泉
+-
+    id: 7
+    name: ぽかぽか温泉
+    url: https://pokaon.net/
+    map: https://maps.google.com/?cid=15195423323931107248&hl=ja
+    address: 岡山県岡山市青江2-4-15
+    price: 430
+    lat: 34.6331962
+    lng: 133.9230418
+    type: 温泉
+-
+    id: 8
+    name: ホテル瀬戸大橋 瀬戸大橋スパリゾート
+    url: http://www.setoohashi.net/spa/
+    map: https://maps.google.com/?cid=8248827603461145936&hl=ja
+    address: 岡山県倉敷市児島塩生3777
+    price: 1800
+    lat: 34.4906281
+    lng: 133.7710425
+    type: 温泉
+-
+    id: 9
+    name: 長船温泉 おさふねサービスエリア
+    url: http://www.oplaza-h.co.jp/osafune-sa/onsen.html
+    map: https://maps.google.com/?cid=32745490157933916&hl=ja
+    address: 岡山県瀬戸内市長船町長船1133-2
+    price: 560
+    lat: 34.7251001
+    lng: 134.1043119
+    type: 温泉
+-
+    id: 10
+    name: 稲荷山健康センター
+    url: https://inariyama.org/
+    map: https://maps.google.com/?cid=3281773107449348897&hl=ja
+    address: 岡山県岡山市北区高松稲荷570
+    price: 900
+    lat: 34.7054779
+    lng: 133.8319367
+    type: 温泉
+-
+    id: 11
+    name: 八幡温泉郷 たけべ八幡温泉
+    url: https://www.yahataonsen.jp/
+    map: https://maps.google.com/?cid=14650735219518732781&hl=ja
+    address: 岡山県岡山市北区建部町建部上510-1
+    price: 660
+    lat: 34.8629302
+    lng: 133.9048444
+    type: 温泉
+-
+    id: 12
+    name: 天然温泉 蔵のゆ
+    url: http://zero.endless-world.net/kuranoyu/info.htm
+    map: https://maps.google.com/?cid=10319653189952704887&hl=ja
+    address: 岡山県倉敷市大島121-1
+    price: 720
+    lat: 34.6101602
+    lng: 133.7789982
+    type: 温泉
+-
+    id: 13
+    name: 奥津温泉 花美人の里
+    url: http://www.hanabijin.co.jp/
+    map: https://maps.google.com/?cid=13334015490207360551&hl=ja
+    address: 岡山県苫田郡鏡野町奥津川西261
+    price: 740
+    lat: 35.2218711
+    lng: 133.9197967
+    type: 温泉
+-
+    id: 14
+    name: 満天の湯(倉敷店)
+    url: https://www.manten-kurashiki.com/
+    map: https://maps.google.com/?cid=8226473777867610064&hl=ja
+    address: 岡山県倉敷市玉島爪崎981-1
+    price: 950
+    lat: 34.5611995
+    lng: 133.6843116
+    type: 温泉
+-
+    id: 15
+    name: 真賀温泉館
+    url: http://www.yubara.com/higaeri/
+    map: https://maps.google.com/?cid=5789608865988958426&hl=ja
+    address: 岡山県真庭市仲間180
+    price: 150
+    lat: 35.137816
+    lng: 133.7150845
+    type: 温泉
+-
+    id: 16
+    name: 田町温泉
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/okayama1/list.html
+    map: https://maps.google.com/?cid=4754169271674588967&hl=ja
+    address: 岡山県岡山市北区田町2-6-1
+    price: 430
+    lat: 34.65988189999999
+    lng: 133.9244657
+    type: 銭湯
+-
+    id: 17
+    name: のとろ温泉 天空の湯
+    url: https://notoro.net/onsen/
+    map: https://maps.google.com/?cid=1980249358626310225&hl=ja
+    address: 岡山県苫田郡鏡野町富西谷2091-10
+    price: 700
+    lat: 35.2006348
+    lng: 133.7971799
+    type: 温泉
+-
+    id: 18
+    name: 蒜山やつか温泉 快湯館
+    url: http://www.kaiyukan.co.jp/
+    map: https://maps.google.com/?cid=12552197737895929414&hl=ja
+    address: 岡山県真庭市蒜山上長田2300-1
+    price: 740
+    lat: 35.2948663
+    lng: 133.7243909
+    type: 温泉
+-
+    id: 19
+    name: 戎湯
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/kurashiki1/list.html
+    map: https://maps.google.com/?cid=13517412822596331071&hl=ja
+    address: 岡山県倉敷市鶴形2-1-5
+    price: 430
+    lat: 34.5998626
+    lng: 133.7703427
+    type: 銭湯
+-
+    id: 20
+    name: 湯～とぴあ 黄金泉
+    url: https://awakura-gr.com/agr/2018/09/06/%E6%B9%AF%EF%BD%9E%E3%81%A8%E3%81%B4%E3%81%82-%E9%BB%84%E9%87%91%E6%B3%89/
+    map: https://maps.google.com/?cid=11750063231137021638&hl=ja
+    address: 岡山県英田郡西粟倉村影石2072-6
+    price: 700
+    lat: 35.1900706
+    lng: 134.3280103
+    type: 温泉
+-
+    id: 21
+    name: 下湯原温泉 ひまわり館
+    url: http://www.yubarahimawarikan.com/
+    map: https://maps.google.com/?cid=10405879207934868512&hl=ja
+    address: 岡山県真庭市下湯原24-1
+    price: 500
+    lat: 35.1869536
+    lng: 133.7355404
+    type: 温泉
+-
+    id: 22
+    name: 極楽の里えびす乃ゆ(津山河辺店)
+    url: https://tsuyamasentou.wixsite.com/ebisunoyu
+    map: https://maps.google.com/?cid=5926326546449912732&hl=ja
+    address: 岡山県津山市河辺1091-1
+    price: 600
+    lat: 35.0618734
+    lng: 134.0416111
+    type: 温泉
+-
+    id: 23
+    name: 愛の村パーク ゆらりあ
+    url: http://www.ainomura.jp/
+    map: https://maps.google.com/?cid=5513961669992740461&hl=ja
+    address: 岡山県美作市後山1872
+    price: 600
+    lat: 35.1679485
+    lng: 134.3802802
+    type: 温泉
+-
+    id: 24
+    name: 湯迫温泉健康村
+    url: http://www.hakuunkaku.net/news/news.html
+    map: https://maps.google.com/?cid=18179274886822324213&hl=ja
+    address: 岡山県岡山市中区湯迫644
+    price: 1630
+    lat: 34.6979153
+    lng: 133.9661661
+    type: 温泉
+-
+    id: 25
+    name: 桃太郎温泉 一湯館
+    url: http://ww81.tiki.ne.jp/~spa-momotaro/ichiyukan/
+    map: https://maps.google.com/?cid=14769128918544400780&hl=ja
+    address: 岡山県岡山市北区菅野2640-8
+    price: 800
+    lat: 34.7352
+    lng: 133.8969768
+    type: 温泉
+-
+    id: 26
+    name: 湯本温泉館
+    url: http://www.yubara.com/higaeri/
+    map: https://maps.google.com/?cid=2103727187759307195&hl=ja
+    address: 岡山県真庭市湯原温泉23-2
+    price: 600
+    lat: 35.2024041
+    lng: 133.7306775
+    type: 温泉
+-
+    id: 27
+    name: 宝泉相生湯
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/okayama1/list.html
+    map: https://maps.google.com/?cid=808227562526951727&hl=ja
+    address: 岡山県岡山市北区丸の内1-14-7
+    price: 430
+    lat: 34.6625418
+    lng: 133.9318149
+    type: 銭湯
+-
+    id: 28
+    name: あわくら温泉 元湯
+    url: http://motoyu.asia/
+    map: https://maps.google.com/?cid=2125464632181018837&hl=ja
+    address: 岡山県英田郡西粟倉村2050
+    price: 500
+    lat: 35.1895837
+    lng: 134.3242311
+    type: 温泉
+-
+    id: 29
+    name: 湯の里 瀬戸川温泉
+    url: http://www.setogawaonsen.jp/higaeri.html
+    map: https://maps.google.com/?cid=16338464072608971433&hl=ja
+    address: 岡山県苫田郡鏡野町寺元425-9
+    price: 600
+    lat: 35.0876422
+    lng: 133.9290494
+    type: 温泉
+-
+    id: 30
+    name: えびす乃ゆ(院庄店)
+    url: https://tsuyamasentou.wixsite.com/ebisunoyu
+    map: https://maps.google.com/?cid=5041395191366106396&hl=ja
+    address: 岡山県津山市院庄950
+    price: 600
+    lat: 35.0600533
+    lng: 133.9539473
+    type: 温泉
+-
+    id: 31
+    name: 大釣温泉
+    url: https://ootsuri-spa.com
+    map: https://maps.google.com/?cid=2666373353094888477&hl=ja
+    address: 岡山県苫田郡鏡野町奥津川西16-2
+    price: 560
+    lat: 35.2138942
+    lng: 133.9153206
+    type: 温泉
+-
+    id: 32
+    name: 百々温泉 めぐみ荘
+    url: http://www.t-seibi.jp/works/megumisou.html
+    map: https://maps.google.com/?cid=13336000054417267514&hl=ja
+    address: 岡山県津山市加茂町小中原143
+    price: 520
+    lat: 35.1780965
+    lng: 134.0497569
+    type: 温泉
+-
+    id: 33
+    name: 西の湯温泉
+    url: http://www.nishinoya.co.jp/onsen/
+    map: https://maps.google.com/?cid=2388894156304773680&hl=ja
+    address: 岡山県美作市尾谷2449-1
+    price: 600
+    lat: 34.9452819
+    lng: 134.1363763
+    type: 温泉
+-
+    id: 34
+    name: 鏡野温泉
+    url: 
+    map: https://maps.google.com/?cid=9997713745641261872&hl=ja
+    address: 岡山県苫田郡鏡野町市場90-1
+    price: 500
+    lat: 35.1100189
+    lng: 133.9474463
+    type: 温泉
+-
+    id: 35
+    name: 上斎原温泉 クアガーデンこのか
+    url: http://www.itsuki-onsen.jp/konoka/index.html
+    map: https://maps.google.com/?cid=5071754963342036840&hl=ja
+    address: 岡山県苫田郡鏡野町上齋原446-1
+    price: 600
+    lat: 35.2779254
+    lng: 133.922678
+    type: 温泉
+-
+    id: 36
+    name: 足温泉館
+    url: http://www.yubara.com/higaeri/#taru
+    map: https://maps.google.com/?cid=7280193146193466460&hl=ja
+    address: 岡山県真庭市都喜足346-1
+    price: 600
+    lat: 35.1432978
+    lng: 133.7187156
+    type: 温泉
+-
+    id: 37
+    name: 健幸プラザ西大寺
+    url: https://www.kenko-plaza.net/
+    map: https://maps.google.com/?cid=6571902114551374370&hl=ja
+    address: 岡山県岡山市東区西大寺川口327-1
+    price: 430
+    lat: 34.6464314
+    lng: 134.0494016
+    type: 温泉
+-
+    id: 38
+    name: 天然温泉 ツルの湯・嵐の湯
+    url: 
+    map: https://maps.google.com/?cid=8508269246283589003&hl=ja
+    address: 岡山県赤磐市酌田1032-1
+    price: 700
+    lat: 34.824753
+    lng: 134.0536645
+    type: 温泉
+-
+    id: 39
+    name: 美作市営露天風呂
+    url: http://www.city.mimasaka.lg.jp/kanko/apa_stay/spa/1453188843938.html
+    map: https://maps.google.com/?cid=15399585363303327463&hl=ja
+    address: 岡山県美作市巨勢129-1
+    price: 300
+    lat: 34.969107
+    lng: 134.1387934
+    type: 温泉
+-
+    id: 40
+    name: 福島温泉
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/okayama6/list.html
+    map: https://maps.google.com/?cid=1520858264311669789&hl=ja
+    address: 岡山県岡山市南区若葉町5-2
+    price: 430
+    lat: 34.6129166
+    lng: 133.9453212
+    type: 銭湯
+-
+    id: 41
+    name: 遙照山温泉
+    url: http://www.asakuchi-kanko.org/sightseeing/radon/
+    map: https://maps.google.com/?cid=11022813681499025823&hl=ja
+    address: 岡山県浅口市金光町上竹2545-2
+    price: 450
+    lat: 34.5722525
+    lng: 133.61207
+    type: 温泉
+-
+    id: 42
+    name: 香花温泉 ほほえみの湯
+    url: http://www.nihon-kankou.or.jp/okayama/336661/detail/33666cd2112025390
+    map: https://maps.google.com/?cid=4909455137577691783&hl=ja
+    address: 岡山県久米郡美咲町打穴下1766
+    price: 500
+    lat: 35.0130191
+    lng: 133.9342266
+    type: 温泉
+-
+    id: 43
+    name: 天然温泉 スパ カルヴァータ
+    url: https://www.carvata.jp/hotspring/
+    map: https://maps.google.com/?cid=10445964832856346308&hl=ja
+    address: 岡山県津山市川崎1756-8
+    price: 700
+    lat: 35.0646976
+    lng: 134.0383557
+    type: 温泉
+-
+    id: 44
+    name: 作東老人福祉センター 能登香温泉
+    url: http://www.city.mimasaka.lg.jp/kanko/apa_stay/spa/1467600457202.html
+    map: https://maps.google.com/?cid=15224229142332509344&hl=ja
+    address: 岡山県美作市小野2565-1
+    price: 200
+    lat: 35.0767741
+    lng: 134.2432371
+    type: 温泉
+-
+    id: 45
+    name: 熊谷温泉 新見市高齢者センター
+    url: 
+    map: https://maps.google.com/?cid=18073788349694614427&hl=ja
+    address: 岡山県新見市上熊谷762-2
+    price: 1000
+    lat: 35.0303615
+    lng: 133.5250782
+    type: 温泉
+-
+    id: 46
+    name: 吉備中央町老人福祉センター ふれあい荘
+    url: http://www.fukushikibichuo.or.jp/fureaisou/fureaisou.html
+    map: https://maps.google.com/?cid=8004155823721532602&hl=ja
+    address: 岡山県加賀郡吉備中央町北1778-3
+    price: 400
+    lat: 34.8159948
+    lng: 133.7061688
+    type: 温泉
+-
+    id: 47
+    name: 八幡温泉 建部町老人福祉センター
+    url: 
+    map: https://maps.google.com/?cid=17333858941234938674&hl=ja
+    address: 岡山県岡山市北区建部町建部上564
+    price: 300
+    lat: 34.8619564
+    lng: 133.9063637
+    type: 温泉
+-
+    id: 48
+    name: 市立老人憩の家 松尾園
+    url: https://www.sanyonews.jp/town/event/tourism_detail/827/
+    map: https://maps.google.com/?cid=5096803226136194854&hl=ja
+    address: 岡山県岡山市北区松尾893
+    price: 300
+    lat: 34.69606530000001
+    lng: 133.8704016
+    type: 温泉
+-
+    id: 49
+    name: 昭和温泉
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/kurashiki4/list.html
+    map: https://maps.google.com/?cid=14775036282823411425&hl=ja
+    address: 岡山県倉敷市児島味野上2-8-31
+    price: 430
+    lat: 34.4817497
+    lng: 133.7988048
+    type: 銭湯
+-
+    id: 50
+    name: 大黒湯
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/kurashiki5/list.html
+    map: https://maps.google.com/?cid=10574071726222010832&hl=ja
+    address: 岡山県倉敷市下津井田之浦1-6-21
+    price: 430
+    lat: 34.4369825
+    lng: 133.8059748
+    type: 銭湯
+-
+    id: 51
+    name: つる湯
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/okayama3/list.html
+    map: https://maps.google.com/?cid=15432185144544076668&hl=ja
+    address: 岡山県岡山市北区奉還町4-15-26
+    price: 430
+    lat: 34.6692422
+    lng: 133.9093369
+    type: 銭湯
+-
+    id: 52
+    name: 有楽温泉
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/okayama2/list.html
+    map: https://maps.google.com/?cid=8134328477774553543&hl=ja
+    address: 岡山県岡山市北区奥田1-9-21
+    price: 430
+    lat: 34.6442761
+    lng: 133.9244836
+    type: 銭湯
+-
+    id: 53
+    name: 武蔵湯
+    url: 
+    map: https://maps.google.com/?cid=15838242833899302657&hl=ja
+    address: 岡山県津山市川崎579
+    price: 430
+    lat: 35.0634477
+    lng: 134.0258165
+    type: 銭湯
+-
+    id: 54
+    name: 東湯
+    url: https://www.optic.or.jp/SENTOO-OKAYAMA/okayama4/list.html
+    map: https://maps.google.com/?cid=6145787667247721171&hl=ja
+    address: 岡山県岡山市北区下伊福上町13-26
+    price: 430
+    lat: 34.6674102
+    lng: 133.9008828
+    type: 銭湯

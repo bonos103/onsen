@@ -1,0 +1,961 @@
+---
+-
+    id: 1
+    name: ほったらかし温泉
+    url: http://www.hottarakashi-onsen.com/
+    map: https://maps.google.com/?cid=14278477834974136205&hl=ja
+    address: 山梨県山梨市矢坪1669-18
+    price: 800
+    lat: 35.7060945
+    lng: 138.6527041
+    type: 温泉
+-
+    id: 2
+    name: 富士眺望の湯 ゆらり
+    url: https://www.fuji-yurari.jp/
+    map: https://maps.google.com/?cid=14348185201046083084&hl=ja
+    address: 山梨県南都留郡鳴沢村8532-5
+    price: 1300
+    lat: 35.4763195
+    lng: 138.6913458
+    type: 温泉
+-
+    id: 3
+    name: 山中湖温泉 紅富士の湯
+    url: http://www.benifuji.co.jp/
+    map: https://maps.google.com/?cid=13301132383845343398&hl=ja
+    address: 山梨県南都留郡山中湖村山中865-776
+    price: 800
+    lat: 35.4300868
+    lng: 138.8423341
+    type: 温泉
+-
+    id: 4
+    name: みはらしの丘 みたまの湯
+    url: http://www.mitamanoyu.jp/
+    map: https://maps.google.com/?cid=16242130992871693239&hl=ja
+    address: 山梨県西八代郡市川三郷町大塚2608
+    price: 780
+    lat: 35.5659751
+    lng: 138.5339247
+    type: 温泉
+-
+    id: 5
+    name: 至福の湯 草津温泉
+    url: https://yamanashi.k-o-i.jp/koten/kusatsuonsen/
+    map: https://maps.google.com/?cid=17393957037658458932&hl=ja
+    address: 山梨県甲府市上石田1-10-12
+    price: 430
+    lat: 35.6577386
+    lng: 138.5549706
+    type: 銭湯
+-
+    id: 6
+    name: ふじやま温泉
+    url: https://www.fujiyamaonsen.jp/
+    map: https://maps.google.com/?cid=13940260626666629266&hl=ja
+    address: 山梨県富士吉田市新西原4-1524
+    price: 1500
+    lat: 35.48370010000001
+    lng: 138.7825496
+    type: 温泉
+-
+    id: 7
+    name: 石和健康ランド
+    url: https://www.kur-hotel.co.jp/isawa/
+    map: https://maps.google.com/?cid=17566901921153245497&hl=ja
+    address: 山梨県笛吹市石和町松本868
+    price: 1980
+    lat: 35.659339
+    lng: 138.623252
+    type: 温泉
+-
+    id: 8
+    name: スパランド ホテル内藤
+    url: http://www.hotel-naito.com/spaland/
+    map: https://maps.google.com/?cid=9787770038634315438&hl=ja
+    address: 山梨県笛吹市石和町四日市場1690
+    price: 2040
+    lat: 35.64298280000001
+    lng: 138.6257309
+    type: 温泉
+-
+    id: 9
+    name: 石和温泉
+    url: https://yamanashi.k-o-i.jp/koten/isawaonsen/
+    map: https://maps.google.com/?cid=12897205041617462356&hl=ja
+    address: 山梨県笛吹市石和町市部1091-2
+    price: 430
+    lat: 35.6508599
+    lng: 138.6373915
+    type: 銭湯
+-
+    id: 10
+    name: 薬石の湯 瑰泉
+    url: https://www.yu-kaisen.jp/
+    map: https://maps.google.com/?cid=17650807144523017635&hl=ja
+    address: 山梨県笛吹市石和町四日市場1679
+    price: 2200
+    lat: 35.6441739
+    lng: 138.6311951
+    type: 温泉
+-
+    id: 11
+    name: 山中湖温泉 石割の湯
+    url: http://www.ishiwarinoyu.jp/
+    map: https://maps.google.com/?cid=8579469332955529918&hl=ja
+    address: 山梨県南都留郡山中湖村平野1450
+    price: 800
+    lat: 35.4349726
+    lng: 138.9087528
+    type: 温泉
+-
+    id: 12
+    name: 丹波山温泉 のめこい湯
+    url: http://www.nomekoiyu.com/
+    map: https://maps.google.com/?cid=17848008376803018389&hl=ja
+    address: 山梨県北都留郡丹波山村778-2
+    price: 900
+    lat: 35.7884578
+    lng: 138.9255655
+    type: 温泉
+-
+    id: 13
+    name: 喜久乃湯温泉
+    url: https://yamanashi.k-o-i.jp/koten/kikunoyu/
+    map: https://maps.google.com/?cid=2821170850941770190&hl=ja
+    address: 山梨県甲府市朝日5-14-6
+    price: 430
+    lat: 35.6747506
+    lng: 138.5671565
+    type: 銭湯
+-
+    id: 14
+    name: 甲斐大泉温泉 パノラマの湯
+    url: https://panoramanoyu-izumiso.com/
+    map: https://maps.google.com/?cid=14666757210283778419&hl=ja
+    address: 山梨県北杜市大泉町西井出8240-1
+    price: 830
+    lat: 35.8958317
+    lng: 138.4087118
+    type: 温泉
+-
+    id: 15
+    name: 湯王温泉
+    url: https://yamanashi.k-o-i.jp/koten/yuouonsen/
+    map: https://maps.google.com/?cid=12406954584069914436&hl=ja
+    address: 山梨県甲府市住吉5-10-18
+    price: 430
+    lat: 35.6388693
+    lng: 138.5739711
+    type: 銭湯
+-
+    id: 16
+    name: 源泉湯 燈屋
+    url: http://www.akariya.info/
+    map: https://maps.google.com/?cid=6322439933008381110&hl=ja
+    address: 山梨県甲府市上阿原町590-3
+    price: 800
+    lat: 35.6469936
+    lng: 138.6040709
+    type: 温泉
+-
+    id: 17
+    name: 正徳寺温泉 初花
+    url: http://www.hatsuhana.info/
+    map: https://maps.google.com/?cid=15975332342845289415&hl=ja
+    address: 山梨県山梨市正徳寺1093-1
+    price: 700
+    lat: 35.68050160000001
+    lng: 138.6651682
+    type: 温泉
+-
+    id: 18
+    name: 多摩源流温泉 小菅の湯
+    url: http://kosugenoyu.jp/
+    map: https://maps.google.com/?cid=18428911372024628337&hl=ja
+    address: 山梨県北都留郡小菅村3445
+    price: 750
+    lat: 35.753582
+    lng: 138.949273
+    type: 温泉
+-
+    id: 19
+    name: 山梨フルーツ温泉 ぷくぷく
+    url: https://www.puku-puku.com/
+    map: https://maps.google.com/?cid=138285348496236576&hl=ja
+    address: 山梨県山梨市大工2589-13
+    price: 880
+    lat: 35.7053625
+    lng: 138.6623578
+    type: 温泉
+-
+    id: 20
+    name: ラジウム温泉郷 増富の湯
+    url: https://masutominoyu.com/
+    map: https://maps.google.com/?cid=5536453598588741577&hl=ja
+    address: 山梨県北杜市須玉町比志6438
+    price: 830
+    lat: 35.8644972
+    lng: 138.5314027
+    type: 温泉
+-
+    id: 21
+    name: 国母温泉
+    url: https://yamanashi.k-o-i.jp/koten/kokuboonsen/
+    map: https://maps.google.com/?cid=3511742736945892228&hl=ja
+    address: 山梨県甲府市国母1-3-4
+    price: 430
+    lat: 35.6445812
+    lng: 138.5605851
+    type: 銭湯
+-
+    id: 22
+    name: 韮崎旭温泉 韮崎旭の湯
+    url: https://www.yamanashi-kankou.jp/kankou/stay/p5_5064.html
+    map: https://maps.google.com/?cid=1415239960457634413&hl=ja
+    address: 山梨県韮崎市旭町上條中割391
+    price: 600
+    lat: 35.6822163
+    lng: 138.4445716
+    type: 温泉
+-
+    id: 23
+    name: 新湯治場 秋山温泉
+    url: http://www.akiyamaonsen.com/
+    map: https://maps.google.com/?cid=6790362482959527179&hl=ja
+    address: 山梨県上野原市秋山富岡2210
+    price: 820
+    lat: 35.5800443
+    lng: 139.1236915
+    type: 温泉
+-
+    id: 24
+    name: はやぶさ温泉
+    url: http://hayabusa1994.com
+    map: https://maps.google.com/?cid=13612418978219923234&hl=ja
+    address: 山梨県山梨市牧丘町隼818-1
+    price: 1300
+    lat: 35.7303089
+    lng: 138.7097119
+    type: 温泉
+-
+    id: 25
+    name: 甲州市交流保養センター 大菩薩の湯
+    url: https://www.s-seiun.co.jp/shisetsu/daibosatsu/index.html
+    map: https://maps.google.com/?cid=13992948954455159502&hl=ja
+    address: 山梨県甲州市塩山上小田原730-1
+    price: 620
+    lat: 35.7345127
+    lng: 138.797178
+    type: 温泉
+-
+    id: 26
+    name: 富士西湖温泉 いずみの湯
+    url: https://www.hamayouresort.com/category/hotspa/?directory=hotspa
+    map: https://maps.google.com/?cid=11114447392836003829&hl=ja
+    address: 山梨県南都留郡富士河口湖町西湖987
+    price: 900
+    lat: 35.5035322
+    lng: 138.6850749
+    type: 温泉
+-
+    id: 27
+    name: 道志の湯
+    url: http://www.doshinoyu.jp/
+    map: https://maps.google.com/?cid=5688467402580843687&hl=ja
+    address: 山梨県南都留郡道志村7501
+    price: 700
+    lat: 35.5145445
+    lng: 139.0251113
+    type: 温泉
+-
+    id: 28
+    name: 源泉かけ流しの湯 湯めみの丘
+    url: http://yumemionsen.pepper.jp/
+    map: https://maps.google.com/?cid=11104326556713385833&hl=ja
+    address: 山梨県甲斐市下今井2361-11
+    price: 700
+    lat: 35.6830712
+    lng: 138.4998926
+    type: 温泉
+-
+    id: 29
+    name: 甲州市勝沼ぶどうの丘 天空の湯
+    url: https://budounooka.com/relax/
+    map: https://maps.google.com/?cid=17517237720518180120&hl=ja
+    address: 山梨県甲州市勝沼町菱山5093
+    price: 610
+    lat: 35.6738091
+    lng: 138.7362034
+    type: 温泉
+-
+    id: 30
+    name: 源泉かけ流し温泉 桜湯
+    url: http://sakurayu.parallel.jp/
+    map: https://maps.google.com/?cid=984597536393717988&hl=ja
+    address: 山梨県中巨摩郡昭和町西条251
+    price: 500
+    lat: 35.631426
+    lng: 138.5499343
+    type: 温泉
+-
+    id: 31
+    name: 甲斐駒ケ岳 天然温泉 尾白の湯
+    url: https://www.verga.jp/onsen/
+    map: https://maps.google.com/?cid=13802815306969141026&hl=ja
+    address: 山梨県北杜市白州町白須8077-1
+    price: 820
+    lat: 35.8009385
+    lng: 138.3150492
+    type: 温泉
+-
+    id: 32
+    name: 遊亀温泉
+    url: http://www.yuukifudousan.com/smarts/index/9/
+    map: https://maps.google.com/?cid=1014388882013252278&hl=ja
+    address: 山梨県甲府市太田町11-5
+    price: 380
+    lat: 35.6505155
+    lng: 138.5731208
+    type: 銭湯
+-
+    id: 33
+    name: やまなみの湯
+    url: http://www.yamanaminoyu.com/
+    map: https://maps.google.com/?cid=5129541797390975828&hl=ja
+    address: 山梨県南アルプス市西南湖1299-1
+    price: 900
+    lat: 35.5844905
+    lng: 138.4990696
+    type: 温泉
+-
+    id: 34
+    name: 山梨泊まれる温泉 より道の湯
+    url: http://yorimichinoyu.jp
+    map: https://maps.google.com/?cid=16489475706079176044&hl=ja
+    address: 山梨県都留市つる1-13-31
+    price: 1300
+    lat: 35.5584793
+    lng: 138.9075901
+    type: 温泉
+-
+    id: 35
+    name: むかわの湯
+    url: http://www.mukawanoyu-shidax.com/
+    map: https://maps.google.com/?cid=14399014249635412329&hl=ja
+    address: 山梨県北杜市武川町牧原1322
+    price: 830
+    lat: 35.7836005
+    lng: 138.3786094
+    type: 温泉
+-
+    id: 36
+    name: 奈良田の里温泉 女帝の湯
+    url: http://www.town.hayakawa.yamanashi.jp/tour/spot/spa/narada.html
+    map: https://maps.google.com/?cid=12890359618801257162&hl=ja
+    address: 山梨県南巨摩郡早川町奈良田344
+    price: 1500
+    lat: 35.5767161
+    lng: 138.3000087
+    type: 温泉
+-
+    id: 37
+    name: 武田乃郷 白山温泉
+    url: http://www.hakusanonsen.com/
+    map: https://maps.google.com/?cid=554403526140058269&hl=ja
+    address: 山梨県韮崎市神山町鍋山1809-1
+    price: 600
+    lat: 35.7012995
+    lng: 138.4289653
+    type: 温泉
+-
+    id: 38
+    name: 森のなかの温泉 なんぶの湯
+    url: https://www.nanbunoyu.com/
+    map: https://maps.google.com/?cid=2257827453688859710&hl=ja
+    address: 山梨県南巨摩郡南部町内船8106-1
+    price: 830
+    lat: 35.280259
+    lng: 138.4634777
+    type: 温泉
+-
+    id: 39
+    name: ももの里温泉
+    url: http://www.fuefukinoyu.com/momonosato/index.html
+    map: https://maps.google.com/?cid=5044466554047319877&hl=ja
+    address: 山梨県笛吹市一宮町金沢387-1
+    price: 620
+    lat: 35.62624
+    lng: 138.6980352
+    type: 温泉
+-
+    id: 40
+    name: 山口温泉
+    url: http://www.navi-city.com/yu/yamaguchi-onsen/
+    map: https://maps.google.com/?cid=2667265304425732582&hl=ja
+    address: 山梨県甲斐市篠原477
+    price: 500
+    lat: 35.65374690000001
+    lng: 138.5267063
+    type: 温泉
+-
+    id: 41
+    name: 泰安温泉
+    url: https://yamanashi.k-o-i.jp/koten/taianonsen/
+    map: https://maps.google.com/?cid=9858182384756835471&hl=ja
+    address: 山梨県都留市上谷4-3-7
+    price: 430
+    lat: 35.5477427
+    lng: 138.9037953
+    type: 銭湯
+-
+    id: 42
+    name: たかねの湯
+    url: http://www.dunlopsportsclub.jp/takanenoyu/
+    map: https://maps.google.com/?cid=7647196293061532306&hl=ja
+    address: 山梨県北杜市高根町箕輪新町95
+    price: 820
+    lat: 35.83138
+    lng: 138.4328017
+    type: 温泉
+-
+    id: 43
+    name: 芭蕉月待ちの湯
+    url: http://www.tsukimachi-onsen.com/
+    map: https://maps.google.com/?cid=12752601817937401055&hl=ja
+    address: 山梨県都留市戸沢1126
+    price: 720
+    lat: 35.5474127
+    lng: 138.9552175
+    type: 温泉
+-
+    id: 44
+    name: 源泉流し放しの湯 湯殿館
+    url: https://www.yudenkan.com/
+    map: https://maps.google.com/?cid=12496151818722456057&hl=ja
+    address: 山梨県中央市若宮33-1
+    price: 900
+    lat: 35.6118235
+    lng: 138.5400222
+    type: 温泉
+-
+    id: 45
+    name: 六郷の里 つむぎの湯
+    url: http://www.tsumugi-spa.com/
+    map: https://maps.google.com/?cid=16860446964540304838&hl=ja
+    address: 山梨県西八代郡市川三郷町鴨狩津向640
+    price: 400
+    lat: 35.4819754
+    lng: 138.4581283
+    type: 温泉
+-
+    id: 46
+    name: 鼓川温泉
+    url: http://www.city.yamanashi.yamanashi.jp/citizen/gover/public/search/institution/tsuzumigawa
+    map: https://maps.google.com/?cid=14267946027194661179&hl=ja
+    address: 山梨県山梨市牧丘町牧平262
+    price: 510
+    lat: 35.7471472
+    lng: 138.6491966
+    type: 温泉
+-
+    id: 47
+    name: 奥山温泉
+    url: http://www.okuyama-onsen.com
+    map: https://maps.google.com/?cid=14214891812028164962&hl=ja
+    address: 山梨県南巨摩郡南部町福士26842
+    price: 820
+    lat: 35.2349524
+    lng: 138.4689808
+    type: 温泉
+-
+    id: 48
+    name: つつじヶ崎温泉
+    url: https://yamanashi.k-o-i.jp/koten/tsutsujigasakionsen/
+    map: https://maps.google.com/?cid=17677687039061909256&hl=ja
+    address: 山梨県甲府市岩窪町415
+    price: 430
+    lat: 35.681141
+    lng: 138.5852861
+    type: 銭湯
+-
+    id: 49
+    name: フカサワ温泉
+    url: 
+    map: https://maps.google.com/?cid=18333431729682617773&hl=ja
+    address: 山梨県中巨摩郡昭和町西条1961-1
+    price: 470
+    lat: 35.6363663
+    lng: 138.5359767
+    type: 温泉
+-
+    id: 50
+    name: やまと天目山温泉
+    url: http://www.daibosatsu-kankou.com/facility/yamato_tenmoku_hotspring.php
+    map: https://maps.google.com/?cid=8929751175692879803&hl=ja
+    address: 山梨県甲州市大和町木賊517
+    price: 820
+    lat: 35.6574561
+    lng: 138.8149922
+    type: 温泉
+-
+    id: 51
+    name: 葭之池温泉
+    url: http://yoshinoike.my.coocan.jp
+    map: https://maps.google.com/?cid=12376606288504404043&hl=ja
+    address: 山梨県富士吉田市下吉田6698
+    price: 1400
+    lat: 35.489852
+    lng: 138.8070527
+    type: 温泉
+-
+    id: 52
+    name: いさわふれあいセンター なごみの湯
+    url: http://www.fuefukinoyu.com/nagomi/index.html
+    map: https://maps.google.com/?cid=10593270621489897418&hl=ja
+    address: 山梨県笛吹市石和町下平井578
+    price: 720
+    lat: 35.6464094
+    lng: 138.6474251
+    type: 温泉
+-
+    id: 53
+    name: 泉温泉健康センター
+    url: https://www.izumionsen.info/
+    map: https://maps.google.com/?cid=9325145282291052562&hl=ja
+    address: 山梨県北杜市大泉町谷戸1880
+    price: 830
+    lat: 35.8604347
+    lng: 138.3793667
+    type: 温泉
+-
+    id: 54
+    name: 奥湯村温泉 紅椿の湯
+    url: https://okuyumura.com/
+    map: https://maps.google.com/?cid=7731520776584931576&hl=ja
+    address: 山梨県甲府市羽黒町1520
+    price: 700
+    lat: 35.6939341
+    lng: 138.5420909
+    type: 温泉
+-
+    id: 55
+    name: まほらの湯
+    url: http://www.alps-hs.co.jp/mahoranoyu/index.html
+    map: https://maps.google.com/?cid=8601432998192681060&hl=ja
+    address: 山梨県南巨摩郡富士川町長沢1757-2
+    price: 700
+    lat: 35.5728753
+    lng: 138.4677971
+    type: 温泉
+-
+    id: 56
+    name: 韮崎市健康ふれあいセンター ゆ～ぷるにらさき
+    url: http://yu-poolnirasaki.heteml.net
+    map: https://maps.google.com/?cid=11331104202321423864&hl=ja
+    address: 山梨県韮崎市中田町中条1800-1
+    price: 850
+    lat: 35.74793
+    lng: 138.4377433
+    type: 温泉
+-
+    id: 57
+    name: 甲州鰍沢温泉 かじかの湯
+    url: https://www.town.fujikawa.yamanashi.jp/kajikanoyu/
+    map: https://maps.google.com/?cid=17595457350336671865&hl=ja
+    address: 山梨県南巨摩郡富士川町鳥屋137-1
+    price: 730
+    lat: 35.5075926
+    lng: 138.4283883
+    type: 温泉
+-
+    id: 58
+    name: 西山温泉 湯島の湯
+    url: http://www.shokokai-yamanashi.or.jp/~hayakawa/kanko/yujimanoyu.htm
+    map: https://maps.google.com/?cid=2078609803140071457&hl=ja
+    address: 山梨県南巨摩郡早川町湯島1780-7
+    price: 550
+    lat: 35.5367093
+    lng: 138.3084675
+    type: 温泉
+-
+    id: 59
+    name: 上九の湯ふれあいセンター
+    url: http://www.kofu-syakyo.or.jp/sisestu/kamiku.htm
+    map: https://maps.google.com/?cid=15446268538750678619&hl=ja
+    address: 山梨県甲府市古関町1174
+    price: 730
+    lat: 35.5308654
+    lng: 138.609617
+    type: 温泉
+-
+    id: 60
+    name: ヴィラ雨畑 すず里の湯
+    url: http://villa-amehata.info/
+    map: https://maps.google.com/?cid=7597734077761490706&hl=ja
+    address: 山梨県南巨摩郡早川町雨畑699
+    price: 550
+    lat: 35.4056744
+    lng: 138.3293829
+    type: 温泉
+-
+    id: 61
+    name: 白州塩沢温泉 フォッサマグナの湯
+    url: http://www.dunlopsportsclub.jp/hakusyu/
+    map: https://maps.google.com/?cid=12182965625986270028&hl=ja
+    address: 山梨県北杜市白州町大武川344-19
+    price: 830
+    lat: 35.8779415
+    lng: 138.2588054
+    type: 温泉
+-
+    id: 62
+    name: トータス温泉
+    url: http://www.yuukifudousan.com/publics/index/7/
+    map: https://maps.google.com/?cid=11506970309362788946&hl=ja
+    address: 山梨県甲府市中小河原町668
+    price: 500
+    lat: 35.6318567
+    lng: 138.5695122
+    type: 温泉
+-
+    id: 63
+    name: みとみ笛吹の湯
+    url: http://www.city.yamanashi.yamanashi.jp/citizen/gover/public/search/institution/mitomi_02/
+    map: https://maps.google.com/?cid=10656016248313921784&hl=ja
+    address: 山梨県山梨市三富下釜口447
+    price: 510
+    lat: 35.7893898
+    lng: 138.738403
+    type: 温泉
+-
+    id: 64
+    name: みさかの湯
+    url: http://www.fuefukinoyu.com/misaka/
+    map: https://maps.google.com/?cid=8782832078149348212&hl=ja
+    address: 山梨県笛吹市御坂町成田2200
+    price: 720
+    lat: 35.6385242
+    lng: 138.6440962
+    type: 温泉
+-
+    id: 65
+    name: 花かげの湯
+    url: http://www.city.yamanashi.yamanashi.jp/citizen/gover/public/search/institution/hanakage/
+    map: https://maps.google.com/?cid=9611463069432780759&hl=ja
+    address: 山梨県山梨市牧丘町窪平453-1
+    price: 510
+    lat: 35.7367913
+    lng: 138.7137309
+    type: 温泉
+-
+    id: 66
+    name: 山宮温泉
+    url: https://yamamiyaonsen2532.wixsite.com/yamamiya-onsen
+    map: https://maps.google.com/?cid=7705313566596418594&hl=ja
+    address: 山梨県甲府市山宮町2532-1
+    price: 600
+    lat: 35.6934505
+    lng: 138.5298897
+    type: 温泉
+-
+    id: 67
+    name: 笛吹市境川観光交流センター 寺尾の湯
+    url: https://www.city.fuefuki.yamanashi.jp/shisetsu/onsen/009.html
+    map: https://maps.google.com/?cid=14251230880066947614&hl=ja
+    address: 山梨県笛吹市境川町寺尾1534
+    price: 700
+    lat: 35.5849848
+    lng: 138.5966121
+    type: 温泉
+-
+    id: 68
+    name: 遊・湯ふれあい公園 後楽園スポーツクラブ
+    url: https://www.shisetsu.jp/city.minami-alps_yuyu/
+    map: https://maps.google.com/?cid=13055224315464784951&hl=ja
+    address: 山梨県南アルプス市鏡中條3782
+    price: 650
+    lat: 35.6217873
+    lng: 138.5025487
+    type: 温泉
+-
+    id: 69
+    name: 塩山温泉 宏池荘
+    url: http://kouchisou.com/spa.html
+    map: https://maps.google.com/?cid=15614962549636276209&hl=ja
+    address: 山梨県甲州市上於曽1959
+    price: 430
+    lat: 35.7091986
+    lng: 138.7290646
+    type: 共同浴場・銭湯
+-
+    id: 70
+    name: 下部温泉会館
+    url: https://www.town.minobu.lg.jp/kanko/annai/midokoro-shimobe-kaikan.html
+    map: https://maps.google.com/?cid=7471845908331018096&hl=ja
+    address: 山梨県南巨摩郡身延町下部1130-1
+    price: 500
+    lat: 35.4235936
+    lng: 138.4772305
+    type: 温泉
+-
+    id: 71
+    name: 緑が丘温泉
+    url: https://yamanashi.k-o-i.jp/koten/midorigaokaonsen/
+    map: https://maps.google.com/?cid=1980966411579936112&hl=ja
+    address: 山梨県甲府市緑が丘1-12-14
+    price: 430
+    lat: 35.6783381
+    lng: 138.5589445
+    type: 銭湯
+-
+    id: 72
+    name: 玉川温泉
+    url: 
+    map: https://maps.google.com/?cid=18266695637168691235&hl=ja
+    address: 山梨県甲斐市玉川1038-1
+    price: 500
+    lat: 35.6325186
+    lng: 138.5266661
+    type: 温泉
+-
+    id: 73
+    name: 南部市民センター
+    url: https://www.city.kofu.yamanashi.jp/welcome/onsen/koukyouspa.html
+    map: https://maps.google.com/?cid=5779850444815015174&hl=ja
+    address: 山梨県甲府市下今井町15
+    price: 400
+    lat: 35.6141692
+    lng: 138.5798195
+    type: 温泉
+-
+    id: 74
+    name: アクアリゾート清里 天女の湯
+    url: https://www.kiyosato-okanokouen.com/tennyonoyu
+    map: https://maps.google.com/?cid=13366603944006046174&hl=ja
+    address: 山梨県北杜市高根町清里3545-5
+    price: 790
+    lat: 35.90464559999999
+    lng: 138.431976
+    type: 温泉
+-
+    id: 75
+    name: 天恵泉 白根桃源天笑閣
+    url: https://www.city.minami-alps.yamanashi.jp/sisetsu/shisetsu/onsen-tensyokaku/
+    map: https://maps.google.com/?cid=7705356011790008626&hl=ja
+    address: 山梨県南アルプス市駒場147-18
+    price: 600
+    lat: 35.6513183
+    lng: 138.4092843
+    type: 温泉
+-
+    id: 76
+    name: 甲斐市民温泉 百楽泉
+    url: http://yamanashikotsu.co.jp/kai_spa/hyakurakusen/
+    map: https://maps.google.com/?cid=10988201232313124168&hl=ja
+    address: 山梨県甲斐市宇津谷1715-2
+    price: 800
+    lat: 35.7021758
+    lng: 138.4819521
+    type: 温泉
+-
+    id: 77
+    name: 釜無川レクリエーションセンター かまなしの湯
+    url: http://yamanashikotsu.co.jp/kai_spa/kamanashinoyu/
+    map: https://maps.google.com/?cid=17060338832680083798&hl=ja
+    address: 山梨県甲斐市西八幡4268-6
+    price: 800
+    lat: 35.6456306
+    lng: 138.5077443
+    type: 温泉
+-
+    id: 78
+    name: クアハウス石和
+    url: https://kur-i.jp
+    map: https://maps.google.com/?cid=12023429327154125578&hl=ja
+    address: 山梨県笛吹市石和町八田330-5
+    price: 1200
+    lat: 35.65600999999999
+    lng: 138.6411591
+    type: 温泉
+-
+    id: 79
+    name: 神明温泉 志麻の湯
+    url: http://yamanashikotsu.co.jp/kai_spa/shimanoyu/
+    map: https://maps.google.com/?cid=10119002925138902457&hl=ja
+    address: 山梨県甲斐市島上条3123
+    price: 800
+    lat: 35.6909816
+    lng: 138.5196998
+    type: 温泉
+-
+    id: 80
+    name: 町営 草塩温泉
+    url: http://www.town.hayakawa.yamanashi.jp/tour/spot/spa/kusashio.html
+    map: https://maps.google.com/?cid=12885367298866394149&hl=ja
+    address: 山梨県南巨摩郡早川町草塩321-1
+    price: 550
+    lat: 35.4293743
+    lng: 138.3409442
+    type: 温泉
+-
+    id: 81
+    name: 金山沢温泉
+    url: https://www.city.minami-alps.yamanashi.jp/sisetsu/shisetsu/onsen-kanayamasawa/
+    map: https://maps.google.com/?cid=6437566777851172684&hl=ja
+    address: 山梨県南アルプス市芦安芦倉1525
+    price: 850
+    lat: 35.6357149
+    lng: 138.3643672
+    type: 温泉
+-
+    id: 82
+    name: 門野の湯
+    url: https://www.town.minobu.lg.jp/kanko/annai/midokoro-kadono.html
+    map: https://maps.google.com/?cid=2354767141483250949&hl=ja
+    address: 山梨県南巨摩郡身延町門野1122
+    price: 400
+    lat: 35.3462548
+    lng: 138.4072735
+    type: 温泉
+-
+    id: 83
+    name: 健康ランド須玉 信玄公陣立の湯
+    url: https://www.sp-houtoku.com/sutama/
+    map: https://maps.google.com/?cid=15640684236682390487&hl=ja
+    address: 山梨県北杜市須玉町若神子3900-1
+    price: 580
+    lat: 35.7926607
+    lng: 138.4177741
+    type: 温泉
+-
+    id: 84
+    name: 勝沼健康福祉センター
+    url: http://www.koshushishakyo.or.jp/about/1-002/#e02
+    map: https://maps.google.com/?cid=3390011771052066148&hl=ja
+    address: 山梨県甲州市勝沼町休息1867-2
+    price: 510
+    lat: 35.6773031
+    lng: 138.7205149
+    type: 温泉
+-
+    id: 85
+    name: くあはうす神金村
+    url: https://odawaraf.wixsite.com/kamikane
+    map: https://maps.google.com/?cid=1442695803496125938&hl=ja
+    address: 山梨県甲州市塩山下小田原588-1
+    price: 700
+    lat: 35.7299631
+    lng: 138.7683064
+    type: 温泉
+-
+    id: 86
+    name: 中巨摩地区広域事務組合 老人福祉センター
+    url: https://www.yamanashi-kankou.jp/kankou/stay/p5_5037.html
+    map: https://maps.google.com/?cid=1307149968369263934&hl=ja
+    address: 山梨県中央市一町畑1189
+    price: 500
+    lat: 35.5855692
+    lng: 138.5329085
+    type: 温泉
+-
+    id: 87
+    name: 大月市社会福祉協議会 総合福祉センター
+    url: https://otsuki-kanko.info/category/content-page/view/86
+    map: https://maps.google.com/?cid=17258768071674382793&hl=ja
+    address: 山梨県大月市大月町花咲10
+    price: 510
+    lat: 35.6045873
+    lng: 138.9272492
+    type: 温泉
+-
+    id: 88
+    name: 湯立人鉱泉
+    url: 
+    map: https://maps.google.com/?cid=15726443604154538334&hl=ja
+    address: 山梨県大月市七保町下和田646
+    price: 1000
+    lat: 35.6165198
+    lng: 138.9739669
+    type: 温泉
+-
+    id: 89
+    name: 笛吹市春日居福祉会館 やまゆりの湯
+    url: https://www.yamanashi-kankou.jp/kankou/stay/p5_5034.html
+    map: https://maps.google.com/?cid=11013399995532317662&hl=ja
+    address: 山梨県笛吹市春日居町寺本142-1
+    price: 500
+    lat: 35.6674001
+    lng: 138.655229
+    type: 温泉
+-
+    id: 90
+    name: 中央市立豊富健康福祉センター
+    url: https://www.city.chuo.yamanashi.jp/benriservice/facilitymap/bunya/hoken_fukushi/1292.html
+    map: https://maps.google.com/?cid=3871618206393035641&hl=ja
+    address: 山梨県中央市大鳥居3738-1
+    price: 310
+    lat: 35.5720333
+    lng: 138.5558946
+    type: 温泉
+-
+    id: 91
+    name: 中央市立 田富福祉公園コミュニティセンター
+    url: https://www.city.chuo.yamanashi.jp/benriservice/facilitymap/bunya/hoken_fukushi/1290.html
+    map: https://maps.google.com/?cid=3953036936947683735&hl=ja
+    address: 山梨県中央市臼井阿原205-1
+    price: 310
+    lat: 35.6007958
+    lng: 138.5168865
+    type: 共同浴場・銭湯
+-
+    id: 92
+    name: 山梨市老人健康福祉センター 山梨ちどり温泉
+    url: http://www.shokokai-yamanashi.or.jp/onsen/yamanashi.html
+    map: https://maps.google.com/?cid=9078921373065956839&hl=ja
+    address: 山梨県山梨市小原西649-1
+    price: 500
+    lat: 35.6957889
+    lng: 138.6933449
+    type: 温泉
+-
+    id: 93
+    name: 天然温泉 Healthy SPA サンロード
+    url: https://spasunroad.com/
+    map: https://maps.google.com/?cid=2725453334280968693&hl=ja
+    address: 山梨県甲府市大里町4144-4
+    price: 780
+    lat: 35.6205429
+    lng: 138.5591791
+    type: 温泉
+-
+    id: 94
+    name: 都温泉
+    url: https://yamanashi.k-o-i.jp/koten/miyakoonsen/
+    map: https://maps.google.com/?cid=9084244617582688749&hl=ja
+    address: 山梨県甲府市中央5-7-19
+    price: 430
+    lat: 35.6573973
+    lng: 138.5741378
+    type: 銭湯
+-
+    id: 95
+    name: 大和福祉センター 田野の湯
+    url: https://www.city.koshu.yamanashi.jp/shisei/shisetsu/detail/%e5%a4%a7%e5%92%8c%e7%a6%8f%e7%a5%89%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc
+    map: https://maps.google.com/maps?q=35.646102,138.809539
+    address: 山梨県甲州市大和町田野77
+    price: 610
+    lat: 35.646078
+    lng: 138.8095201
+    type: 温泉
+-
+    id: 96
+    name: ふじ温泉
+    url: https://yamanashi.k-o-i.jp/koten/fujionsen/
+    map: https://maps.google.com/?cid=5145886987845440874&hl=ja
+    address: 山梨県甲府市住吉4-13-1
+    price: 430
+    lat: 35.6403208
+    lng: 138.5774234
+    type: 銭湯

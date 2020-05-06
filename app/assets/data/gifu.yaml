@@ -1,0 +1,921 @@
+---
+-
+    id: 1
+    name: 幸乃湯
+    url: http://1010gifu.com/map/sachinoyu/
+    map: https://maps.google.com/?cid=8593845414956684388&hl=ja
+    address: 岐阜県下呂市幸田1144
+    price: 370
+    lat: 35.8083337
+    lng: 137.2390697
+    type: 銭湯
+-
+    id: 2
+    name: Spa Resort 湯の華アイランド
+    url: http://www.spa-yunohana.com/spa/
+    map: https://maps.google.com/?cid=881743688686609777&hl=ja
+    address: 岐阜県可児市土田4800-1
+    price: 800
+    lat: 35.4235589
+    lng: 137.0058706
+    type: 温泉
+-
+    id: 3
+    name: 関観光ホテル 西の屋別館 武芸川温泉
+    url: https://www.mugegawa.jp/
+    map: https://maps.google.com/?cid=5012068095652875774&hl=ja
+    address: 岐阜県関市武芸川町八幡1558-7
+    price: 700
+    lat: 35.53781190000001
+    lng: 136.8438283
+    type: 温泉
+-
+    id: 4
+    name: 天然温泉 三峰
+    url: https://www.mitsumine-onsen.com/index.html
+    map: https://maps.google.com/?cid=13256395486329140185&hl=ja
+    address: 岐阜県可児市大森1748-1
+    price: 750
+    lat: 35.38884609999999
+    lng: 137.0806967
+    type: 温泉
+-
+    id: 5
+    name: 養老温泉 ゆせんの里 みのり乃湯
+    url: https://www.natural-co.com/enjoy_day_trip.html
+    map: https://maps.google.com/?cid=10808853623419043392&hl=ja
+    address: 岐阜県養老郡養老町押越1522-1
+    price: 720
+    lat: 35.2982054
+    lng: 136.5576723
+    type: 温泉
+-
+    id: 6
+    name: 道の駅 美濃白川 ピアチェーレ
+    url: https://roadside-minoshirakawa.co.jp/
+    map: https://maps.google.com/?cid=13255305655002338999&hl=ja
+    address: 岐阜県加茂郡白川町河東3500-1
+    price: 550
+    lat: 35.6039004
+    lng: 137.1734957
+    type: 温泉
+-
+    id: 7
+    name: 付知峡倉屋温泉 おんぽいの湯
+    url: http://www.kuraya-onsen.jp/
+    map: https://maps.google.com/?cid=14360258314932380942&hl=ja
+    address: 岐阜県中津川市付知町1929-1
+    price: 650
+    lat: 35.6754632
+    lng: 137.4132311
+    type: 温泉
+-
+    id: 8
+    name: 大垣天然温泉 湯の城
+    url: http://www.p-castle.co.jp/yunoshiroogaki/
+    map: https://maps.google.com/?cid=4031646852072793537&hl=ja
+    address: 岐阜県大垣市外野2-16
+    price: 700
+    lat: 35.3371308
+    lng: 136.6105172
+    type: 温泉
+-
+    id: 9
+    name: 喜多の湯 六条温泉
+    url: http://super-sentou.com/rokujou/
+    map: https://maps.google.com/?cid=9878015990448215178&hl=ja
+    address: 岐阜県岐阜市六条江東3-3-18
+    price: 650
+    lat: 35.3883687
+    lng: 136.7454792
+    type: 温泉
+-
+    id: 10
+    name: 土岐よりみち温泉
+    url: https://www.yorimichi-onsen.jp/
+    map: https://maps.google.com/?cid=16087563913664634719&hl=ja
+    address: 岐阜県土岐市土岐ヶ丘4-5-3
+    price: 780
+    lat: 35.3332854
+    lng: 137.170488
+    type: 温泉
+-
+    id: 11
+    name: 池田温泉本館
+    url: http://ikedaonsen.jp/
+    map: https://maps.google.com/?cid=14842629512944894971&hl=ja
+    address: 岐阜県揖斐郡池田町片山3021-1
+    price: 500
+    lat: 35.4193541
+    lng: 136.5576299
+    type: 温泉
+-
+    id: 12
+    name: 天然温泉 美人の湯しろとり
+    url: https://bizin-yu.com/
+    map: https://maps.google.com/?cid=18042813202723145305&hl=ja
+    address: 岐阜県郡上市白鳥町那留32
+    price: 750
+    lat: 35.8690519
+    lng: 136.886454
+    type: 温泉
+-
+    id: 13
+    name: クアリゾート湯舟沢
+    url: https://nakatsugawaonsen.com/
+    map: https://maps.google.com/?cid=17868070070435077519&hl=ja
+    address: 岐阜県中津川市神坂280
+    price: 600
+    lat: 35.5093325
+    lng: 137.5750851
+    type: 温泉
+-
+    id: 14
+    name: 日帰り天然温泉 バーデンパークSOGI
+    url: https://www.badenpark.net/
+    map: https://maps.google.com/?cid=1997981990578124006&hl=ja
+    address: 岐阜県土岐市曽木町1300-1
+    price: 600
+    lat: 35.2955002
+    lng: 137.2632157
+    type: 温泉
+-
+    id: 15
+    name: 湯処 美濃里
+    url: http://yudocoro-minori.com/
+    map: https://maps.google.com/?cid=2005432696215571642&hl=ja
+    address: 岐阜県羽島郡岐南町下印食2-60-1
+    price: 600
+    lat: 35.3906201
+    lng: 136.7699936
+    type: 温泉
+-
+    id: 16
+    name: 明宝温泉 湯星館
+    url: http://yuseikan.com/
+    map: https://maps.google.com/?cid=13693956617258841152&hl=ja
+    address: 岐阜県郡上市明宝奥住3428-1
+    price: 600
+    lat: 35.9266188
+    lng: 137.0567923
+    type: 温泉
+-
+    id: 17
+    name: 池田温泉新館
+    url: http://ikedaonsen.jp/
+    map: https://maps.google.com/?cid=14074766651166066974&hl=ja
+    address: 岐阜県揖斐郡池田町片山1970-1
+    price: 500
+    lat: 35.4196453
+    lng: 136.5587012
+    type: 温泉
+-
+    id: 18
+    name: 美人の湯 かかみがはら
+    url: http://www.bizin-yu.co.jp/
+    map: https://maps.google.com/?cid=18262334334469256482&hl=ja
+    address: 岐阜県各務原市蘇原申子町1-1
+    price: 830
+    lat: 35.4125348
+    lng: 136.8538224
+    type: 温泉
+-
+    id: 19
+    name: のはら湯
+    url: http://nohara-spa.com/
+    map: https://maps.google.com/?cid=2900534036794569340&hl=ja
+    address: 岐阜県岐阜市三番町13
+    price: 460
+    lat: 35.4182895
+    lng: 136.7610554
+    type: 銭湯
+-
+    id: 20
+    name: 日本まん真ん中温泉 子宝の湯
+    url: http://www.kodakaranoyu.jp/
+    map: https://maps.google.com/?cid=14305746440133288486&hl=ja
+    address: 岐阜県郡上市美並町大原2709
+    price: 600
+    lat: 35.6274979
+    lng: 136.9503852
+    type: 温泉
+-
+    id: 21
+    name: 巌立峡 ひめしゃがの湯
+    url: http://himesyagaspa.web.fc2.com/
+    map: https://maps.google.com/?cid=1507852077399427203&hl=ja
+    address: 岐阜県下呂市小坂町落合1656
+    price: 700
+    lat: 35.9212726
+    lng: 137.323317
+    type: 温泉
+-
+    id: 22
+    name: 天然ラドン温泉 天光の湯
+    url: http://tenko-spa.jp/
+    map: https://maps.google.com/?cid=8524904216899774785&hl=ja
+    address: 岐阜県多治見市大畑町6-105-1
+    price: 800
+    lat: 35.3155316
+    lng: 137.1355006
+    type: 温泉
+-
+    id: 23
+    name: ゆうとぴあ稲荷湯
+    url: https://yutopia-takayama.net/
+    map: https://maps.google.com/?cid=14372668698402626623&hl=ja
+    address: 岐阜県高山市八軒町2-4
+    price: 420
+    lat: 36.1381801
+    lng: 137.256487
+    type: 銭湯
+-
+    id: 24
+    name: 板取川温泉 バーデェハウス
+    url: http://www.city.seki.lg.jp/kanko/0000000740.html
+    map: https://maps.google.com/?cid=11210942250845884875&hl=ja
+    address: 岐阜県関市板取4175-9
+    price: 600
+    lat: 35.7346803
+    lng: 136.7738286
+    type: 温泉
+-
+    id: 25
+    name: ホテル郡上八幡 郡上温泉 宝泉
+    url: http://www.chitora.co.jp/
+    map: https://maps.google.com/?cid=12294948575112268584&hl=ja
+    address: 岐阜県郡上市八幡町吉野200
+    price: 750
+    lat: 35.7202759
+    lng: 136.9468732
+    type: 温泉
+-
+    id: 26
+    name: 南濃温泉 水晶の湯
+    url: http://suisyounoyu.com/
+    map: https://maps.google.com/?cid=15210165875840091829&hl=ja
+    address: 岐阜県海津市南濃町羽沢1623-3
+    price: 520
+    lat: 35.2122386
+    lng: 136.6002038
+    type: 温泉
+-
+    id: 27
+    name: 上之保温泉 ほほえみの湯
+    url: http://hohoeminoyu.jp/
+    map: https://maps.google.com/?cid=16677658179497664682&hl=ja
+    address: 岐阜県関市上之保477
+    price: 600
+    lat: 35.6063048
+    lng: 137.0217112
+    type: 温泉
+-
+    id: 28
+    name: 倉知温泉 マーゴの湯
+    url: http://magonoyu.ma-go.co.jp/
+    map: https://maps.google.com/?cid=4286925300657845383&hl=ja
+    address: 岐阜県関市倉知516
+    price: 670
+    lat: 35.4781334
+    lng: 136.8998904
+    type: 温泉
+-
+    id: 29
+    name: 天然温泉 湯元 湯華の郷
+    url: http://yugenosato.com/
+    map: https://maps.google.com/?cid=16613827170991360459&hl=ja
+    address: 岐阜県揖斐郡池田町段721
+    price: 800
+    lat: 35.4604392
+    lng: 136.5406029
+    type: 温泉
+-
+    id: 30
+    name: くしはら温泉 ささゆりの湯
+    url: https://sasayurinoyu.jp/
+    map: https://maps.google.com/?cid=3658037120777194478&hl=ja
+    address: 岐阜県恵那市串原3135
+    price: 600
+    lat: 35.2636363
+    lng: 137.4043965
+    type: 温泉
+-
+    id: 31
+    name: ひだ荘川温泉 桜香の湯
+    url: http://www.hida-ouka.jp/
+    map: https://maps.google.com/?cid=381130963684320646&hl=ja
+    address: 岐阜県高山市荘川町猿丸82-1
+    price: 730
+    lat: 36.0214995
+    lng: 136.9655739
+    type: 温泉
+-
+    id: 32
+    name: 大白川温泉 しらみずの湯
+    url: https://www.hidahakusan.jp/spa/
+    map: https://maps.google.com/?cid=9597344725563677179&hl=ja
+    address: 岐阜県大野郡白川村平瀬247-7
+    price: 600
+    lat: 36.1729083
+    lng: 136.9026584
+    type: 温泉
+-
+    id: 33
+    name: 平和湯
+    url: https://www.heiwayu.com
+    map: https://maps.google.com/?cid=11744146288235918256&hl=ja
+    address: 岐阜県各務原市那加雄飛ケ丘28-2
+    price: 460
+    lat: 35.4031472
+    lng: 136.8532735
+    type: 銭湯
+-
+    id: 34
+    name: いび川温泉 藤橋の湯
+    url: https://ibigawafujihashisp.wixsite.com/987654321
+    map: https://maps.google.com/?cid=11606049889625591658&hl=ja
+    address: 岐阜県揖斐郡揖斐川町東横山207
+    price: 540
+    lat: 35.4873386
+    lng: 136.5687109
+    type: 温泉
+-
+    id: 35
+    name: 多治見トロン温泉 天の湯
+    url: http://tennoyu.com/
+    map: https://maps.google.com/?cid=15956857326702938881&hl=ja
+    address: 岐阜県多治見市上野町1-75
+    price: 700
+    lat: 35.337872
+    lng: 137.1256298
+    type: 温泉
+-
+    id: 36
+    name: 飛騨高山天然温泉 ひだまりの湯
+    url: https://hidamarinoyu.jimdo.com/
+    map: https://maps.google.com/?cid=2436650978457525952&hl=ja
+    address: 岐阜県高山市冬頭町413
+    price: 1050
+    lat: 36.1693507
+    lng: 137.2414158
+    type: 温泉
+-
+    id: 37
+    name: やまと温泉 やすらぎ館
+    url: http://www.gujo-tv.ne.jp/~kuturogi/onsen.htm
+    map: https://maps.google.com/?cid=12254736536191664481&hl=ja
+    address: 岐阜県郡上市大和町剣189
+    price: 700
+    lat: 35.8166643
+    lng: 136.9025722
+    type: 温泉
+-
+    id: 38
+    name: 天然温泉湯元 おおの温泉
+    url: https://onoonsen.com/
+    map: https://maps.google.com/?cid=16989317114285626427&hl=ja
+    address: 岐阜県揖斐郡大野町相羽120-1
+    price: 600
+    lat: 35.4539496
+    lng: 136.6320343
+    type: 温泉
+-
+    id: 39
+    name: 飛騨川温泉 しみずの湯
+    url: https://www.shimizunoyu.com/
+    map: https://maps.google.com/?cid=1243468801367112240&hl=ja
+    address: 岐阜県下呂市萩原町四美1426-1
+    price: 700
+    lat: 35.9339222
+    lng: 137.2122345
+    type: 温泉
+-
+    id: 40
+    name: 各務原温泉 恵みの湯
+    url: https://www.meguminoyu.jp/
+    map: https://maps.google.com/?cid=2748583605612021371&hl=ja
+    address: 岐阜県各務原市鵜沼各務原町2-68
+    price: 630
+    lat: 35.3999507
+    lng: 136.896547
+    type: 温泉
+-
+    id: 41
+    name: 天然温泉コロナの湯(大垣店)
+    url: http://www.korona.co.jp/Onsen/ogk/index.asp
+    map: https://maps.google.com/?cid=14070198997731907598&hl=ja
+    address: 岐阜県大垣市三塚町523-1
+    price: 680
+    lat: 35.3669447
+    lng: 136.6293206
+    type: 温泉
+-
+    id: 42
+    name: かすがモリモリ村 リフレッシュ館
+    url: https://morimorimura.com/
+    map: https://maps.google.com/?cid=2535486529871313878&hl=ja
+    address: 岐阜県揖斐郡揖斐川町春日六合3429
+    price: 440
+    lat: 35.467766
+    lng: 136.488207
+    type: 温泉
+-
+    id: 43
+    name: しぶきの湯 遊湯館
+    url: https://www.48taki.com/hot_spring/index.html
+    map: https://maps.google.com/?cid=2681792060747654933&hl=ja
+    address: 岐阜県高山市国府町宇津江964
+    price: 620
+    lat: 36.1971734
+    lng: 137.1693436
+    type: 温泉
+-
+    id: 44
+    name: 湯の平温泉
+    url: http://www.yunohiraonsen.jp/
+    map: https://maps.google.com/?cid=2730584162455855590&hl=ja
+    address: 岐阜県郡上市高鷲町大鷲1792
+    price: 700
+    lat: 35.9539501
+    lng: 136.8801248
+    type: 温泉
+-
+    id: 45
+    name: 根尾川谷汲温泉
+    url: https://tanigumionsen.com/
+    map: https://maps.google.com/?cid=8829026042608610141&hl=ja
+    address: 岐阜県揖斐郡揖斐川町谷汲長瀬450-1
+    price: 600
+    lat: 35.5310871
+    lng: 136.6446084
+    type: 温泉
+-
+    id: 46
+    name: クアガーデン露天風呂
+    url: http://www.gero.jp/museum/roten.html
+    map: https://maps.google.com/?cid=6699703369796539591&hl=ja
+    address: 岐阜県下呂市湯之島894-2
+    price: 700
+    lat: 35.8100664
+    lng: 137.2398327
+    type: 温泉
+-
+    id: 47
+    name: アクアリゾート岐阜 ふじの湯
+    url: https://www.gifu-fujinoyu.jp/index.php
+    map: https://maps.google.com/?cid=3694479838215020286&hl=ja
+    address: 岐阜県岐阜市正木1235
+    price: 550
+    lat: 35.4512999
+    lng: 136.7470065
+    type: 温泉
+-
+    id: 48
+    name: 天然温泉 満天の湯
+    url: https://winghills.net/bath/
+    map: https://maps.google.com/?cid=16864039481587495449&hl=ja
+    address: 岐阜県郡上市白鳥町石徹白峠山1-1
+    price: 700
+    lat: 35.9656665
+    lng: 136.8092687
+    type: 温泉
+-
+    id: 49
+    name: 飛騨金山温泉 湯ったり館
+    url: http://www.yuttarikan.jp/
+    map: https://maps.google.com/?cid=10625130215252343994&hl=ja
+    address: 岐阜県下呂市金山町金山973-2
+    price: 610
+    lat: 35.6683061
+    lng: 137.145909
+    type: 温泉
+-
+    id: 50
+    name: 白鷺の湯
+    url: http://www.gero.jp/museum/sirasagi.html
+    map: https://maps.google.com/?cid=5875199529182620864&hl=ja
+    address: 岐阜県下呂市湯之島856-1
+    price: 370
+    lat: 35.8092943
+    lng: 137.2414259
+    type: 温泉
+-
+    id: 51
+    name: 安八温泉保養センター
+    url: http://www.town.anpachi.gifu.jp/2013/01/08/%E5%AE%89%E5%85%AB%E6%B8%A9%E6%B3%89%E4%BF%9D%E9%A4%8A%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/
+    map: https://maps.google.com/?cid=2391802242965733744&hl=ja
+    address: 岐阜県安八郡安八町中須202
+    price: 300
+    lat: 35.3352358
+    lng: 136.6538258
+    type: 温泉
+-
+    id: 52
+    name: 谷汲温泉 満願の湯
+    url: http://tachibanayaryokan.jp/
+    map: https://maps.google.com/?cid=8994238876678237149&hl=ja
+    address: 岐阜県揖斐郡揖斐川町谷汲徳積1684
+    price: 500
+    lat: 35.5259907
+    lng: 136.6113926
+    type: 温泉
+-
+    id: 53
+    name: 牧歌の里温泉 牧華
+    url: https://www.bokka.co.jp/
+    map: https://maps.google.com/?cid=13927283408797739471&hl=ja
+    address: 岐阜県郡上市高鷲町鷲見2363-521
+    price: 850
+    lat: 35.9861131
+    lng: 136.9287754
+    type: 温泉
+-
+    id: 54
+    name: 濁河温泉 市営露天風呂
+    url: http://www.city.gero.lg.jp/kankou/node_7779/node_29737/node_29748/node_30036
+    map: https://maps.google.com/?cid=16909056795340433715&hl=ja
+    address: 岐阜県下呂市小坂町落合2383
+    price: 500
+    lat: 35.9285888
+    lng: 137.380447
+    type: 温泉
+-
+    id: 55
+    name: 中崎山荘 奥飛騨の湯
+    url: https://www.okuhida.or.jp/roten_catalog/detail?id=3311
+    map: https://maps.google.com/?cid=1641394383579772868&hl=ja
+    address: 岐阜県高山市奥飛騨温泉郷神坂720
+    price: 900
+    lat: 36.2836942
+    lng: 137.5738836
+    type: 温泉
+-
+    id: 56
+    name: 武芸川温泉 別館 ぬくいの湯
+    url: https://www.nukuinoyu.jp
+    map: https://maps.google.com/?cid=17571383039052792700&hl=ja
+    address: 岐阜県本巣市政田字下西浦1953
+    price: 700
+    lat: 35.4320276
+    lng: 136.6411247
+    type: 温泉
+-
+    id: 57
+    name: ぎふ清流里山公園 里山の湯
+    url: https://satoyama-park.gifu.jp/spa/
+    map: https://maps.google.com/?cid=18216961791670339257&hl=ja
+    address: 岐阜県美濃加茂市山之上町2292-1
+    price: 620
+    lat: 35.4791936
+    lng: 137.0373455
+    type: 温泉
+-
+    id: 58
+    name: 新穂高温泉 ひがくの湯
+    url: https://shinhotaka.com/place/766/
+    map: https://maps.google.com/?cid=3372810367672999412&hl=ja
+    address: 岐阜県高山市奥飛騨温泉郷中尾442-7
+    price: 700
+    lat: 36.2671263
+    lng: 137.5666796
+    type: 温泉
+-
+    id: 59
+    name: 久瀬温泉露天風呂 白龍の湯
+    url: https://www.town.ibigawa.lg.jp/kankoujyouhou/0000006122.html
+    map: https://maps.google.com/?cid=14003928751046334095&hl=ja
+    address: 岐阜県揖斐郡揖斐川町日坂224-1
+    price: 430
+    lat: 35.54394360000001
+    lng: 136.441867
+    type: 温泉
+-
+    id: 60
+    name: 平湯民俗館 平湯の湯
+    url: https://www.kankou-gifu.jp/spot/3165/
+    map: https://maps.google.com/?cid=1794365846765935489&hl=ja
+    address: 岐阜県高山市奥飛騨温泉郷平湯
+    price: 300
+    lat: 36.1845001
+    lng: 137.557011
+    type: 温泉
+-
+    id: 61
+    name: 荒城温泉 恵比須之湯
+    url: http://www.ebisunoyu.jp/
+    map: https://maps.google.com/?cid=9162272567262356475&hl=ja
+    address: 岐阜県高山市丹生川町折敷地415
+    price: 600
+    lat: 36.2142723
+    lng: 137.3649173
+    type: 温泉
+-
+    id: 62
+    name: 公園の湯
+    url: http://1010gifu.com/map/koennoyu/
+    map: https://maps.google.com/?cid=3341103175427548195&hl=ja
+    address: 岐阜県岐阜市木挽町37
+    price: 460
+    lat: 35.4349525
+    lng: 136.7711418
+    type: 銭湯
+-
+    id: 63
+    name: 割石温泉
+    url: https://www.hida-kankou.jp/spot/3858/
+    map: https://maps.google.com/?cid=15309385319088359168&hl=ja
+    address: 岐阜県飛騨市神岡町割石219
+    price: 410
+    lat: 36.3673533
+    lng: 137.2805716
+    type: 温泉
+-
+    id: 64
+    name: コージュ高鷲 ふたこえ温泉
+    url: http://kankou.takasu.or.jp/onsen/hutakoe/hutakoe.htm
+    map: https://maps.google.com/?cid=771688777193696221&hl=ja
+    address: 岐阜県郡上市高鷲町鷲見48-1
+    price: 650
+    lat: 35.9578536
+    lng: 136.8938936
+    type: 温泉
+-
+    id: 65
+    name: 羽島市老人福祉センター 羽島温泉
+    url: https://hashima-onsen.jp/
+    map: https://maps.google.com/?cid=13871845225576852334&hl=ja
+    address: 岐阜県羽島市桑原町午南1038-1
+    price: 200
+    lat: 35.2573201
+    lng: 136.6839565
+    type: 温泉
+-
+    id: 66
+    name: ヤマヨ温泉
+    url: http://1010gifu.com/map/yamayo/
+    map: https://maps.google.com/?cid=6169073110394280589&hl=ja
+    address: 岐阜県岐阜市南本荘一条通15
+    price: 460
+    lat: 35.4087998
+    lng: 136.7468481
+    type: 銭湯
+-
+    id: 67
+    name: 花白温泉 花白の湯
+    url: http://hanashiro.net/
+    map: https://maps.google.com/?cid=17631632211208116682&hl=ja
+    address: 岐阜県恵那市山岡町馬場山田996-15
+    price: 550
+    lat: 35.355308
+    lng: 137.4069882
+    type: 温泉
+-
+    id: 68
+    name: 鷺の湯
+    url: http://1010gifu.com/map/saginoyu/
+    map: https://maps.google.com/?cid=5042396907170169774&hl=ja
+    address: 岐阜県岐阜市鷺山1769-2
+    price: 460
+    lat: 35.4451244
+    lng: 136.7545558
+    type: 銭湯
+-
+    id: 69
+    name: ぬく森の湯 すぱ～ふる
+    url: http://spafurukawa.com/
+    map: https://maps.google.com/?cid=12929396053969001181&hl=ja
+    address: 岐阜県飛騨市古川町黒内1407
+    price: 600
+    lat: 36.2427299
+    lng: 137.1152263
+    type: 温泉
+-
+    id: 70
+    name: 三田洞神仏温泉
+    url: http://www.group-sanwa.co.jp/mitahoraspa/
+    map: https://maps.google.com/?cid=18318601734939177781&hl=ja
+    address: 岐阜県岐阜市三田洞222
+    price: 520
+    lat: 35.4718175
+    lng: 136.7872133
+    type: 温泉
+-
+    id: 71
+    name: 神戸町介護予防施設 ばらの里
+    url: http://www.group-sanwa.co.jp/baraspa/
+    map: https://maps.google.com/?cid=12066535397656619284&hl=ja
+    address: 岐阜県安八郡神戸町神戸1001-2
+    price: 220
+    lat: 35.4177669
+    lng: 136.6100233
+    type: 温泉
+-
+    id: 72
+    name: 松乃湯
+    url: http://1010gifu.com/map/matunoyu/
+    map: https://maps.google.com/?cid=6895709074263479635&hl=ja
+    address: 岐阜県岐阜市加納城南通2-2
+    price: 460
+    lat: 35.3987453
+    lng: 136.7575763
+    type: 銭湯
+-
+    id: 73
+    name: 湯屋 鷹の湯
+    url: https://takanoyu.jimdo.com/%E3%81%94%E6%A1%88%E5%86%85/
+    map: https://maps.google.com/?cid=7799724682406663835&hl=ja
+    address: 岐阜県高山市宗猷寺町75
+    price: 400
+    lat: 36.1420241
+    lng: 137.2651665
+    type: 共同浴場・銭湯
+-
+    id: 74
+    name: 稲荷温泉 不老荘
+    url: http://瑞浪.com/inarionsen/
+    map: https://maps.google.com/?cid=6983442645993451905&hl=ja
+    address: 岐阜県瑞浪市稲津町小里555
+    price: 600
+    lat: 35.3465302
+    lng: 137.2779949
+    type: 温泉
+-
+    id: 75
+    name: ゆぅわ～くはうす
+    url: http://www.spayuwaku.com/
+    map: https://maps.google.com/?cid=1634238856863094634&hl=ja
+    address: 岐阜県飛騨市河合町角川350-1
+    price: 500
+    lat: 36.3040473
+    lng: 137.1012866
+    type: 温泉
+-
+    id: 76
+    name: 新穂高ビジターセンター 神宝乃湯
+    url: http://shinhotaka-ropeway.jp/info03/#tabs
+    map: https://maps.google.com/?cid=5136241165096051587&hl=ja
+    address: 岐阜県高山市奥飛騨温泉郷新穂高
+    price: 600
+    lat: 36.2857809
+    lng: 137.5751828
+    type: 温泉
+-
+    id: 77
+    name: 大垣サウナ
+    url: 
+    map: https://maps.google.com/?cid=7942405354445441545&hl=ja
+    address: 岐阜県大垣市三塚町3-1222
+    price: 1700
+    lat: 35.363156
+    lng: 136.6334314
+    type: 温泉
+-
+    id: 78
+    name: 昔ばなしの里 石動の湯
+    url: https://www.kankou-gifu.jp/spot/3170/
+    map: https://maps.google.com/?cid=7321373172085827082&hl=ja
+    address: 岐阜県高山市奥飛騨温泉郷福地温泉110
+    price: 300
+    lat: 36.2236062
+    lng: 137.531979
+    type: 温泉
+-
+    id: 79
+    name: かぎや温泉
+    url: http://1010gifu.com/map/kagiyayu/
+    map: https://maps.google.com/?cid=1460661779698846093&hl=ja
+    address: 岐阜県岐阜市徹明通8-9-2
+    price: 460
+    lat: 35.4163341
+    lng: 136.745488
+    type: 銭湯
+-
+    id: 80
+    name: イトシン浴場
+    url: http://1010gifu.com/map/itoshin/
+    map: https://maps.google.com/?cid=381383914528827971&hl=ja
+    address: 岐阜県岐阜市日ノ本町2-2
+    price: 460
+    lat: 35.4132696
+    lng: 136.7527421
+    type: 銭湯
+-
+    id: 81
+    name: 音羽湯
+    url: http://1010gifu.com/map/otohayu/
+    map: https://maps.google.com/?cid=3127662234507962917&hl=ja
+    address: 岐阜県美濃加茂市太田町2-5-2
+    price: 300
+    lat: 35.4493726
+    lng: 137.017997
+    type: 銭湯
+-
+    id: 82
+    name: 平田総合福祉会館 やすらぎ会館
+    url: http://www.city.kaizu.lg.jp/life-guide/life/public-facility/welfare-facility/hirata-fukushikaikan.html
+    map: https://maps.google.com/?cid=10435559392977757063&hl=ja
+    address: 岐阜県海津市平田町仏師川483
+    price: 200
+    lat: 35.257072
+    lng: 136.6359168
+    type: 温泉
+-
+    id: 83
+    name: 満天星温泉 ほっとサロン
+    url: http://www.city.nakatsugawa.gifu.jp/branch/fukuoka/post.html
+    map: https://maps.google.com/?cid=1841214524472937426&hl=ja
+    address: 岐阜県中津川市福岡714-2
+    price: 440
+    lat: 35.5604978
+    lng: 137.4521532
+    type: 温泉
+-
+    id: 84
+    name: 保健福祉施設 かたらいの里
+    url: http://www.city.nakatsugawa.gifu.jp/branch/kawaue/post-1.html
+    map: https://maps.google.com/?cid=283314619670798992&hl=ja
+    address: 岐阜県中津川市川上1437-1
+    price: 440
+    lat: 35.609871
+    lng: 137.4983455
+    type: 温泉
+-
+    id: 85
+    name: 都湯
+    url: http://1010gifu.com/map/miyakoyu/
+    map: https://maps.google.com/?cid=2371623837119075393&hl=ja
+    address: 岐阜県大垣市錦町48
+    price: 460
+    lat: 35.3660283
+    lng: 136.6203029
+    type: 銭湯
+-
+    id: 86
+    name: 養老温泉 ゆせんの里 温泉療法館
+    url: https://www.natural-co.com/enjoy_day_trip.html
+    map: https://maps.google.com/?cid=10808853623419043392&hl=ja
+    address: 岐阜県養老郡養老町押越1522-1
+    price: 1530
+    lat: 35.2982054
+    lng: 136.5576723
+    type: 温泉
+-
+    id: 87
+    name: 天満湯
+    url: http://1010gifu.com/map/tenmayu/
+    map: https://maps.google.com/?cid=14565349482499218036&hl=ja
+    address: 岐阜県高山市天満町2-77
+    price: 460
+    lat: 36.1359588
+    lng: 137.2544073
+    type: 銭湯
+-
+    id: 88
+    name: 蛭川福祉センター やすらぎ荘
+    url: 
+    map: https://maps.google.com/maps?q=35.514178,137.397663
+    address: 岐阜県中津川市蛭川4862-1
+    price: 300
+    lat: 35.514122
+    lng: 137.3978265
+    type: 温泉
+-
+    id: 89
+    name: 北方温泉
+    url: http://1010gifu.com/map/kitagataonsen/
+    map: https://maps.google.com/?cid=9299615675140448188&hl=ja
+    address: 岐阜県本巣郡北方町北方1585
+    price: 460
+    lat: 35.4376548
+    lng: 136.6958899
+    type: 銭湯
+-
+    id: 90
+    name: いずみ湯
+    url: http://1010gifu.com/map/izumiyu/
+    map: https://maps.google.com/?cid=3371195850369946129&hl=ja
+    address: 岐阜県大垣市久瀬川町3-16-1
+    price: 400
+    lat: 35.3571438
+    lng: 136.6019829
+    type: 銭湯
+-
+    id: 91
+    name: 金太郎湯
+    url: http://1010gifu.com/map/kintaroyu/
+    map: https://maps.google.com/?cid=2169107207173718381&hl=ja
+    address: 岐阜県岐阜市永楽町1-25
+    price: 460
+    lat: 35.4188218
+    lng: 136.7779128
+    type: 銭湯
+-
+    id: 92
+    name: 湯の花温泉
+    url: http://1010gifu.com/map/yunohana/
+    map: https://maps.google.com/?cid=111966269586854942&hl=ja
+    address: 岐阜県大垣市桐ケ崎町28
+    price: 400
+    lat: 35.3646403
+    lng: 136.6136998
+    type: 銭湯

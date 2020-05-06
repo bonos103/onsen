@@ -1,0 +1,341 @@
+---
+-
+    id: 1
+    name: 徳島天然温泉 あらたえの湯
+    url: http://aratae.jp/
+    map: https://maps.google.com/?cid=11632940820550419289&hl=ja
+    address: 徳島県徳島市南田宮1-2-8
+    price: 700
+    lat: 34.0859307
+    lng: 134.5468093
+    type: 温泉
+-
+    id: 2
+    name: 天然温泉 吉野川温泉
+    url: https://itp.ne.jp/info/360775375400000899/
+    map: https://maps.google.com/?cid=8315975412675722754&hl=ja
+    address: 徳島県板野郡上板町椎本字四宮西388
+    price: 400
+    lat: 34.1200711
+    lng: 134.4325621
+    type: 銭湯
+-
+    id: 3
+    name: 天然温泉 御所の郷
+    url: https://goshonosato.com/
+    map: https://maps.google.com/?cid=8682952743099541892&hl=ja
+    address: 徳島県阿波市土成町吉田字梨木原1
+    price: 600
+    lat: 34.1238346
+    lng: 134.3536584
+    type: 温泉
+-
+    id: 4
+    name: えびすの湯
+    url: http://www.ebisunoyu.com/
+    map: https://maps.google.com/?cid=17508840288344796145&hl=ja
+    address: 徳島県徳島市論田町新開66-96
+    price: 700
+    lat: 34.0363205
+    lng: 134.5778905
+    type: 温泉
+-
+    id: 5
+    name: あいあい温泉
+    url: http://www.aiaionsen.co.jp/
+    map: https://maps.google.com/?cid=13705522813716660973&hl=ja
+    address: 徳島県徳島市川内町平石若宮185-1
+    price: 600
+    lat: 34.1049661
+    lng: 134.5874843
+    type: 温泉
+-
+    id: 6
+    name: 鳴門天然温泉 あらたえの湯
+    url: http://aratae.jp/naruto/
+    map: https://maps.google.com/?cid=15962405062057617160&hl=ja
+    address: 徳島県鳴門市撫養町大桑島字北ノ浜8番2
+    price: 650
+    lat: 34.1909341
+    lng: 134.6080607
+    type: 温泉
+-
+    id: 7
+    name: 四季美谷温泉
+    url: http://shikibidani-onsen.com/
+    map: https://maps.google.com/?cid=4301688699680623241&hl=ja
+    address: 徳島県那賀郡那賀町横谷字夏切3-3
+    price: 600
+    lat: 33.8630203
+    lng: 134.2511138
+    type: 温泉
+-
+    id: 8
+    name: かもだ岬温泉保養センター
+    url: http://wwwd.pikara.ne.jp/kamodamisaki/
+    map: https://maps.google.com/?cid=6334755996716265081&hl=ja
+    address: 徳島県阿南市椿町船瀬60-2
+    price: 600
+    lat: 33.8317509
+    lng: 134.7266309
+    type: 温泉
+-
+    id: 9
+    name: あせび温泉 やすらぎの郷
+    url: http://www.town.itano.tokushima.jp/asebi_onsen.html
+    map: https://maps.google.com/?cid=12516652978399351226&hl=ja
+    address: 徳島県板野郡板野町大坂字椋木原30-1
+    price: 500
+    lat: 34.1665488
+    lng: 134.4572149
+    type: 温泉
+-
+    id: 10
+    name: ブルーヴィラあなぶき
+    url: https://bv-anabuki.jp/
+    map: https://maps.google.com/?cid=2819259542367715981&hl=ja
+    address: 徳島県美馬市穴吹町口山字丸山1
+    price: 600
+    lat: 34.0228134
+    lng: 134.1505995
+    type: 温泉
+-
+    id: 11
+    name: 湯処あらたえ(小松島店)
+    url: http://aratae.jp/komatsushima/
+    map: https://maps.google.com/?cid=11965452713521912631&hl=ja
+    address: 徳島県小松島市立江町黒岩13-1
+    price: 600
+    lat: 33.9766427
+    lng: 134.6055924
+    type: 温泉
+-
+    id: 12
+    name: 元町湯
+    url: 
+    map: https://maps.google.com/?cid=16879941751135774436&hl=ja
+    address: 徳島県徳島市佐古八番町7-8
+    price: 400
+    lat: 34.07878230000001
+    lng: 134.5205665
+    type: 銭湯
+-
+    id: 13
+    name: 乙女の湯 八万温泉
+    url: http://www.hachimanonsen.com/
+    map: https://maps.google.com/?cid=8445825928091062820&hl=ja
+    address: 徳島県徳島市八万町下長谷258
+    price: 500
+    lat: 34.0451072
+    lng: 134.5174901
+    type: 温泉
+-
+    id: 14
+    name: 昭和湯
+    url: 
+    map: https://maps.google.com/?cid=4866416339974598006&hl=ja
+    address: 徳島県徳島市津田本町3-3-23
+    price: 400
+    lat: 34.0474491
+    lng: 134.5787282
+    type: 銭湯
+-
+    id: 15
+    name: 鴨島温泉 鴨の湯
+    url: https://www.awanavi.jp/spot/21298.html
+    map: https://maps.google.com/?cid=255095250035263744&hl=ja
+    address: 徳島県吉野川市鴨島町飯尾415-1
+    price: 500
+    lat: 34.063051
+    lng: 134.3615332
+    type: 温泉
+-
+    id: 16
+    name: 阿波土柱の湯
+    url: http://www.dochunoyu.com/index.html
+    map: https://maps.google.com/?cid=3255221321626240665&hl=ja
+    address: 徳島県阿波市阿波町北正広213
+    price: 500
+    lat: 34.0941552
+    lng: 134.2117374
+    type: 温泉
+-
+    id: 17
+    name: 吉野川ハイウェイオアシス 美濃田の湯
+    url: http://www.yoshinogawa-oasis.com/facilities/fureai/minodanoyu/minodanoyu_menu/
+    map: https://maps.google.com/?cid=10722937023607676433&hl=ja
+    address: 徳島県三好郡東みよし町足代1650
+    price: 600
+    lat: 34.0367506
+    lng: 133.8914203
+    type: 温泉
+-
+    id: 18
+    name: 湯あそびひろば 川内温泉
+    url: 
+    map: https://maps.google.com/?cid=8282189108400161498&hl=ja
+    address: 徳島県徳島市川内町旭野365-1
+    price: 400
+    lat: 34.0846719
+    lng: 134.6007292
+    type: 共同浴場・銭湯
+-
+    id: 19
+    name: 湯あそびひろば 大和の郷
+    url: http://www.a-rgh.co.jp/hot_spring
+    map: https://maps.google.com/?cid=964782016492978113&hl=ja
+    address: 徳島県阿南市富岡町あ王谷53-1
+    price: 500
+    lat: 33.9162316
+    lng: 134.655311
+    type: 温泉
+-
+    id: 20
+    name: わじき温泉
+    url: https://wajiki.exblog.jp/
+    map: https://maps.google.com/?cid=12027676299270859469&hl=ja
+    address: 徳島県那賀郡那賀町百合松ノ木310-1
+    price: 350
+    lat: 33.8385574
+    lng: 134.4960953
+    type: 温泉
+-
+    id: 21
+    name: 剣山木綿麻温泉
+    url: https://www.town.tokushima-tsurugi.lg.jp/docs/3467.html
+    map: https://maps.google.com/?cid=16546016147432366944&hl=ja
+    address: 徳島県美馬郡つるぎ町貞光字長瀬127-2
+    price: 400
+    lat: 34.000802
+    lng: 134.0843325
+    type: 温泉
+-
+    id: 22
+    name: ことぶき温泉
+    url: 
+    map: https://maps.google.com/?cid=10731062006850362186&hl=ja
+    address: 徳島県徳島市安宅1-3-24
+    price: 300
+    lat: 34.0691909
+    lng: 134.5701445
+    type: 銭湯
+-
+    id: 23
+    name: ふれあい紅葉センター 紅葉温泉
+    url: http://miyoshicity-shakyo.jp/fureai/
+    map: https://maps.google.com/?cid=6221093281783692358&hl=ja
+    address: 徳島県三好市三野町加茂野宮1467-1
+    price: 510
+    lat: 34.0578918
+    lng: 133.9881955
+    type: 温泉
+-
+    id: 24
+    name: 新町温泉
+    url: https://www.pikara.net/spot/details.php?id=3726
+    map: https://maps.google.com/?cid=1761382905524008490&hl=ja
+    address: 徳島県徳島市東大工町2-28-2
+    price: 400
+    lat: 34.068634
+    lng: 134.54657
+    type: 共同浴場・銭湯
+-
+    id: 25
+    name: 薬王寺温泉 湯元 醫王の湯
+    url: https://yakuouji.net/yakuohji-spa
+    map: https://maps.google.com/?cid=14207084500196356827&hl=ja
+    address: 徳島県海部郡美波町奥河内寺前248
+    price: 600
+    lat: 33.7314645
+    lng: 134.5284778
+    type: 温泉
+-
+    id: 26
+    name: つるぎの湯 大桜
+    url: http://www.city.mima.lg.jp/kankou/kankouannai/tomaru/0007.html
+    map: https://maps.google.com/?cid=1976015183882862541&hl=ja
+    address: 徳島県美馬市木屋平川井270
+    price: 500
+    lat: 33.9328464
+    lng: 134.2134471
+    type: 温泉
+-
+    id: 27
+    name: 日の峰温泉
+    url: 
+    map: https://maps.google.com/?cid=14280369207660084113&hl=ja
+    address: 徳島県小松島市小松島町字北浜49-1
+    price: 400
+    lat: 34.013233
+    lng: 134.5853541
+    type: 銭湯
+-
+    id: 28
+    name: 安宅温泉
+    url: 
+    map: https://maps.google.com/?cid=6399992788287007384&hl=ja
+    address: 徳島県徳島市安宅1-6-38
+    price: 400
+    lat: 34.07037930000001
+    lng: 134.5709293
+    type: 銭湯
+-
+    id: 29
+    name: 吉の温泉
+    url: 
+    map: https://maps.google.com/?cid=7247637985529623911&hl=ja
+    address: 徳島県徳島市北前川町4-8-5
+    price: 400
+    lat: 34.0811927
+    lng: 134.5497849
+    type: 銭湯
+-
+    id: 30
+    name: 東浜温泉
+    url: 
+    map: https://maps.google.com/?cid=7196585569011514194&hl=ja
+    address: 徳島県鳴門市撫養町南浜字東浜403
+    price: 400
+    lat: 34.1735694
+    lng: 134.6066027
+    type: 銭湯
+-
+    id: 31
+    name: 池田温泉
+    url: https://public-ikedaonsenn.business.site
+    map: https://maps.google.com/?cid=8497100972690215475&hl=ja
+    address: 徳島県三好市池田町マチ2178-22
+    price: 400
+    lat: 34.0284899
+    lng: 133.8052334
+    type: 銭湯
+-
+    id: 32
+    name: 稲荷湯
+    url: 
+    map: https://maps.google.com/maps?q=34.013463,134.574574
+    address: 徳島県小松島市中郷町字桜馬場72-1
+    price: 400
+    lat: 34.0134193
+    lng: 134.5745558
+    type: 銭湯
+-
+    id: 33
+    name: 清光湯
+    url: https://www.pikara.net/spot/details.php?id=3735
+    map: https://maps.google.com/maps?q=33.942337,134.622467
+    address: 徳島県阿南市羽ノ浦町古庄大道ノ西13
+    price: 350
+    lat: 33.9419795
+    lng: 134.6224344
+    type: 銭湯
+-
+    id: 34
+    name: 大和湯
+    url: 
+    map: https://maps.google.com/maps?q=34.049138,134.579886
+    address: 徳島県徳島市津田町2-26
+    price: 400
+    lat: 34.0703652
+    lng: 134.5549537
+    type: 銭湯

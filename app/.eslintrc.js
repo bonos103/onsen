@@ -13,5 +13,7 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    'comma-dangle': ['error', 'always-multiline'],
+    'space-before-function-paren': [2, 'never'],
   }
 }

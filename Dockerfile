@@ -10,3 +10,4 @@ COPY ./app/yarn.lock ./
 
 RUN yarn
 
+RUN yarn build

@@ -1,0 +1,1301 @@
+---
+-
+    id: 1
+    name: 照葉スパリゾート
+    url: http://terihaspa.jp/
+    map: https://maps.google.com/?cid=16048725080058119906&hl=ja
+    address: 福岡県福岡市東区香椎照葉5-2-15
+    price: 1800
+    lat: 33.665795
+    lng: 130.4164868
+    type: 温泉
+-
+    id: 2
+    name: 天然温泉 天神ゆの華
+    url: http://www.tenjin-yunohana.jp/
+    map: https://maps.google.com/?cid=15468023944722645633&hl=ja
+    address: 福岡県福岡市中央区長浜1-4-55
+    price: 850
+    lat: 33.5947533
+    lng: 130.3923053
+    type: 温泉
+-
+    id: 3
+    name: 源泉野天風呂 那珂川清滝
+    url: http://www.nakagawaseiryu.jp/
+    map: https://maps.google.com/?cid=2587760031307471090&hl=ja
+    address: 福岡県筑紫郡那珂川町南面里326
+    price: 1400
+    lat: 33.4726172
+    lng: 130.4140327
+    type: 温泉
+-
+    id: 4
+    name: みなと温泉 波葉の湯
+    url: http://www.namiha.jp/
+    map: https://maps.google.com/?cid=7354804000981347588&hl=ja
+    address: 福岡県福岡市博多区築港本町13-1
+    price: 900
+    lat: 33.60373
+    lng: 130.3981109
+    type: 温泉
+-
+    id: 5
+    name: 博多 由布院・武雄温泉 万葉の湯
+    url: https://www.manyo.co.jp/hakata/
+    map: https://maps.google.com/?cid=2534356277287479348&hl=ja
+    address: 福岡県福岡市博多区豊2-3-66
+    price: 1980
+    lat: 33.5980897
+    lng: 130.4342036
+    type: 温泉
+-
+    id: 6
+    name: 博多の森 湯処 月の湯
+    url: http://www.tsukino-yu.com/
+    map: https://maps.google.com/?cid=3548339278090521528&hl=ja
+    address: 福岡県福岡市博多区東平尾1-4-35
+    price: 720
+    lat: 33.5883366
+    lng: 130.4550081
+    type: 温泉
+-
+    id: 7
+    name: 宗像王丸 天然温泉 やまつばさ
+    url: http://www.yamatsubasa.jp/
+    map: https://maps.google.com/?cid=3448543585574209535&hl=ja
+    address: 福岡県宗像市王丸474
+    price: 1150
+    lat: 33.782356
+    lng: 130.5467169
+    type: 温泉
+-
+    id: 8
+    name: 筑紫野 天拝の郷
+    url: https://tenpainosato.com/
+    map: https://maps.google.com/?cid=15419431521418940303&hl=ja
+    address: 福岡県筑紫野市天拝坂2-4-3
+    price: 750
+    lat: 33.4889041
+    lng: 130.4972908
+    type: 温泉
+-
+    id: 9
+    name: 筑紫野温泉 アマンディ
+    url: https://www.amandi.jp/index2.html
+    map: https://maps.google.com/?cid=9700539435163361154&hl=ja
+    address: 福岡県筑紫野市原田832-1
+    price: 800
+    lat: 33.439702
+    lng: 130.5358416
+    type: 温泉
+-
+    id: 10
+    name: カルナパーク 花立山温泉
+    url: http://www.hanatateyama.jp/net/
+    map: https://maps.google.com/?cid=8505868021423973168&hl=ja
+    address: 福岡県朝倉郡筑前町上高場795
+    price: 860
+    lat: 33.4347618
+    lng: 130.612708
+    type: 温泉
+-
+    id: 11
+    name: ふくの湯(早良店)
+    url: http://www.fukunoyu.com/sawara/
+    map: https://maps.google.com/?cid=13802175392949312100&hl=ja
+    address: 福岡県福岡市早良区小田部5-22-16
+    price: 750
+    lat: 33.5692788
+    lng: 130.3288992
+    type: 温泉
+-
+    id: 12
+    name: 伊都の湯どころ
+    url: http://genki-ito.jp/
+    map: https://maps.google.com/?cid=1809479867063261918&hl=ja
+    address: 福岡県糸島市泊かつらぎ765
+    price: 620
+    lat: 33.5859419
+    lng: 130.2133828
+    type: 温泉
+-
+    id: 13
+    name: ふくの湯(春日店)
+    url: http://www.fukunoyu.com/kasuga/
+    map: https://maps.google.com/?cid=9489475177424940807&hl=ja
+    address: 福岡県春日市下白水南1-147
+    price: 750
+    lat: 33.5256096
+    lng: 130.4439137
+    type: 温泉
+-
+    id: 14
+    name: 湯の坂 久留米温泉
+    url: http://www.kurume-onsen.com/
+    map: https://maps.google.com/?cid=17301970214843314909&hl=ja
+    address: 福岡県久留米市野中町湯の坂1235
+    price: 1500
+    lat: 33.309292
+    lng: 130.530012
+    type: 温泉
+-
+    id: 15
+    name: 二日市温泉 博多湯
+    url: http://hakatayu.jp/
+    map: https://maps.google.com/?cid=5541249525419418960&hl=ja
+    address: 福岡県筑紫野市湯町1-14-5
+    price: 300
+    lat: 33.49143610000001
+    lng: 130.51492
+    type: 共同浴場・銭湯
+-
+    id: 16
+    name: 源泉掛け流し温泉 久留米 游心の湯
+    url: https://yushin-yu.com/
+    map: https://maps.google.com/?cid=12170792682974365129&hl=ja
+    address: 福岡県久留米市本山1-7-10
+    price: 780
+    lat: 33.2854522
+    lng: 130.5169183
+    type: 温泉
+-
+    id: 17
+    name: ほうじょう温泉 ふじ湯の里
+    url: http://www.fujiyunosato.com/yokujyou.html
+    map: https://maps.google.com/?cid=10942868946351000079&hl=ja
+    address: 福岡県田川郡福智町弁城1300-1
+    price: 600
+    lat: 33.703089
+    lng: 130.7890832
+    type: 温泉
+-
+    id: 18
+    name: 照葉スパリゾート(門司店)
+    url: http://terihaspa.jp/moji/index.html
+    map: https://maps.google.com/?cid=10283475298988853252&hl=ja
+    address: 福岡県北九州市門司区大里本町3-13-26
+    price: 890
+    lat: 33.9027148
+    lng: 130.926576
+    type: 温泉
+-
+    id: 19
+    name: 本城天然温泉 おとぎの杜
+    url: https://otogi-mori.com
+    map: https://maps.google.com/?cid=11283047770748361163&hl=ja
+    address: 福岡県北九州市八幡西区御開1-19-1
+    price: 880
+    lat: 33.8858586
+    lng: 130.7319489
+    type: 温泉
+-
+    id: 20
+    name: 福岡日帰りの旅 まむしの湯
+    url: http://www.mamushi-spa.co.jp/
+    map: https://maps.google.com/?cid=7780059382119487548&hl=ja
+    address: 福岡県糸島市二丈吉井2380-1
+    price: 670
+    lat: 33.4894986
+    lng: 130.0749147
+    type: 温泉
+-
+    id: 21
+    name: 鶴亀湯
+    url: http://fukuoka1010.com/fukuoka/tsurukameyu/
+    map: https://maps.google.com/?cid=13592632206689347742&hl=ja
+    address: 福岡県福岡市博多区住吉2-13-9
+    price: 450
+    lat: 33.5864813
+    lng: 130.411892
+    type: 銭湯
+-
+    id: 22
+    name: 道の駅おおとう 桜街道さくら館
+    url: http://www.town.oto.fukuoka.jp/info/prev.asp?fol_id=1747
+    map: https://maps.google.com/?cid=11988106521455121657&hl=ja
+    address: 福岡県田川郡大任町今任原1339
+    price: 600
+    lat: 33.6263548
+    lng: 130.8452261
+    type: 温泉
+-
+    id: 23
+    name: 八女市健康増進施設 べんがら村
+    url: http://www.bengalamura.com/
+    map: https://maps.google.com/?cid=9290461785538213345&hl=ja
+    address: 福岡県八女市宮野100
+    price: 600
+    lat: 33.2027326
+    lng: 130.5663859
+    type: 温泉
+-
+    id: 24
+    name: 川の駅 船小屋 恋ぼたる温泉館
+    url: http://koibotaru.com/
+    map: https://maps.google.com/?cid=1050054045518746789&hl=ja
+    address: 福岡県筑後市尾島298-2
+    price: 500
+    lat: 33.1830016
+    lng: 130.5026935
+    type: 温泉
+-
+    id: 25
+    name: 小倉コロナワールド コロナの湯
+    url: http://www.korona.co.jp/Onsen/kok/index.asp
+    map: https://maps.google.com/?cid=13175873298611749232&hl=ja
+    address: 福岡県北九州市小倉北区西港町27-5
+    price: 750
+    lat: 33.8966458
+    lng: 130.8581505
+    type: 温泉
+-
+    id: 26
+    name: 天然の湯 あおき温泉
+    url: 
+    map: https://maps.google.com/?cid=6979120765321776985&hl=ja
+    address: 福岡県久留米市城島町上青木366-1
+    price: 500
+    lat: 33.239424
+    lng: 130.411098
+    type: 温泉
+-
+    id: 27
+    name: 伊川温泉 こうの湯温泉
+    url: http://www.kankou-iizuka.jp/homepage/?id=10053
+    map: https://maps.google.com/?cid=5574993546302724830&hl=ja
+    address: 福岡県飯塚市伊川82-33
+    price: 700
+    lat: 33.6470532
+    lng: 130.6459878
+    type: 温泉
+-
+    id: 28
+    name: ふくの湯(花畑店)
+    url: http://www.fukunoyu.com/hanahata/
+    map: https://maps.google.com/?cid=12723143342300553801&hl=ja
+    address: 福岡県福岡市南区花畑4-12-3
+    price: 750
+    lat: 33.5363191
+    lng: 130.399706
+    type: 温泉
+-
+    id: 29
+    name: 大川温泉 貴肌美人 緑の湯
+    url: http://www.okawaonsen.com/
+    map: https://maps.google.com/?cid=13656255694902668572&hl=ja
+    address: 福岡県大川市中八院241-1
+    price: 600
+    lat: 33.2200883
+    lng: 130.4155131
+    type: 温泉
+-
+    id: 30
+    name: 薬王寺の湯 偕楽荘
+    url: http://www5a.biglobe.ne.jp/~onsen/
+    map: https://maps.google.com/?cid=1467763051665840350&hl=ja
+    address: 福岡県古賀市薬王寺381
+    price: 800
+    lat: 33.7145449
+    lng: 130.5178189
+    type: 温泉
+-
+    id: 31
+    name: 二丈温泉 きららの湯
+    url: https://www.kiraranoyu.jp/
+    map: https://maps.google.com/?cid=17198537391746619941&hl=ja
+    address: 福岡県糸島市二丈深江598-1
+    price: 660
+    lat: 33.5199688
+    lng: 130.139634
+    type: 温泉
+-
+    id: 32
+    name: 美奈宜の杜温泉 みなぎの湯
+    url: https://www.minaginoyu.jp/
+    map: https://maps.google.com/?cid=7185924405305270262&hl=ja
+    address: 福岡県朝倉市美奈宜の杜3-1-6
+    price: 700
+    lat: 33.428175
+    lng: 130.7122587
+    type: 温泉
+-
+    id: 33
+    name: 都久志の湯
+    url: http://tsukushinoyu.com/
+    map: https://maps.google.com/?cid=5326171394240542108&hl=ja
+    address: 福岡県太宰府市内山1128
+    price: 600
+    lat: 33.5242149
+    lng: 130.5529821
+    type: 温泉
+-
+    id: 34
+    name: 若杉の湯
+    url: http://wakasuginoyu.com/
+    map: https://maps.google.com/?cid=17331634306681959798&hl=ja
+    address: 福岡県糟屋郡篠栗町若杉679
+    price: 800
+    lat: 33.6070782
+    lng: 130.5290294
+    type: 温泉
+-
+    id: 35
+    name: 本庄湯
+    url: http://fukuoka1010.com/fukuoka/honjyouyu/
+    map: https://maps.google.com/?cid=11557776334419068109&hl=ja
+    address: 福岡県福岡市中央区今泉1-3-10
+    price: 450
+    lat: 33.5843012
+    lng: 130.3999211
+    type: 銭湯
+-
+    id: 36
+    name: 大川昇開橋温泉
+    url: http://www.shokaikyo.com/
+    map: https://maps.google.com/?cid=15648886243209328735&hl=ja
+    address: 福岡県大川市向島五ノ割2526-1
+    price: 600
+    lat: 33.21297120000001
+    lng: 130.3636783
+    type: 温泉
+-
+    id: 37
+    name: 朝倉市健康福祉館 卑弥呼ロマンの湯
+    url: http://www.city.asakura.lg.jp/www/contents/1363595497948/
+    map: https://maps.google.com/?cid=11191894772654928329&hl=ja
+    address: 福岡県朝倉市甘木198-1
+    price: 420
+    lat: 33.4159625
+    lng: 130.6599843
+    type: 温泉
+-
+    id: 38
+    name: 赤村ふるさとセンター 源じいの森温泉
+    url: http://www.genjii.com/
+    map: https://maps.google.com/?cid=2939190804910542004&hl=ja
+    address: 福岡県田川郡赤村赤5251-3
+    price: 600
+    lat: 33.6151052
+    lng: 130.894707
+    type: 温泉
+-
+    id: 39
+    name: 家族湯 いづみ乃湯
+    url: http://www.izuminoyu.com/
+    map: https://maps.google.com/?cid=15538976350885431489&hl=ja
+    address: 福岡県久留米市新合川1-6-30
+    price: 1800
+    lat: 33.3220924
+    lng: 130.541796
+    type: 温泉
+-
+    id: 40
+    name: 楽天の湯
+    url: http://rakutennoyu.jp/
+    map: https://maps.google.com/?cid=5982250086086688252&hl=ja
+    address: 福岡県福岡市南区西長住3-9-5
+    price: 520
+    lat: 33.5444192
+    lng: 130.3900248
+    type: 温泉
+-
+    id: 41
+    name: パビリオ 日明の湯
+    url: http://www.pavilio.jp/hiagari.html
+    map: https://maps.google.com/?cid=10957893074802240832&hl=ja
+    address: 福岡県北九州市小倉北区日明3-4-28
+    price: 750
+    lat: 33.8922239
+    lng: 130.8557767
+    type: 温泉
+-
+    id: 42
+    name: パビリオ陣原の湯
+    url: http://www.pavilio.jp/jinnoharu.html
+    map: https://maps.google.com/?cid=6087267159793838431&hl=ja
+    address: 福岡県北九州市八幡西区陣原1-2-16
+    price: 750
+    lat: 33.8671319
+    lng: 130.7445868
+    type: 温泉
+-
+    id: 43
+    name: 八幡天然温泉 シーサイドスパ
+    url: http://www.souyu.co.jp/seaside/
+    map: https://maps.google.com/?cid=12189058639751305557&hl=ja
+    address: 福岡県北九州市八幡東区東田5-2-7
+    price: 680
+    lat: 33.8777666
+    lng: 130.8089041
+    type: 温泉
+-
+    id: 44
+    name: 湯の迫温泉 太平樂
+    url: https://koge-burari.com/facility/spa.html
+    map: https://maps.google.com/?cid=4549294957137424428&hl=ja
+    address: 福岡県築上郡上毛町下唐原1625
+    price: 600
+    lat: 33.5631524
+    lng: 131.1753945
+    type: 温泉
+-
+    id: 45
+    name: パビリオ曽根の湯
+    url: http://www.pavilio.jp/sone.html
+    map: https://maps.google.com/?cid=1276700238753901283&hl=ja
+    address: 福岡県北九州市小倉南区東貫1-5-30
+    price: 650
+    lat: 33.8221777
+    lng: 130.9344644
+    type: 温泉
+-
+    id: 46
+    name: 筑紫の湯
+    url: https://www.chikushinosato.co.jp/onsen/
+    map: https://maps.google.com/?cid=5350225320890736565&hl=ja
+    address: 福岡県筑紫野市筑紫973
+    price: 650
+    lat: 33.4577073
+    lng: 130.5363838
+    type: 温泉
+-
+    id: 47
+    name: 家族温泉 華の湯
+    url: http://www013.upp.so-net.ne.jp/hananoyu/index4.htm
+    map: https://maps.google.com/?cid=2715088335557160248&hl=ja
+    address: 福岡県大野城市上大利4-12-24
+    price: 1600
+    lat: 33.5132244
+    lng: 130.482957
+    type: 温泉
+-
+    id: 48
+    name: 小郡市総合保健福祉センター あすてらす 満天の湯
+    url: https://www.city.ogori.fukuoka.jp/202/207/864
+    map: https://maps.google.com/?cid=1113943668205635120&hl=ja
+    address: 福岡県小郡市二森1167-1
+    price: 530
+    lat: 33.3815125
+    lng: 130.5590392
+    type: 温泉
+-
+    id: 49
+    name: 北野温泉 ほっこりの湯
+    url: 
+    map: https://maps.google.com/?cid=2024166763555275828&hl=ja
+    address: 福岡県久留米市北野町大城897-1
+    price: 700
+    lat: 33.3394097
+    lng: 130.6183473
+    type: 温泉
+-
+    id: 50
+    name: 荒戸湯
+    url: http://fukuoka1010.com/fukuoka/aratoyu/
+    map: https://maps.google.com/?cid=3075084852541232260&hl=ja
+    address: 福岡県福岡市中央区荒戸3-10-6
+    price: 450
+    lat: 33.5912901
+    lng: 130.3732995
+    type: 銭湯
+-
+    id: 51
+    name: ふるさと交流館 日王の湯
+    url: http://hinounoyu.com/
+    map: https://maps.google.com/?cid=4024145054789513905&hl=ja
+    address: 福岡県田川郡福智町神崎1056-30
+    price: 600
+    lat: 33.6741857
+    lng: 130.7569543
+    type: 温泉
+-
+    id: 52
+    name: 篠栗町総合保健福祉センター オアシス篠栗
+    url: http://www.oasis-sasaguri.com/
+    map: https://maps.google.com/?cid=8258659845370394200&hl=ja
+    address: 福岡県糟屋郡篠栗町田中1-1
+    price: 330
+    lat: 33.6259658
+    lng: 130.5247161
+    type: 温泉
+-
+    id: 53
+    name: 大牟田天然温泉 最高の湯
+    url: https://saikonoyu.com
+    map: https://maps.google.com/?cid=3281150754578919270&hl=ja
+    address: 福岡県大牟田市新勝立町6-37
+    price: 800
+    lat: 33.013045
+    lng: 130.4682616
+    type: 温泉
+-
+    id: 54
+    name: 二日市温泉 御前湯
+    url: https://www.city.chikushino.fukuoka.jp/soumubu/kanzai/gozenyu/gozennoyu.html
+    map: https://maps.google.com/?cid=1938837191975057392&hl=ja
+    address: 福岡県筑紫野市湯町2-4-12
+    price: 250
+    lat: 33.491421
+    lng: 130.5153771
+    type: 共同浴場・銭湯
+-
+    id: 55
+    name: 天然温泉 いずみの湯
+    url: 
+    map: https://maps.google.com/?cid=13184729722133642765&hl=ja
+    address: 福岡県行橋市北泉5-13-15
+    price: 550
+    lat: 33.7088712
+    lng: 130.9948426
+    type: 温泉
+-
+    id: 56
+    name: 豊前温泉 天狗の湯
+    url: http://www.city.buzen.lg.jp/kanko/tomaru/tengu.html
+    map: https://maps.google.com/?cid=13836444367551122659&hl=ja
+    address: 福岡県豊前市八屋1725-1
+    price: 440
+    lat: 33.614121
+    lng: 131.1240534
+    type: 温泉
+-
+    id: 57
+    name: 千石湯
+    url: http://fukuoka1010.com/fukuoka/sengokuyu/
+    map: https://maps.google.com/?cid=13407269783622522785&hl=ja
+    address: 福岡県福岡市博多区博多駅南3-18-14
+    price: 450
+    lat: 33.5791851
+    lng: 130.4240157
+    type: 銭湯
+-
+    id: 58
+    name: 天然温泉 ゆのそ 献上の湯
+    url: https://www.crossroadfukuoka.jp/jp/event/?mode=detail&id=400000005750&isSpot=1?mode=detail&id=400000005750&isSpot=1&lang=jp
+    map: https://maps.google.com/?cid=2975935676861168201&hl=ja
+    address: 福岡県久留米市上津町2228-1668
+    price: 500
+    lat: 33.2633223
+    lng: 130.5347795
+    type: 温泉
+-
+    id: 59
+    name: 天然アルカリ性泉 松原温泉
+    url: http://tagawa-net.jp/s/spot/%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89-%E6%9D%BE%E5%8E%9F%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=12917466103626457972&hl=ja
+    address: 福岡県田川市伊田5030-1
+    price: 550
+    lat: 33.64965610000001
+    lng: 130.8084231
+    type: 温泉
+-
+    id: 60
+    name: 都湯
+    url: http://fukuoka1010.com/fukuoka/miyakoyu/
+    map: https://maps.google.com/?cid=8934756396657795734&hl=ja
+    address: 福岡県福岡市中央区春吉3-15-19
+    price: 450
+    lat: 33.5884233
+    lng: 130.4065609
+    type: 銭湯
+-
+    id: 61
+    name: 華の湯ヒブラン
+    url: https://hananoyu-hiburan.com/
+    map: https://maps.google.com/?cid=1492548990934517487&hl=ja
+    address: 福岡県北九州市小倉北区馬借1-9-8
+    price: 930
+    lat: 33.8805688
+    lng: 130.8774388
+    type: 温泉
+-
+    id: 62
+    name: 長尾湯
+    url: http://fukuoka1010.com/fukuoka/nagaoyu/
+    map: https://maps.google.com/?cid=18321406500517299137&hl=ja
+    address: 福岡県福岡市城南区長尾1-14-11
+    price: 450
+    lat: 33.55884890000001
+    lng: 130.3790639
+    type: 銭湯
+-
+    id: 63
+    name: 林田温泉 ゆのやまの湯
+    url: https://www.facebook.com/yunoyama
+    map: https://maps.google.com/?cid=3520238017790200460&hl=ja
+    address: 福岡県朝倉市杷木林田1134-8
+    price: 500
+    lat: 33.3641424
+    lng: 130.8264733
+    type: 温泉
+-
+    id: 64
+    name: ふるさと交流館 なつきの湯
+    url: http://www.e-kama.net/area/ふるさと交流館-なつきの湯/
+    map: https://maps.google.com/?cid=16773749394506745062&hl=ja
+    address: 福岡県嘉麻市鴨生24
+    price: 310
+    lat: 33.6032183
+    lng: 130.7350458
+    type: 温泉
+-
+    id: 65
+    name: 星の温泉館 きらら
+    url: http://www.hoshinomura-ikenoyama.com/page1
+    map: https://maps.google.com/?cid=15067788569745924779&hl=ja
+    address: 福岡県八女市星野村10870-58
+    price: 520
+    lat: 33.2454003
+    lng: 130.7567568
+    type: 温泉
+-
+    id: 66
+    name: 遠賀川温泉
+    url: http://www.ongagawa.net/
+    map: https://maps.google.com/?cid=3308241937158165293&hl=ja
+    address: 福岡県遠賀郡遠賀町浅木61-1
+    price: 700
+    lat: 33.8337345
+    lng: 130.6818048
+    type: 温泉
+-
+    id: 67
+    name: 天然温泉 大木の湯 アクアス
+    url: http://www.aqus.jp/
+    map: https://maps.google.com/?cid=1295647789546081277&hl=ja
+    address: 福岡県三潴郡大木町八町牟田538-1
+    price: 600
+    lat: 33.2121513
+    lng: 130.4435954
+    type: 温泉
+-
+    id: 68
+    name: 潮湯の里 夕陽館
+    url: https://yuuhican.com/
+    map: https://maps.google.com/?cid=10787024290731222010&hl=ja
+    address: 福岡県福津市津屋崎1-37-17
+    price: 500
+    lat: 33.784555
+    lng: 130.4672672
+    type: 温泉
+-
+    id: 69
+    name: 西公園浴場
+    url: http://fukuoka1010.com/fukuoka/nishikouen/
+    map: https://maps.google.com/?cid=11052431893153086947&hl=ja
+    address: 福岡県福岡市中央区西公園6-21
+    price: 450
+    lat: 33.5946198
+    lng: 130.3764669
+    type: 銭湯
+-
+    id: 70
+    name: 家族風呂 山の音
+    url: http://www.kaiseikan.net/info.htm
+    map: https://maps.google.com/?cid=17976685927331668223&hl=ja
+    address: 福岡県古賀市薬王寺字野添萩尾153
+    price: 2300
+    lat: 33.7180421
+    lng: 130.5152578
+    type: 温泉
+-
+    id: 71
+    name: 天然温泉 慧華乃湯
+    url: 
+    map: https://maps.google.com/?cid=11756383872206251791&hl=ja
+    address: 福岡県久留米市北野町十郎丸2213-1
+    price: 400
+    lat: 33.3417514
+    lng: 130.570612
+    type: 温泉
+-
+    id: 72
+    name: スーパー銭湯 華の湯(片野店)
+    url: http://hananoyu-katano.com/
+    map: https://maps.google.com/?cid=963309391535162319&hl=ja
+    address: 福岡県北九州市小倉北区片野4-1-8
+    price: 590
+    lat: 33.8645572
+    lng: 130.8810642
+    type: 温泉
+-
+    id: 73
+    name: 天然掛け流し温泉 笹の湯
+    url: http://sasanoyu.jp/
+    map: https://maps.google.com/?cid=11545576344936742461&hl=ja
+    address: 福岡県久留米市田主丸町竹野631-1
+    price: 500
+    lat: 33.3361279
+    lng: 130.6635754
+    type: 温泉
+-
+    id: 74
+    name: 柳川総合保健福祉センター 水の郷 柳川温泉 南風
+    url: https://www.city.yanagawa.fukuoka.jp/kanko/onsen/onsen/haenkaze.html
+    map: https://maps.google.com/?cid=2170584069210239368&hl=ja
+    address: 福岡県柳川市上宮永町6-3
+    price: 410
+    lat: 33.1541256
+    lng: 130.4006036
+    type: 温泉
+-
+    id: 75
+    name: 玄竹温泉 鷹取の湯
+    url: https://kankou.chikugolife.jp/kankou/detail/292
+    map: https://maps.google.com/?cid=15922154834182289932&hl=ja
+    address: 福岡県久留米市田主丸町森部86-21
+    price: 500
+    lat: 33.3305347
+    lng: 130.7238877
+    type: 温泉
+-
+    id: 76
+    name: 大黒湯
+    url: http://fukuoka1010.com/fukuoka/daikokuyu-hakata/
+    map: https://maps.google.com/?cid=2553572347268843360&hl=ja
+    address: 福岡県福岡市博多区吉塚2-17-22
+    price: 450
+    lat: 33.602348
+    lng: 130.426318
+    type: 銭湯
+-
+    id: 77
+    name: 博多温泉 元祖元湯
+    url: https://www.88onsen.com/spot/detail/hid/9
+    map: https://maps.google.com/?cid=16790091416079104717&hl=ja
+    address: 福岡県福岡市南区横手3-6-18
+    price: 600
+    lat: 33.5470901
+    lng: 130.4360977
+    type: 温泉
+-
+    id: 78
+    name: 河内純天然水 美人の湯
+    url: http://kawachi-bijinnoyu.jp
+    map: https://maps.google.com/?cid=11834592461520797875&hl=ja
+    address: 福岡県北九州市八幡東区田代4083-1
+    price: 3800
+    lat: 33.8025025
+    lng: 130.791875
+    type: 温泉
+-
+    id: 79
+    name: きく湯
+    url: http://fukuoka1010.com/kitakyu/kikuyu/
+    map: https://maps.google.com/?cid=3298354535550329088&hl=ja
+    address: 福岡県北九州市門司区清見1-6-17
+    price: 450
+    lat: 33.9501567
+    lng: 130.9731971
+    type: 銭湯
+-
+    id: 80
+    name: 甘木観光ホテル 甘木館
+    url: http://www.amagikan.com/
+    map: https://maps.google.com/?cid=18030446551188650539&hl=ja
+    address: 福岡県朝倉市甘木2091
+    price: 840
+    lat: 33.4273129
+    lng: 130.6534226
+    type: 温泉
+-
+    id: 81
+    name: こがね湯
+    url: http://fukuoka1010.com/fukuoka/koganeyu/
+    map: https://maps.google.com/?cid=15679322388139680733&hl=ja
+    address: 福岡県福岡市博多区東雲町1-1-1
+    price: 450
+    lat: 33.54628599999999
+    lng: 130.4651391
+    type: 銭湯
+-
+    id: 82
+    name: ふだん着の温泉 鶴は千年
+    url: https://turuhasennen.com/
+    map: https://maps.google.com/?cid=370414524099797618&hl=ja
+    address: 福岡県うきは市吉井町千年12-1
+    price: 700
+    lat: 33.35026440000001
+    lng: 130.7764665
+    type: 温泉
+-
+    id: 83
+    name: 所田温泉 宮若市社会福祉センター
+    url: http://www.miyawakashakyo.jp/20180312071648
+    map: https://maps.google.com/?cid=1632995625849947465&hl=ja
+    address: 福岡県宮若市宮田4406-1
+    price: 410
+    lat: 33.7251627
+    lng: 130.657883
+    type: 温泉
+-
+    id: 84
+    name: スーパー銭湯 四季の華 小倉南
+    url: http://www.phoenix-japan.or.tv/kokuraminami/
+    map: https://maps.google.com/?cid=5024904549520889234&hl=ja
+    address: 福岡県北九州市小倉南区志井公園1-1
+    price: 520
+    lat: 33.8190914
+    lng: 130.8806237
+    type: 温泉
+-
+    id: 85
+    name: 豊前市老人福祉センター 汐湯の里
+    url: http://www.city.buzen.lg.jp/kanko/tomaru/shioyu.html
+    map: https://maps.google.com/?cid=3833447674808567429&hl=ja
+    address: 福岡県豊前市八屋322-50
+    price: 300
+    lat: 33.6234819
+    lng: 131.1103668
+    type: 温泉
+-
+    id: 86
+    name: 東峰村保険福祉センター いずみ館
+    url: http://www1.vill.toho.fukuoka.jp/info/prev.asp?fol_id=4118
+    map: https://maps.google.com/?cid=13881619838756871150&hl=ja
+    address: 福岡県朝倉郡東峰村宝珠山6431-1
+    price: 300
+    lat: 33.3975035
+    lng: 130.8692403
+    type: 共同浴場・銭湯
+-
+    id: 87
+    name: 四季の華 八枝
+    url: http://www.phoenix-japan.or.tv/yatsue/publicbath/
+    map: https://maps.google.com/?cid=2276431138552266133&hl=ja
+    address: 福岡県北九州市八幡西区八枝1-7-1
+    price: 540
+    lat: 33.8489154
+    lng: 130.7259736
+    type: 温泉
+-
+    id: 88
+    name: 遠賀町 ふれあいの里センター
+    url: http://www.town.onga.lg.jp/fureai/
+    map: https://maps.google.com/?cid=755217423042369592&hl=ja
+    address: 福岡県遠賀郡遠賀町浅木2-31-1
+    price: 500
+    lat: 33.8328866
+    lng: 130.6656533
+    type: 温泉
+-
+    id: 89
+    name: 飯塚市穂波福祉総合センター ほなみの湯
+    url: https://honami-f.com/
+    map: https://maps.google.com/?cid=9030637797602327648&hl=ja
+    address: 福岡県飯塚市枝国402-100
+    price: 310
+    lat: 33.629591
+    lng: 130.6693398
+    type: 温泉
+-
+    id: 90
+    name: 梅乃湯
+    url: http://fukuoka1010.com/fukuoka/umenoyu-higashi/
+    map: https://maps.google.com/?cid=1715319271885371147&hl=ja
+    address: 福岡県福岡市東区筥松3-6-35
+    price: 450
+    lat: 33.6224949
+    lng: 130.4285458
+    type: 銭湯
+-
+    id: 91
+    name: 花農家 和みの湯
+    url: 
+    map: https://maps.google.com/?cid=6459151562918307908&hl=ja
+    address: 福岡県朝倉市杷木志波203
+    price: 600
+    lat: 33.3597917
+    lng: 130.7789525
+    type: 温泉
+-
+    id: 92
+    name: 寺迫ラジウム温泉
+    url: 
+    map: https://maps.google.com/?cid=4363412292873126016&hl=ja
+    address: 福岡県北九州市小倉南区沼緑町2-9-3
+    price: 900
+    lat: 33.8489258
+    lng: 130.9284477
+    type: 温泉
+-
+    id: 93
+    name: スーパー銭湯 四季の華 下上津役
+    url: http://www.phoenix-japan.or.tv/shimokoujaku/publicbath/
+    map: https://maps.google.com/?cid=16784778689315563423&hl=ja
+    address: 福岡県北九州市八幡西区下上津役3-2-1
+    price: 540
+    lat: 33.8261007
+    lng: 130.7424175
+    type: 温泉
+-
+    id: 94
+    name: ふれあいの館 そえだジョイ
+    url: https://www.town.soeda.fukuoka.jp/docs/2011102600010/
+    map: https://maps.google.com/?cid=16268851703420180237&hl=ja
+    address: 福岡県田川郡添田町添田1573
+    price: 340
+    lat: 33.5713198
+    lng: 130.8629822
+    type: 温泉
+-
+    id: 95
+    name: 福祉の森 ゆうゆう
+    url: http://www.heartful-volunteer.net/soudanshitai/405shisetsu/mizuma
+    map: https://maps.google.com/?cid=8741098037458819110&hl=ja
+    address: 福岡県久留米市三潴町玉満1790
+    price: 210
+    lat: 33.2499605
+    lng: 130.4660525
+    type: 温泉
+-
+    id: 96
+    name: 総合保健福祉センター そよかぜ
+    url: http://yamesyakyo.jp/publics/index/25/detail=1/c_id=131/page131=1/type014_131_limit=5/
+    map: https://maps.google.com/?cid=15918893731616267343&hl=ja
+    address: 福岡県八女市星野村10775-14
+    price: 300
+    lat: 33.2500883
+    lng: 130.7569199
+    type: 温泉
+-
+    id: 97
+    name: 嘉麻市山田いこいの家 白雲荘
+    url: http://www.e-kama.net/area/山田いこいの家-白雲荘/
+    map: https://maps.google.com/?cid=18269990139491183803&hl=ja
+    address: 福岡県嘉麻市熊ケ畑2173-1
+    price: 200
+    lat: 33.5409843
+    lng: 130.7859526
+    type: 温泉
+-
+    id: 98
+    name: 嘉穂老人福祉センター
+    url: http://www.e-kama.net/area/嘉穂老人福祉センター/
+    map: https://maps.google.com/?cid=12939466205662527756&hl=ja
+    address: 福岡県嘉麻市大隈町1183-1
+    price: 150
+    lat: 33.5445263
+    lng: 130.7427214
+    type: 温泉
+-
+    id: 99
+    name: 阿蘇の湯
+    url: http://fukuoka1010.com/fukuoka/asoyu/
+    map: https://maps.google.com/?cid=13769552579634208067&hl=ja
+    address: 福岡県福岡市東区原田2-16-36
+    price: 450
+    lat: 33.6207144
+    lng: 130.4323046
+    type: 銭湯
+-
+    id: 100
+    name: 添田町 クアハウスハピネス
+    url: http://www.kurhaus.jp/
+    map: https://maps.google.com/?cid=10292814943875316258&hl=ja
+    address: 福岡県田川郡添田町野田1316
+    price: 260
+    lat: 33.5511166
+    lng: 130.8596265
+    type: 温泉
+-
+    id: 101
+    name: 飯塚市福祉センター 伊川の郷
+    url: https://www.iizuka-shakyo.net/index/list/mid/11
+    map: https://maps.google.com/?cid=4090635638829113226&hl=ja
+    address: 福岡県飯塚市伊川82-45
+    price: 400
+    lat: 33.6467078
+    lng: 130.6468602
+    type: 温泉
+-
+    id: 102
+    name: 地蔵の湯
+    url: 
+    map: https://maps.google.com/?cid=16559516314560245045&hl=ja
+    address: 福岡県宮若市小伏164-4
+    price: 400
+    lat: 33.7058127
+    lng: 130.5939451
+    type: 温泉
+-
+    id: 103
+    name: 稲築社会福祉センター
+    url: http://www.e-kama.net/area/稲築社会福祉センター/
+    map: https://maps.google.com/?cid=10331142328183695703&hl=ja
+    address: 福岡県嘉麻市岩崎1117-2
+    price: 150
+    lat: 33.6005861
+    lng: 130.7158966
+    type: 温泉
+-
+    id: 104
+    name: みやこ町コミュニティセンター いこいの里
+    url: https://www.town.miyako.lg.jp/hokennfukushika/hukushishisetu/ikoi_2.html
+    map: https://maps.google.com/?cid=1724874799319615203&hl=ja
+    address: 福岡県京都郡みやこ町犀川古川50
+    price: 300
+    lat: 33.6484031
+    lng: 130.9477275
+    type: 温泉
+-
+    id: 105
+    name: 新宮温泉 ふくの湯
+    url: http://www.fukunoyu.com/shingu/
+    map: https://maps.google.com/?cid=14848596299734641348&hl=ja
+    address: 福岡県糟屋郡新宮町三代西2-14-1
+    price: 750
+    lat: 33.6970143
+    lng: 130.449564
+    type: 温泉
+-
+    id: 106
+    name: ヒナタの杜 小戸の湯どころ
+    url: https://www.hinatanomori.jp/
+    map: https://maps.google.com/?cid=6088762821517234097&hl=ja
+    address: 福岡県福岡市西区小戸2-1-87
+    price: 850
+    lat: 33.5917724
+    lng: 130.3174768
+    type: 温泉
+-
+    id: 107
+    name: 大黒湯
+    url: http://fukuoka1010.com/kitakyu/daikokuyu-yahatahigashi/
+    map: https://maps.google.com/?cid=15792932306138828770&hl=ja
+    address: 福岡県北九州市八幡東区春之町5-10-8
+    price: 450
+    lat: 33.8676355
+    lng: 130.8034207
+    type: 銭湯
+-
+    id: 108
+    name: 糸田町社会福祉センター たぎりの湯
+    url: http://www.itodasyakyo.jp/page003.html
+    map: https://maps.google.com/?cid=11011830848400596074&hl=ja
+    address: 福岡県田川郡糸田町1971-1
+    price: 300
+    lat: 33.651831
+    lng: 130.77943
+    type: 温泉
+-
+    id: 109
+    name: 鶴の湯
+    url: http://fukuoka1010.com/kitakyu/tsurunoyu-yahatanishi/
+    map: https://maps.google.com/?cid=11056133902833515109&hl=ja
+    address: 福岡県北九州市八幡西区堀川町2-8
+    price: 450
+    lat: 33.8613946
+    lng: 130.7122376
+    type: 銭湯
+-
+    id: 110
+    name: 遊の里 畑冷泉館
+    url: http://www.city.buzen.lg.jp/kanko/tomaru/reisen-chaya.html
+    map: https://maps.google.com/maps?q=33.58736,131.057953
+    address: 福岡県豊前市畑708-2
+    price: 400
+    lat: 33.5872311
+    lng: 131.0582454
+    type: 温泉
+-
+    id: 111
+    name: 静香湯
+    url: http://fukuoka1010.com/chikugo/shizukayu/
+    map: https://maps.google.com/?cid=6758527160280946338&hl=ja
+    address: 福岡県大牟田市西浜田町19-1
+    price: 450
+    lat: 33.0337689
+    lng: 130.4392615
+    type: 銭湯
+-
+    id: 112
+    name: 大徳湯
+    url: http://fukuoka1010.com/fukuoka/daitokuyu/
+    map: https://maps.google.com/?cid=705469911887866058&hl=ja
+    address: 福岡県福岡市博多区千代4-27-10
+    price: 450
+    lat: 33.6060269
+    lng: 130.4150668
+    type: 銭湯
+-
+    id: 113
+    name: 朝日湯
+    url: http://fukuoka1010.com/kitakyu/asahiyu/
+    map: https://maps.google.com/?cid=2431081867105457207&hl=ja
+    address: 福岡県北九州市戸畑区千防3-10-5
+    price: 450
+    lat: 33.8996278
+    lng: 130.8318333
+    type: 銭湯
+-
+    id: 114
+    name: 幸温泉
+    url: http://fukuoka1010.com/kitakyu/sachionsen/
+    map: https://maps.google.com/?cid=7405723291437126408&hl=ja
+    address: 福岡県北九州市小倉南区北方3-12-1
+    price: 450
+    lat: 33.8515802
+    lng: 130.8753399
+    type: 銭湯
+-
+    id: 115
+    name: ふじの湯
+    url: http://fukuoka1010.com/kitakyu/fujinoyu/
+    map: https://maps.google.com/?cid=13694003594055179990&hl=ja
+    address: 福岡県北九州市門司区下馬寄7-22
+    price: 450
+    lat: 33.8956934
+    lng: 130.9275815
+    type: 銭湯
+-
+    id: 116
+    name: 鶴の湯
+    url: http://fukuoka1010.com/kitakyu/tsurunoyu-wakamatsu/
+    map: https://maps.google.com/?cid=558914200538631271&hl=ja
+    address: 福岡県北九州市若松区白山2-8-4
+    price: 450
+    lat: 33.9064873
+    lng: 130.8037694
+    type: 銭湯
+-
+    id: 117
+    name: 東湯
+    url: http://fukuoka1010.com/fukuoka/azumayu-hakata/
+    map: https://maps.google.com/?cid=9628150549436679651&hl=ja
+    address: 福岡県福岡市博多区千代1-29-3
+    price: 450
+    lat: 33.6033906
+    lng: 130.4197704
+    type: 銭湯
+-
+    id: 118
+    name: 神田湯
+    url: 
+    map: https://maps.google.com/?cid=4579599426333715043&hl=ja
+    address: 福岡県北九州市八幡東区大蔵2-11-8
+    price: 450
+    lat: 33.861173
+    lng: 130.8211536
+    type: 銭湯
+-
+    id: 119
+    name: 泉湯
+    url: http://fukuoka1010.com/kitakyu/izumiyu-kokurakita/
+    map: https://maps.google.com/?cid=678150160492693555&hl=ja
+    address: 福岡県北九州市小倉北区青葉2-10-16
+    price: 450
+    lat: 33.8846265
+    lng: 130.8653853
+    type: 銭湯
+-
+    id: 120
+    name: 浜乃湯
+    url: http://fukuoka1010.com/chikugo/hamanoyu/
+    map: https://maps.google.com/?cid=13537797347177150720&hl=ja
+    address: 福岡県大牟田市新地町6-2
+    price: 450
+    lat: 33.0341195
+    lng: 130.4362134
+    type: 銭湯
+-
+    id: 121
+    name: 神明湯
+    url: http://fukuoka1010.com/chikugo/shinmyouyu/
+    map: https://maps.google.com/?cid=4890227661119988823&hl=ja
+    address: 福岡県大牟田市旭町3-4-3
+    price: 450
+    lat: 33.0374962
+    lng: 130.4495441
+    type: 銭湯
+-
+    id: 122
+    name: 泉湯
+    url: http://fukuoka1010.com/kitakyu/izumiyu-tobata/
+    map: https://maps.google.com/?cid=1224571714148603110&hl=ja
+    address: 福岡県北九州市戸畑区丸町2-9-14
+    price: 450
+    lat: 33.8916457
+    lng: 130.8202256
+    type: 銭湯
+-
+    id: 123
+    name: 大黒湯
+    url: http://fukuoka1010.com/kitakyu/daikokuyu-kokurakita/
+    map: https://maps.google.com/?cid=3730607503270053322&hl=ja
+    address: 福岡県北九州市小倉北区中島1-13-6
+    price: 450
+    lat: 33.8779742
+    lng: 130.8782733
+    type: 銭湯
+-
+    id: 124
+    name: 昭和湯
+    url: http://fukuoka1010.com/kitakyu/shouwayu/
+    map: https://maps.google.com/?cid=4146031622419990811&hl=ja
+    address: 福岡県北九州市戸畑区浅生2-8-6
+    price: 450
+    lat: 33.8956939
+    lng: 130.8250951
+    type: 銭湯
+-
+    id: 125
+    name: やなぎ湯
+    url: http://fukuoka1010.com/kitakyu/yanagiyu/
+    map: https://maps.google.com/?cid=5755411787903091989&hl=ja
+    address: 福岡県北九州市門司区大里梅の木町4-27
+    price: 450
+    lat: 33.906961
+    lng: 130.935791
+    type: 銭湯
+-
+    id: 126
+    name: だいちゃん湯
+    url: http://fukuoka1010.com/chikugo/daichanyu/
+    map: https://maps.google.com/?cid=18068467285119561695&hl=ja
+    address: 福岡県大牟田市三川町3-102
+    price: 450
+    lat: 33.0116258
+    lng: 130.4269
+    type: 銭湯
+-
+    id: 127
+    name: 吉陽湯
+    url: http://fukuoka1010.com/chikugo/yoshiharuyu/
+    map: https://maps.google.com/maps?q=33.607006,131.174606
+    address: 福岡県築上郡吉富町広津303-1
+    price: 450
+    lat: 33.6069942
+    lng: 131.1746218
+    type: 銭湯
+-
+    id: 128
+    name: 東湯
+    url: http://fukuoka1010.com/kitakyu/azumayu-yahatahigashi/
+    map: https://maps.google.com/maps?q=33.863018,130.839935
+    address: 福岡県北九州市八幡東区松尾町1-25
+    price: 450
+    lat: 33.8630038
+    lng: 130.839891
+    type: 銭湯
+-
+    id: 129
+    name: 中将湯
+    url: http://fukuoka1010.com/kitakyu/chujouyu/
+    map: https://maps.google.com/maps?q=33.903642,130.810885
+    address: 福岡県北九州市若松区本町1-7-42
+    price: 450
+    lat: 33.9036814
+    lng: 130.8109065
+    type: 銭湯
+-
+    id: 130
+    name: 佐伯湯
+    url: http://fukuoka1010.com/kitakyu/saekiyu/
+    map: https://maps.google.com/maps?q=33.895924,130.800003
+    address: 福岡県北九州市若松区古前2-9-2
+    price: 450
+    lat: 33.8959132
+    lng: 130.7999714
+    type: 銭湯

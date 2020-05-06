@@ -1,0 +1,381 @@
+---
+-
+    id: 1
+    name: ひがしせふり温泉 山茶花の湯
+    url: http://sazanka-yu.com/wp/
+    map: https://maps.google.com/?cid=6344327807978666285&hl=ja
+    address: 佐賀県神埼郡吉野ヶ里町石動76-2
+    price: 720
+    lat: 33.3703687
+    lng: 130.4062717
+    type: 温泉
+-
+    id: 2
+    name: 天然湧出温泉 佐賀ぽかぽか温泉
+    url: http://www.pokaon-s.com/
+    map: https://maps.google.com/?cid=576054315779035475&hl=ja
+    address: 佐賀県佐賀市兵庫北5-13-48
+    price: 690
+    lat: 33.2730339
+    lng: 130.3108203
+    type: 温泉
+-
+    id: 3
+    name: 伊万里温泉 白磁乃湯
+    url: http://yutokuonsen.com/imari.html
+    map: https://maps.google.com/?cid=353032887541850335&hl=ja
+    address: 佐賀県伊万里市立花町2402-1
+    price: 700
+    lat: 33.2604221
+    lng: 129.8896497
+    type: 温泉
+-
+    id: 4
+    name: 嬉野温泉 シーボルトの湯
+    url: http://spa-ureshino.com/Siebold/
+    map: https://maps.google.com/?cid=9652002966497922117&hl=ja
+    address: 佐賀県嬉野市嬉野町下宿乙818-2
+    price: 420
+    lat: 33.0965812
+    lng: 129.9855256
+    type: 共同浴場・銭湯
+-
+    id: 5
+    name: 北方温泉 四季の里 七彩の湯
+    url: http://www.nanaironoyu.com/
+    map: https://maps.google.com/?cid=11800425604957855584&hl=ja
+    address: 佐賀県武雄市北方町大崎4300-1
+    price: 700
+    lat: 33.2271497
+    lng: 130.0441468
+    type: 温泉
+-
+    id: 6
+    name: 鳴神温泉 ななの湯
+    url: http://www.7noyu.jp/
+    map: https://maps.google.com/?cid=10330418679034701073&hl=ja
+    address: 佐賀県唐津市七山滝川1150
+    price: 520
+    lat: 33.4429875
+    lng: 130.1205691
+    type: 温泉
+-
+    id: 7
+    name: 鏡山温泉茶屋 美人の湯
+    url: http://kagamiyamaonsenchaya.com/
+    map: https://maps.google.com/?cid=16513683117522073712&hl=ja
+    address: 佐賀県唐津市鏡4733
+    price: 650
+    lat: 33.4368518
+    lng: 130.0172767
+    type: 温泉
+-
+    id: 8
+    name: 吉野ヶ里温泉 卑弥呼乃湯
+    url: http://yutokuonsen.com/yoshinogari.html
+    map: https://maps.google.com/?cid=10945646092901689379&hl=ja
+    address: 佐賀県三養基郡上峰町坊所1523-1
+    price: 700
+    lat: 33.3319359
+    lng: 130.4147013
+    type: 温泉
+-
+    id: 9
+    name: 玄海海上温泉 パレア
+    url: https://www.genkai-parea.com/
+    map: https://maps.google.com/?cid=595486066170979173&hl=ja
+    address: 佐賀県東松浦郡玄海町石田1369-3
+    price: 520
+    lat: 33.471737
+    lng: 129.8497207
+    type: 温泉
+-
+    id: 10
+    name: ヌルヌル有田温泉
+    url: https://www.arita-onsen.com/
+    map: https://maps.google.com/?cid=5048356607326031206&hl=ja
+    address: 佐賀県西松浦郡有田町南原甲902
+    price: 600
+    lat: 33.1901507
+    lng: 129.8607448
+    type: 温泉
+-
+    id: 11
+    name: 武雄温泉 鷺乃湯
+    url: http://www.takeo-kk.net/spa/001333.php
+    map: https://maps.google.com/?cid=18187531578810796909&hl=ja
+    address: 佐賀県武雄市武雄町武雄7425
+    price: 680
+    lat: 33.1963877
+    lng: 130.0141407
+    type: 共同浴場・銭湯
+-
+    id: 12
+    name: 家族風呂温泉 山ぼうし
+    url: https://japanese-inn-with-hot-spring-707.business.site/
+    map: https://maps.google.com/?cid=15342114105916121717&hl=ja
+    address: 佐賀県鳥栖市河内町2867
+    price: 1700
+    lat: 33.3964735
+    lng: 130.4801757
+    type: 温泉
+-
+    id: 13
+    name: うれしの源泉 百年の湯
+    url: http://www.100nen-spa.co.jp
+    map: https://maps.google.com/?cid=13883394890040997566&hl=ja
+    address: 佐賀県嬉野市嬉野町下宿乙2202-8
+    price: 570
+    lat: 33.0975935
+    lng: 129.9816357
+    type: 温泉
+-
+    id: 14
+    name: 三瀬温泉 やまびこの湯
+    url: http://www.yamabikonoyu.jp/
+    map: https://maps.google.com/?cid=8910934070501632859&hl=ja
+    address: 佐賀県佐賀市三瀬村藤原3929-2
+    price: 520
+    lat: 33.4218876
+    lng: 130.2758626
+    type: 温泉
+-
+    id: 15
+    name: ひぜん祐徳温泉 宝乃湯
+    url: http://yutokuonsen.com/hizen.html
+    map: https://maps.google.com/?cid=3308338604217295887&hl=ja
+    address: 佐賀県鹿島市納富分3114-5
+    price: 700
+    lat: 33.1012736
+    lng: 130.1026141
+    type: 温泉
+-
+    id: 16
+    name: 熊の川温泉 ちどりの湯
+    url: http://www.chidorinoyu.com/
+    map: https://maps.google.com/?cid=9341845155972680998&hl=ja
+    address: 佐賀県佐賀市富士町上熊川204-8
+    price: 500
+    lat: 33.3640243
+    lng: 130.2405797
+    type: 温泉
+-
+    id: 17
+    name: 湯泉郷 温泉館 湯招花
+    url: http://toshoka.net/
+    map: https://maps.google.com/?cid=9117059470360675531&hl=ja
+    address: 佐賀県佐賀市富士町上熊川180-1
+    price: 1200
+    lat: 33.3634422
+    lng: 130.2417303
+    type: 温泉
+-
+    id: 18
+    name: 三養基いやしの郷 湯楽庵
+    url: http://yuraku-an.jp/
+    map: https://maps.google.com/?cid=8839864061292534009&hl=ja
+    address: 佐賀県三養基郡みやき町白壁4049-34
+    price: 500
+    lat: 33.3476
+    lng: 130.4658808
+    type: 温泉
+-
+    id: 19
+    name: 大町温泉 ひじり乃湯
+    url: http://yutokuonsen.com/omachi.html
+    map: https://maps.google.com/?cid=7622153262322267012&hl=ja
+    address: 佐賀県杵島郡大町町福母3067-2
+    price: 700
+    lat: 33.2195586
+    lng: 130.099625
+    type: 温泉
+-
+    id: 20
+    name: 平谷温泉 山吹の湯
+    url: 
+    map: https://maps.google.com/?cid=8963253658702787403&hl=ja
+    address: 佐賀県鹿島市山浦丙3864
+    price: 600
+    lat: 33.00633390000001
+    lng: 130.0624325
+    type: 温泉
+-
+    id: 21
+    name: 武雄温泉 元湯
+    url: http://www.takeo-kk.net/spa/001331.php
+    map: https://maps.google.com/?cid=3940516312217744946&hl=ja
+    address: 佐賀県武雄市武雄町武雄7425
+    price: 450
+    lat: 33.1963877
+    lng: 130.0141407
+    type: 共同浴場・銭湯
+-
+    id: 22
+    name: 武雄温泉 蓬莱湯
+    url: http://www.takeo-kk.net/spa/001332.php
+    map: https://maps.google.com/?cid=3799020969969981102&hl=ja
+    address: 佐賀県武雄市武雄町武雄7425
+    price: 450
+    lat: 33.1963877
+    lng: 130.0141407
+    type: 共同浴場・銭湯
+-
+    id: 23
+    name: 呼子台場の湯
+    url: https://daibanoyu.jp/
+    map: https://maps.google.com/?cid=2267747103876270013&hl=ja
+    address: 佐賀県唐津市呼子町呼子1740-11
+    price: 520
+    lat: 33.5471446
+    lng: 129.8916779
+    type: 温泉
+-
+    id: 24
+    name: きゅうらぎ温泉 佐用姫の湯
+    url: http://www.souyu.co.jp/kyuragi/
+    map: https://maps.google.com/?cid=16803998875801411657&hl=ja
+    address: 佐賀県唐津市厳木町牧瀬34-2
+    price: 410
+    lat: 33.3143575
+    lng: 130.068396
+    type: 温泉
+-
+    id: 25
+    name: 牛津保健福祉センター アイル
+    url: https://ssk-ushidu.com/
+    map: https://maps.google.com/?cid=15991508936007709071&hl=ja
+    address: 佐賀県小城市牛津町勝1221-1
+    price: 520
+    lat: 33.2508629
+    lng: 130.1922436
+    type: 温泉
+-
+    id: 26
+    name: 黒髪の森温泉 天童の湯
+    url: http://yutokuonsen.com/imari.html
+    map: https://maps.google.com/?cid=7248953718984140611&hl=ja
+    address: 佐賀県武雄市山内町宮野1593-2
+    price: 400
+    lat: 33.2029088
+    lng: 129.9247429
+    type: 温泉
+-
+    id: 27
+    name: おうち温泉 天徳の湯
+    url: http://www.tentokunoyu.jp/
+    map: https://maps.google.com/?cid=6659401161816590639&hl=ja
+    address: 佐賀県唐津市相知町相知2579-1
+    price: 520
+    lat: 33.3473783
+    lng: 130.0009221
+    type: 温泉
+-
+    id: 28
+    name: 野田の湯 やすらぎ荘
+    url: http://nodanoyu-yasuragisou.jp/
+    map: https://maps.google.com/?cid=12626683141786738840&hl=ja
+    address: 佐賀県唐津市浜玉町東山田2201
+    price: 520
+    lat: 33.429616
+    lng: 130.0510519
+    type: 温泉
+-
+    id: 29
+    name: 元湯熊ノ川浴場
+    url: https://www.fuji-spa.com/onsen/kumanokawa/motoyu/
+    map: https://maps.google.com/?cid=14128223897727692306&hl=ja
+    address: 佐賀県佐賀市富士町上熊川118
+    price: 700
+    lat: 33.366073
+    lng: 130.2410805
+    type: 共同浴場・銭湯
+-
+    id: 30
+    name: 基山ラジウム温泉
+    url: 
+    map: https://maps.google.com/?cid=15396136423011805775&hl=ja
+    address: 佐賀県三養基郡基山町小倉207
+    price: 400
+    lat: 33.4178937
+    lng: 130.536198
+    type: 温泉
+-
+    id: 31
+    name: 野田の元湯
+    url: http://nodano-motoyu.com/
+    map: https://maps.google.com/?cid=3688511592744387727&hl=ja
+    address: 佐賀県唐津市浜玉町東山田2101-1
+    price: 420
+    lat: 33.4300123
+    lng: 130.0508794
+    type: 温泉
+-
+    id: 32
+    name: 恵びす湯
+    url: 
+    map: https://maps.google.com/?cid=12304207936143303041&hl=ja
+    address: 佐賀県唐津市大石町2532
+    price: 280
+    lat: 33.44517039999999
+    lng: 129.9761952
+    type: 銭湯
+-
+    id: 33
+    name: 仁比山温泉 もみじの湯
+    url: http://kanzaki-syakyo.com/publics/index/68/
+    map: https://maps.google.com/?cid=13779784396060531546&hl=ja
+    address: 佐賀県神埼市神埼町的1724-1
+    price: 500
+    lat: 33.3542823
+    lng: 130.3637477
+    type: 温泉
+-
+    id: 34
+    name: 高串温泉 肥前町福祉センター
+    url: https://www.asobo-saga.jp/search/detail.html?id=165
+    map: https://maps.google.com/?cid=5720078343246191405&hl=ja
+    address: 佐賀県唐津市肥前町田野甲1287-10
+    price: 420
+    lat: 33.4223481
+    lng: 129.8325812
+    type: 温泉
+-
+    id: 35
+    name: 妙法寺温泉 飛龍乃湯
+    url: http://rakuyonosato.com/
+    map: https://maps.google.com/?cid=4037382523515609979&hl=ja
+    address: 佐賀県唐津市厳木町岩屋530-4
+    price: 500
+    lat: 33.3189367
+    lng: 130.0388755
+    type: 温泉
+-
+    id: 36
+    name: 伊万里温泉 美遊館
+    url: http://yutokuonsen.com/imari.html
+    map: https://maps.google.com/?cid=2700533184201967861&hl=ja
+    address: 佐賀県伊万里市立花町2402-1
+    price: 1700
+    lat: 33.2604221
+    lng: 129.8896497
+    type: 温泉
+-
+    id: 37
+    name: ふれあい自然塾ひぜん
+    url: http://web.people-i.ne.jp/~fureai-h/taiken.html
+    map: https://maps.google.com/?cid=2305764164180031117&hl=ja
+    address: 佐賀県唐津市肥前町満越886-3
+    price: 430
+    lat: 33.405042
+    lng: 129.8546397
+    type: 温泉
+-
+    id: 38
+    name: 本庄の湯
+    url: http://www.fitness-isports.com/honjyounoyu/
+    map: https://maps.google.com/?cid=14238428563716678952&hl=ja
+    address: 佐賀県佐賀市本庄町大字袋206-5
+    price: 600
+    lat: 33.2387459
+    lng: 130.3050336
+    type: 温泉

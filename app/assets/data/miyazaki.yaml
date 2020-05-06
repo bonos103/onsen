@@ -1,0 +1,591 @@
+---
+-
+    id: 1
+    name: 恵の湯 神の郷温泉
+    url: http://www.kannogou.com/
+    map: https://maps.google.com/?cid=7133757693163736873&hl=ja
+    address: 宮崎県小林市細野5273-19
+    price: 500
+    lat: 31.9621969
+    lng: 130.9612221
+    type: 温泉
+-
+    id: 2
+    name: かかしの里 ゆぽっぽ
+    url: https://miyakonojo-bonchi.com/yupoppo/onsen/
+    map: https://maps.google.com/?cid=7404122956727972860&hl=ja
+    address: 宮崎県都城市山田町中霧島3340-2
+    price: 420
+    lat: 31.797575
+    lng: 131.047295
+    type: 温泉
+-
+    id: 3
+    name: 極楽湯(宮崎店)
+    url: https://www.gokurakuyu.ne.jp/tempo/miyazaki/
+    map: https://maps.google.com/?cid=39700124243055358&hl=ja
+    address: 宮崎県宮崎市高千穂通1-3-22
+    price: 590
+    lat: 31.9194619
+    lng: 131.4262989
+    type: 温泉
+-
+    id: 4
+    name: 観音さくらの里
+    url: http://kannon-sakura.com/
+    map: https://maps.google.com/?cid=11683604117183550715&hl=ja
+    address: 宮崎県都城市高城町石山4195
+    price: 420
+    lat: 31.8251676
+    lng: 131.1374144
+    type: 温泉
+-
+    id: 5
+    name: 白鳥温泉上湯
+    url: http://shiratori-onsen.com/
+    map: https://maps.google.com/?cid=10813612716878925580&hl=ja
+    address: 宮崎県えびの市末永1470
+    price: 310
+    lat: 31.9479056
+    lng: 130.8454143
+    type: 温泉
+-
+    id: 6
+    name: 道の駅 ゆ～ぱるのじり
+    url: http://www.hermec.co.jp/yuparunojiri/
+    map: https://maps.google.com/?cid=4351853974367268394&hl=ja
+    address: 宮崎県小林市野尻町三ケ野山4347-1
+    price: 410
+    lat: 31.9645225
+    lng: 131.0823638
+    type: 温泉
+-
+    id: 7
+    name: 日向サンパーク温泉 お舟出の湯
+    url: https://hyugasunpark.wixsite.com/sunpark/blank-2
+    map: https://maps.google.com/?cid=16990647467832547160&hl=ja
+    address: 宮崎県日向市幸脇303-5
+    price: 550
+    lat: 32.3423767
+    lng: 131.6250797
+    type: 温泉
+-
+    id: 8
+    name: さいと温泉
+    url: http://www.kk-plum.co.jp/saito/
+    map: https://maps.google.com/?cid=4471216909596032272&hl=ja
+    address: 宮崎県西都市調殿1355-1
+    price: 500
+    lat: 32.114868
+    lng: 131.4167286
+    type: 温泉
+-
+    id: 9
+    name: 石崎の杜 歓鯨館 ホエルカム
+    url: http://kangeikan.com/03_relax/index.html
+    map: https://maps.google.com/?cid=844198042394573069&hl=ja
+    address: 宮崎県宮崎市佐土原町下那珂8-1
+    price: 510
+    lat: 32.0000034
+    lng: 131.487324
+    type: 温泉
+-
+    id: 10
+    name: 高鍋温泉 めいりんの湯
+    url: http://www.meirinspa.com/meirinspa/
+    map: https://maps.google.com/?cid=825710287395028242&hl=ja
+    address: 宮崎県児湯郡高鍋町上江6900
+    price: 500
+    lat: 32.1191982
+    lng: 131.4785257
+    type: 温泉
+-
+    id: 11
+    name: ヘルストピア延岡 光明石温泉
+    url: http://www.healthtopia.jp/
+    map: https://maps.google.com/?cid=18034856828313775039&hl=ja
+    address: 宮崎県延岡市長浜町3-1954-2
+    price: 520
+    lat: 32.5774431
+    lng: 131.696076
+    type: 温泉
+-
+    id: 12
+    name: 高岡温泉 やすらぎの郷
+    url: http://www.takaokaonsen.jp
+    map: https://maps.google.com/?cid=4138099418931180354&hl=ja
+    address: 宮崎県宮崎市高岡町小山田1953
+    price: 510
+    lat: 31.9336154
+    lng: 131.3086827
+    type: 温泉
+-
+    id: 13
+    name: かどかわ温泉 心の杜
+    url: http://www.town.kadogawa.lg.jp/industry/spa/page002838.html
+    map: https://maps.google.com/?cid=7668944828785438340&hl=ja
+    address: 宮崎県東臼杵郡門川町庵川1942
+    price: 520
+    lat: 32.4857821
+    lng: 131.6755995
+    type: 温泉
+-
+    id: 14
+    name: 西米良温泉 ゆた～と
+    url: http://www.yutato.com/
+    map: https://maps.google.com/?cid=17629225496856709715&hl=ja
+    address: 宮崎県児湯郡西米良村村所260-6
+    price: 500
+    lat: 32.2237548
+    lng: 131.1634783
+    type: 温泉
+-
+    id: 15
+    name: 高千穂の湯
+    url: http://takachiho-kanko.info/sightseeing/detail.php?log=1337319135
+    map: https://maps.google.com/?cid=14205158051290826168&hl=ja
+    address: 宮崎県西臼杵郡高千穂町三田井3214-1
+    price: 500
+    lat: 32.7197035
+    lng: 131.3132977
+    type: 温泉
+-
+    id: 16
+    name: 木城温泉館 湯らら
+    url: http://service.kijo.jp/~yurara/
+    map: https://maps.google.com/?cid=3655312561700637647&hl=ja
+    address: 宮崎県児湯郡木城町高城1403-1
+    price: 500
+    lat: 32.1681563
+    lng: 131.4783313
+    type: 温泉
+-
+    id: 17
+    name: スーパー温泉 元気湯
+    url: http://wing-gp.co.jp/miyakonojo/info.htm
+    map: https://maps.google.com/?cid=10163690989615281388&hl=ja
+    address: 宮崎県都城市栄町20-1
+    price: 520
+    lat: 31.7353495
+    lng: 131.0729476
+    type: 温泉
+-
+    id: 18
+    name: 日之影温泉駅
+    url: http://www.town.hinokage.lg.jp/docs/2016022300132/
+    map: https://maps.google.com/?cid=5677475919374441934&hl=ja
+    address: 宮崎県西臼杵郡日之影町七折3235-5
+    price: 500
+    lat: 32.6491915
+    lng: 131.3913397
+    type: 温泉
+-
+    id: 19
+    name: 都城温泉
+    url: 
+    map: https://maps.google.com/?cid=16496144706966605386&hl=ja
+    address: 宮崎県都城市志比田町5468-1
+    price: 500
+    lat: 31.7418133
+    lng: 131.0593585
+    type: 温泉
+-
+    id: 20
+    name: 南郷温泉 山霧
+    url: http://www.nango-spa.co.jp/
+    map: https://maps.google.com/?cid=8299116233409377079&hl=ja
+    address: 宮崎県東臼杵郡美郷町南郷区神門151-1
+    price: 520
+    lat: 32.3890667
+    lng: 131.3314333
+    type: 温泉
+-
+    id: 21
+    name: 白鳥温泉下湯
+    url: http://shiratori-onsen.com/wp/down/
+    map: https://maps.google.com/?cid=850470502927083795&hl=ja
+    address: 宮崎県えびの市末永1470
+    price: 310
+    lat: 31.9479056
+    lng: 130.8454143
+    type: 温泉
+-
+    id: 22
+    name: こばやし温泉 美人の湯
+    url: https://bijinnoyu.tokiwa-kai.or.jp/info/s_bijin
+    map: https://maps.google.com/?cid=17121175379884342447&hl=ja
+    address: 宮崎県小林市堤4378
+    price: 500
+    lat: 31.9629884
+    lng: 131.0041042
+    type: 温泉
+-
+    id: 23
+    name: 天岩戸の湯
+    url: http://takachiho-kanko.info/sightseeing/detail.php?log=1337319163&cate=3&nav=2
+    map: https://maps.google.com/?cid=13015686154320043352&hl=ja
+    address: 宮崎県西臼杵郡高千穂町岩戸58
+    price: 350
+    lat: 32.725744
+    lng: 131.3451431
+    type: 温泉
+-
+    id: 24
+    name: 新富温泉健康センター サン・ルピナス
+    url: http://sun-lupinus.info/
+    map: https://maps.google.com/?cid=11667363423819570258&hl=ja
+    address: 宮崎県児湯郡新富町三納代1859-1
+    price: 500
+    lat: 32.0741255
+    lng: 131.4959278
+    type: 温泉
+-
+    id: 25
+    name: 祝子川温泉 美人の湯
+    url: https://nobekan.jp/season/spring/%E7%A5%9D%E5%AD%90%E5%B7%9D%E6%B8%A9%E6%B3%89%E3%80%80%E7%BE%8E%E4%BA%BA%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=17315679825689515211&hl=ja
+    address: 宮崎県延岡市北川町川内名10358-10
+    price: 510
+    lat: 32.7310871
+    lng: 131.5614984
+    type: 温泉
+-
+    id: 26
+    name: ホテルマリックス ラグーン スパぱうぱう
+    url: https://www.hotel-marix.co.jp/lagoon/
+    map: https://maps.google.com/?cid=11492513667479659173&hl=ja
+    address: 宮崎県宮崎市清水3-105
+    price: 600
+    lat: 31.9181083
+    lng: 131.4176057
+    type: 温泉
+-
+    id: 27
+    name: 宮崎市自然休養村センター
+    url: http://shachu.co.jp/onsen/
+    map: https://maps.google.com/?cid=7217752530441740701&hl=ja
+    address: 宮崎県宮崎市加江田7896
+    price: 420
+    lat: 31.8065891
+    lng: 131.4262338
+    type: 温泉
+-
+    id: 28
+    name: 和楽笑の湯
+    url: https://warawara.net/
+    map: https://maps.google.com/?cid=4076113477049237173&hl=ja
+    address: 宮崎県都城市広原町34-8-2
+    price: 400
+    lat: 31.7256297
+    lng: 131.0993828
+    type: 温泉
+-
+    id: 29
+    name: 十兵衛の湯
+    url: http://www.jyubei.co.jp/yu.html
+    map: https://maps.google.com/?cid=12605253613987431853&hl=ja
+    address: 宮崎県えびの市向江212-1
+    price: 450
+    lat: 32.0495736
+    lng: 130.7723088
+    type: 温泉
+-
+    id: 30
+    name: コスモス温泉
+    url: http://kankou-kobayashi.jp/publics/index/87/
+    map: https://maps.google.com/?cid=1058164552809231902&hl=ja
+    address: 宮崎県小林市南西方1130-79
+    price: 400
+    lat: 31.9745804
+    lng: 130.93699
+    type: 温泉
+-
+    id: 31
+    name: 湯穴温泉
+    url: https://www.88onsen.com/spot/detail/hid/101
+    map: https://maps.google.com/?cid=11259925374991538119&hl=ja
+    address: 宮崎県都城市吉之元町4518-9
+    price: 300
+    lat: 31.8286061
+    lng: 130.9148981
+    type: 温泉
+-
+    id: 32
+    name: あきしげゆ
+    url: 
+    map: https://maps.google.com/?cid=12014290505770568023&hl=ja
+    address: 宮崎県えびの市浦146
+    price: 500
+    lat: 32.0220683
+    lng: 130.7989338
+    type: 温泉
+-
+    id: 33
+    name: 皇子原温泉健康村
+    url: 
+    map: https://maps.google.com/?cid=11938939094469434450&hl=ja
+    address: 宮崎県西諸県郡高原町蒲牟田5631-14
+    price: 300
+    lat: 31.9063713
+    lng: 130.9643628
+    type: 温泉
+-
+    id: 34
+    name: お風呂とごはん ふなの湯
+    url: http://funanoyu.saloon.jp/
+    map: https://maps.google.com/?cid=13084188498908889264&hl=ja
+    address: 宮崎県延岡市船倉町2-6-5
+    price: 600
+    lat: 32.5818383
+    lng: 131.6716361
+    type: 温泉
+-
+    id: 35
+    name: 合歓木温泉(沖水店)
+    url: https://nemunoki-onsen.com/
+    map: https://maps.google.com/?cid=5859087095557578602&hl=ja
+    address: 宮崎県都城市金田町2720
+    price: 360
+    lat: 31.7713798
+    lng: 131.0771984
+    type: 共同浴場・銭湯
+-
+    id: 36
+    name: 合歓木温泉(五十市店)
+    url: https://nemunoki-onsen.com/
+    map: https://maps.google.com/?cid=3544897527760647075&hl=ja
+    address: 宮崎県都城市五十町1613
+    price: 360
+    lat: 31.7100898
+    lng: 131.036605
+    type: 温泉
+-
+    id: 37
+    name: 吹上温泉
+    url: 
+    map: https://maps.google.com/?cid=10479170097531861599&hl=ja
+    address: 宮崎県えびの市岡松427-2
+    price: 250
+    lat: 32.0453188
+    lng: 130.7492849
+    type: 温泉
+-
+    id: 38
+    name: 家族温泉 美人の湯
+    url: https://bijinnoyu.tokiwa-kai.or.jp/info/s_kazoku
+    map: https://maps.google.com/?cid=17736528204393306840&hl=ja
+    address: 宮崎県小林市堤3706-2
+    price: 1400
+    lat: 31.9621907
+    lng: 131.008761
+    type: 温泉
+-
+    id: 39
+    name: やまだ温泉 山田町温泉交流センター
+    url: http://www.miya-shoko.or.jp/yamada/midokoro/kouryu/midokoro-kouryu.html
+    map: https://maps.google.com/?cid=16193947311052471942&hl=ja
+    address: 宮崎県都城市山田町中霧島1913
+    price: 310
+    lat: 31.7997768
+    lng: 131.014441
+    type: 温泉
+-
+    id: 40
+    name: エコクリーン ほがらか湯
+    url: http://www.m-envi-pc.or.jp/hogaraka/
+    map: https://maps.google.com/?cid=10957639283341032776&hl=ja
+    address: 宮崎県宮崎市大瀬町6176-8
+    price: 200
+    lat: 32.0042554
+    lng: 131.3798462
+    type: 温泉
+-
+    id: 41
+    name: 合歓木温泉(広原店)
+    url: https://nemunoki-onsen.com/
+    map: https://maps.google.com/?cid=11255147753176050102&hl=ja
+    address: 宮崎県都城市広原町9-11
+    price: 360
+    lat: 31.7283807
+    lng: 131.0924276
+    type: 温泉
+-
+    id: 42
+    name: すきむらんど かじかの湯
+    url: https://www.sukimuland.jp/hotsprings/
+    map: https://maps.google.com/?cid=4777065988279479208&hl=ja
+    address: 宮崎県小林市須木下田412-6
+    price: 400
+    lat: 32.0675319
+    lng: 131.0869333
+    type: 温泉
+-
+    id: 43
+    name: 湯の谷温泉
+    url: 
+    map: https://maps.google.com/?cid=9831076033570232818&hl=ja
+    address: 宮崎県宮崎市高岡町小山田1392
+    price: 420
+    lat: 31.9267663
+    lng: 131.3211314
+    type: 温泉
+-
+    id: 44
+    name: 吉田温泉 鹿の湯温泉
+    url: http://www.kyomachionsen.com/spa/
+    map: https://maps.google.com/?cid=7991211572050639493&hl=ja
+    address: 宮崎県えびの市水流25-5
+    price: 300
+    lat: 32.052669
+    lng: 130.7648934
+    type: 共同浴場・銭湯
+-
+    id: 45
+    name: えびの市 京町温泉 スパ・プラザ湯遊
+    url: http://spu.la.coocan.jp/
+    map: https://maps.google.com/?cid=2189469037341779195&hl=ja
+    address: 宮崎県えびの市向江845
+    price: 350
+    lat: 32.0446718
+    lng: 130.7636091
+    type: 温泉
+-
+    id: 46
+    name: 杉倉温泉
+    url: 
+    map: https://maps.google.com/?cid=15849138157645079673&hl=ja
+    address: 宮崎県都城市高崎町前田2093-2
+    price: 500
+    lat: 31.9067926
+    lng: 131.063964
+    type: 温泉
+-
+    id: 47
+    name: 岡松温泉
+    url: 
+    map: https://maps.google.com/?cid=1420449231882202434&hl=ja
+    address: 宮崎県えびの市岡松272
+    price: 200
+    lat: 32.0457346
+    lng: 130.7563446
+    type: 共同浴場・銭湯
+-
+    id: 48
+    name: 亀沢共同浴場
+    url: 
+    map: https://maps.google.com/?cid=18279809657213692269&hl=ja
+    address: 宮崎県えびの市亀沢280-3
+    price: 200
+    lat: 32.0379255
+    lng: 130.7540401
+    type: 共同浴場・銭湯
+-
+    id: 49
+    name: 鶴の湯温泉
+    url: 
+    map: https://maps.google.com/?cid=11893049004811858818&hl=ja
+    address: 宮崎県えびの市水流
+    price: 200
+    lat: 32.0551473
+    lng: 130.7703303
+    type: 共同浴場・銭湯
+-
+    id: 50
+    name: 田代温泉
+    url: 
+    map: https://maps.google.com/?cid=14741714991747042144&hl=ja
+    address: 宮崎県えびの市上江740
+    price: 350
+    lat: 32.0258073
+    lng: 130.8615003
+    type: 共同浴場・銭湯
+-
+    id: 51
+    name: 堀切温泉
+    url: 
+    map: https://maps.google.com/?cid=8907014085423501431&hl=ja
+    address: 宮崎県都城市丸谷町4151-8
+    price: 300
+    lat: 31.80826769999999
+    lng: 131.0867851
+    type: 共同浴場・銭湯
+-
+    id: 52
+    name: 源泉掛け流し温泉 妻湯
+    url: https://tsumayu.com/
+    map: https://maps.google.com/?cid=3177568911025156711&hl=ja
+    address: 宮崎県西都市調殿687-5
+    price: 900
+    lat: 32.11857810000001
+    lng: 131.4140675
+    type: 温泉
+-
+    id: 53
+    name: 喜楽湯
+    url: 
+    map: https://maps.google.com/?cid=1735197702551783165&hl=ja
+    address: 宮崎県延岡市本町1-3-7
+    price: 350
+    lat: 32.5798363
+    lng: 131.6671692
+    type: 銭湯
+-
+    id: 54
+    name: 野々崎ヘルスセンター
+    url: 
+    map: https://maps.google.com/?cid=2692574089510900442&hl=ja
+    address: 宮崎県小林市野尻町三ケ野山2266-1
+    price: 400
+    lat: 31.980453
+    lng: 131.0521758
+    type: 温泉
+-
+    id: 55
+    name: 天然温泉 百百の湯
+    url: http://www.mediwel.jp/
+    map: https://maps.google.com/maps?q=31.905114,131.429443
+    address: 宮崎県宮崎市松山2-23-1-1
+    price: 500
+    lat: 31.9049136
+    lng: 131.4284241
+    type: 温泉
+-
+    id: 56
+    name: おとめがわ温泉
+    url: 
+    map: https://maps.google.com/maps?q=32.050024,130.763663
+    address: 宮崎県えびの市向江743
+    price: 250
+    lat: 32.0499675
+    lng: 130.7634801
+    type: 共同浴場・銭湯
+-
+    id: 57
+    name: 丸か湯
+    url: 
+    map: https://maps.google.com/?cid=1797259468897763171&hl=ja
+    address: 宮崎県延岡市北小路7-3
+    price: 350
+    lat: 32.5850893
+    lng: 131.6677144
+    type: 銭湯
+-
+    id: 58
+    name: 白鶴湯
+    url: http://kankou-kobayashi.jp/publics/index/305/#page305
+    map: https://maps.google.com/?cid=1806860104032024477&hl=ja
+    address: 宮崎県小林市細野2162
+    price: 350
+    lat: 31.9912305
+    lng: 130.9807896
+    type: 銭湯
+-
+    id: 59
+    name: 赤木ふろ屋 泉鉱泉
+    url: http://cms.city.kobayashi.lg.jp/display.php?cont=131224172154
+    map: https://maps.google.com/maps?q=32.001064,130.983875
+    address: 宮崎県小林市真方760
+    price: 350
+    lat: 32.0010515
+    lng: 130.983904
+    type: 銭湯

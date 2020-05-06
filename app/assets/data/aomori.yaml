@@ -1,0 +1,2021 @@
+---
+-
+    id: 1
+    name: 道の駅 浅虫温泉 ゆ～さ浅虫
+    url: http://www.yu-sa.jp/
+    map: https://maps.google.com/?cid=16997547303608435174&hl=ja
+    address: 青森県青森市浅虫字蛍谷341-19
+    price: 360
+    lat: 40.8917149
+    lng: 140.8613758
+    type: 温泉
+-
+    id: 2
+    name: つくだ温泉 ゆーぽっぽ
+    url: http://yu-poppo.net/
+    map: https://maps.google.com/?cid=7029228285758499298&hl=ja
+    address: 青森県青森市南佃2-3-20
+    price: 420
+    lat: 40.8132524
+    lng: 140.7835458
+    type: 銭湯
+-
+    id: 3
+    name: はちのへゆーゆらんど 新八温泉
+    url: http://www.shinpachi.co.jp/
+    map: https://maps.google.com/?cid=14618591917251303469&hl=ja
+    address: 青森県八戸市長苗代下亀子谷地18-1
+    price: 620
+    lat: 40.5208906
+    lng: 141.4474163
+    type: 温泉
+-
+    id: 4
+    name: 極楽湯(青森店)
+    url: https://www.gokurakuyu.ne.jp/tempo/aomori/
+    map: https://maps.google.com/?cid=15154292948288229059&hl=ja
+    address: 青森県青森市東大野2-4-21
+    price: 450
+    lat: 40.7973394
+    lng: 140.74204
+    type: 温泉
+-
+    id: 5
+    name: 大鰐町地域交流センター 鰐come
+    url: http://www.wanicome.com/onsen/
+    map: https://maps.google.com/?cid=18446065906041675668&hl=ja
+    address: 青森県南津軽郡大鰐町大鰐川辺11-11
+    price: 500
+    lat: 40.5207228
+    lng: 140.5645956
+    type: 温泉
+-
+    id: 6
+    name: あおもり健康ランド
+    url: https://www.aomorikenkouland.com/72716/
+    map: https://maps.google.com/?cid=14927808031857379742&hl=ja
+    address: 青森県青森市新城平岡404-1
+    price: 450
+    lat: 40.8341019
+    lng: 140.6920098
+    type: 温泉
+-
+    id: 7
+    name: 青森まちなかおんせん
+    url: https://aomori.atinnhotels.com/onsen.html
+    map: https://maps.google.com/?cid=6860015407036389360&hl=ja
+    address: 青森県青森市古川1-10-14
+    price: 450
+    lat: 40.8248049
+    lng: 140.7353346
+    type: 温泉
+-
+    id: 8
+    name: 津軽おのえ温泉 福家
+    url: http://fukuya-spa.com/
+    map: https://maps.google.com/?cid=10997348967938379484&hl=ja
+    address: 青森県平川市新屋町道ノ下35-2
+    price: 1210
+    lat: 40.6046037
+    lng: 140.5676629
+    type: 温泉
+-
+    id: 9
+    name: つるまい温泉
+    url: https://www.aptinet.jp/Detail_display_00002991.html?id=00002991&t=0
+    map: https://maps.google.com/?cid=6132722406749259694&hl=ja
+    address: 青森県北津軽郡鶴田町山道高留57-1
+    price: 350
+    lat: 40.7639096
+    lng: 140.4449868
+    type: 銭湯
+-
+    id: 10
+    name: 天然温泉 かっぱのゆ
+    url: https://www.atca.info/detail.html?oid=6
+    map: https://maps.google.com/?cid=845357782225294516&hl=ja
+    address: 青森県青森市横内神田95-1
+    price: 420
+    lat: 40.7758553
+    lng: 140.7643383
+    type: 温泉
+-
+    id: 11
+    name: 温泉みちのく
+    url: 
+    map: https://maps.google.com/?cid=15921937758403029958&hl=ja
+    address: 青森県八戸市類家1-8-20
+    price: 420
+    lat: 40.509982
+    lng: 141.502455
+    type: 銭湯
+-
+    id: 12
+    name: 道の駅いかりがせき 津軽関の庄温泉
+    url: http://ikarigaseki.com/onsen.html
+    map: https://maps.google.com/?cid=13525606383528933089&hl=ja
+    address: 青森県平川市碇ケ関阿原13-1
+    price: 350
+    lat: 40.4847699
+    lng: 140.621732
+    type: 温泉
+-
+    id: 13
+    name: 長根公園浴場 森のかおり
+    url: http://www.morinokaori.jp/
+    map: https://maps.google.com/?cid=4643402069278548896&hl=ja
+    address: 青森県八戸市売市1-1-6
+    price: 400
+    lat: 40.5089205
+    lng: 141.4795406
+    type: 銭湯
+-
+    id: 14
+    name: 極楽湯(八戸店)
+    url: http://www.gokurakuyu.jp/hachinohe.html
+    map: https://maps.google.com/?cid=13159634740521506388&hl=ja
+    address: 青森県八戸市沼館4-7-108
+    price: 450
+    lat: 40.5284968
+    lng: 141.5001131
+    type: 温泉
+-
+    id: 15
+    name: 天然温泉 スーパー銭湯 エルムの湯
+    url: http://elmnoyu.com/
+    map: https://maps.google.com/?cid=10515203694798537795&hl=ja
+    address: 青森県五所川原市唐笠柳藤巻509-17
+    price: 440
+    lat: 40.799656
+    lng: 140.457072
+    type: 温泉
+-
+    id: 16
+    name: 東北温泉
+    url: http://www.touhoku-onsen.com/
+    map: https://maps.google.com/?cid=4288196770286667009&hl=ja
+    address: 青森県上北郡東北町字上笹橋21-18
+    price: 300
+    lat: 40.7785389
+    lng: 141.2169173
+    type: 温泉
+-
+    id: 17
+    name: 熊ノ沢温泉
+    url: http://www.enburi-style.com/detail/index_278.html
+    map: https://maps.google.com/?cid=15933662541334002908&hl=ja
+    address: 青森県八戸市尻内町熊ノ沢34-251
+    price: 450
+    lat: 40.5205346
+    lng: 141.4243595
+    type: 温泉
+-
+    id: 18
+    name: 天然温泉 お食事処 花の湯
+    url: http://www.hanano-yu.net/index.shtml
+    map: https://maps.google.com/?cid=2891585204803092403&hl=ja
+    address: 青森県平川市岩館長田97-1
+    price: 400
+    lat: 40.55613839999999
+    lng: 140.5506989
+    type: 温泉
+-
+    id: 19
+    name: バーデハウスふくち
+    url: http://www.badepark.com/
+    map: https://maps.google.com/?cid=8862224733508150021&hl=ja
+    address: 青森県三戸郡南部町苫米地字上根岸73-1
+    price: 1120
+    lat: 40.477707
+    lng: 141.3745885
+    type: 温泉
+-
+    id: 20
+    name: せせらぎ温泉
+    url: http://kimura-jkg.com/publics/index/24/
+    map: https://maps.google.com/?cid=14219775333286045248&hl=ja
+    address: 青森県弘前市原ヶ平奥野5-5
+    price: 380
+    lat: 40.5632037
+    lng: 140.4707323
+    type: 温泉
+-
+    id: 21
+    name: スパハウスろっかぽっか
+    url: http://www.roccapocca.com/
+    map: https://maps.google.com/?cid=6137581044121107791&hl=ja
+    address: 青森県上北郡六ヶ所村鷹架内子内337
+    price: 700
+    lat: 40.9242899
+    lng: 141.2777457
+    type: 温泉
+-
+    id: 22
+    name: 五戸まきば温泉
+    url: http://gonohe-makibaonsen.com/
+    map: https://maps.google.com/?cid=18285657209009502207&hl=ja
+    address: 青森県三戸郡五戸町字苗代沢3
+    price: 420
+    lat: 40.5127216
+    lng: 141.329371
+    type: 温泉
+-
+    id: 23
+    name: おおびらき温泉
+    url: https://takashige-group.jp/oobiraki/
+    map: https://maps.google.com/?cid=13690258219362685396&hl=ja
+    address: 青森県弘前市大開2-9
+    price: 380
+    lat: 40.575736
+    lng: 140.4458709
+    type: 温泉
+-
+    id: 24
+    name: 新屋温泉
+    url: http://www.ne.jp/asahi/araya/onsen/
+    map: https://maps.google.com/?cid=9982885855062171373&hl=ja
+    address: 青森県平川市新屋平野84-14
+    price: 400
+    lat: 40.5919222
+    lng: 140.6002189
+    type: 温泉
+-
+    id: 25
+    name: 三沢空港温泉
+    url: http://kite-misawa.com/misawa/%E4%B8%89%E6%B2%A2%E7%A9%BA%E6%B8%AF%E6%B8%A9%E6%B3%89-2/
+    map: https://maps.google.com/?cid=7016351908307614713&hl=ja
+    address: 青森県三沢市東岡三沢1-83-90
+    price: 350
+    lat: 40.6941867
+    lng: 141.3867979
+    type: 温泉
+-
+    id: 26
+    name: 寿浴場
+    url: 
+    map: https://maps.google.com/?cid=11972626566491830261&hl=ja
+    address: 青森県八戸市白銀町字田端2-1
+    price: 450
+    lat: 40.5189394
+    lng: 141.5510452
+    type: 銭湯
+-
+    id: 27
+    name: フラワー温泉 花月苑
+    url: 
+    map: https://maps.google.com/?cid=17770946609578850020&hl=ja
+    address: 青森県青森市浜館5-3-6
+    price: 450
+    lat: 40.8086521
+    lng: 140.7909031
+    type: 銭湯
+-
+    id: 28
+    name: 白馬龍神温泉
+    url: http://asahiweb.jp/hakuba.html
+    map: https://maps.google.com/?cid=14974851173137807278&hl=ja
+    address: 青森県弘前市小栗山芹沢2-1
+    price: 380
+    lat: 40.5581617
+    lng: 140.4912973
+    type: 温泉
+-
+    id: 29
+    name: 三内温泉ヘルスセンター
+    url: 
+    map: https://maps.google.com/?cid=1247525844827931731&hl=ja
+    address: 青森県青森市三内沢部306-1
+    price: 400
+    lat: 40.8101204
+    lng: 140.6912077
+    type: 共同浴場・銭湯
+-
+    id: 30
+    name: りんごのゆ 日計
+    url: http://todik2.goemonburo.com/ha-ringo.htm
+    map: https://maps.google.com/?cid=6428044454328531378&hl=ja
+    address: 青森県八戸市河原木日計5-136-1
+    price: 400
+    lat: 40.5420867
+    lng: 141.4837625
+    type: 銭湯
+-
+    id: 31
+    name: こやなぎ温泉
+    url: https://www.atca.info/detail.html?oid=11
+    map: https://maps.google.com/?cid=4616631459690424794&hl=ja
+    address: 青森県青森市小柳4-1-13
+    price: 420
+    lat: 40.8188108
+    lng: 140.7938941
+    type: 銭湯
+-
+    id: 32
+    name: 双葉湯
+    url: 
+    map: https://maps.google.com/?cid=11262988024735119048&hl=ja
+    address: 青森県八戸市湊町字大沢28-16
+    price: 450
+    lat: 40.52416059999999
+    lng: 141.5317022
+    type: 銭湯
+-
+    id: 33
+    name: みさき浴泉
+    url: 
+    map: https://maps.google.com/?cid=12761430249582656468&hl=ja
+    address: 青森県八戸市白銀台2-9-9
+    price: 450
+    lat: 40.5160426
+    lng: 141.5591717
+    type: 銭湯
+-
+    id: 34
+    name: アクアセラピ温泉 森ランド
+    url: https://ja-jp.facebook.com/pages/%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%BB%E3%83%A9%E3%83%94-%E6%B8%A9%E6%B3%89-%E3%83%A2%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%89/184685071571607
+    map: https://maps.google.com/?cid=11324369878275210886&hl=ja
+    address: 青森県上北郡六戸町折茂鳥喰谷地34-1
+    price: 380
+    lat: 40.6069418
+    lng: 141.302335
+    type: 温泉
+-
+    id: 35
+    name: 柳湯
+    url: 
+    map: https://maps.google.com/?cid=1175921334971497070&hl=ja
+    address: 青森県八戸市湊町柳町24
+    price: 420
+    lat: 40.5215518
+    lng: 141.5253837
+    type: 銭湯
+-
+    id: 36
+    name: からんころん温泉
+    url: http://karankoron.denen.biz/
+    map: https://maps.google.com/?cid=10197861132287236957&hl=ja
+    address: 青森県平川市館山板橋19-1
+    price: 400
+    lat: 40.6022948
+    lng: 140.5364038
+    type: 温泉
+-
+    id: 37
+    name: ゆーゆーランド
+    url: 
+    map: https://maps.google.com/?cid=7059467491791818655&hl=ja
+    address: 青森県十和田市三本木字稲吉121-551
+    price: 400
+    lat: 40.6117724
+    lng: 141.2339445
+    type: 銭湯
+-
+    id: 38
+    name: 平畑温泉
+    url: http://kite-misawa.com/misawa/hirahata-onsen/
+    map: https://maps.google.com/?cid=11943960476021333383&hl=ja
+    address: 青森県三沢市岡三沢8-83-2
+    price: 330
+    lat: 40.6944374
+    lng: 141.3703829
+    type: 温泉
+-
+    id: 39
+    name: 天然温泉 和ノ湯
+    url: https://www.atca.info/detail.html?oid=4470
+    map: https://maps.google.com/?cid=500643435184484182&hl=ja
+    address: 青森県青森市浪岡杉沢井の下133-1
+    price: 420
+    lat: 40.7214475
+    lng: 140.6175457
+    type: 温泉
+-
+    id: 40
+    name: 仙寿 鶴亀温泉
+    url: https://www.houen-aomori.co.jp/onsen-link/tsurukame/
+    map: https://maps.google.com/?cid=14242276140753324163&hl=ja
+    address: 青森県青森市安田近野1-73
+    price: 420
+    lat: 40.7989139
+    lng: 140.7069626
+    type: 温泉
+-
+    id: 41
+    name: 桂木浴場
+    url: 
+    map: https://maps.google.com/?cid=16937998470444888579&hl=ja
+    address: 青森県青森市桂木2-10-1
+    price: 420
+    lat: 40.81013919999999
+    lng: 140.744023
+    type: 銭湯
+-
+    id: 42
+    name: なごみ処 湯ったら温泉
+    url: 
+    map: https://maps.google.com/?cid=14044234032431795487&hl=ja
+    address: 青森県青森市羽白字富田235-1
+    price: 400
+    lat: 40.8516837
+    lng: 140.6861128
+    type: 温泉
+-
+    id: 43
+    name: やすらぎ温泉
+    url: http://kimura-jkg.com/index.php?id=15
+    map: https://maps.google.com/?cid=6651379254545483571&hl=ja
+    address: 青森県弘前市石渡大保55-1
+    price: 380
+    lat: 40.63333799999999
+    lng: 140.4498092
+    type: 温泉
+-
+    id: 44
+    name: 健康温泉桃太郎
+    url: https://cocolon.jp/momotaro/
+    map: https://maps.google.com/?cid=14740347415420625175&hl=ja
+    address: 青森県弘前市新里下樋田66-1
+    price: 300
+    lat: 40.6023057
+    lng: 140.5202232
+    type: 温泉
+-
+    id: 45
+    name: きずなの湯 境関温泉
+    url: http://www.rtgp.jp/sakaizekionsen/
+    map: https://maps.google.com/?cid=11276668866052364365&hl=ja
+    address: 青森県弘前市境関字亥の宮15-2
+    price: 380
+    lat: 40.6160511
+    lng: 140.5036254
+    type: 温泉
+-
+    id: 46
+    name: 長寿温泉
+    url: https://hachinohe.mypl.net/shop/00000352504/
+    map: https://maps.google.com/?cid=17632130894701627301&hl=ja
+    address: 青森県八戸市下長3-21-11
+    price: 450
+    lat: 40.5389436
+    lng: 141.4720957
+    type: 温泉
+-
+    id: 47
+    name: 十和田温泉
+    url: http://todik2.goemonburo.com/towadanew.htm
+    map: https://maps.google.com/?cid=4662197020063055163&hl=ja
+    address: 青森県十和田市西四番町4-6
+    price: 400
+    lat: 40.6080462
+    lng: 141.2150246
+    type: 温泉
+-
+    id: 48
+    name: ほっとプラザ 杉の子温泉
+    url: https://www.aptinet.jp/Detail_display_00002875.html?id=00002875&t=0
+    map: https://maps.google.com/?cid=10259454926024382740&hl=ja
+    address: 青森県上北郡七戸町中岫長沢下5-18
+    price: 310
+    lat: 40.7129498
+    lng: 141.1855488
+    type: 温泉
+-
+    id: 49
+    name: 岩盤風呂 よしの湯
+    url: 
+    map: https://maps.google.com/?cid=8921898277928760151&hl=ja
+    address: 青森県むつ市海老川町21-1
+    price: 420
+    lat: 41.2915058
+    lng: 141.1996811
+    type: 銭湯
+-
+    id: 50
+    name: 桑畑温泉 湯ん湯ん
+    url: https://www.kazamaura.jp/villager/facilities/yunyun/
+    map: https://maps.google.com/?cid=5001255006291599407&hl=ja
+    address: 青森県下北郡風間浦村易国間湯ノ上1-1
+    price: 400
+    lat: 41.4819121
+    lng: 141.0357318
+    type: 温泉
+-
+    id: 51
+    name: あおば温泉
+    url: http://daigo.technosweb.com/aobaspa/
+    map: https://maps.google.com/?cid=2828760398140947979&hl=ja
+    address: 青森県三沢市花園町5-31-3805
+    price: 350
+    lat: 40.68245640000001
+    lng: 141.3512959
+    type: 温泉
+-
+    id: 52
+    name: 桂温泉
+    url: http://kite-misawa.com/misawa/katsura-onsen/
+    map: https://maps.google.com/?cid=12219428329580665830&hl=ja
+    address: 青森県三沢市岡三沢1-1-87
+    price: 350
+    lat: 40.6913628
+    lng: 141.3763531
+    type: 温泉
+-
+    id: 53
+    name: 木崎野温泉
+    url: http://kite-misawa.com/misawa/kizakino-onsen/
+    map: https://maps.google.com/?cid=3017056637195414170&hl=ja
+    address: 青森県三沢市東町3-6-2
+    price: 330
+    lat: 40.6753469
+    lng: 141.3788001
+    type: 温泉
+-
+    id: 54
+    name: 唐竹温泉
+    url: https://www.aptinet.jp/Detail_display_00001094.html?id=00001094&t=0
+    map: https://maps.google.com/?cid=4713809481699790927&hl=ja
+    address: 青森県平川市唐竹川原田4-3
+    price: 420
+    lat: 40.5647336
+    lng: 140.5952552
+    type: 銭湯
+-
+    id: 55
+    name: フラワー温泉 やえだ
+    url: https://www.atca.info/detail.html?oid=24
+    map: https://maps.google.com/?cid=3503592350421177894&hl=ja
+    address: 青森県青森市造道1-9-10
+    price: 450
+    lat: 40.8324337
+    lng: 140.7883108
+    type: 温泉
+-
+    id: 56
+    name: 天間林温泉
+    url: https://www.aptinet.jp/Detail_display_00002848.html?id=00002848&t=0
+    map: https://maps.google.com/?cid=17605876956651938234&hl=ja
+    address: 青森県上北郡七戸町字森ケ沢211-3
+    price: 300
+    lat: 40.7478798
+    lng: 141.1552052
+    type: 温泉
+-
+    id: 57
+    name: 一川目温泉 なごみの湯
+    url: http://www.ooyamano-ie.jp/nagominoyu/
+    map: https://maps.google.com/?cid=8374557831411847938&hl=ja
+    address: 青森県上北郡おいらせ町一川目4-127-115
+    price: 390
+    lat: 40.6403842
+    lng: 141.4414173
+    type: 温泉
+-
+    id: 58
+    name: 天然掛け流し 一本木沢温泉
+    url: http://newss.jp/
+    map: https://maps.google.com/?cid=6097127558157456011&hl=ja
+    address: 青森県十和田市三本木一本木沢93-3
+    price: 380
+    lat: 40.6380474
+    lng: 141.2306866
+    type: 温泉
+-
+    id: 59
+    name: 天然温泉 紅葉の湯
+    url: https://momijinoyu2015.wixsite.com/momijinoyu
+    map: https://maps.google.com/?cid=2117705367841047593&hl=ja
+    address: 青森県十和田市三本木千歳森391-4
+    price: 400
+    lat: 40.6368923
+    lng: 141.2011917
+    type: 温泉
+-
+    id: 60
+    name: たらポッキ温泉
+    url: https://itp.ne.jp/info/021760762000000899/
+    map: https://maps.google.com/?cid=16759765183150224287&hl=ja
+    address: 青森県青森市鶴ケ坂田川88-3
+    price: 400
+    lat: 40.7944161
+    lng: 140.634697
+    type: 温泉
+-
+    id: 61
+    name: あすなろ温泉
+    url: https://takashige-group.jp/asunaro/
+    map: https://maps.google.com/?cid=2507167823475207598&hl=ja
+    address: 青森県青森市牛館松枝7-1
+    price: 390
+    lat: 40.7799769
+    lng: 140.7518763
+    type: 温泉
+-
+    id: 62
+    name: 雀館温泉 こま温泉浴場
+    url: https://sites.google.com/view/sannohech/%E3%81%93%E3%81%BE%E6%B8%A9%E6%B3%89%E6%B5%B4%E5%A0%B4
+    map: https://maps.google.com/?cid=18015420812589202484&hl=ja
+    address: 青森県三戸郡三戸町川守田雀舘46-1
+    price: 450
+    lat: 40.3740069
+    lng: 141.2408449
+    type: 温泉
+-
+    id: 63
+    name: 星野リゾート 青森屋 古牧温泉元湯
+    url: https://noresoreaomoriya.jp/hotspring/
+    map: https://maps.google.com/?cid=3066765315359058966&hl=ja
+    address: 青森県三沢市古間木山56
+    price: 450
+    lat: 40.66663459999999
+    lng: 141.3540754
+    type: 温泉
+-
+    id: 64
+    name: 百沢温泉
+    url: https://www.aptinet.jp/Detail_display_00000242.html?id=00000242&t=0
+    map: https://maps.google.com/?cid=12156942938391180353&hl=ja
+    address: 青森県弘前市百沢字寺沢290-9
+    price: 300
+    lat: 40.620103
+    lng: 140.3394617
+    type: 温泉
+-
+    id: 65
+    name: ポパイ温泉
+    url: https://www.atca.info/detail.html?oid=63
+    map: https://maps.google.com/?cid=5093050131175107416&hl=ja
+    address: 青森県青森市浪岡下十川扇田189-1
+    price: 350
+    lat: 40.689323
+    lng: 140.5587737
+    type: 温泉
+-
+    id: 66
+    name: あたご温泉
+    url: 
+    map: https://maps.google.com/?cid=17464245007097472658&hl=ja
+    address: 青森県弘前市愛宕山下127-25
+    price: 320
+    lat: 40.6299694
+    lng: 140.4061856
+    type: 温泉
+-
+    id: 67
+    name: あづましの里温泉 いい湯だな
+    url: https://www.city.tsugaru.aomori.jp/tourism/miru_asobu/5/1851.html
+    map: https://maps.google.com/?cid=12173507549861145050&hl=ja
+    address: 青森県つがる市木造藤田31-2
+    price: 450
+    lat: 40.816391
+    lng: 140.3849447
+    type: 温泉
+-
+    id: 68
+    name: 下田温泉 ゆーらくえん
+    url: 
+    map: https://maps.google.com/?cid=9653757106243292024&hl=ja
+    address: 青森県上北郡おいらせ町中野平56-7
+    price: 420
+    lat: 40.6023019
+    lng: 141.4147603
+    type: 温泉
+-
+    id: 69
+    name: 野馬の湯 天然ラドン温泉
+    url: 
+    map: https://maps.google.com/?cid=1926000415433527063&hl=ja
+    address: 青森県八戸市大久保野馬小屋52-1
+    price: 420
+    lat: 40.5126497
+    lng: 141.5610793
+    type: 温泉
+-
+    id: 70
+    name: あさひ温泉
+    url: https://www.atca.info/detail.html?oid=2
+    map: https://maps.google.com/?cid=2598460085109519365&hl=ja
+    address: 青森県青森市富田3-16-50
+    price: 400
+    lat: 40.8339544
+    lng: 140.7094113
+    type: 温泉
+-
+    id: 71
+    name: ふくろうの湯
+    url: https://www.aptinet.jp/Detail_display_00002866.html?id=00002866&t=0
+    map: https://maps.google.com/?cid=11080335497451740179&hl=ja
+    address: 青森県上北郡七戸町字道ノ上63-3
+    price: 310
+    lat: 40.7452304
+    lng: 141.152766
+    type: 温泉
+-
+    id: 72
+    name: りんごのゆ(吹上店)
+    url: 
+    map: https://maps.google.com/?cid=12754685749401657487&hl=ja
+    address: 青森県八戸市吹上5-17-12
+    price: 400
+    lat: 40.49651739999999
+    lng: 141.4986632
+    type: 温泉
+-
+    id: 73
+    name: 前田観光桜温泉
+    url: http://www.maedakankou.jp/sakura/
+    map: https://maps.google.com/?cid=6308488010415792465&hl=ja
+    address: 青森県弘前市賀田2-10-1
+    price: 380
+    lat: 40.6149634
+    lng: 140.4168825
+    type: 温泉
+-
+    id: 74
+    name: 沖館温泉
+    url: 
+    map: https://maps.google.com/?cid=8579559425237622474&hl=ja
+    address: 青森県青森市富田1-16-1
+    price: 400
+    lat: 40.8307172
+    lng: 140.7177236
+    type: 銭湯
+-
+    id: 75
+    name: 桔梗野温泉
+    url: 
+    map: https://maps.google.com/?cid=7407624913982785529&hl=ja
+    address: 青森県弘前市桔梗野4-13-4
+    price: 420
+    lat: 40.5891841
+    lng: 140.4612569
+    type: 銭湯
+-
+    id: 76
+    name: 大福温泉浴場
+    url: 
+    map: https://maps.google.com/?cid=7767150300075696962&hl=ja
+    address: 青森県青森市浪館前田4-25-31
+    price: 420
+    lat: 40.810921
+    lng: 140.7231418
+    type: 銭湯
+-
+    id: 77
+    name: せせらぎ温泉
+    url: http://www.nihon-kankou.or.jp/aomori/detail/02206cd2112023656
+    map: https://maps.google.com/?cid=12286626490547827583&hl=ja
+    address: 青森県十和田市相坂下前川原188-1
+    price: 390
+    lat: 40.5888419
+    lng: 141.2398044
+    type: 温泉
+-
+    id: 78
+    name: 匠の湯(八戸多賀台店)
+    url: http://www.lococube.jp/s/takuminoyu/web/index.html
+    map: https://maps.google.com/?cid=15607357933141778934&hl=ja
+    address: 青森県八戸市多賀台2-15-18
+    price: 420
+    lat: 40.5860403
+    lng: 141.4453476
+    type: 温泉
+-
+    id: 79
+    name: むつ矢立温泉
+    url: https://www.aptinet.jp/Detail_display_00002847.html?id=00002847&t=0
+    map: https://maps.google.com/?cid=5700282232464751672&hl=ja
+    address: 青森県むつ市矢立山49-1
+    price: 450
+    lat: 41.3089901
+    lng: 141.1647807
+    type: 温泉
+-
+    id: 80
+    name: 新郷温泉館
+    url: http://www.vill.shingo.aomori.jp/sight/onsensyukuhaku/onsenkan/
+    map: https://maps.google.com/?cid=3510689366504049177&hl=ja
+    address: 青森県三戸郡新郷村西越温泉沢5-4
+    price: 390
+    lat: 40.4172066
+    lng: 141.1152457
+    type: 温泉
+-
+    id: 81
+    name: 青森競輪場温泉
+    url: http://www.aomorikeirin.com/access/aomori-keirin/onsen/index.html
+    map: https://maps.google.com/?cid=13535886858878409239&hl=ja
+    address: 青森県青森市新城平岡1-1
+    price: 100
+    lat: 40.7971148
+    lng: 140.6645082
+    type: 温泉
+-
+    id: 82
+    name: 温湯温泉 共同浴場 鶴の名湯温湯温泉
+    url: http://kuroishi.or.jp/stay_onsen/nuruyuonsen/nuruyuonsen_kyoudaouyokujo
+    map: https://maps.google.com/?cid=6834703484691427051&hl=ja
+    address: 青森県黒石市温湯鶴泉79
+    price: 250
+    lat: 40.6069029
+    lng: 140.6665141
+    type: 共同浴場・銭湯
+-
+    id: 83
+    name: さかた温泉
+    url: http://www6.plala.or.jp/onsen7/
+    map: https://maps.google.com/?cid=14097872659317759673&hl=ja
+    address: 青森県上北郡七戸町字東上川原20-20
+    price: 300
+    lat: 40.6942352
+    lng: 141.1505253
+    type: 温泉
+-
+    id: 84
+    name: バイタル新井田温泉
+    url: 
+    map: https://maps.google.com/?cid=12576182960879624390&hl=ja
+    address: 青森県八戸市新井田出口平6-18
+    price: 400
+    lat: 40.4909888
+    lng: 141.5406712
+    type: 温泉
+-
+    id: 85
+    name: 岩木青少年スポーツセンター
+    url: 
+    map: https://maps.google.com/?cid=3267764889596783458&hl=ja
+    address: 青森県弘前市常盤野湯段萢1-2
+    price: 1000
+    lat: 40.6263261
+    lng: 140.264487
+    type: 温泉
+-
+    id: 86
+    name: ゆったり温泉
+    url: https://www.medetai-tsuruta.jp/spot/accommodation.html
+    map: https://maps.google.com/?cid=5506240717486288195&hl=ja
+    address: 青森県北津軽郡鶴田町木筒西柳川61-2
+    price: 350
+    lat: 40.7593231
+    lng: 140.4150124
+    type: 温泉
+-
+    id: 87
+    name: 板柳町 ふるさとセンター
+    url: https://www.aptinet.jp/Detail_display_00000317.html
+    map: https://maps.google.com/?cid=1786072073597513430&hl=ja
+    address: 青森県北津軽郡板柳町福野田本泉34-6
+    price: 400
+    lat: 40.6867301
+    lng: 140.4633439
+    type: 温泉
+-
+    id: 88
+    name: 八戸中央温泉 卵湯
+    url: 
+    map: https://maps.google.com/?cid=15233167573821830709&hl=ja
+    address: 青森県八戸市柏崎5-1-17
+    price: 450
+    lat: 40.5168622
+    lng: 141.501916
+    type: 銭湯
+-
+    id: 89
+    name: 広田温泉
+    url: http://t-ate.com/archives/2932.html
+    map: https://maps.google.com/?cid=3780505302307762999&hl=ja
+    address: 青森県五所川原市広田下り松111-1
+    price: 320
+    lat: 40.779862
+    lng: 140.4657722
+    type: 温泉
+-
+    id: 90
+    name: 天然温泉まつのゆ
+    url: http://www.nihon-kankou.or.jp/aomori/024082/detail/02408cd2112034903
+    map: https://maps.google.com/?cid=18439180373818041627&hl=ja
+    address: 青森県上北郡東北町上北北1-34-49
+    price: 300
+    lat: 40.7322461
+    lng: 141.2556572
+    type: 温泉
+-
+    id: 91
+    name: 花咲温泉
+    url: 
+    map: https://maps.google.com/?cid=182036044386985837&hl=ja
+    address: 青森県弘前市津賀野浅田987-1
+    price: 300
+    lat: 40.6407902
+    lng: 140.4903205
+    type: 温泉
+-
+    id: 92
+    name: 石神温泉
+    url: http://simokita.org/onsen/isigami/
+    map: https://maps.google.com/?cid=11163682832883008976&hl=ja
+    address: 青森県むつ市北関根ノ内袖角地342-61
+    price: 450
+    lat: 41.3658617
+    lng: 141.2085648
+    type: 温泉
+-
+    id: 93
+    name: あすなろ温泉
+    url: http://www.shokokai.or.jp/02/0240210006/index.htm#sin1
+    map: https://maps.google.com/?cid=6111897986735040672&hl=ja
+    address: 青森県上北郡七戸町笊田川久保54-1
+    price: 280
+    lat: 40.6986852
+    lng: 141.1654715
+    type: 温泉
+-
+    id: 94
+    name: 奥薬研温泉 夫婦かっぱの湯
+    url: http://simokita.org/onsen/meoto/
+    map: https://maps.google.com/?cid=13662700282602172250&hl=ja
+    address: 青森県むつ市大畑町赤滝山1-3
+    price: 230
+    lat: 41.3869739
+    lng: 141.0460352
+    type: 温泉
+-
+    id: 95
+    name: 健康の森 花岡プラザ
+    url: http://www.city.aomori.aomori.jp/n-kenko/shiseijouhou/aomorishi-konnamati/koukyoushisetsu/itiran/18.html
+    map: https://maps.google.com/?cid=2503267555787984462&hl=ja
+    address: 青森県青森市浪岡大字女鹿沢字野尻14-1
+    price: 360
+    lat: 40.712112
+    lng: 140.5732187
+    type: 温泉
+-
+    id: 96
+    name: 温泉浴場 三沢市民の森
+    url: http://misawashi-jichikousya.net/onsen_yokujou
+    map: https://maps.google.com/?cid=4485952215535176246&hl=ja
+    address: 青森県三沢市三沢淋代平116-2945
+    price: 160
+    lat: 40.7325374
+    lng: 141.3609539
+    type: 温泉
+-
+    id: 97
+    name: 下風呂温泉 大湯
+    url: https://www.shimohuro.com/%E4%B8%8B%E9%A2%A8%E5%91%82%E6%B8%A9%E6%B3%89%E9%83%B7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/%E5%85%AC%E8%A1%86%E6%B5%B4%E5%A0%B4/
+    map: https://maps.google.com/?cid=8523760316179198996&hl=ja
+    address: 青森県下北郡風間浦村下風呂97
+    price: 350
+    lat: 41.4667889
+    lng: 141.0920887
+    type: 共同浴場・銭湯
+-
+    id: 98
+    name: すもも沢温泉郷
+    url: http://tobun.jp/sumomo.html
+    map: https://maps.google.com/?cid=8458450997933734842&hl=ja
+    address: 青森県上北郡七戸町李沢道の下22-1
+    price: 200
+    lat: 40.7577693
+    lng: 141.2423964
+    type: 共同浴場・銭湯
+-
+    id: 99
+    name: 浅虫温泉公衆浴場 松の湯
+    url: https://www.atca.info/detail.html?oid=42
+    map: https://maps.google.com/?cid=11626469947635987643&hl=ja
+    address: 青森県青森市浅虫内野13
+    price: 350
+    lat: 40.8884438
+    lng: 140.8638988
+    type: 共同浴場・銭湯
+-
+    id: 100
+    name: 平内いきいき健康館 よごしやま温泉
+    url: 
+    map: https://maps.google.com/?cid=2008190669953672713&hl=ja
+    address: 青森県東津軽郡平内町浜子堀替106-4
+    price: 420
+    lat: 40.9236818
+    lng: 140.9911709
+    type: 温泉
+-
+    id: 101
+    name: 金太郎温泉
+    url: 
+    map: https://maps.google.com/?cid=15111568868079731325&hl=ja
+    address: 青森県五所川原市姥萢桜木299-1
+    price: 320
+    lat: 40.782107
+    lng: 140.4403987
+    type: 温泉
+-
+    id: 102
+    name: 鷹の羽温泉
+    url: https://www.aptinet.jp/Detail_display_00001092.html?id=00001092&t=0
+    map: https://maps.google.com/?cid=3766313049618004313&hl=ja
+    address: 青森県平川市本町村元228-3
+    price: 350
+    lat: 40.5894018
+    lng: 140.5631578
+    type: 温泉
+-
+    id: 103
+    name: ひばの湯 ぽぷら
+    url: 
+    map: https://maps.google.com/?cid=15339129392429353994&hl=ja
+    address: 青森県上北郡東北町往来ノ下31-3
+    price: 250
+    lat: 40.7755859
+    lng: 141.2807964
+    type: 温泉
+-
+    id: 104
+    name: 蓬田村ふれあいセンター よもぎ温泉
+    url: http://www.yomogita-assist.com/onsen.html
+    map: https://maps.google.com/?cid=7259528953923797977&hl=ja
+    address: 青森県東津軽郡蓬田村郷沢浜田136-4
+    price: 350
+    lat: 40.9942197
+    lng: 140.6465647
+    type: 温泉
+-
+    id: 105
+    name: はたけのゆっこ
+    url: 
+    map: https://maps.google.com/?cid=11372050133900323770&hl=ja
+    address: 青森県南津軽郡藤崎町藤崎向根子橋21-2
+    price: 380
+    lat: 40.671211
+    lng: 140.491722
+    type: 温泉
+-
+    id: 106
+    name: みちのく温泉
+    url: http://www.artstowada.com/data.cgi?id=140712132429
+    map: https://maps.google.com/?cid=17374926871281189966&hl=ja
+    address: 青森県十和田市東三番町21-5
+    price: 360
+    lat: 40.6176117
+    lng: 141.2185119
+    type: 共同浴場・銭湯
+-
+    id: 107
+    name: 湯の沢温泉 ちゃぽらっと
+    url: https://www.aptinet.jp/Detail_display_00002140.html?id=00002140&t=0
+    map: https://maps.google.com/?cid=5863966842013428537&hl=ja
+    address: 青森県東津軽郡外ヶ浜町平舘根岸湯の沢150
+    price: 350
+    lat: 41.1496059
+    lng: 140.6347472
+    type: 温泉
+-
+    id: 108
+    name: 御所温泉 相馬やすらぎ館
+    url: http://www.city.hirosaki.aomori.jp/gaiyou/shisetsu/soumatyousya.html
+    map: https://maps.google.com/?cid=3739253341716132701&hl=ja
+    address: 青森県弘前市五所字野沢41-1
+    price: 310
+    lat: 40.585799
+    lng: 140.3971599
+    type: 温泉
+-
+    id: 109
+    name: 天然温泉 三陸
+    url: http://kite-misawa.com/misawa/sanriku-onsen/
+    map: https://maps.google.com/?cid=15842116586501944767&hl=ja
+    address: 青森県三沢市三川目3-912-1
+    price: 300
+    lat: 40.6809775
+    lng: 141.4291189
+    type: 温泉
+-
+    id: 110
+    name: 湊高台温泉 帆のかおり
+    url: http://www.honokaori.jp/
+    map: https://maps.google.com/?cid=13052743712487223803&hl=ja
+    address: 青森県八戸市新井田松山下野場7-31
+    price: 420
+    lat: 40.5033942
+    lng: 141.5361534
+    type: 温泉
+-
+    id: 111
+    name: ニュー朝日湯
+    url: 
+    map: https://maps.google.com/?cid=6957978979703659269&hl=ja
+    address: 青森県八戸市類家縄手下4-7
+    price: 450
+    lat: 40.50577860000001
+    lng: 141.4939713
+    type: 銭湯
+-
+    id: 112
+    name: 姉戸川温泉
+    url: http://www.nihon-kankou.or.jp/detail/02408cd2112034905
+    map: https://maps.google.com/?cid=17167619332385709529&hl=ja
+    address: 青森県上北郡東北町大浦字中久根下98
+    price: 200
+    lat: 40.7114827
+    lng: 141.2989004
+    type: 温泉
+-
+    id: 113
+    name: 松崎温泉
+    url: http://yamaken-inc.jp/spa/
+    map: https://maps.google.com/?cid=9037472486587248730&hl=ja
+    address: 青森県平川市松崎西田27-1
+    price: 400
+    lat: 40.5940648
+    lng: 140.5332324
+    type: 温泉
+-
+    id: 114
+    name: ウェルネスセンター しゃりき温泉
+    url: https://www.city.tsugaru.aomori.jp/tourism/miru_asobu/5/1849.html
+    map: https://maps.google.com/?cid=3943800796380619546&hl=ja
+    address: 青森県つがる市車力町花林48
+    price: 320
+    lat: 40.9481913
+    lng: 140.3588025
+    type: 温泉
+-
+    id: 115
+    name: つがる市木造福祉交流センター しゃこちゃん温泉
+    url: https://www.city.tsugaru.aomori.jp/tourism/miru_asobu/5/1846.html
+    map: https://maps.google.com/?cid=1520356997113973060&hl=ja
+    address: 青森県つがる市木造若緑52
+    price: 320
+    lat: 40.80734349999999
+    lng: 140.380796
+    type: 温泉
+-
+    id: 116
+    name: 倉石温泉
+    url: http://www.town.gonohe.aomori.jp/kankou/annai/018.html
+    map: https://maps.google.com/?cid=6411529003307163661&hl=ja
+    address: 青森県三戸郡五戸町倉石又重上川原153
+    price: 350
+    lat: 40.4815464
+    lng: 141.2176832
+    type: 温泉
+-
+    id: 117
+    name: 湯野川温泉 濃々園
+    url: http://simokita.org/onsen/yunokawa/
+    map: https://maps.google.com/?cid=2848800086486318901&hl=ja
+    address: 青森県むつ市川内町湯野川68
+    price: 380
+    lat: 41.3164373
+    lng: 140.9591361
+    type: 温泉
+-
+    id: 118
+    name: 磯の湯温泉
+    url: http://isonoyu.com/
+    map: https://maps.google.com/?cid=8601498409648372521&hl=ja
+    address: 青森県五所川原市下平井町219
+    price: 390
+    lat: 40.8149991
+    lng: 140.4482226
+    type: 共同浴場・銭湯
+-
+    id: 119
+    name: 館田温泉
+    url: https://itp.ne.jp/info/028935472000000899/
+    map: https://maps.google.com/?cid=11574495108739794312&hl=ja
+    address: 青森県平川市館田前田278-3
+    price: 350
+    lat: 40.58134949999999
+    lng: 140.5384472
+    type: 温泉
+-
+    id: 120
+    name: 海のしずく
+    url: http://t-ate.com/archives/3132.html
+    map: https://maps.google.com/?cid=15183961874851069187&hl=ja
+    address: 青森県西津軽郡鰺ヶ沢町北浮田町平野206-23
+    price: 350
+    lat: 40.7905219
+    lng: 140.2663969
+    type: 温泉
+-
+    id: 121
+    name: し～うらんど
+    url: https://www.wellnessdevelopment.co.jp/shiura/
+    map: https://maps.google.com/?cid=974037257613381071&hl=ja
+    address: 青森県五所川原市磯松山の井115-126
+    price: 1210
+    lat: 41.083968
+    lng: 140.32441
+    type: 温泉
+-
+    id: 122
+    name: 桜ヶ丘温泉
+    url: 
+    map: https://maps.google.com/?cid=17749936748691126174&hl=ja
+    address: 青森県弘前市桜ケ丘4-2-3
+    price: 385
+    lat: 40.575011
+    lng: 140.4521084
+    type: 共同浴場・銭湯
+-
+    id: 123
+    name: じょっぱり温泉
+    url: http://tsugarushi-shakyo.net/onsenshisetsu.html
+    map: https://maps.google.com/?cid=8303514082329125602&hl=ja
+    address: 青森県つがる市柏桑野木田若宮258-2
+    price: 320
+    lat: 40.7803092
+    lng: 140.4055335
+    type: 温泉
+-
+    id: 124
+    name: 喜龍温泉 玉の湯
+    url: https://www.fujisaki-kanko.jp/onsen.html#onsen01
+    map: https://maps.google.com/?cid=3792420475516841351&hl=ja
+    address: 青森県南津軽郡藤崎町藤崎豊田58-19
+    price: 350
+    lat: 40.6554593
+    lng: 140.5057636
+    type: 共同浴場・銭湯
+-
+    id: 125
+    name: 森田温泉
+    url: https://www.city.tsugaru.aomori.jp/tourism/kanko/shukuhaku/2980.html
+    map: https://maps.google.com/?cid=10466045682460582734&hl=ja
+    address: 青森県つがる市森田字月見野110-2
+    price: 300
+    lat: 40.7801113
+    lng: 140.3393487
+    type: 温泉
+-
+    id: 126
+    name: 弘前アサヒサウナ
+    url: http://asahiweb.jp/asahisauna.html
+    map: https://maps.google.com/?cid=4674424084493983950&hl=ja
+    address: 青森県弘前市土手町4
+    price: 500
+    lat: 40.6021393
+    lng: 140.4709984
+    type: 温泉
+-
+    id: 127
+    name: 月見野温泉 おらほの湯
+    url: https://www.city.tsugaru.aomori.jp/tourism/miru_asobu/5/1850.html
+    map: https://maps.google.com/?cid=8005869290679311139&hl=ja
+    address: 青森県つがる市森田町森田月見野290-1
+    price: 320
+    lat: 40.777789
+    lng: 140.3471164
+    type: 温泉
+-
+    id: 128
+    name: 下風呂温泉 新湯
+    url: https://www.shimohuro.com/%E4%B8%8B%E9%A2%A8%E5%91%82%E6%B8%A9%E6%B3%89%E9%83%B7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/%E5%85%AC%E8%A1%86%E6%B5%B4%E5%A0%B4/
+    map: https://maps.google.com/?cid=11745407113591130865&hl=ja
+    address: 青森県下北郡風間浦村下風呂家ノ尻13
+    price: 350
+    lat: 41.4657887
+    lng: 141.0925495
+    type: 共同浴場・銭湯
+-
+    id: 129
+    name: るいけ源泉 えんの湯
+    url: https://public-bath-583.business.site/
+    map: https://maps.google.com/?cid=3937797230132156555&hl=ja
+    address: 青森県八戸市南類家3-1-18
+    price: 450
+    lat: 40.5029087
+    lng: 141.5084516
+    type: 銭湯
+-
+    id: 130
+    name: スパハウスかわむら
+    url: http://kite-misawa.com/misawa/spahouse-kawamura/
+    map: https://maps.google.com/?cid=6677476179366564198&hl=ja
+    address: 青森県三沢市中央町2-4-27
+    price: 350
+    lat: 40.6851706
+    lng: 141.3656372
+    type: 温泉
+-
+    id: 131
+    name: 六ヶ所村老人福祉センター
+    url: http://www.rokkasho.jp/index.cfm/6,0,13,92,html
+    map: https://maps.google.com/?cid=6496629836770127279&hl=ja
+    address: 青森県上北郡六ヶ所村平沼二階坂92-7
+    price: 300
+    lat: 40.8725593
+    lng: 141.3587972
+    type: 温泉
+-
+    id: 132
+    name: ふれあい温泉 川内
+    url: http://simokita.org/onsen/fureai/
+    map: https://maps.google.com/?cid=5155817709564503002&hl=ja
+    address: 青森県むつ市川内町家ノ辺107-4
+    price: 360
+    lat: 41.2882963
+    lng: 140.9741584
+    type: 温泉
+-
+    id: 133
+    name: 公衆浴場 大鰐若松会館
+    url: http://www.tsugarunavi.jp/web/spot_detail.html?id=00004806
+    map: https://maps.google.com/?cid=18124534724382818087&hl=ja
+    address: 青森県南津軽郡大鰐町大鰐大鰐59-1
+    price: 200
+    lat: 40.5084556
+    lng: 140.5788624
+    type: 共同浴場・銭湯
+-
+    id: 134
+    name: 平川市尾上農村環境改善センター さるか荘
+    url: http://sarukasou.jp
+    map: https://maps.google.com/?cid=2038908291857473125&hl=ja
+    address: 青森県平川市猿賀池上45-1
+    price: 400
+    lat: 40.6159506
+    lng: 140.5654023
+    type: 温泉
+-
+    id: 135
+    name: 徳の湯温泉
+    url: https://www.atca.info/detail.html?oid=35
+    map: https://maps.google.com/?cid=4060969985447062284&hl=ja
+    address: 青森県青森市桜川8-5-4
+    price: 420
+    lat: 40.80681850000001
+    lng: 140.769036
+    type: 銭湯
+-
+    id: 136
+    name: トド湯
+    url: 
+    map: https://maps.google.com/?cid=2407827237670463322&hl=ja
+    address: 青森県青森市青柳2-7-21
+    price: 420
+    lat: 40.8274274
+    lng: 140.7589534
+    type: 銭湯
+-
+    id: 137
+    name: 大和温泉
+    url: https://www.aptinet.jp/Detail_display_00001873.html?id=00001873&t=0
+    map: https://maps.google.com/?cid=4280316743173364213&hl=ja
+    address: 青森県平川市中佐渡南田1-2
+    price: 400
+    lat: 40.6143829
+    lng: 140.5777746
+    type: 共同浴場・銭湯
+-
+    id: 138
+    name: 稲穂の湯
+    url: 
+    map: https://maps.google.com/?cid=15623362095030541010&hl=ja
+    address: 青森県つがる市稲垣町繁田白籏56
+    price: 320
+    lat: 40.8955671
+    lng: 140.4217892
+    type: 温泉
+-
+    id: 139
+    name: 碇ヶ関温泉会館
+    url: http://www.nihon-kankou.or.jp/aomori/022101/detail/02210cd2112099501
+    map: https://maps.google.com/?cid=4883041895108279096&hl=ja
+    address: 青森県平川市碇ヶ関鯨森8-1
+    price: 250
+    lat: 40.473986
+    lng: 140.629606
+    type: 温泉
+-
+    id: 140
+    name: よこはま温泉 横浜町老人福祉センター
+    url: http://simokita.org/onsen/yokohama/
+    map: https://maps.google.com/?cid=10810772220012912033&hl=ja
+    address: 青森県上北郡横浜町三保野57-8
+    price: 350
+    lat: 41.0817584
+    lng: 141.2514866
+    type: 温泉
+-
+    id: 141
+    name: 柏温泉
+    url: https://www.city.tsugaru.aomori.jp/tourism/miru_asobu/5/1852.html
+    map: https://maps.google.com/?cid=9295759045269147563&hl=ja
+    address: 青森県つがる市柏下古川絹森55-3
+    price: 390
+    lat: 40.8061488
+    lng: 140.4202655
+    type: 温泉
+-
+    id: 142
+    name: 高増温泉公衆浴場 不動の湯
+    url: 
+    map: https://maps.google.com/?cid=10446788738392623623&hl=ja
+    address: 青森県北津軽郡板柳町大俵和田422-3
+    price: 400
+    lat: 40.71799499999999
+    lng: 140.4888348
+    type: 共同浴場・銭湯
+-
+    id: 143
+    name: 大川原温泉会館 ふくじゅ草
+    url: http://kuroishi.or.jp/stay_onsen/otiaionsen/fukujusou
+    map: https://maps.google.com/?cid=16227030076961735594&hl=ja
+    address: 青森県黒石市大川原萢森下8
+    price: 200
+    lat: 40.6337829
+    lng: 140.7155117
+    type: 温泉
+-
+    id: 144
+    name: 十和田市 市民の家
+    url: http://aomori-oirase.com/spring/shiminnoie
+    map: https://maps.google.com/?cid=10140534975536596750&hl=ja
+    address: 青森県十和田市法量焼山64-164
+    price: 310
+    lat: 40.5798132
+    lng: 140.9957313
+    type: 温泉
+-
+    id: 145
+    name: 野沢温泉
+    url: http://www.vill.shingo.aomori.jp/sight/onsensyukuhaku/nozawa-onsen/
+    map: https://maps.google.com/?cid=12926042482076208957&hl=ja
+    address: 青森県三戸郡新郷村西越温泉沢1-1
+    price: 390
+    lat: 40.4208242
+    lng: 141.1109767
+    type: 共同浴場・銭湯
+-
+    id: 146
+    name: 川部温泉 田舎館村ふれあいセンター
+    url: http://inakadateshakyo.or.jp/publics/index/75/
+    map: https://maps.google.com/?cid=3199451034714062749&hl=ja
+    address: 青森県南津軽郡田舎館村川部村元33-1
+    price: 310
+    lat: 40.6455178
+    lng: 140.5242363
+    type: 温泉
+-
+    id: 147
+    name: 浪岡駅前温泉
+    url: https://www.atca.info/detail.html?oid=60
+    map: https://maps.google.com/?cid=16322317234157140436&hl=ja
+    address: 青森県青森市浪岡浪岡細田87-14
+    price: 350
+    lat: 40.7107055
+    lng: 140.5850134
+    type: 温泉
+-
+    id: 148
+    name: 湯〜トピア小中野
+    url: https://itp.ne.jp/info/028933503000000899/
+    map: https://maps.google.com/?cid=2955076348613297769&hl=ja
+    address: 青森県八戸市小中野6-6-24
+    price: 450
+    lat: 40.5182602
+    lng: 141.5148197
+    type: 温泉
+-
+    id: 149
+    name: 大白温泉
+    url: 
+    map: https://maps.google.com/?cid=18081259147803011651&hl=ja
+    address: 青森県中津軽郡西目屋村白沢白沢口106
+    price: 350
+    lat: 40.5924392
+    lng: 140.2829731
+    type: 温泉
+-
+    id: 150
+    name: タカラの湯
+    url: 
+    map: https://maps.google.com/?cid=8560856448707171684&hl=ja
+    address: 青森県上北郡野辺地町字笹館72-1
+    price: 350
+    lat: 40.8690835
+    lng: 141.1152431
+    type: 銭湯
+-
+    id: 151
+    name: 深浦町フィットネスプラザ ゆとり
+    url: http://t-ate.com/archives/3152.html
+    map: https://maps.google.com/?cid=15168405956119918906&hl=ja
+    address: 青森県西津軽郡深浦町中沢34-1
+    price: 400
+    lat: 40.6365622
+    lng: 139.9329797
+    type: 温泉
+-
+    id: 152
+    name: 常盤老人福祉センター ときわ温泉
+    url: http://www.fujisakishakyo.or.jp/publics/index/27/
+    map: https://maps.google.com/?cid=10387729484344200746&hl=ja
+    address: 青森県南津軽郡藤崎町常盤富田70-1
+    price: 250
+    lat: 40.6710996
+    lng: 140.5472951
+    type: 温泉
+-
+    id: 153
+    name: 高砂湯
+    url: 
+    map: https://maps.google.com/?cid=18232536690912309023&hl=ja
+    address: 青森県八戸市白銀町字三島上28-4
+    price: 450
+    lat: 40.5191648
+    lng: 141.5414324
+    type: 銭湯
+-
+    id: 154
+    name: 五戸温泉 たんぼのゆっこ
+    url: http://www.town.gonohe.aomori.jp/kankou/annai/017.html
+    map: https://maps.google.com/?cid=18174207086121152327&hl=ja
+    address: 青森県三戸郡五戸町字筒口川原8-23
+    price: 390
+    lat: 40.5310013
+    lng: 141.3013901
+    type: 温泉
+-
+    id: 155
+    name: 細野相沢温泉 山の湯
+    url: 
+    map: https://maps.google.com/?cid=14399127466319280179&hl=ja
+    address: 青森県青森市浪岡細野沢井37-3
+    price: 300
+    lat: 40.6936917
+    lng: 140.6600619
+    type: 温泉
+-
+    id: 156
+    name: 岩木温泉
+    url: 
+    map: https://maps.google.com/?cid=17986403383864456196&hl=ja
+    address: 青森県黒石市袋井2-33-34
+    price: 380
+    lat: 40.6407921
+    lng: 140.5902725
+    type: 共同浴場・銭湯
+-
+    id: 157
+    name: 小川温泉 寿湯
+    url: 
+    map: https://maps.google.com/?cid=11040062396990533729&hl=ja
+    address: 青森県むつ市小川町2-4-29
+    price: 450
+    lat: 41.2930852
+    lng: 141.2099956
+    type: 共同浴場・銭湯
+-
+    id: 158
+    name: 久吉たけのこ温泉
+    url: https://hirakawa-kankou.com/2019/02/21/%E4%B9%85%E5%90%89%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=3265221494262072734&hl=ja
+    address: 青森県平川市碇ヶ関蕷ヶ平159-11
+    price: 250
+    lat: 40.4453956
+    lng: 140.6479544
+    type: 温泉
+-
+    id: 159
+    name: 長寿の湯
+    url: 
+    map: https://maps.google.com/?cid=16185005811560369564&hl=ja
+    address: 青森県八戸市沢里字藤子49
+    price: 450
+    lat: 40.4993305
+    lng: 141.4805735
+    type: 銭湯
+-
+    id: 160
+    name: 金木中央老人福祉センター 川倉の湯っこ
+    url: http://www.city.goshogawara.lg.jp/kenkou/fukushi/H2904kanagichuouroujinhukusisennta.html
+    map: https://maps.google.com/?cid=15554063682128508911&hl=ja
+    address: 青森県五所川原市金木町
+    price: 400
+    lat: 40.9030608
+    lng: 140.4385944
+    type: 温泉
+-
+    id: 161
+    name: 青柳会館
+    url: https://www.aptinet.jp/Detail_display_00004807.html?id=00004807&t=0
+    map: https://maps.google.com/?cid=3615215645757437022&hl=ja
+    address: 青森県南津軽郡大鰐町大鰐湯野川原27-2
+    price: 200
+    lat: 40.5206658
+    lng: 140.5747957
+    type: 共同浴場・銭湯
+-
+    id: 162
+    name: 板柳温泉
+    url: 
+    map: https://maps.google.com/?cid=1501049875600979613&hl=ja
+    address: 青森県北津軽郡板柳町福野田実田47-13
+    price: 400
+    lat: 40.697349
+    lng: 140.4606296
+    type: 銭湯
+-
+    id: 163
+    name: 長生湯
+    url: 
+    map: https://maps.google.com/?cid=16318090369999412771&hl=ja
+    address: 青森県青森市松原2-10-4
+    price: 420
+    lat: 40.8197251
+    lng: 140.7639259
+    type: 銭湯
+-
+    id: 164
+    name: 東通村保健福祉センター 野花菖蒲の里
+    url: http://www.vill.higashidoori.lg.jp/kensui/page200008.html
+    map: https://maps.google.com/?cid=17882522735117131943&hl=ja
+    address: 青森県下北郡東通村砂子又里17-2
+    price: 200
+    lat: 41.276926
+    lng: 141.3372552
+    type: 温泉
+-
+    id: 165
+    name: 奥大鰐島田温泉 森林浴交流センターしまだ
+    url: 
+    map: https://maps.google.com/?cid=4331442924341808538&hl=ja
+    address: 青森県南津軽郡大鰐町島田ゾベコ沢71-1
+    price: 200
+    lat: 40.4730579
+    lng: 140.5769943
+    type: 温泉
+-
+    id: 166
+    name: 光風温泉
+    url: https://www.city.tsugaru.aomori.jp/tourism/kanko/shukuhaku/2977.html
+    map: https://maps.google.com/?cid=5630406926397225658&hl=ja
+    address: 青森県つがる市森田町下相野字野田73-3
+    price: 250
+    lat: 40.7997007
+    lng: 140.3769312
+    type: 共同浴場・銭湯
+-
+    id: 167
+    name: うめたふれあいセンター
+    url: http://t-ate.com/archives/2841.html
+    map: https://maps.google.com/?cid=6657539218180865200&hl=ja
+    address: 青森県五所川原市梅田福浦405
+    price: 300
+    lat: 40.775766
+    lng: 140.4721847
+    type: 温泉
+-
+    id: 168
+    name: みどり温泉
+    url: 
+    map: https://maps.google.com/?cid=10300895016163505533&hl=ja
+    address: 青森県八戸市柏崎6-17-3
+    price: 450
+    lat: 40.515331
+    lng: 141.5043108
+    type: 銭湯
+-
+    id: 169
+    name: 小松野温泉 旬楽
+    url: 
+    map: https://maps.google.com/?cid=1856449002297816327&hl=ja
+    address: 青森県弘前市百沢小松野87-505
+    price: 300
+    lat: 40.6163201
+    lng: 140.3342197
+    type: 温泉
+-
+    id: 170
+    name: 中泊町老人福祉センター 宝森温泉
+    url: http://t-ate.com/archives/3015.html
+    map: https://maps.google.com/?cid=5740814882554412836&hl=ja
+    address: 青森県北津軽郡中泊町中泊町中里宝森1
+    price: 250
+    lat: 40.9680213
+    lng: 140.4330241
+    type: 温泉
+-
+    id: 171
+    name: 長寿湯
+    url: 
+    map: https://maps.google.com/?cid=2977625274253604196&hl=ja
+    address: 青森県弘前市新町229-1
+    price: 420
+    lat: 40.6094088
+    lng: 140.4570732
+    type: 銭湯
+-
+    id: 172
+    name: 平賀観光温泉
+    url: https://www.aptinet.jp/Detail_display_00001871.html?id=00001871&t=0
+    map: https://maps.google.com/?cid=12384951966003378185&hl=ja
+    address: 青森県平川市町居山元304-1
+    price: 300
+    lat: 40.5873317
+    lng: 140.5892885
+    type: 温泉
+-
+    id: 173
+    name: 東北町上北保健福祉センター
+    url: http://www.town.tohoku.lg.jp/chousei/info/info_shisetsu_13.html
+    map: https://maps.google.com/?cid=2640519257500130575&hl=ja
+    address: 青森県上北郡東北町上野上野191-1
+    price: 100
+    lat: 40.725459
+    lng: 141.2530453
+    type: 温泉
+-
+    id: 174
+    name: 藤崎老人福祉センター 西豊田温泉
+    url: http://www.fujisakishakyo.or.jp/publics/index/27/
+    map: https://maps.google.com/?cid=8635215734159498000&hl=ja
+    address: 青森県南津軽郡藤崎町西豊田1-3
+    price: 250
+    lat: 40.6557574
+    lng: 140.5020889
+    type: 温泉
+-
+    id: 175
+    name: 古懸コミュニティ浴場
+    url: https://hirakawa-kankou.com/2019/02/21/%e5%8f%a4%e6%87%b8%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e6%b5%b4%e5%a0%b4/
+    map: https://maps.google.com/?cid=12084617943362792370&hl=ja
+    address: 青森県平川市古懸門前屋岸10-2
+    price: 250
+    lat: 40.4900528
+    lng: 140.6252979
+    type: 共同浴場・銭湯
+-
+    id: 176
+    name: 東北町老人福祉センター
+    url: http://www.town.tohoku.lg.jp/chousei/info/info_shisetsu_12.html
+    map: https://maps.google.com/?cid=3936860746133637299&hl=ja
+    address: 青森県上北郡東北町上笹橋45-10
+    price: 100
+    lat: 40.7811725
+    lng: 141.2119748
+    type: 温泉
+-
+    id: 177
+    name: 天間林老人福祉センター
+    url: 
+    map: https://maps.google.com/?cid=6069312837633655912&hl=ja
+    address: 青森県上北郡七戸町森ノ上16-4
+    price: 300
+    lat: 40.7457724
+    lng: 141.1696405
+    type: 温泉
+-
+    id: 178
+    name: 田舎館村老人憩の家
+    url: 
+    map: https://maps.google.com/?cid=148384462697901118&hl=ja
+    address: 青森県南津軽郡田舎館村畑中字藤本169
+    price: 150
+    lat: 40.6327346
+    lng: 140.5508284
+    type: 共同浴場・銭湯
+-
+    id: 179
+    name: 七戸町総合福祉センター ゆうずらんど
+    url: 
+    map: https://maps.google.com/?cid=9595073092149913145&hl=ja
+    address: 青森県上北郡七戸町字立野頭139-1
+    price: 300
+    lat: 40.7059337
+    lng: 141.1680231
+    type: 温泉
+-
+    id: 180
+    name: 新栄館
+    url: https://www.aptinet.jp/Detail_display_00001920.html?id=00001920&t=0
+    map: https://maps.google.com/?cid=5982728046789931897&hl=ja
+    address: 青森県弘前市常盤野湯段萢14
+    price: 250
+    lat: 40.6270382
+    lng: 140.2514672
+    type: 温泉
+-
+    id: 181
+    name: 老人福祉センター瑞風園
+    url: http://www.city.hirosaki.aomori.jp/gaiyou/shisetsu/2015-0219-1452-100.html
+    map: https://maps.google.com/?cid=1087267023528801649&hl=ja
+    address: 青森県弘前市高杉神原93-2
+    price: 250
+    lat: 40.6607678
+    lng: 140.4309181
+    type: 温泉
+-
+    id: 182
+    name: 大鰐町大湯会館
+    url: http://www.town.owani.lg.jp/index.cfm/8,7620,33,html
+    map: https://maps.google.com/?cid=12853557805737753134&hl=ja
+    address: 青森県南津軽郡大鰐町蔵館字村岡53-2
+    price: 200
+    lat: 40.52169079999999
+    lng: 140.5759505
+    type: 共同浴場・銭湯
+-
+    id: 183
+    name: 落合温泉共同浴場
+    url: https://www.aptinet.jp/Detail_display_00002281.html
+    map: https://maps.google.com/?cid=9008633641489796964&hl=ja
+    address: 青森県黒石市大字袋富山64-2
+    price: 200
+    lat: 40.6053919
+    lng: 140.6773037
+    type: 共同浴場・銭湯
+-
+    id: 184
+    name: 二双子温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=18323697427340737394&hl=ja
+    address: 青森県黒石市二双子字村元
+    price: 230
+    lat: 40.6785975
+    lng: 140.6057554
+    type: 共同浴場・銭湯
+-
+    id: 185
+    name: はちのへ温泉
+    url: https://www.onsenryokan.jp/
+    map: https://maps.google.com/?cid=8169102621229230467&hl=ja
+    address: 青森県八戸市尻内町島田17-5
+    price: 450
+    lat: 40.5096341
+    lng: 141.4434175
+    type: 温泉
+-
+    id: 186
+    name: コミュニティセントー 脇野沢温泉
+    url: http://www.aomorishokoren.or.jp/shokokai/kawauchi/2015/06/waki-spa-hotel.html
+    map: https://maps.google.com/?cid=5615054212207030818&hl=ja
+    address: 青森県むつ市脇野沢七引157-2
+    price: 380
+    lat: 41.1667704
+    lng: 140.8041818
+    type: 温泉
+-
+    id: 187
+    name: ぽっぽ湯
+    url: 
+    map: https://maps.google.com/?cid=14991773156539318722&hl=ja
+    address: 青森県東津軽郡外ヶ浜町字下蟹田43-2
+    price: 350
+    lat: 41.0428569
+    lng: 140.6397946
+    type: 温泉
+-
+    id: 188
+    name: 光田寺コミュニティセンター まえだやしき温泉 ほからっと
+    url: 
+    map: https://maps.google.com/?cid=4726661523722433155&hl=ja
+    address: 青森県南津軽郡田舎館村前田屋敷東中野35-1
+    price: 310
+    lat: 40.64916849999999
+    lng: 140.5527514
+    type: 温泉
+-
+    id: 189
+    name: つがる市稲垣老人福祉センター
+    url: https://www.city.tsugaru.aomori.jp/soshiki/fukushi/fukushi/shisetsu/welfarecenter/2020.html
+    map: https://maps.google.com/?cid=7592089768157498835&hl=ja
+    address: 青森県つがる市稲垣町豊川宮川42-3
+    price: 240
+    lat: 40.8814786
+    lng: 140.3979574
+    type: 温泉
+-
+    id: 190
+    name: 要目温泉
+    url: 
+    map: https://maps.google.com/maps?q=40.584738,140.726821
+    address: 青森県黒石市二庄内字要目
+    price: 0
+    lat: 40.5888921
+    lng: 140.7046857
+    type: 共同浴場・銭湯
+-
+    id: 191
+    name: 多喜の湯
+    url: 
+    map: https://maps.google.com/?cid=774624927373926006&hl=ja
+    address: 青森県青森市茶屋町14-19
+    price: 420
+    lat: 40.8257879
+    lng: 140.7647886
+    type: 銭湯
+-
+    id: 192
+    name: みちのく浴場
+    url: 
+    map: https://maps.google.com/?cid=3690241207459667963&hl=ja
+    address: 青森県青森市金沢4-16-8
+    price: 420
+    lat: 40.8098442
+    lng: 140.7320265
+    type: 銭湯
+-
+    id: 193
+    name: 松乃湯
+    url: 
+    map: https://maps.google.com/?cid=1347441156190183937&hl=ja
+    address: 青森県八戸市大久保字下長根8-3
+    price: 450
+    lat: 40.5128227
+    lng: 141.550348
+    type: 銭湯
+-
+    id: 194
+    name: 日の出湯
+    url: 
+    map: https://maps.google.com/?cid=17746400299814809065&hl=ja
+    address: 青森県青森市羽白字池上177-7
+    price: 420
+    lat: 40.8539076
+    lng: 140.6889901
+    type: 銭湯
+-
+    id: 195
+    name: 油川温泉
+    url: 
+    map: https://maps.google.com/?cid=4040959478743094291&hl=ja
+    address: 青森県青森市油川字大浜102
+    price: 420
+    lat: 40.85668330000001
+    lng: 140.6945315
+    type: 銭湯
+-
+    id: 196
+    name: 大黒湯
+    url: 
+    map: https://maps.google.com/?cid=2167113334719162681&hl=ja
+    address: 青森県十和田市西十三番町26-1
+    price: 420
+    lat: 40.6093687
+    lng: 141.2092586
+    type: 銭湯
+-
+    id: 197
+    name: 浜の湯
+    url: 
+    map: https://maps.google.com/?cid=4152234649777683645&hl=ja
+    address: 青森県北津軽郡中泊町小泊字小泊86-1
+    price: 420
+    lat: 41.1300795
+    lng: 140.3017396
+    type: 銭湯
+-
+    id: 198
+    name: 市の沢温泉
+    url: 
+    map: https://maps.google.com/?cid=5318864873483141527&hl=ja
+    address: 青森県八戸市南郷区市野沢字市野沢24-2
+    price: 450
+    lat: 40.4022375
+    lng: 141.4354153
+    type: 銭湯
+-
+    id: 199
+    name: 旭ヶ丘浴泉
+    url: 
+    map: https://maps.google.com/?cid=16897202467509313867&hl=ja
+    address: 青森県八戸市旭ヶ丘1-1-4
+    price: 450
+    lat: 40.4972364
+    lng: 141.5360231
+    type: 銭湯
+-
+    id: 200
+    name: 根本吉根湯
+    url: 
+    map: https://maps.google.com/?cid=11592504476737481928&hl=ja
+    address: 青森県むつ市大畑町新町94
+    price: 400
+    lat: 41.4044321
+    lng: 141.1611131
+    type: 銭湯
+-
+    id: 201
+    name: 出町温泉
+    url: https://www.atca.info/detail.html?oid=16
+    map: https://maps.google.com/?cid=7943969475197285552&hl=ja
+    address: 青森県青森市西滝2-6-23
+    price: 420
+    lat: 40.819863
+    lng: 140.7198306
+    type: 銭湯
+-
+    id: 202
+    name: 藤の湯
+    url: 
+    map: https://maps.google.com/maps?q=40.824183,140.755261
+    address: 青森県青森市堤町1-3-17
+    price: 420
+    lat: 40.8240715
+    lng: 140.7552233
+    type: 銭湯

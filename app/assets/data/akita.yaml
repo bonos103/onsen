@@ -1,0 +1,771 @@
+---
+-
+    id: 1
+    name: 道の駅象潟 ねむの丘
+    url: https://www.kisakata.nemunooka.jp
+    map: https://maps.google.com/?cid=12019586790426317168&hl=ja
+    address: 秋田県にかほ市象潟町字大塩越73-1
+    price: 350
+    lat: 39.2201911
+    lng: 139.9002785
+    type: 温泉
+-
+    id: 2
+    name: クアドーム ザ・ブーン
+    url: http://www.theboon.net/theboon/
+    map: https://maps.google.com/?cid=4125513459298931173&hl=ja
+    address: 秋田県秋田市仁別マンタラメ213
+    price: 520
+    lat: 39.794855
+    lng: 140.2231347
+    type: 温泉
+-
+    id: 3
+    name: 砂丘温泉 ゆめろん
+    url: https://yumeron.jp/
+    map: https://maps.google.com/?cid=2419182558696403099&hl=ja
+    address: 秋田県山本郡三種町大口上ノ沢17-4
+    price: 500
+    lat: 40.096399
+    lng: 139.977057
+    type: 温泉
+-
+    id: 4
+    name: スーパー健康ランド 華のゆ
+    url: https://www.route-inn.co.jp/hananoyu-akita/
+    map: https://maps.google.com/?cid=14834760552122632296&hl=ja
+    address: 秋田県秋田市中通5-2-1
+    price: 800
+    lat: 39.7129333
+    lng: 140.1178562
+    type: 温泉
+-
+    id: 5
+    name: 道の駅てんのう 天王温泉くらら
+    url: https://www.kurara-spa.co.jp/spa/
+    map: https://maps.google.com/?cid=13441773749588511143&hl=ja
+    address: 秋田県潟上市天王字江川上谷地109-2
+    price: 400
+    lat: 39.8569888
+    lng: 140.0091152
+    type: 温泉
+-
+    id: 6
+    name: 岩城温泉 港の湯
+    url: http://michinoeki-iwaki.com/onsen.html
+    map: https://maps.google.com/?cid=14665215199428221301&hl=ja
+    address: 秋田県由利本荘市岩城内道川字新鶴潟192-43
+    price: 310
+    lat: 39.542329
+    lng: 140.0530227
+    type: 温泉
+-
+    id: 7
+    name: ときめき交流センター ゆっぷる
+    url: https://www.city.yokote.lg.jp/hisangyo/page000002.html
+    map: https://maps.google.com/?cid=3199520806125059728&hl=ja
+    address: 秋田県横手市平鹿町醍醐沢口166
+    price: 460
+    lat: 39.233235
+    lng: 140.5646164
+    type: 温泉
+-
+    id: 8
+    name: スパ西遊喜
+    url: https://peace.ilive21.com/saiyuki/
+    map: https://maps.google.com/?cid=18231495806338698696&hl=ja
+    address: 秋田県大仙市大曲西根鳥居215-9
+    price: 500
+    lat: 39.4558934
+    lng: 140.4467137
+    type: 温泉
+-
+    id: 9
+    name: 大潟モール温泉 ポルダー潟の湯
+    url: http://www.katanoyu.com/
+    map: https://maps.google.com/?cid=7216145106097536383&hl=ja
+    address: 秋田県南秋田郡大潟村北1-3
+    price: 400
+    lat: 40.0293564
+    lng: 139.9535327
+    type: 温泉
+-
+    id: 10
+    name: 大館東台温泉 東の湯
+    url: https://www.higashinoyu.com/
+    map: https://maps.google.com/?cid=4472185268306380701&hl=ja
+    address: 秋田県大館市東台2-1-80
+    price: 400
+    lat: 40.27062979999999
+    lng: 140.5737339
+    type: 温泉
+-
+    id: 11
+    name: 森岳温泉 ゆうぱる
+    url: http://yuuparu.com
+    map: https://maps.google.com/?cid=12734218093891522624&hl=ja
+    address: 秋田県山本郡三種町森岳木戸沢48-4
+    price: 400
+    lat: 40.0884145
+    lng: 140.0886094
+    type: 温泉
+-
+    id: 12
+    name: 黄桜温泉 湯楽里
+    url: http://www.ont.ne.jp/~k-yurari/
+    map: https://maps.google.com/?cid=760711356172774628&hl=ja
+    address: 秋田県由利本荘市東由利老方畑田28
+    price: 410
+    lat: 39.3014923
+    lng: 140.2850366
+    type: 温泉
+-
+    id: 13
+    name: 鶴舞温泉
+    url: http://tsurumai.fun/
+    map: https://maps.google.com/?cid=5144115144337388104&hl=ja
+    address: 秋田県由利本荘市西小人町23-1
+    price: 410
+    lat: 39.3819105
+    lng: 140.0470938
+    type: 温泉
+-
+    id: 14
+    name: 温浴ランドおが なまはげのゆっこ
+    url: https://www.namahage.co.jp/land/
+    map: https://maps.google.com/?cid=8349311080269495088&hl=ja
+    address: 秋田県男鹿市北浦北浦平岱山1
+    price: 400
+    lat: 39.9522151
+    lng: 139.7533265
+    type: 温泉
+-
+    id: 15
+    name: 福祉健康 新屋温泉
+    url: http://araya-onsen.jp/
+    map: https://maps.google.com/?cid=14448108914284377406&hl=ja
+    address: 秋田県秋田市新屋大川町20-3
+    price: 700
+    lat: 39.6833464
+    lng: 140.0892194
+    type: 温泉
+-
+    id: 16
+    name: 秋田・河辺岩見温泉
+    url: http://www.iwami-onsen.jp
+    map: https://maps.google.com/?cid=11087100729767153289&hl=ja
+    address: 秋田県秋田市河辺三内字外川原110
+    price: 400
+    lat: 39.7080124
+    lng: 140.2887633
+    type: 温泉
+-
+    id: 17
+    name: 秋田温泉さとみ 温泉センターりらっくす
+    url: https://satomi-e.com/relax/
+    map: https://maps.google.com/?cid=17400701337653862194&hl=ja
+    address: 秋田県秋田市添川字境内川原142-1
+    price: 600
+    lat: 39.7500447
+    lng: 140.1322164
+    type: 温泉
+-
+    id: 18
+    name: 夕陽温泉WAO
+    url: https://www.namahage.co.jp/miyazawa/wao/
+    map: https://maps.google.com/?cid=1773661323878927654&hl=ja
+    address: 秋田県男鹿市野石字大場沢下1-17
+    price: 400
+    lat: 40.0373259
+    lng: 139.9242539
+    type: 温泉
+-
+    id: 19
+    name: にしめ湯っ娘ランド
+    url: http://www.nisime-yukkoland.co.jp/
+    map: https://maps.google.com/?cid=15385980470451190246&hl=ja
+    address: 秋田県由利本荘市西目町沼田新道下1112-1
+    price: 370
+    lat: 39.3629678
+    lng: 140.0141648
+    type: 温泉
+-
+    id: 20
+    name: ひない温泉 比内のゆ
+    url: http://www.shokokai.or.jp/05/053221S0028/index.htm
+    map: https://maps.google.com/?cid=2219794534909647290&hl=ja
+    address: 秋田県大館市比内町扇田上中島13-1
+    price: 360
+    lat: 40.22802739999999
+    lng: 140.5730014
+    type: 温泉
+-
+    id: 21
+    name: えがおの丘
+    url: http://egaonooka.jp/
+    map: https://maps.google.com/?cid=12149257588189283429&hl=ja
+    address: 秋田県横手市雄物川町今宿末館57-1
+    price: 500
+    lat: 39.281815
+    lng: 140.4029531
+    type: 温泉
+-
+    id: 22
+    name: 能代山本スポーツリゾートセンター アリナス
+    url: https://www.noshiroyamamotokouikiken.jp/kouryuu/arinasu/detail.html?id=343
+    map: https://maps.google.com/?cid=15662030447255566628&hl=ja
+    address: 秋田県能代市落合下台2-1
+    price: 300
+    lat: 40.233646
+    lng: 140.0161923
+    type: 温泉
+-
+    id: 23
+    name: 露天とガーデンの温泉 ほうおう庭
+    url: http://blog.livedoor.jp/hououtei/
+    map: https://maps.google.com/?cid=5777213246440175351&hl=ja
+    address: 秋田県大館市観音堂393
+    price: 450
+    lat: 40.279863
+    lng: 140.5786451
+    type: 温泉
+-
+    id: 24
+    name: 六郷温泉 あったか山
+    url: http://akita-misato.com/stay/attaka/
+    map: https://maps.google.com/?cid=15308846059008490431&hl=ja
+    address: 秋田県仙北郡美郷町六郷東根下馬転120
+    price: 400
+    lat: 39.4090563
+    lng: 140.6132995
+    type: 温泉
+-
+    id: 25
+    name: 沼館温泉会館 ぬまだてのゆっこ
+    url: http://www.dodasuka.com/spa/numadateyukko/
+    map: https://maps.google.com/?cid=9063731229491569330&hl=ja
+    address: 秋田県大館市沼館藤蕪82
+    price: 280
+    lat: 40.2851195
+    lng: 140.5400816
+    type: 温泉
+-
+    id: 26
+    name: 湯沢市リフレッシュ交流センター ほっと館
+    url: http://www.city-yuzawa.jp/shisetsu08/2750
+    map: https://maps.google.com/?cid=12178930112663544725&hl=ja
+    address: 秋田県湯沢市下院内田用橋84
+    price: 450
+    lat: 39.04917
+    lng: 140.416305
+    type: 温泉
+-
+    id: 27
+    name: 桜温泉 さくらさくら
+    url: http://sakura-golf.com/add/1254804344871/index.html
+    map: https://maps.google.com/?cid=9908918099910283752&hl=ja
+    address: 秋田県秋田市桜2-92
+    price: 600
+    lat: 39.7075091
+    lng: 140.1484608
+    type: 温泉
+-
+    id: 28
+    name: ぱいんすぱ新山
+    url: http://www.yurihonjo-kanko.jp/modules/gnavi/index.php?lid=154&cid=33
+    map: https://maps.google.com/?cid=892250980554759141&hl=ja
+    address: 秋田県由利本荘市石脇字田尻30-12
+    price: 300
+    lat: 39.40313889999999
+    lng: 140.0253866
+    type: 温泉
+-
+    id: 29
+    name: 大滝温泉 湯夢湯夢の湯
+    url: http://www.city.odate.akita.jp/dcity/kan-kanri/136-7886.html
+    map: https://maps.google.com/?cid=17908773933895012093&hl=ja
+    address: 秋田県大館市十二所後田34
+    price: 270
+    lat: 40.2115729
+    lng: 140.6458538
+    type: 温泉
+-
+    id: 30
+    name: 鹿角市大湯温泉保養センター 湯都里
+    url: https://www.aiseikai.or.jp/business/yutori/
+    map: https://maps.google.com/?cid=7018671340824837628&hl=ja
+    address: 秋田県鹿角市十和田大湯中谷地5-1
+    price: 400
+    lat: 40.2967898
+    lng: 140.8249593
+    type: 温泉
+-
+    id: 31
+    name: 神の湯
+    url: https://kaminoyuonsen.jimdo.com/
+    map: https://maps.google.com/?cid=454030283136770425&hl=ja
+    address: 秋田県にかほ市平沢字家ノ後3
+    price: 460
+    lat: 39.2934056
+    lng: 139.9656378
+    type: 銭湯
+-
+    id: 32
+    name: かしわ温泉
+    url: http://www.yurihonjo-kanko.jp/modules/gnavi/index.php?lid=155
+    map: https://maps.google.com/?cid=9350854106051951473&hl=ja
+    address: 秋田県由利本荘市西目町西目釜ヶ沢96-5
+    price: 300
+    lat: 39.3306708
+    lng: 140.0314553
+    type: 温泉
+-
+    id: 33
+    name: 雁の里温泉 湯とぴあ
+    url: http://akita-misato.com/stay/yutopia/
+    map: https://maps.google.com/?cid=16185735380185082166&hl=ja
+    address: 秋田県仙北郡美郷町飯詰東西法寺181-2
+    price: 400
+    lat: 39.363872
+    lng: 140.5472572
+    type: 温泉
+-
+    id: 34
+    name: 船沢温泉
+    url: http://www.秋田あっぷる.jp/onsen/cat226/006770.html
+    map: https://maps.google.com/?cid=5810481938351214626&hl=ja
+    address: 秋田県能代市浅内字船沢73-125
+    price: 500
+    lat: 40.1689298
+    lng: 140.0421834
+    type: 温泉
+-
+    id: 35
+    name: 毛馬内七滝温泉
+    url: https://www.kurumatabi.com/park/rvpark/547.html
+    map: https://maps.google.com/?cid=2695533863829135146&hl=ja
+    address: 秋田県鹿角市十和田毛馬内前舘53-7
+    price: 350
+    lat: 40.282171
+    lng: 140.7677981
+    type: 温泉
+-
+    id: 36
+    name: 長瀞温泉
+    url: http://www.dodasuka.com/spa/nagatoro/
+    map: https://maps.google.com/?cid=9373910387378947048&hl=ja
+    address: 秋田県大館市沼館長瀞45-1
+    price: 310
+    lat: 40.2815631
+    lng: 140.5184621
+    type: 温泉
+-
+    id: 37
+    name: 花輪温泉 ゆたろう
+    url: http://www.ink.or.jp/~purantos/
+    map: https://maps.google.com/?cid=10819323346336670538&hl=ja
+    address: 秋田県鹿角市花輪大川添39
+    price: 400
+    lat: 40.1947001
+    lng: 140.7808758
+    type: 温泉
+-
+    id: 38
+    name: 長寿の湯
+    url: http://www.city.kitaakita.akita.jp/industdb/shotengaidb/456.html
+    map: https://maps.google.com/?cid=17629917124163975005&hl=ja
+    address: 秋田県北秋田市小森向長渡12-1
+    price: 500
+    lat: 40.177614
+    lng: 140.484353
+    type: 温泉
+-
+    id: 39
+    name: 釈迦内温泉 泉湯
+    url: http://www.dodasuka.com/spa/izumiyu/
+    map: https://maps.google.com/?cid=8329609175517321269&hl=ja
+    address: 秋田県大館市釈迦内中台25-11
+    price: 350
+    lat: 40.3079773
+    lng: 140.5702946
+    type: 温泉
+-
+    id: 40
+    name: 湯の岱温泉
+    url: http://www.city.kitaakita.akita.jp/industdb/shotengaidb/455.html
+    map: https://maps.google.com/?cid=6919620808459194454&hl=ja
+    address: 秋田県北秋田市小森字湯ノ岱67
+    price: 320
+    lat: 40.1758232
+    lng: 140.4765372
+    type: 温泉
+-
+    id: 41
+    name: 仙北市民浴場 東風の湯
+    url: http://www.heart-herb.co.jp/dashinoyu/
+    map: https://maps.google.com/?cid=7258325031107646813&hl=ja
+    address: 秋田県仙北市田沢湖生保内字武蔵野111-8
+    price: 400
+    lat: 39.7059637
+    lng: 140.7309778
+    type: 温泉
+-
+    id: 42
+    name: 大湯温泉 いずみの湯
+    url: 
+    map: https://maps.google.com/?cid=16535262952258518588&hl=ja
+    address: 秋田県鹿角市十和田大湯字上の湯1-27-5-6
+    price: 250
+    lat: 40.2952815
+    lng: 140.8333159
+    type: 温泉
+-
+    id: 43
+    name: 軽井沢温泉
+    url: http://www.dodasuka.com/spa/581/
+    map: https://maps.google.com/?cid=13514000677128033200&hl=ja
+    address: 秋田県大館市軽井沢五輪岱81
+    price: 200
+    lat: 40.2163881
+    lng: 140.6433376
+    type: 温泉
+-
+    id: 44
+    name: クウィンス森吉
+    url: https://quince-moriyoshi.jp/
+    map: https://maps.google.com/?cid=7201133505898940115&hl=ja
+    address: 秋田県北秋田市小又字堂ノ下21-2
+    price: 500
+    lat: 40.0613321
+    lng: 140.4177102
+    type: 温泉
+-
+    id: 45
+    name: さざなみ温泉
+    url: http://www.city.kitaakita.akita.jp/industdb/shotengaidb/77.html
+    map: https://maps.google.com/?cid=791694528217657426&hl=ja
+    address: 秋田県北秋田市川井鳥屋沢36-4
+    price: 350
+    lat: 40.1616232
+    lng: 140.3238438
+    type: 温泉
+-
+    id: 46
+    name: 由利の里交流センター ゆりえもん
+    url: http://www.yurihonjo-kanko.jp/modules/gnavi2/index.php?lid=10&cid=9
+    map: https://maps.google.com/?cid=11914832667868733212&hl=ja
+    address: 秋田県由利本荘市前郷御伊勢下39-2
+    price: 300
+    lat: 39.31752580000001
+    lng: 140.1112451
+    type: 温泉
+-
+    id: 47
+    name: 高齢者ふれあい交流施設 ゆっちゃん
+    url: http://www.city.noshiro.akita.jp/c.html?seq=10294
+    map: https://maps.google.com/?cid=7376454550175558158&hl=ja
+    address: 秋田県能代市二ツ井町下野家後97
+    price: 300
+    lat: 40.2087729
+    lng: 140.2385684
+    type: 温泉
+-
+    id: 48
+    name: 八森湯っこランド
+    url: 
+    map: https://maps.google.com/?cid=16360283986502691230&hl=ja
+    address: 秋田県山本郡八峰町八森長坂2
+    price: 300
+    lat: 40.3835628
+    lng: 139.9898723
+    type: 温泉
+-
+    id: 49
+    name: 金沢温泉
+    url: http://www.city.kitaakita.akita.jp/industdb/shotengaidb/76.html
+    map: https://maps.google.com/?cid=2953493796347491395&hl=ja
+    address: 秋田県北秋田市上杉金沢6-25
+    price: 350
+    lat: 40.1831362
+    lng: 140.3515523
+    type: 温泉
+-
+    id: 50
+    name: 荒瀬共同浴場
+    url: 
+    map: https://maps.google.com/?cid=8245247179403207894&hl=ja
+    address: 秋田県鹿角市十和田大湯
+    price: 200
+    lat: 40.3485502
+    lng: 140.9035196
+    type: 共同浴場・銭湯
+-
+    id: 51
+    name: 湯瀬ふれあいセンター
+    url: https://www.akitafan.com/archive/tourism/3905
+    map: https://maps.google.com/?cid=12580276033737386422&hl=ja
+    address: 秋田県鹿角市八幡平湯瀬湯端50
+    price: 200
+    lat: 40.1231472
+    lng: 140.8369211
+    type: 温泉
+-
+    id: 52
+    name: 八乙女温泉 さくら荘
+    url: https://www.akitafan.com/archive/tourism/3731
+    map: https://maps.google.com/?cid=7866660317642835608&hl=ja
+    address: 秋田県大仙市長野長野山91
+    price: 210
+    lat: 39.5362931
+    lng: 140.520892
+    type: 温泉
+-
+    id: 53
+    name: 小安峡温泉 元湯共同浴場
+    url: 
+    map: https://maps.google.com/?cid=1739244037693716172&hl=ja
+    address: 秋田県湯沢市皆瀬湯元
+    price: 200
+    lat: 39.0066573
+    lng: 140.6626774
+    type: 共同浴場・銭湯
+-
+    id: 54
+    name: 花岡温泉
+    url: http://www.dodasuka.com/spa/hanaoka/
+    map: https://maps.google.com/?cid=16527228951899479382&hl=ja
+    address: 秋田県大館市花岡町長森65-2-1
+    price: 250
+    lat: 40.333428
+    lng: 140.5519559
+    type: 共同浴場・銭湯
+-
+    id: 55
+    name: 二井田市民集会所 ハチ公荘
+    url: http://www.city.odate.akita.jp/dcity/kan-kanri/136-7875.html
+    map: https://maps.google.com/?cid=16347683956024142294&hl=ja
+    address: 秋田県大館市二井田字田子森1-1
+    price: 270
+    lat: 40.2259297
+    lng: 140.5637859
+    type: 温泉
+-
+    id: 56
+    name: 大葛温泉町民浴場
+    url: http://www.dodasuka.com/spa/okuzochoumin/
+    map: https://maps.google.com/?cid=7702678806667867137&hl=ja
+    address: 秋田県大館市比内町大葛牛ケ岱30-2
+    price: 150
+    lat: 40.128063
+    lng: 140.6788181
+    type: 共同浴場・銭湯
+-
+    id: 57
+    name: 下の湯共同浴場
+    url: 
+    map: https://maps.google.com/?cid=14934853533679386684&hl=ja
+    address: 秋田県鹿角市十和田大湯下の湯13-1
+    price: 200
+    lat: 40.2921827
+    lng: 140.821715
+    type: 共同浴場・銭湯
+-
+    id: 58
+    name: 明治湯
+    url: 
+    map: https://maps.google.com/?cid=11178122834937735078&hl=ja
+    address: 秋田県能代市明治町13-7
+    price: 460
+    lat: 40.2002603
+    lng: 140.0355091
+    type: 銭湯
+-
+    id: 59
+    name: 大森健康温泉
+    url: https://www.akitafan.com/archive/tourism/3745
+    map: https://maps.google.com/?cid=13321652010523563279&hl=ja
+    address: 秋田県横手市大森町文天鏡田318
+    price: 300
+    lat: 39.3534763
+    lng: 140.4307716
+    type: 温泉
+-
+    id: 60
+    name: 小安峡温泉 小安温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=15885216722402506114&hl=ja
+    address: 秋田県湯沢市皆瀬湯元24
+    price: 400
+    lat: 39.0066573
+    lng: 140.6626774
+    type: 共同浴場・銭湯
+-
+    id: 61
+    name: 上畑温泉 ゆーらく
+    url: http://sawarabinoyu.com/yuu/
+    map: https://maps.google.com/?cid=6054851101734062611&hl=ja
+    address: 秋田県横手市増田町狙半内字古家沢口1-2
+    price: 300
+    lat: 39.1237482
+    lng: 140.6468824
+    type: 温泉
+-
+    id: 62
+    name: にかほ市老人憩の家 午ノ浜温泉
+    url: 
+    map: https://maps.google.com/?cid=10576165857615987259&hl=ja
+    address: 秋田県にかほ市三森字午ノ浜144-1
+    price: 300
+    lat: 39.2869427
+    lng: 139.9428975
+    type: 温泉
+-
+    id: 63
+    name: 上小阿仁村コミュニティセンター 山ふじ温泉
+    url: https://www.vill.kamikoani.akita.jp/forms/info/info.aspx?info_id=6699
+    map: https://maps.google.com/?cid=12250992850310914816&hl=ja
+    address: 秋田県北秋田郡上小阿仁村五反沢八森沢111-4
+    price: 300
+    lat: 40.0224351
+    lng: 140.3125173
+    type: 温泉
+-
+    id: 64
+    name: 川原の湯浴場
+    url: 
+    map: https://maps.google.com/?cid=8482282576735529992&hl=ja
+    address: 秋田県鹿角市十和田大湯川原ノ湯37-2
+    price: 200
+    lat: 40.293763
+    lng: 140.8209333
+    type: 共同浴場・銭湯
+-
+    id: 65
+    name: 上の湯共同浴場
+    url: 
+    map: https://maps.google.com/?cid=4458235008006031375&hl=ja
+    address: 秋田県鹿角市十和田大湯上の湯
+    price: 200
+    lat: 40.2950114
+    lng: 140.8330577
+    type: 共同浴場・銭湯
+-
+    id: 66
+    name: 四十八瀧温泉 大館市立老人福祉センター
+    url: http://www.city.odate.akita.jp/dcity/sitemanager.nsf/doc/FF262E0339A94476492570C2001ECCEC.html
+    map: https://maps.google.com/?cid=12029394483701468559&hl=ja
+    address: 秋田県大館市雪沢大滝66
+    price: 230
+    lat: 40.295858
+    lng: 140.6369085
+    type: 温泉
+-
+    id: 67
+    name: 八幡平温泉ゆらら
+    url: https://www.city.kazuno.akita.jp/kanko_bunka_sports/kankojoho/6/3/3814.html
+    map: https://maps.google.com/?cid=10902836539464896863&hl=ja
+    address: 秋田県鹿角市八幡平熊沢国有林内
+    price: 500
+    lat: 39.9819568
+    lng: 140.8234193
+    type: 温泉
+-
+    id: 68
+    name: 水沢世代交流福祉館 水沢の湯っこ
+    url: 
+    map: https://maps.google.com/?cid=15514503088013477325&hl=ja
+    address: 秋田県大仙市協和稲沢水沢田尻76
+    price: 150
+    lat: 39.61044529999999
+    lng: 140.4288065
+    type: 温泉
+-
+    id: 69
+    name: 小安峡温泉 皆瀬休養施設
+    url: http://www.minasekc.com/sub4-5.htm
+    map: https://maps.google.com/?cid=12613854188789945468&hl=ja
+    address: 秋田県湯沢市皆瀬小湯ノ上79-2
+    price: 510
+    lat: 39.0015392
+    lng: 140.6702123
+    type: 温泉
+-
+    id: 70
+    name: 十和田大湯温泉 白山荘アパート
+    url: 
+    map: https://maps.google.com/?cid=9948765939084639065&hl=ja
+    address: 秋田県鹿角市十和田大湯荒瀬56
+    price: 200
+    lat: 40.2976301
+    lng: 140.8369376
+    type: 共同浴場・銭湯
+-
+    id: 71
+    name: 老人福祉センター緑風荘
+    url: http://www.city-yuzawa.jp/shisetsu08/575.html
+    map: https://maps.google.com/?cid=9756771474287919713&hl=ja
+    address: 秋田県湯沢市駒形町字八面寺下谷地22-1
+    price: 400
+    lat: 39.1612708
+    lng: 140.5442455
+    type: 共同浴場・銭湯
+-
+    id: 72
+    name: 中野温泉 大館市高齢者生産活動施設
+    url: 
+    map: https://maps.google.com/?cid=4416381244825092664&hl=ja
+    address: 秋田県大館市比内町中野字下籾内102-2
+    price: 100
+    lat: 40.1756746
+    lng: 140.6054847
+    type: 温泉
+-
+    id: 73
+    name: 星の湯
+    url: 
+    map: https://maps.google.com/?cid=8000710044839185438&hl=ja
+    address: 秋田県秋田市南通みその町6-26
+    price: 400
+    lat: 39.7083691
+    lng: 140.1206258
+    type: 銭湯
+-
+    id: 74
+    name: 高齢者コミュニティーセンター 伝兵衛湯荘
+    url: 
+    map: https://maps.google.com/?cid=4150079560424917483&hl=ja
+    address: 秋田県由利本荘市岩城亀田亀田町字田町45-3
+    price: 210
+    lat: 39.5008919
+    lng: 140.0852177
+    type: 温泉
+-
+    id: 75
+    name: 田屋の湯
+    url: 
+    map: https://maps.google.com/?cid=9547421221336996711&hl=ja
+    address: 秋田県潟上市昭和豊川竜毛字郷境29
+    price: 460
+    lat: 39.8668287
+    lng: 140.0701928
+    type: 銭湯
+-
+    id: 76
+    name: 巴湯
+    url: 
+    map: https://maps.google.com/?cid=4504947130701116669&hl=ja
+    address: 秋田県能代市日吉町6-21
+    price: 460
+    lat: 40.2128041
+    lng: 140.033129
+    type: 銭湯
+-
+    id: 77
+    name: 喜久乃湯
+    url: 
+    map: https://maps.google.com/?cid=17247020738679513734&hl=ja
+    address: 秋田県大館市字一心院南93-1
+    price: 460
+    lat: 40.266851
+    lng: 140.5594633
+    type: 銭湯

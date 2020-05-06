@@ -1,0 +1,2191 @@
+---
+-
+    id: 1
+    name: 箱根小涌園 ユネッサン
+    url: https://www.yunessun.com/
+    map: https://maps.google.com/?cid=11625870680606186088&hl=ja
+    address: 神奈川県足柄下郡箱根町二ノ平1297
+    price: 2500
+    lat: 35.2394794
+    lng: 139.0458477
+    type: 温泉
+-
+    id: 2
+    name: 横濱スパヒルズ 竜泉寺の湯
+    url: https://ryusenjinoyu.com/y_tsurugamine/
+    map: https://maps.google.com/?cid=4408007024588612645&hl=ja
+    address: 神奈川県横浜市旭区白根8-8
+    price: 750
+    lat: 35.4906301
+    lng: 139.5508339
+    type: 温泉
+-
+    id: 3
+    name: 横浜みなとみらい 万葉倶楽部
+    url: https://www.manyo.co.jp/mm21/
+    map: https://maps.google.com/?cid=3732363565154171085&hl=ja
+    address: 神奈川県横浜市中区新港2-7-1
+    price: 2500
+    lat: 35.4559404
+    lng: 139.6381448
+    type: 温泉
+-
+    id: 4
+    name: 天山湯治郷 ひがな湯治 天山
+    url: http://tenzan.jp/tenzan/
+    map: https://maps.google.com/?cid=9820439250458610257&hl=ja
+    address: 神奈川県足柄下郡箱根町湯本茶屋208
+    price: 1300
+    lat: 35.2250822
+    lng: 139.0883901
+    type: 温泉
+-
+    id: 5
+    name: スパリゾート クアパーク
+    url: https://www.maholova-minds.com/kuapark/index.php
+    map: https://maps.google.com/?cid=17341599991526612652&hl=ja
+    address: 神奈川県三浦市南下浦町上宮田3231
+    price: 2750
+    lat: 35.185171
+    lng: 139.65101
+    type: 温泉
+-
+    id: 6
+    name: RAKU SPA 鶴見
+    url: https://rakuspa.com/tsurumi/
+    map: https://maps.google.com/?cid=13758955827950818862&hl=ja
+    address: 神奈川県横浜市鶴見区元宮2-1-39
+    price: 1480
+    lat: 35.5226861
+    lng: 139.6776583
+    type: 温泉
+-
+    id: 7
+    name: 横須賀温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/yokosuka/
+    map: https://maps.google.com/?cid=8121400754553179387&hl=ja
+    address: 神奈川県横須賀市馬堀海岸4-1-23
+    price: 1080
+    lat: 35.2630677
+    lng: 139.7152482
+    type: 温泉
+-
+    id: 8
+    name: 箱根湯寮
+    url: https://www.hakoneyuryo.jp/
+    map: https://maps.google.com/?cid=12357299807494625188&hl=ja
+    address: 神奈川県足柄下郡箱根町搭之澤4
+    price: 1500
+    lat: 35.2338594
+    lng: 139.095725
+    type: 温泉
+-
+    id: 9
+    name: 鷲の湯
+    url: http://www.washinoyu.com/index.htm
+    map: https://maps.google.com/?cid=16853272221082617748&hl=ja
+    address: 神奈川県横浜市神奈川区七島町151
+    price: 470
+    lat: 35.4869956
+    lng: 139.6447795
+    type: 銭湯
+-
+    id: 10
+    name: 竜泉寺の湯(湘南茅ケ崎店)
+    url: https://ryusenjinoyu.com/chigasaki/
+    map: https://maps.google.com/?cid=11714782634613398384&hl=ja
+    address: 神奈川県茅ヶ崎市中島1339-1
+    price: 750
+    lat: 35.331055
+    lng: 139.3814672
+    type: 温泉
+-
+    id: 11
+    name: 綱島源泉 湯けむりの庄
+    url: https://www.yukemurinosato.com/tsunashima/
+    map: https://maps.google.com/?cid=1659927897063871777&hl=ja
+    address: 神奈川県横浜市港北区樽町3-7-61
+    price: 1200
+    lat: 35.5304711
+    lng: 139.6452584
+    type: 温泉
+-
+    id: 12
+    name: 宮前平源泉 湯けむりの庄
+    url: https://www.yukemurinosato.com/miyamaedaira/
+    map: https://maps.google.com/?cid=14215162561334935360&hl=ja
+    address: 神奈川県川崎市宮前区宮前平2-13-3
+    price: 1240
+    lat: 35.5862878
+    lng: 139.5819833
+    type: 温泉
+-
+    id: 13
+    name: 溝口温泉 喜楽里
+    url: http://www.yurakirari.com/kirari/mizonokuchi/
+    map: https://maps.google.com/?cid=14274934244800830199&hl=ja
+    address: 神奈川県川崎市高津区千年1068-1
+    price: 870
+    lat: 35.5804264
+    lng: 139.6224885
+    type: 温泉
+-
+    id: 14
+    name: 縄文天然温泉 志楽の湯
+    url: http://www.shiraku.jp/
+    map: https://maps.google.com/?cid=11724949502458146677&hl=ja
+    address: 神奈川県川崎市幸区塚越4-314-1
+    price: 990
+    lat: 35.5404808
+    lng: 139.683143
+    type: 温泉
+-
+    id: 15
+    name: 恵びす温泉
+    url: https://k-o-i.jp/koten/ebisuonsen/
+    map: https://maps.google.com/?cid=8615218142685404692&hl=ja
+    address: 神奈川県横浜市中区山下町161
+    price: 470
+    lat: 35.4400832
+    lng: 139.645313
+    type: 銭湯
+-
+    id: 16
+    name: 極楽湯(横浜芹が谷店)
+    url: https://www.gokurakuyu.ne.jp/tempo/serigaya/
+    map: https://maps.google.com/?cid=12237005880217908611&hl=ja
+    address: 神奈川県横浜市港南区芹が谷5-54-8
+    price: 800
+    lat: 35.4179164
+    lng: 139.5637652
+    type: 温泉
+-
+    id: 17
+    name: 横浜天然温泉 くさつ
+    url: https://k-o-i.jp/koten/kusatsu/
+    map: https://maps.google.com/?cid=148830690384880581&hl=ja
+    address: 神奈川県横浜市南区井土ヶ谷上町21-29
+    price: 470
+    lat: 35.4316602
+    lng: 139.5996838
+    type: 銭湯
+-
+    id: 18
+    name: 天然温泉 満天の湯
+    url: https://mantennoyu.com/
+    map: https://maps.google.com/?cid=17650177445616647767&hl=ja
+    address: 神奈川県横浜市保土ケ谷区上星川3-1-1
+    price: 880
+    lat: 35.4672925
+    lng: 139.5798851
+    type: 温泉
+-
+    id: 19
+    name: 小田原お堀端 万葉の湯
+    url: https://www.manyo.co.jp/odawara/
+    map: https://maps.google.com/?cid=6750730141605365138&hl=ja
+    address: 神奈川県小田原市栄町1-5-14
+    price: 2300
+    lat: 35.2542684
+    lng: 139.1571845
+    type: 温泉
+-
+    id: 20
+    name: ニュー銭湯 かまぶろ温泉
+    url: http://kamaburoyu.com
+    map: https://maps.google.com/?cid=6575796671185480368&hl=ja
+    address: 神奈川県川崎市川崎区藤崎4-7-3
+    price: 470
+    lat: 35.5253504
+    lng: 139.7205487
+    type: 銭湯
+-
+    id: 21
+    name: 江ノ島アイランドスパ
+    url: http://www.enospa.jp/
+    map: https://maps.google.com/?cid=3066267844573859275&hl=ja
+    address: 神奈川県藤沢市江の島2-1-6
+    price: 2750
+    lat: 35.3021464
+    lng: 139.4805831
+    type: 温泉
+-
+    id: 22
+    name: 港北の湯
+    url: https://kohokunoyu.com/
+    map: https://maps.google.com/?cid=5411357367742616260&hl=ja
+    address: 神奈川県横浜市都筑区折本町248
+    price: 870
+    lat: 35.5209515
+    lng: 139.5917437
+    type: 温泉
+-
+    id: 23
+    name: 湘南天然温泉 湯乃蔵ガーデン
+    url: https://www.yunokura.com
+    map: https://maps.google.com/?cid=4907891495616960346&hl=ja
+    address: 神奈川県平塚市大原3-50
+    price: 800
+    lat: 35.3453918
+    lng: 139.3430842
+    type: 温泉
+-
+    id: 24
+    name: 湯快爽快(くりひら店)
+    url: https://www.yukaisoukai.com/kur/
+    map: https://maps.google.com/?cid=10418129188057802388&hl=ja
+    address: 神奈川県川崎市麻生区片平8-2-1
+    price: 950
+    lat: 35.6012439
+    lng: 139.4833441
+    type: 温泉
+-
+    id: 25
+    name: 中島温泉 中島湯
+    url: https://k-o-i.jp/koten/nakajimayu-kawa/
+    map: https://maps.google.com/?cid=15549677128043280220&hl=ja
+    address: 神奈川県川崎市川崎区中島2-7-13
+    price: 470
+    lat: 35.5283763
+    lng: 139.7160816
+    type: 銭湯
+-
+    id: 26
+    name: おふろの王様(瀬谷店)
+    url: https://www.ousama2603.com/shop/seya/
+    map: https://maps.google.com/?cid=5100283970559061522&hl=ja
+    address: 神奈川県横浜市瀬谷区目黒町24-6
+    price: 750
+    lat: 35.4948723
+    lng: 139.4703566
+    type: 温泉
+-
+    id: 27
+    name: おふろの王様(町田店)
+    url: https://www.ousama2603.com/shop/machida/index.html
+    map: https://maps.google.com/?cid=11657407782954900328&hl=ja
+    address: 神奈川県相模原市南区鵜野森1-24-9
+    price: 850
+    lat: 35.5472893
+    lng: 139.4278783
+    type: 温泉
+-
+    id: 28
+    name: 今井湯
+    url: https://www.imaiyu.com
+    map: https://maps.google.com/?cid=14780291029003711415&hl=ja
+    address: 神奈川県川崎市中原区今井南町34-25
+    price: 470
+    lat: 35.5697963
+    lng: 139.6554215
+    type: 銭湯
+-
+    id: 29
+    name: 湯花楽(厚木店)
+    url: http://www.yukaraku.com/atsugi/
+    map: https://maps.google.com/?cid=17378956131576285722&hl=ja
+    address: 神奈川県厚木市林5-8-12
+    price: 1250
+    lat: 35.4593023
+    lng: 139.3510875
+    type: 温泉
+-
+    id: 30
+    name: 相模・下九沢温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/sagamihara/
+    map: https://maps.google.com/?cid=4180901428526085612&hl=ja
+    address: 神奈川県相模原市緑区下九沢2385-1
+    price: 800
+    lat: 35.5838215
+    lng: 139.3276332
+    type: 温泉
+-
+    id: 31
+    name: 東名厚木健康センター 湯乃泉
+    url: http://www.yunoizumi.com/atsugi/
+    map: https://maps.google.com/?cid=16341090176661318969&hl=ja
+    address: 神奈川県厚木市岡田3-17-10
+    price: 1500
+    lat: 35.4250937
+    lng: 139.3578276
+    type: 温泉
+-
+    id: 32
+    name: 湯快爽快(ちがさき店)
+    url: https://www.yukaisoukai.com/chi/
+    map: https://maps.google.com/?cid=5339166200972538834&hl=ja
+    address: 神奈川県茅ケ崎市茅ケ崎3-2-75
+    price: 750
+    lat: 35.3380091
+    lng: 139.4077692
+    type: 温泉
+-
+    id: 33
+    name: 湯快爽快(たや店)
+    url: https://www.yukaisoukai.com/tay/
+    map: https://maps.google.com/?cid=9708300449332925130&hl=ja
+    address: 神奈川県横浜市栄区田谷町146-3
+    price: 820
+    lat: 35.3706037
+    lng: 139.5225243
+    type: 温泉
+-
+    id: 34
+    name: 千年温泉
+    url: https://www.navida.ne.jp/snavi/100590_1.html
+    map: https://maps.google.com/?cid=9824900961468287689&hl=ja
+    address: 神奈川県川崎市高津区千年新町20-4
+    price: 470
+    lat: 35.582938
+    lng: 139.6281897
+    type: 銭湯
+-
+    id: 35
+    name: おふろの王様(海老名店)
+    url: https://www.ousama2603.com/shop/ebina/
+    map: https://maps.google.com/?cid=1182397902584421543&hl=ja
+    address: 神奈川県海老名市柏ヶ谷555-1
+    price: 850
+    lat: 35.463693
+    lng: 139.4126455
+    type: 温泉
+-
+    id: 36
+    name: 高齢者保養研修施設 ふれーゆ
+    url: http://fure-yu.jp/
+    map: https://maps.google.com/?cid=14619074932682252295&hl=ja
+    address: 神奈川県横浜市鶴見区末広町1-15-2
+    price: 800
+    lat: 35.4796314
+    lng: 139.6884574
+    type: 温泉
+-
+    id: 37
+    name: 海辺の湯(久里浜店)
+    url: http://www.umibe-4126.com/spa/
+    map: https://maps.google.com/?cid=8570322547202700213&hl=ja
+    address: 神奈川県横須賀市久里浜8-17-26
+    price: 780
+    lat: 35.2204509
+    lng: 139.7168856
+    type: 温泉
+-
+    id: 38
+    name: 鶴巻温泉 弘法の里湯
+    url: http://www.city.hadano.kanagawa.jp/www/contents/1001000001157/index.html
+    map: https://maps.google.com/?cid=289510187192354407&hl=ja
+    address: 神奈川県秦野市鶴巻北3-1-2
+    price: 1000
+    lat: 35.381836
+    lng: 139.2759846
+    type: 温泉
+-
+    id: 39
+    name: 天然温泉みうら湯(弘明寺店)
+    url: http://www.miurayu.com/
+    map: https://maps.google.com/?cid=7487252753269039086&hl=ja
+    address: 神奈川県横浜市南区中里1-25-1
+    price: 820
+    lat: 35.4202525
+    lng: 139.597711
+    type: 温泉
+-
+    id: 40
+    name: モダン湯治 おんり〜ゆ〜
+    url: http://www.ashigara-only-you.com/
+    map: https://maps.google.com/?cid=16279824576354252572&hl=ja
+    address: 神奈川県南足柄市広町1520
+    price: 2090
+    lat: 35.3090861
+    lng: 139.07831
+    type: 温泉
+-
+    id: 41
+    name: おふろの王様(港南台店)
+    url: https://www.ousama2603.com/shop/kounandai/
+    map: https://maps.google.com/?cid=6222902418362358539&hl=ja
+    address: 神奈川県横浜市港南区日野中央2-45-7
+    price: 850
+    lat: 35.3847721
+    lng: 139.5806577
+    type: 温泉
+-
+    id: 42
+    name: バリ風天然温泉 スパ・リブールヨコハマ
+    url: http://www.libur.co.jp/
+    map: https://maps.google.com/?cid=5063361712696340214&hl=ja
+    address: 神奈川県横浜市鶴見区獅子ヶ谷2-39-18
+    price: 1380
+    lat: 35.5244287
+    lng: 139.6490954
+    type: 温泉
+-
+    id: 43
+    name: 丸子温泉
+    url: https://k-o-i.jp/koten/marukoonsen/
+    map: https://maps.google.com/?cid=10798738976455980398&hl=ja
+    address: 神奈川県川崎市中原区新丸子町675
+    price: 470
+    lat: 35.5822014
+    lng: 139.662235
+    type: 銭湯
+-
+    id: 44
+    name: 天然温泉 すすき野 湯けむりの里
+    url: https://www.yukemurinosato.com/susukino/info/
+    map: https://maps.google.com/?cid=4514775475608929871&hl=ja
+    address: 神奈川県横浜市青葉区すすき野3-2-7
+    price: 720
+    lat: 35.5778029
+    lng: 139.5284451
+    type: 温泉
+-
+    id: 45
+    name: 相模健康センター 湯の泉
+    url: http://www.yunoizumi.com/sagami/
+    map: https://maps.google.com/?cid=13003532189942680566&hl=ja
+    address: 神奈川県座間市東原3-23-1
+    price: 1400
+    lat: 35.4745135
+    lng: 139.4231789
+    type: 温泉
+-
+    id: 46
+    name: 中島館
+    url: https://k-o-i.jp/koten/nakajimakan/
+    map: https://maps.google.com/?cid=6856621902547092100&hl=ja
+    address: 神奈川県横浜市南区中島町4-75
+    price: 470
+    lat: 35.424422
+    lng: 139.6013278
+    type: 銭湯
+-
+    id: 47
+    name: 湯あそび処 箱根の湯
+    url: http://www.hakonenoyu.co.jp/
+    map: https://maps.google.com/?cid=9230193535048029736&hl=ja
+    address: 神奈川県足柄下郡箱根町湯本茶屋100-1
+    price: 1100
+    lat: 35.2273846
+    lng: 139.0958093
+    type: 温泉
+-
+    id: 48
+    name: ねぎしの湯 大盛館
+    url: http://www.taiseikan.org
+    map: https://maps.google.com/?cid=18301154577424101515&hl=ja
+    address: 神奈川県横浜市磯子区上町5-13
+    price: 470
+    lat: 35.4224268
+    lng: 139.6255432
+    type: 銭湯
+-
+    id: 49
+    name: JNファミリー相模原
+    url: http://www.jn-family.com/info_fee/
+    map: https://maps.google.com/?cid=10399624041861603943&hl=ja
+    address: 神奈川県相模原市中央区相模原7-1-20
+    price: 1450
+    lat: 35.5764031
+    lng: 139.3680715
+    type: 温泉
+-
+    id: 50
+    name: 松の湯
+    url: https://k-o-i.jp/koten/matsunoyu-2-kawa/
+    map: https://maps.google.com/?cid=2872903813512737443&hl=ja
+    address: 神奈川県川崎市高津区久末20
+    price: 470
+    lat: 35.564992
+    lng: 139.6136742
+    type: 銭湯
+-
+    id: 51
+    name: 反町浴場
+    url: https://k-o-i.jp/koten/tanmachi/
+    map: https://maps.google.com/?cid=17094337431802299226&hl=ja
+    address: 神奈川県横浜市神奈川区上反町1-5-2
+    price: 470
+    lat: 35.4742308
+    lng: 139.62499
+    type: 銭湯
+-
+    id: 52
+    name: ひばり湯
+    url: https://k-o-i.jp/koten/hibariyu/
+    map: https://maps.google.com/?cid=18367263698481033909&hl=ja
+    address: 神奈川県鎌倉市大船1-13-7
+    price: 470
+    lat: 35.3504722
+    lng: 139.5320466
+    type: 銭湯
+-
+    id: 53
+    name: はだの万葉倶楽部
+    url: https://www.manyo.co.jp/hadano/
+    map: https://maps.google.com/?cid=11195623566785334690&hl=ja
+    address: 神奈川県秦野市河原町2-54
+    price: 1800
+    lat: 35.3675308
+    lng: 139.2359615
+    type: 温泉
+-
+    id: 54
+    name: スカイスパYOKOHAMA
+    url: https://www.skyspa.co.jp/
+    map: https://maps.google.com/?cid=8933127491310264391&hl=ja
+    address: 神奈川県横浜市西区高島2-19-12
+    price: 2450
+    lat: 35.4644342
+    lng: 139.6247051
+    type: 温泉
+-
+    id: 55
+    name: 湯快爽快(ざま店)
+    url: https://www.yukaisoukai.com/zam/
+    map: https://maps.google.com/?cid=3415524632038246418&hl=ja
+    address: 神奈川県座間市広野台1-48-25
+    price: 730
+    lat: 35.5026276
+    lng: 139.422706
+    type: 温泉
+-
+    id: 56
+    name: 秦野天然温泉 さざんか
+    url: https://onsen-sazanka.com/
+    map: https://maps.google.com/?cid=11975604074361820861&hl=ja
+    address: 神奈川県秦野市南矢名2-13-13
+    price: 700
+    lat: 35.3700807
+    lng: 139.271391
+    type: 温泉
+-
+    id: 57
+    name: 湯花楽(秦野店)
+    url: http://www.yukaraku.com/hadano/
+    map: https://maps.google.com/?cid=12998127556143341076&hl=ja
+    address: 神奈川県秦野市平沢295-2
+    price: 800
+    lat: 35.3756489
+    lng: 139.1963618
+    type: 温泉
+-
+    id: 58
+    name: ヨコヤマ・ユーランド鶴見
+    url: http://www.yu-land.com/
+    map: https://maps.google.com/?cid=15977328045956160666&hl=ja
+    address: 神奈川県横浜市鶴見区下末吉2-21-21
+    price: 1900
+    lat: 35.5222208
+    lng: 139.6735958
+    type: 温泉
+-
+    id: 59
+    name: 藤野やまなみ温泉
+    url: http://yamanami-onsen.jp
+    map: https://maps.google.com/?cid=1086439895907106081&hl=ja
+    address: 神奈川県相模原市緑区牧野4225-1
+    price: 700
+    lat: 35.5820463
+    lng: 139.1501783
+    type: 温泉
+-
+    id: 60
+    name: 日吉湯
+    url: https://k-o-i.jp/koten/hiyoshiyu/
+    map: https://maps.google.com/?cid=12066475331050346334&hl=ja
+    address: 神奈川県横浜市港北区日吉本町4-15-9
+    price: 470
+    lat: 35.5479463
+    lng: 139.6327534
+    type: 銭湯
+-
+    id: 61
+    name: 湘南台温泉 らく
+    url: http://shonandaionsen-raku.jp/
+    map: https://maps.google.com/?cid=18369132000796335223&hl=ja
+    address: 神奈川県藤沢市湘南台2-7-5
+    price: 850
+    lat: 35.3972013
+    lng: 139.4641187
+    type: 温泉
+-
+    id: 62
+    name: 政之湯
+    url: https://k-o-i.jp/koten/masanoyu-kawa/
+    map: https://maps.google.com/?cid=1211204157395253310&hl=ja
+    address: 神奈川県川崎市川崎区南町2-3
+    price: 470
+    lat: 35.5271217
+    lng: 139.6997178
+    type: 銭湯
+-
+    id: 63
+    name: 亀遊館
+    url: https://k-o-i.jp/koten/kiyuukan/
+    map: https://maps.google.com/?cid=210159323611556319&hl=ja
+    address: 神奈川県横浜市金沢区六浦4-12-21
+    price: 470
+    lat: 35.3272325
+    lng: 139.6161392
+    type: 銭湯
+-
+    id: 64
+    name: 日の出おふろセンター
+    url: https://k-o-i.jp/koten/hinodeofuro/
+    map: https://maps.google.com/?cid=16770947854344440606&hl=ja
+    address: 神奈川県川崎市川崎区昭和2-5-12
+    price: 470
+    lat: 35.5304354
+    lng: 139.736388
+    type: 銭湯
+-
+    id: 65
+    name: 湯乃市(藤沢柄沢店)
+    url: https://yunoichi.net/karasawa
+    map: https://maps.google.com/?cid=5652349984254031696&hl=ja
+    address: 神奈川県藤沢市柄沢544
+    price: 700
+    lat: 35.3528985
+    lng: 139.4983569
+    type: 温泉
+-
+    id: 66
+    name: 稲村ヶ崎温泉
+    url: https://www.inamuragasaki-onsen.jp/
+    map: https://maps.google.com/?cid=11976145464172336930&hl=ja
+    address: 神奈川県鎌倉市稲村ガ崎1-16-13
+    price: 1530
+    lat: 35.3031639
+    lng: 139.524458
+    type: 温泉
+-
+    id: 67
+    name: ファンタジースパ おふろの国
+    url: http://ofuronokuni.co.jp/
+    map: https://maps.google.com/?cid=14101567266978161121&hl=ja
+    address: 神奈川県横浜市鶴見区下末吉2-25-23
+    price: 700
+    lat: 35.5230474
+    lng: 139.6757775
+    type: 温泉
+-
+    id: 68
+    name: いやさか湯
+    url: https://k-o-i.jp/koten/iyasakayu/
+    map: https://maps.google.com/?cid=16871432218142017115&hl=ja
+    address: 神奈川県横浜市鶴見区馬場1-7-23
+    price: 470
+    lat: 35.5056031
+    lng: 139.6476403
+    type: 銭湯
+-
+    id: 69
+    name: 箱根湯本 日帰り温泉 湯の里おかだ
+    url: https://yunosato-y.jp
+    map: https://maps.google.com/?cid=3411986793764136190&hl=ja
+    address: 神奈川県足柄下郡箱根町湯本茶屋191
+    price: 1450
+    lat: 35.2265254
+    lng: 139.0920591
+    type: 温泉
+-
+    id: 70
+    name: 佐野天然温泉 湯処 のぼり雲
+    url: http://www.noborigumo.jp/
+    map: https://maps.google.com/?cid=17914453756173311729&hl=ja
+    address: 神奈川県横須賀市佐野町4-5
+    price: 1000
+    lat: 35.2643243
+    lng: 139.6679505
+    type: 温泉
+-
+    id: 71
+    name: 徳の湯
+    url: https://k-o-i.jp/koten/tokunoyu/
+    map: https://maps.google.com/?cid=4879468050727156789&hl=ja
+    address: 神奈川県横浜市神奈川区西神奈川2-1-5
+    price: 470
+    lat: 35.4828677
+    lng: 139.6289777
+    type: 銭湯
+-
+    id: 72
+    name: 松葉浴場
+    url: https://k-o-i.jp/koten/matsuba/
+    map: https://maps.google.com/?cid=2238041725376471984&hl=ja
+    address: 神奈川県川崎市麻生区百合丘3-3-5
+    price: 470
+    lat: 35.6033342
+    lng: 139.5185345
+    type: 銭湯
+-
+    id: 73
+    name: 天然温泉コロナの湯(小田原店)
+    url: http://www.korona.co.jp/onsen/odw/index.asp
+    map: https://maps.google.com/?cid=6852096395410607317&hl=ja
+    address: 神奈川県小田原市前川219-4
+    price: 750
+    lat: 35.2786926
+    lng: 139.1942091
+    type: 温泉
+-
+    id: 74
+    name: さがみ湖温泉うるり
+    url: https://www.sagamiko-resort.jp/spa/
+    map: https://maps.google.com/?cid=23081716239908339&hl=ja
+    address: 神奈川県相模原市緑区若柳1634
+    price: 850
+    lat: 35.6048198
+    lng: 139.2011658
+    type: 温泉
+-
+    id: 75
+    name: 万葉湯
+    url: https://k-o-i.jp/koten/manyouyu/
+    map: https://maps.google.com/?cid=6862439568116791829&hl=ja
+    address: 神奈川県横須賀市久里浜1-6-1
+    price: 470
+    lat: 35.2301277
+    lng: 139.7011901
+    type: 銭湯
+-
+    id: 76
+    name: ヨコヤマユーランド緑 八朔の湯
+    url: http://www.yu-land.co.jp/s1-hassaku/
+    map: https://maps.google.com/?cid=16717239607750435775&hl=ja
+    address: 神奈川県横浜市緑区西八朔町1201-1
+    price: 800
+    lat: 35.5330101
+    lng: 139.5293887
+    type: 温泉
+-
+    id: 77
+    name: 観音崎京急ホテル SPASSO
+    url: https://www.kannon-kqh.co.jp/spasso/
+    map: https://maps.google.com/?cid=3949353803685027478&hl=ja
+    address: 神奈川県横須賀市走水2-1157-2
+    price: 1500
+    lat: 35.2613233
+    lng: 139.7377642
+    type: 温泉
+-
+    id: 78
+    name: 宿河原浴場
+    url: https://k-o-i.jp/koten/syukugawara/
+    map: https://maps.google.com/?cid=9656916717291707740&hl=ja
+    address: 神奈川県川崎市多摩区宿河原3-5-13
+    price: 470
+    lat: 35.6147418
+    lng: 139.5801643
+    type: 銭湯
+-
+    id: 79
+    name: おふろの王様(高座渋谷店)
+    url: https://www.ousama2603.com/shop/kouzashibuya/
+    map: https://maps.google.com/?cid=15148107379271751410&hl=ja
+    address: 神奈川県大和市福田2021-2
+    price: 950
+    lat: 35.4328224
+    lng: 139.4641386
+    type: 温泉
+-
+    id: 80
+    name: 新横浜フジビューホテル 新横浜温泉
+    url: https://www.fujiview-hotel.jp/
+    map: https://maps.google.com/?cid=8300813271623255560&hl=ja
+    address: 神奈川県横浜市港北区新横浜2-3-1
+    price: 1500
+    lat: 35.5072002
+    lng: 139.6144753
+    type: 温泉
+-
+    id: 81
+    name: 福美湯
+    url: http://park8.wakwak.com/~fukumiyu/
+    map: https://maps.google.com/?cid=17681240869705257169&hl=ja
+    address: 神奈川県横浜市港北区菊名6-13-43
+    price: 470
+    lat: 35.5130956
+    lng: 139.631436
+    type: 銭湯
+-
+    id: 82
+    name: 寿恵弘湯
+    url: http://www.suehiroyu.co.jp/
+    map: https://maps.google.com/?cid=8350029454687122986&hl=ja
+    address: 神奈川県川崎市川崎区大師駅前1-6-20
+    price: 470
+    lat: 35.5349727
+    lng: 139.7268341
+    type: 銭湯
+-
+    id: 83
+    name: 港北天然温泉 ゆったりCOCo
+    url: https://www.sportsoasis.co.jp/coco/
+    map: https://maps.google.com/?cid=15440620933382744240&hl=ja
+    address: 神奈川県横浜市都筑区中川中央2-7-1
+    price: 1280
+    lat: 35.5505751
+    lng: 139.5756461
+    type: 温泉
+-
+    id: 84
+    name: 湯河原温泉 こごめの湯
+    url: http://kogomenoyu.com/
+    map: https://maps.google.com/?cid=6113113114793210225&hl=ja
+    address: 神奈川県足柄下郡湯河原町宮上562-6
+    price: 1100
+    lat: 35.14577
+    lng: 139.0730696
+    type: 温泉
+-
+    id: 85
+    name: 横浜天然温泉 SPA EAS
+    url: https://spa-eas.com
+    map: https://maps.google.com/?cid=487006297752291921&hl=ja
+    address: 神奈川県横浜市西区北幸2-2-1
+    price: 2140
+    lat: 35.4659593
+    lng: 139.6172392
+    type: 温泉
+-
+    id: 86
+    name: たちばな温泉 たちばな湯
+    url: https://k-o-i.jp/koten/tachibanaonsen/
+    map: https://maps.google.com/?cid=15507897335227506483&hl=ja
+    address: 神奈川県川崎市高津区子母口403
+    price: 470
+    lat: 35.5754059
+    lng: 139.6284785
+    type: 銭湯
+-
+    id: 87
+    name: 青根緑の休暇村 いやしの湯
+    url: http://www.iyashinoyu.org/
+    map: https://maps.google.com/?cid=4734575831318062984&hl=ja
+    address: 神奈川県相模原市緑区青根844
+    price: 700
+    lat: 35.5479973
+    lng: 139.1356932
+    type: 温泉
+-
+    id: 88
+    name: 相模浴場
+    url: https://k-o-i.jp/koten/sagami/
+    map: https://maps.google.com/?cid=7842197198593881551&hl=ja
+    address: 神奈川県相模原市中央区矢部1-4-15
+    price: 470
+    lat: 35.5740419
+    lng: 139.3766925
+    type: 銭湯
+-
+    id: 89
+    name: 朝日湯
+    url: https://k-o-i.jp/koten/asahiyu-2/
+    map: https://maps.google.com/?cid=3163343223595889999&hl=ja
+    address: 神奈川県横浜市鶴見区生麦3-6-24
+    price: 470
+    lat: 35.4955188
+    lng: 139.6688642
+    type: 銭湯
+-
+    id: 90
+    name: 仲乃湯
+    url: https://k-o-i.jp/koten/nakanoyu-3/
+    map: https://maps.google.com/?cid=224577917879512242&hl=ja
+    address: 神奈川県横浜市南区中村町3-207-8
+    price: 470
+    lat: 35.432674
+    lng: 139.6298482
+    type: 銭湯
+-
+    id: 91
+    name: 清水湯
+    url: https://k-o-i.jp/koten/shimizuyu-sho/
+    map: https://maps.google.com/?cid=13826120613996477204&hl=ja
+    address: 神奈川県鎌倉市材木座1-10-24
+    price: 470
+    lat: 35.3112917
+    lng: 139.5525449
+    type: 銭湯
+-
+    id: 92
+    name: 記念湯
+    url: https://k-o-i.jp/koten/kinenyu/
+    map: https://maps.google.com/?cid=7447638126706998622&hl=ja
+    address: 神奈川県横浜市西区戸部本町45-4
+    price: 470
+    lat: 35.4569883
+    lng: 139.620074
+    type: 銭湯
+-
+    id: 93
+    name: 日栄浴場
+    url: https://k-o-i.jp/koten/nichiei/
+    map: https://maps.google.com/?cid=14294814830568336316&hl=ja
+    address: 神奈川県相模原市南区相南4-1-25
+    price: 470
+    lat: 35.5150481
+    lng: 139.4253806
+    type: 銭湯
+-
+    id: 94
+    name: 橘湯
+    url: https://k-o-i.jp/koten/tachibanayu/
+    map: https://maps.google.com/?cid=4091718901689225146&hl=ja
+    address: 神奈川県川崎市中原区苅宿260
+    price: 470
+    lat: 35.5613464
+    lng: 139.6643416
+    type: 銭湯
+-
+    id: 95
+    name: 小山湯
+    url: https://k-o-i.jp/koten/koyamayu/
+    map: https://maps.google.com/?cid=191534273357240519&hl=ja
+    address: 神奈川県横浜市中区石川町3-106-4
+    price: 470
+    lat: 35.4373412
+    lng: 139.6400922
+    type: 銭湯
+-
+    id: 96
+    name: 太平館
+    url: https://k-o-i.jp/koten/taiheikan-1/
+    map: https://maps.google.com/?cid=1166426471831512852&hl=ja
+    address: 神奈川県横浜市港北区大曽根1-25-2
+    price: 470
+    lat: 35.5276222
+    lng: 139.6325441
+    type: 銭湯
+-
+    id: 97
+    name: 湘南ひらつか 太古の湯
+    url: http://www.green-sauna.com/
+    map: https://maps.google.com/?cid=497457841440915475&hl=ja
+    address: 神奈川県平塚市錦町1-18
+    price: 1650
+    lat: 35.3274901
+    lng: 139.3452051
+    type: 温泉
+-
+    id: 98
+    name: シーサイドスパ 八景島
+    url: http://www.seaside-spa.com/
+    map: https://maps.google.com/?cid=8843766721975925688&hl=ja
+    address: 神奈川県横浜市金沢区柴町361
+    price: 1300
+    lat: 35.3419936
+    lng: 139.6425138
+    type: 温泉
+-
+    id: 99
+    name: 富士乃湯
+    url: https://k-o-i.jp/koten/fujinoyu-4/
+    map: https://maps.google.com/?cid=7718883177887147406&hl=ja
+    address: 神奈川県横浜市港北区綱島西3-22-18
+    price: 470
+    lat: 35.539139
+    lng: 139.6279463
+    type: 銭湯
+-
+    id: 100
+    name: 利世館
+    url: https://k-o-i.jp/koten/riseikan/
+    map: https://maps.google.com/?cid=18048191878697777281&hl=ja
+    address: 神奈川県横浜市中区伊勢佐木町5-127
+    price: 470
+    lat: 35.4404023
+    lng: 139.6274874
+    type: 銭湯
+-
+    id: 101
+    name: 葛の湯
+    url: https://kuzunoyu.wixsite.com/kuzunoyu
+    map: https://maps.google.com/?cid=12719278950820703825&hl=ja
+    address: 神奈川県横浜市泉区中田南5-1-16
+    price: 470
+    lat: 35.4041874
+    lng: 139.5106195
+    type: 温泉
+-
+    id: 102
+    name: 親松の湯
+    url: https://k-o-i.jp/koten/shinmatsunoyu/
+    map: https://maps.google.com/?cid=10355374952844956303&hl=ja
+    address: 神奈川県横浜市神奈川区六角橋2-15-5
+    price: 470
+    lat: 35.4876579
+    lng: 139.6244686
+    type: 銭湯
+-
+    id: 103
+    name: センター南温泉 湯もみの里
+    url: https://www.yumominosato.jp/
+    map: https://maps.google.com/?cid=9462014892671645179&hl=ja
+    address: 神奈川県横浜市都筑区茅ヶ崎南4-3-1
+    price: 1240
+    lat: 35.5412064
+    lng: 139.5738352
+    type: 温泉
+-
+    id: 104
+    name: バーデンプレイス
+    url: https://k-o-i.jp/koten/bardenplace/
+    map: https://maps.google.com/?cid=16819913359030245391&hl=ja
+    address: 神奈川県川崎市高津区新作6-8-16
+    price: 470
+    lat: 35.5864469
+    lng: 139.6248285
+    type: 銭湯
+-
+    id: 105
+    name: 中川温泉 ぶなの湯
+    url: https://www.yamakita.net/stay/detail.php?id=8
+    map: https://maps.google.com/?cid=16758501780431365825&hl=ja
+    address: 神奈川県足柄上郡山北町中川645-8
+    price: 700
+    lat: 35.4438838
+    lng: 139.0495672
+    type: 温泉
+-
+    id: 106
+    name: ファミリーアイランド さくらゆ
+    url: https://k-o-i.jp/koten/sakurayu-4/
+    map: https://maps.google.com/?cid=3863343160788565870&hl=ja
+    address: 神奈川県横浜市瀬谷区三ツ境12-10
+    price: 470
+    lat: 35.4661158
+    lng: 139.5025899
+    type: 銭湯
+-
+    id: 107
+    name: 中島湯
+    url: https://k-o-i.jp/koten/nakajimayu-sho/
+    map: https://maps.google.com/?cid=6983806299023075756&hl=ja
+    address: 神奈川県小田原市中町2-5-5
+    price: 470
+    lat: 35.2594261
+    lng: 139.1632906
+    type: 銭湯
+-
+    id: 108
+    name: 旭湯
+    url: https://k-o-i.jp/koten/asahiyu-1/
+    map: https://maps.google.com/?cid=5972600670693238410&hl=ja
+    address: 神奈川県横浜市港北区日吉2-15-31
+    price: 470
+    lat: 35.5573796
+    lng: 139.6476059
+    type: 銭湯
+-
+    id: 109
+    name: 弁天湯
+    url: https://k-o-i.jp/koten/bentenyu/
+    map: https://maps.google.com/?cid=13168460367813681464&hl=ja
+    address: 神奈川県横浜市中区弥生町1-9
+    price: 470
+    lat: 35.4407119
+    lng: 139.6309636
+    type: 銭湯
+-
+    id: 110
+    name: 富士見湯
+    url: http://www.fujimiyu.com/
+    map: https://maps.google.com/?cid=1288012093663328072&hl=ja
+    address: 神奈川県川崎市幸区幸町4-2-3
+    price: 470
+    lat: 35.5363181
+    lng: 139.6959815
+    type: 銭湯
+-
+    id: 111
+    name: やすらぎ温泉
+    url: https://k-o-i.jp/koten/yasuragi/
+    map: https://maps.google.com/?cid=5533460679949559523&hl=ja
+    address: 神奈川県横須賀市平作1-2-20
+    price: 470
+    lat: 35.259276
+    lng: 139.6542764
+    type: 銭湯
+-
+    id: 112
+    name: 不動湯
+    url: https://k-o-i.jp/koten/fudouyu/
+    map: https://maps.google.com/?cid=9156532281985878346&hl=ja
+    address: 神奈川県藤沢市辻堂元町1-5-22
+    price: 470
+    lat: 35.3352817
+    lng: 139.4506965
+    type: 銭湯
+-
+    id: 113
+    name: 横浜温泉 黄金湯
+    url: https://k-o-i.jp/koten/koganeyu/
+    map: https://maps.google.com/?cid=14544682322341732926&hl=ja
+    address: 神奈川県横浜市保土ヶ谷区仏向町245
+    price: 470
+    lat: 35.4638779
+    lng: 139.5818175
+    type: 銭湯
+-
+    id: 114
+    name: 栄湯湘南館
+    url: https://sakaeyushonankan.com
+    map: https://maps.google.com/?cid=1453602801102810164&hl=ja
+    address: 神奈川県藤沢市亀井野1-10-13
+    price: 470
+    lat: 35.384139
+    lng: 139.4718919
+    type: 銭湯
+-
+    id: 115
+    name: 永楽湯
+    url: https://k-o-i.jp/koten/eirakuyu/
+    map: https://maps.google.com/?cid=10720584848325913274&hl=ja
+    address: 神奈川県横浜市南区永楽町1-8
+    price: 470
+    lat: 35.4374359
+    lng: 139.6310134
+    type: 銭湯
+-
+    id: 116
+    name: いなり湯
+    url: https://k-o-i.jp/koten/inariyu/
+    map: https://maps.google.com/?cid=14690018059222307511&hl=ja
+    address: 神奈川県横浜市中区大和町1-12
+    price: 470
+    lat: 35.4314026
+    lng: 139.649003
+    type: 銭湯
+-
+    id: 117
+    name: 港南泉
+    url: https://k-o-i.jp/koten/kounansen/
+    map: https://maps.google.com/?cid=8034598536222550565&hl=ja
+    address: 神奈川県横浜市港南区港南3-3-5
+    price: 470
+    lat: 35.4006546
+    lng: 139.5886736
+    type: 銭湯
+-
+    id: 118
+    name: 中山浴場
+    url: https://k-o-i.jp/koten/nakayama/
+    map: https://maps.google.com/?cid=13114025077319904343&hl=ja
+    address: 神奈川県横浜市緑区中山町176
+    price: 470
+    lat: 35.5103995
+    lng: 139.5452552
+    type: 銭湯
+-
+    id: 119
+    name: 横浜温泉 チャレンジャー
+    url: http://yokohamaonsen.web.fc2.com/index.html
+    map: https://maps.google.com/?cid=9167604665928643931&hl=ja
+    address: 神奈川県横浜市旭区上川井町2287
+    price: 600
+    lat: 35.5011854
+    lng: 139.4963115
+    type: 温泉
+-
+    id: 120
+    name: OYUGIWA海老名
+    url: https://www.fantasy.co.jp/oyugiwa/
+    map: https://maps.google.com/?cid=16281361653898214433&hl=ja
+    address: 神奈川県海老名市門沢橋2-26-1
+    price: 750
+    lat: 35.4064157
+    lng: 139.3739223
+    type: 温泉
+-
+    id: 121
+    name: INSPA横浜
+    url: http://www.inspa.co.jp/
+    map: https://maps.google.com/?cid=14163746313076691990&hl=ja
+    address: 神奈川県横浜市神奈川区山内町15-2
+    price: 2300
+    lat: 35.4689056
+    lng: 139.6390897
+    type: 温泉
+-
+    id: 122
+    name: 大和湯
+    url: https://k-o-i.jp/koten/yamatoyu/
+    map: https://maps.google.com/?cid=14437658490610028651&hl=ja
+    address: 神奈川県大和市大和東1-2-7
+    price: 470
+    lat: 35.4708222
+    lng: 139.4612781
+    type: 銭湯
+-
+    id: 123
+    name: 矢向温泉 富士の湯
+    url: https://k-o-i.jp/koten/fujinoyu-3/
+    map: https://maps.google.com/?cid=15782899857059692237&hl=ja
+    address: 神奈川県横浜市鶴見区矢向3-28-12
+    price: 470
+    lat: 35.5359881
+    lng: 139.6795457
+    type: 銭湯
+-
+    id: 124
+    name: 名水はだの 富士見の湯
+    url: http://www.hadanofujiminoyu.jp/
+    map: https://maps.google.com/?cid=6330903841393767281&hl=ja
+    address: 神奈川県秦野市曽屋4553-1
+    price: 800
+    lat: 35.3737952
+    lng: 139.2381234
+    type: 温泉
+-
+    id: 125
+    name: よねの湯
+    url: https://k-o-i.jp/koten/yonenoyu/
+    map: https://maps.google.com/?cid=17895991580390805632&hl=ja
+    address: 神奈川県平塚市立野町29-13
+    price: 470
+    lat: 35.3357654
+    lng: 139.3397382
+    type: 銭湯
+-
+    id: 126
+    name: 富士見湯
+    url: https://k-o-i.jp/koten/fujimiyu-sho/
+    map: https://maps.google.com/?cid=11448763900403411798&hl=ja
+    address: 神奈川県藤沢市藤沢1003-8
+    price: 470
+    lat: 35.3417469
+    lng: 139.4829709
+    type: 銭湯
+-
+    id: 127
+    name: ラジウム温泉 しのぶ湯
+    url: https://k-o-i.jp/koten/shinobuyu/
+    map: https://maps.google.com/?cid=14733521235266965284&hl=ja
+    address: 神奈川県横浜市港北区大倉山3-60-13
+    price: 470
+    lat: 35.5220901
+    lng: 139.623218
+    type: 銭湯
+-
+    id: 128
+    name: 大平台温泉 姫之湯
+    url: http://www.himenoyu.net/
+    map: https://maps.google.com/?cid=6523127481458636438&hl=ja
+    address: 神奈川県足柄下郡箱根町大平台583
+    price: 550
+    lat: 35.2369634
+    lng: 139.0740759
+    type: 温泉
+-
+    id: 129
+    name: 亀の湯
+    url: https://k-o-i.jp/koten/kamenoyu-2/
+    map: https://maps.google.com/?cid=7295710872642316388&hl=ja
+    address: 神奈川県座間市相模が丘3-67-10
+    price: 470
+    lat: 35.5075823
+    lng: 139.423504
+    type: 銭湯
+-
+    id: 130
+    name: みなと湯
+    url: http://www.minatoyu.com/
+    map: https://maps.google.com/?cid=1598218385403001711&hl=ja
+    address: 神奈川県横浜市金沢区六浦東3-1-23
+    price: 470
+    lat: 35.3196074
+    lng: 139.6210608
+    type: 銭湯
+-
+    id: 131
+    name: 多賀良湯
+    url: https://k-o-i.jp/koten/takarayu/
+    map: https://maps.google.com/?cid=12583711055662572808&hl=ja
+    address: 神奈川県川崎市幸区下平間223
+    price: 470
+    lat: 35.5511332
+    lng: 139.6813389
+    type: 銭湯
+-
+    id: 132
+    name: よしの湯
+    url: https://k-o-i.jp/koten/yoshinoyu-1/
+    map: https://maps.google.com/?cid=8913204423487996877&hl=ja
+    address: 神奈川県川崎市多摩区西生田4-12-4
+    price: 470
+    lat: 35.6128981
+    lng: 139.5270097
+    type: 銭湯
+-
+    id: 133
+    name: 宮本温泉
+    url: https://k-o-i.jp/koten/miyamotoonsen/
+    map: https://maps.google.com/?cid=18069347500122345993&hl=ja
+    address: 神奈川県横須賀市大津町3-7-3
+    price: 470
+    lat: 35.2611053
+    lng: 139.692663
+    type: 銭湯
+-
+    id: 134
+    name: 松島館
+    url: https://k-o-i.jp/koten/matsushimakan/
+    map: https://maps.google.com/?cid=4669657823298373508&hl=ja
+    address: 神奈川県横浜市西区戸部町4-166
+    price: 470
+    lat: 35.4546961
+    lng: 139.623862
+    type: 銭湯
+-
+    id: 135
+    name: 早雲足洗の湯 和泉
+    url: http://hakone-izumi.info/
+    map: https://maps.google.com/?cid=3622427903873080163&hl=ja
+    address: 神奈川県足柄下郡箱根町湯本657
+    price: 1250
+    lat: 35.2317709
+    lng: 139.0990116
+    type: 温泉
+-
+    id: 136
+    name: 草津湯
+    url: https://k-o-i.jp/koten/kusatsuyu/
+    map: https://maps.google.com/?cid=2867419479617374367&hl=ja
+    address: 神奈川県横浜市港北区綱島西4-13-16
+    price: 470
+    lat: 35.5427236
+    lng: 139.6274261
+    type: 銭湯
+-
+    id: 137
+    name: クアーズミサキ
+    url: https://misaki-no-sentou.jimdo.com/
+    map: https://maps.google.com/?cid=7880765338428658353&hl=ja
+    address: 神奈川県三浦市天神町7-11
+    price: 470
+    lat: 35.1470815
+    lng: 139.6235731
+    type: 銭湯
+-
+    id: 138
+    name: バーデンハウス
+    url: https://k-o-i.jp/koten/bardenhouse/
+    map: https://maps.google.com/?cid=17121867956619454868&hl=ja
+    address: 神奈川県川崎市川崎区大島上町1-17
+    price: 470
+    lat: 35.5226475
+    lng: 139.7100522
+    type: 銭湯
+-
+    id: 139
+    name: 星乃湯
+    url: https://k-o-i.jp/koten/hoshinoyu/
+    map: https://maps.google.com/?cid=11313004247098244960&hl=ja
+    address: 神奈川県川崎市川崎区追分町15-2
+    price: 470
+    lat: 35.5189999
+    lng: 139.7158423
+    type: 銭湯
+-
+    id: 140
+    name: 矢向湯
+    url: https://k-o-i.jp/koten/yakouyu/
+    map: https://maps.google.com/?cid=12504667562926315975&hl=ja
+    address: 神奈川県横浜市鶴見区矢向5-3-19
+    price: 470
+    lat: 35.5370701
+    lng: 139.6840101
+    type: 銭湯
+-
+    id: 141
+    name: 小松湯
+    url: https://k-o-i.jp/koten/komatsuyu/
+    map: https://maps.google.com/?cid=2587446336030155458&hl=ja
+    address: 神奈川県川崎市川崎区大島5-8-7
+    price: 470
+    lat: 35.524227
+    lng: 139.7163837
+    type: 銭湯
+-
+    id: 142
+    name: 並木湯
+    url: https://k-o-i.jp/koten/namikiyu/
+    map: https://maps.google.com/?cid=9591696913350649957&hl=ja
+    address: 神奈川県相模原市中央区並木1-10-7
+    price: 470
+    lat: 35.5588174
+    lng: 139.3802647
+    type: 銭湯
+-
+    id: 143
+    name: 平安湯
+    url: https://k-o-i.jp/koten/heianyu/
+    map: https://maps.google.com/?cid=17645615941554131251&hl=ja
+    address: 神奈川県横浜市鶴見区平安町1-70
+    price: 470
+    lat: 35.5169665
+    lng: 139.6915206
+    type: 銭湯
+-
+    id: 144
+    name: ソレイユの丘 海と夕日の湯
+    url: https://www.seibu-la.co.jp/soleil/bath
+    map: https://maps.google.com/?cid=9766867970968824326&hl=ja
+    address: 神奈川県横須賀市長井4
+    price: 700
+    lat: 35.193455
+    lng: 139.6133356
+    type: 温泉
+-
+    id: 145
+    name: 清川村ふれあいセンター 別所の湯
+    url: http://www.town.kiyokawa.kanagawa.jp/shisetsu/1/4/998.html
+    map: https://maps.google.com/?cid=2093579952924350611&hl=ja
+    address: 神奈川県愛甲郡清川村煤ケ谷1619
+    price: 700
+    lat: 35.4718643
+    lng: 139.2810142
+    type: 温泉
+-
+    id: 146
+    name: 浅田湯
+    url: https://k-o-i.jp/koten/asadaonsen/
+    map: https://maps.google.com/?cid=6057324910336367648&hl=ja
+    address: 神奈川県川崎市川崎区浅田1-10-14
+    price: 470
+    lat: 35.5063648
+    lng: 139.7040697
+    type: 銭湯
+-
+    id: 147
+    name: 鈴の湯
+    url: https://k-o-i.jp/koten/suzunoyu/
+    map: https://maps.google.com/?cid=12489213647223022983&hl=ja
+    address: 神奈川県川崎市高津区野川3644
+    price: 470
+    lat: 35.5741803
+    lng: 139.6200908
+    type: 銭湯
+-
+    id: 148
+    name: 越の湯
+    url: https://k-o-i.jp/koten/koshinoyu/
+    map: https://maps.google.com/?cid=560833920425627437&hl=ja
+    address: 神奈川県川崎市幸区古市場2-105
+    price: 470
+    lat: 35.5546397
+    lng: 139.6837694
+    type: 銭湯
+-
+    id: 149
+    name: 天山湯治郷 かよい湯治 一休
+    url: http://tenzan.jp/1kyu/
+    map: https://maps.google.com/?cid=14264996080089673855&hl=ja
+    address: 神奈川県足柄下郡箱根町湯本茶屋208
+    price: 1100
+    lat: 35.2250822
+    lng: 139.0883901
+    type: 温泉
+-
+    id: 150
+    name: 朝日湯
+    url: https://k-o-i.jp/koten/asahiyu-3/
+    map: https://maps.google.com/?cid=244779834623333375&hl=ja
+    address: 神奈川県横浜市西区中央2-44-6
+    price: 470
+    lat: 35.4538033
+    lng: 139.6141851
+    type: 銭湯
+-
+    id: 151
+    name: 常楽湯
+    url: https://k-o-i.jp/koten/jyourakuyu/
+    map: https://maps.google.com/?cid=9810429066852097506&hl=ja
+    address: 神奈川県鎌倉市台2-4-7
+    price: 470
+    lat: 35.347835
+    lng: 139.5306048
+    type: 銭湯
+-
+    id: 152
+    name: 本牧ゆあそび館
+    url: http://www.yuasobikan.com/
+    map: https://maps.google.com/?cid=6364777578796422063&hl=ja
+    address: 神奈川県横浜市中区千代崎町2-41
+    price: 470
+    lat: 35.4332362
+    lng: 139.6543163
+    type: 温泉
+-
+    id: 153
+    name: クアハウス山小屋
+    url: http://www5b.biglobe.ne.jp/~yamagoya/bath/index.html
+    map: https://maps.google.com/?cid=4735042063269253685&hl=ja
+    address: 神奈川県伊勢原市日向2184-1
+    price: 800
+    lat: 35.4378533
+    lng: 139.2607203
+    type: 温泉
+-
+    id: 154
+    name: 武の湯
+    url: https://k-o-i.jp/koten/takenoyu-2/
+    map: https://maps.google.com/?cid=16685787731862187273&hl=ja
+    address: 神奈川県相模原市南区相武台1-24-6
+    price: 470
+    lat: 35.4999603
+    lng: 139.4073277
+    type: 銭湯
+-
+    id: 155
+    name: 野田の湯
+    url: https://k-o-i.jp/koten/nodanoyu/
+    map: https://maps.google.com/?cid=7976139410095190188&hl=ja
+    address: 神奈川県鎌倉市台3-11-21
+    price: 470
+    lat: 35.3446359
+    lng: 139.5291729
+    type: 銭湯
+-
+    id: 156
+    name: 桜湯
+    url: https://k-o-i.jp/koten/sakurayu-2/
+    map: https://maps.google.com/?cid=2146167086605229998&hl=ja
+    address: 神奈川県横浜市南区中村町4-287-4
+    price: 470
+    lat: 35.4309202
+    lng: 139.6228874
+    type: 銭湯
+-
+    id: 157
+    name: 明徳湯
+    url: https://k-o-i.jp/koten/meitokuyu/
+    map: https://maps.google.com/?cid=11292283198758686620&hl=ja
+    address: 神奈川県横須賀市平作8-6-2
+    price: 470
+    lat: 35.2619063
+    lng: 139.650191
+    type: 銭湯
+-
+    id: 158
+    name: 野比温泉
+    url: http://www.kyoudou.biz/nobi-onsen/index.html
+    map: https://maps.google.com/?cid=8914209079657117519&hl=ja
+    address: 神奈川県横須賀市野比4-3-5
+    price: 800
+    lat: 35.2182594
+    lng: 139.6937024
+    type: 温泉
+-
+    id: 159
+    name: 宮の下共同浴場 太閤湯
+    url: http://www.miyanoshita.com/taikoyu/
+    map: https://maps.google.com/?cid=5767797771475169168&hl=ja
+    address: 神奈川県足柄下郡箱根町宮ノ下223
+    price: 500
+    lat: 35.2451168
+    lng: 139.0592401
+    type: 共同浴場・銭湯
+-
+    id: 160
+    name: 竹の湯
+    url: https://k-o-i.jp/koten/takenoyu/
+    map: https://maps.google.com/?cid=17066957449349010854&hl=ja
+    address: 神奈川県横浜市鶴見区生麦3-14-2
+    price: 470
+    lat: 35.4931212
+    lng: 139.6678585
+    type: 銭湯
+-
+    id: 161
+    name: 桐の湯
+    url: https://k-o-i.jp/koten/kirinoyu/
+    map: https://maps.google.com/?cid=2286191536059320036&hl=ja
+    address: 神奈川県川崎市幸区南幸町3-56
+    price: 470
+    lat: 35.5317788
+    lng: 139.6868904
+    type: 銭湯
+-
+    id: 162
+    name: 第二岡の湯
+    url: https://k-o-i.jp/koten/dai2okanoyu/
+    map: https://maps.google.com/?cid=16426795749387441332&hl=ja
+    address: 神奈川県横浜市鶴見区駒岡1-26-15
+    price: 470
+    lat: 35.5240429
+    lng: 139.6518772
+    type: 銭湯
+-
+    id: 163
+    name: 辰巳湯
+    url: https://k-o-i.jp/koten/tatsumiyu/
+    map: https://maps.google.com/?cid=12570492175626298480&hl=ja
+    address: 神奈川県川崎市川崎区小田5-22-6
+    price: 470
+    lat: 35.5105762
+    lng: 139.7049681
+    type: 銭湯
+-
+    id: 164
+    name: 姥子温泉 秀明館
+    url: http://shumeikan.biz/
+    map: https://maps.google.com/?cid=1822130774406877106&hl=ja
+    address: 神奈川県足柄下郡箱根町元箱根110-1
+    price: 2500
+    lat: 35.2433057
+    lng: 139.0094862
+    type: 温泉
+-
+    id: 165
+    name: 喜久の湯
+    url: https://k-o-i.jp/koten/kikunoyu-2-yoko/
+    map: https://maps.google.com/?cid=16774849397708306323&hl=ja
+    address: 神奈川県横浜市保土ヶ谷区川辺町15-5
+    price: 470
+    lat: 35.4619955
+    lng: 139.5943628
+    type: 銭湯
+-
+    id: 166
+    name: 菊の湯
+    url: https://k-o-i.jp/koten/kikunoyu-2-sho/
+    map: https://maps.google.com/?cid=3135093420952055212&hl=ja
+    address: 神奈川県大和市西鶴間1-23-7
+    price: 470
+    lat: 35.4903902
+    lng: 139.4476829
+    type: 銭湯
+-
+    id: 167
+    name: 間門湯
+    url: https://k-o-i.jp/koten/makadoyu/
+    map: https://maps.google.com/?cid=4935355119458845074&hl=ja
+    address: 神奈川県横浜市中区本牧間門32-8
+    price: 470
+    lat: 35.4204115
+    lng: 139.6555823
+    type: 銭湯
+-
+    id: 168
+    name: アクアスポット ニュー松の湯
+    url: https://k-o-i.jp/koten/newmatsunoyu/
+    map: https://maps.google.com/?cid=1435666019171226285&hl=ja
+    address: 神奈川県横須賀市追浜東町3-47
+    price: 470
+    lat: 35.315709
+    lng: 139.6304855
+    type: 銭湯
+-
+    id: 169
+    name: つるま湯
+    url: https://k-o-i.jp/koten/tsurumayu/
+    map: https://maps.google.com/?cid=3322043006327214816&hl=ja
+    address: 神奈川県大和市鶴間1-8-13
+    price: 470
+    lat: 35.4883005
+    lng: 139.4523326
+    type: 銭湯
+-
+    id: 170
+    name: 小田原温泉 八里
+    url: 
+    map: https://maps.google.com/?cid=7205826415868845254&hl=ja
+    address: 神奈川県小田原市風祭64
+    price: 500
+    lat: 35.2448766
+    lng: 139.1289152
+    type: 温泉
+-
+    id: 171
+    name: 当り湯
+    url: https://k-o-i.jp/koten/atariyu/
+    map: https://maps.google.com/?cid=3963559520434362312&hl=ja
+    address: 神奈川県横須賀市上町4-99
+    price: 470
+    lat: 35.2687011
+    lng: 139.6680393
+    type: 銭湯
+-
+    id: 172
+    name: 中村浴場
+    url: https://k-o-i.jp/koten/nakamura/
+    map: https://maps.google.com/?cid=11758552803026863967&hl=ja
+    address: 神奈川県横浜市南区中村町2-117-7
+    price: 470
+    lat: 35.4350348
+    lng: 139.6321785
+    type: 銭湯
+-
+    id: 173
+    name: Gensen Cafe
+    url: https://www.gensencafe.com/
+    map: https://maps.google.com/?cid=11237930386076406332&hl=ja
+    address: 神奈川県足柄下郡湯河原町宮上742
+    price: 550
+    lat: 35.1483996
+    lng: 139.0740373
+    type: 温泉
+-
+    id: 174
+    name: 宮城野温泉会館
+    url: https://www.town.hakone.kanagawa.jp/index.cfm/6,13389,14,106,html
+    map: https://maps.google.com/?cid=10474209179380981619&hl=ja
+    address: 神奈川県足柄下郡箱根町宮城野922
+    price: 650
+    lat: 35.2548578
+    lng: 139.0486088
+    type: 温泉
+-
+    id: 175
+    name: 箱根湯本温泉 弥坂湯
+    url: 
+    map: https://maps.google.com/?cid=1011070817666623086&hl=ja
+    address: 神奈川県足柄下郡箱根町湯本577
+    price: 650
+    lat: 35.228824
+    lng: 139.1015614
+    type: 共同浴場・銭湯
+-
+    id: 176
+    name: 潮田湯
+    url: https://k-o-i.jp/koten/ushiodayu/
+    map: https://maps.google.com/?cid=6412541892847894570&hl=ja
+    address: 神奈川県横浜市鶴見区本町通2-50
+    price: 470
+    lat: 35.5030451
+    lng: 139.6820814
+    type: 銭湯
+-
+    id: 177
+    name: 松美湯
+    url: https://k-o-i.jp/koten/matsumiyu/
+    map: https://maps.google.com/?cid=6949340901488531011&hl=ja
+    address: 神奈川県横浜市南区堀ノ内町2-140-1
+    price: 470
+    lat: 35.4285867
+    lng: 139.6161441
+    type: 銭湯
+-
+    id: 178
+    name: 竹の湯
+    url: https://k-o-i.jp/koten/takenoyu-1/
+    map: https://maps.google.com/?cid=13457401342347896169&hl=ja
+    address: 神奈川県横須賀市船越町1-51
+    price: 470
+    lat: 35.3004162
+    lng: 139.6280551
+    type: 銭湯
+-
+    id: 179
+    name: 二ノ平温泉 亀の湯
+    url: 
+    map: https://maps.google.com/?cid=721802470226972526&hl=ja
+    address: 神奈川県足柄下郡箱根町二ノ平1080
+    price: 550
+    lat: 35.2426664
+    lng: 139.0493286
+    type: 温泉
+-
+    id: 180
+    name: 栗田湯
+    url: https://k-o-i.jp/koten/kuritayu/
+    map: https://maps.google.com/?cid=9652326777506719250&hl=ja
+    address: 神奈川県鎌倉市岩瀬1-5-23
+    price: 470
+    lat: 35.3546002
+    lng: 139.5404348
+    type: 銭湯
+-
+    id: 181
+    name: 澤の湯
+    url: https://k-o-i.jp/koten/sawanoyu/
+    map: https://maps.google.com/?cid=4670681930274691010&hl=ja
+    address: 神奈川県横浜市鶴見区下野谷町1-43
+    price: 470
+    lat: 35.5015007
+    lng: 139.6801006
+    type: 銭湯
+-
+    id: 182
+    name: アーバン・スパ
+    url: http://www.u-spa-sauna.com/
+    map: https://maps.google.com/?cid=10969591780140239700&hl=ja
+    address: 神奈川県厚木市中町3-3-9
+    price: 1300
+    lat: 35.4401472
+    lng: 139.3608756
+    type: 温泉
+-
+    id: 183
+    name: 山北町 さくらの湯
+    url: http://www.town.yamakita.kanagawa.jp/0000004250.html
+    map: https://maps.google.com/?cid=8488943490071000269&hl=ja
+    address: 神奈川県足柄上郡山北町山北1971-2
+    price: 400
+    lat: 35.3604317
+    lng: 139.0797785
+    type: 温泉
+-
+    id: 184
+    name: 萬歳湯
+    url: https://k-o-i.jp/koten/banzaiyu/
+    map: https://maps.google.com/?cid=3664093672466932912&hl=ja
+    address: 神奈川県横浜市西区中央1-23-3
+    price: 470
+    lat: 35.4552439
+    lng: 139.6167227
+    type: 銭湯
+-
+    id: 185
+    name: 上星川浴場
+    url: https://k-o-i.jp/koten/kamihoshikawa/
+    map: https://maps.google.com/?cid=15550927917432623532&hl=ja
+    address: 神奈川県横浜市保土ヶ谷区上星川3-3-1
+    price: 470
+    lat: 35.4682969
+    lng: 139.5788374
+    type: 銭湯
+-
+    id: 186
+    name: 恵比寿湯
+    url: https://k-o-i.jp/koten/ebisuyu/
+    map: https://maps.google.com/?cid=738498768380043820&hl=ja
+    address: 神奈川県茅ヶ崎市南湖4-2-1
+    price: 470
+    lat: 35.3246704
+    lng: 139.3931928
+    type: 銭湯
+-
+    id: 187
+    name: 山陽館
+    url: https://k-o-i.jp/koten/sanyoukan/
+    map: https://maps.google.com/?cid=5630430333729772495&hl=ja
+    address: 神奈川県川崎市川崎区渡田3-14-7
+    price: 470
+    lat: 35.5190486
+    lng: 139.7064561
+    type: 銭湯
+-
+    id: 188
+    name: 福助湯
+    url: https://k-o-i.jp/koten/fukusukeyu/
+    map: https://maps.google.com/?cid=6058881169634428611&hl=ja
+    address: 神奈川県横浜市神奈川区西寺尾2-2-6
+    price: 470
+    lat: 35.496699
+    lng: 139.6461573
+    type: 銭湯
+-
+    id: 189
+    name: 金晴湯
+    url: https://k-o-i.jp/koten/konparuyu-yoko/
+    map: https://maps.google.com/?cid=17845713874965021301&hl=ja
+    address: 神奈川県横浜市磯子区岡村1-7-27
+    price: 470
+    lat: 35.4188853
+    lng: 139.6197637
+    type: 銭湯
+-
+    id: 190
+    name: 安善湯
+    url: https://k-o-i.jp/koten/anzenyu/
+    map: https://maps.google.com/?cid=7043094909822211314&hl=ja
+    address: 神奈川県横浜市鶴見区寛政町8-1
+    price: 470
+    lat: 35.5012375
+    lng: 139.7031609
+    type: 銭湯
+-
+    id: 191
+    name: 仙石原 いこいの家
+    url: 
+    map: https://maps.google.com/?cid=15992544315090959974&hl=ja
+    address: 神奈川県足柄下郡箱根町仙石原870
+    price: 650
+    lat: 35.2690792
+    lng: 139.0103013
+    type: 共同浴場・銭湯
+-
+    id: 192
+    name: 箱根町老人福祉センター やまなみ荘
+    url: https://www.town.hakone.kanagawa.jp/index.cfm/6,448,14,103,html
+    map: https://maps.google.com/?cid=6546374088836804205&hl=ja
+    address: 神奈川県足柄下郡箱根町強羅1320
+    price: 650
+    lat: 35.2499371
+    lng: 139.0373682
+    type: 温泉
+-
+    id: 193
+    name: 泉湯
+    url: https://k-o-i.jp/koten/izumiyu-2/
+    map: https://maps.google.com/?cid=11014922798713201343&hl=ja
+    address: 神奈川県横浜市中区北方町1-37
+    price: 470
+    lat: 35.4339131
+    lng: 139.6586046
+    type: 銭湯
+-
+    id: 194
+    name: 亀の湯
+    url: https://k-o-i.jp/koten/kamenoyu-1/
+    map: https://maps.google.com/?cid=1474789392713987581&hl=ja
+    address: 神奈川県横須賀市汐入町5-2
+    price: 470
+    lat: 35.2794597
+    lng: 139.6598868
+    type: 銭湯
+-
+    id: 195
+    name: 第二江陽館
+    url: https://k-o-i.jp/koten/dai2kouyou/
+    map: https://maps.google.com/?cid=16238669696483289005&hl=ja
+    address: 神奈川県横浜市磯子区中浜町4-16
+    price: 470
+    lat: 35.4153598
+    lng: 139.6264294
+    type: 銭湯
+-
+    id: 196
+    name: 第一天神湯
+    url: https://k-o-i.jp/koten/dai1tenjinyu/
+    map: https://maps.google.com/?cid=15375778259593313427&hl=ja
+    address: 神奈川県川崎市中原区上平間354
+    price: 470
+    lat: 35.5602772
+    lng: 139.6761293
+    type: 銭湯
+-
+    id: 197
+    name: 日の出浴場
+    url: https://k-o-i.jp/koten/hinode/
+    map: https://maps.google.com/?cid=14586810833919225751&hl=ja
+    address: 神奈川県横須賀市安浦町3-9
+    price: 470
+    lat: 35.2707334
+    lng: 139.6800009
+    type: 銭湯
+-
+    id: 198
+    name: 小倉湯
+    url: https://k-o-i.jp/koten/ogurayu/
+    map: https://maps.google.com/?cid=8279177238226651410&hl=ja
+    address: 神奈川県川崎市幸区小倉1324
+    price: 470
+    lat: 35.5387653
+    lng: 139.6681689
+    type: 銭湯
+-
+    id: 199
+    name: 宮下湯
+    url: https://k-o-i.jp/koten/miyashitayu/
+    map: https://maps.google.com/?cid=6695396927624141140&hl=ja
+    address: 神奈川県横浜市鶴見区岸谷1-15-12
+    price: 470
+    lat: 35.4966284
+    lng: 139.6629518
+    type: 銭湯
+-
+    id: 200
+    name: 厚木市ふれあいプラザ
+    url: https://atsugifureai.com/institution/?page=bathroom
+    map: https://maps.google.com/?cid=10350216283089382270&hl=ja
+    address: 神奈川県厚木市金田1156
+    price: 100
+    lat: 35.4595079
+    lng: 139.3715053
+    type: 共同浴場・銭湯
+-
+    id: 201
+    name: 里の湯
+    url: https://k-o-i.jp/koten/satonoyu/
+    map: https://maps.google.com/?cid=7853083086409859598&hl=ja
+    address: 神奈川県川崎市中原区上小田中3-25-28
+    price: 470
+    lat: 35.5876695
+    lng: 139.6339118
+    type: 銭湯
+-
+    id: 202
+    name: 井川湯
+    url: https://k-o-i.jp/koten/ikawayu/
+    map: https://maps.google.com/?cid=6838833871036968525&hl=ja
+    address: 神奈川県横浜市神奈川区子安通1-165
+    price: 470
+    lat: 35.4840236
+    lng: 139.6476104
+    type: 銭湯
+-
+    id: 203
+    name: 睦湯
+    url: https://k-o-i.jp/koten/mutsumiyu/
+    map: https://maps.google.com/?cid=7720075633662100530&hl=ja
+    address: 神奈川県川崎市幸区戸手本町2-206
+    price: 470
+    lat: 35.5403429
+    lng: 139.6856238
+    type: 銭湯
+-
+    id: 204
+    name: 箱根小涌園 森の湯
+    url: https://www.yunessun.com/
+    map: https://maps.google.com/maps?q=35.239502,139.04599
+    address: 神奈川県足柄下郡箱根町二ノ平1297
+    price: 1500
+    lat: 35.2394794
+    lng: 139.0458477
+    type: 温泉
+-
+    id: 205
+    name: 松の湯
+    url: https://k-o-i.jp/koten/matsunoyu-2-sho/
+    map: https://maps.google.com/?cid=13803076432334848117&hl=ja
+    address: 神奈川県横須賀市安浦町2-22
+    price: 470
+    lat: 35.2713631
+    lng: 139.6770302
+    type: 温泉
+-
+    id: 206
+    name: あけぼの湯
+    url: https://k-o-i.jp/koten/akebonoyu/
+    map: https://maps.google.com/?cid=3838627456327190403&hl=ja
+    address: 神奈川県川崎市川崎区台町5-12
+    price: 470
+    lat: 35.529118
+    lng: 139.7329694
+    type: 温泉
+-
+    id: 207
+    name: 西の湯
+    url: https://k-o-i.jp/koten/nishinoyu/
+    map: https://maps.google.com/?cid=6203198786050311207&hl=ja
+    address: 神奈川県横須賀市久里浜8-14-1
+    price: 470
+    lat: 35.2203723
+    lng: 139.711741
+    type: 温泉
+-
+    id: 208
+    name: 中乃湯
+    url: https://k-o-i.jp/koten/nakanoyu-1/
+    map: https://maps.google.com/?cid=9602140262659111697&hl=ja
+    address: 神奈川県横浜市西区藤棚町2-197-37
+    price: 470
+    lat: 35.4486996
+    lng: 139.6155753
+    type: 温泉
+-
+    id: 209
+    name: 寿湯
+    url: https://k-o-i.jp/koten/kotobukiyu-yoko/
+    map: https://maps.google.com/?cid=9055480239057349024&hl=ja
+    address: 神奈川県横浜市鶴見区市場下町10-32
+    price: 470
+    lat: 35.5170229
+    lng: 139.6833826
+    type: 温泉
+-
+    id: 210
+    name: 常盤湯
+    url: https://k-o-i.jp/koten/tokiwayu/
+    map: https://maps.google.com/?cid=8923968159514621060&hl=ja
+    address: 神奈川県横須賀市佐野町3-8
+    price: 470
+    lat: 35.263768
+    lng: 139.6691855
+    type: 温泉
+-
+    id: 211
+    name: 梅の湯
+    url: https://k-o-i.jp/koten/umenoyu-sho/
+    map: https://maps.google.com/?cid=7560719201371578211&hl=ja
+    address: 神奈川県横須賀市久里浜4-10-8
+    price: 470
+    lat: 35.231101
+    lng: 139.7035837
+    type: 温泉
+-
+    id: 212
+    name: 銀泉浴場
+    url: https://k-o-i.jp/koten/ginsen/
+    map: https://maps.google.com/?cid=3151565481400024099&hl=ja
+    address: 神奈川県横須賀市鴨居2-8-8
+    price: 470
+    lat: 35.2481239
+    lng: 139.7286448
+    type: 温泉
+-
+    id: 213
+    name: 栄湯
+    url: https://k-o-i.jp/koten/sakaeyu-kawa/
+    map: https://maps.google.com/?cid=12085788704029031779&hl=ja
+    address: 神奈川県川崎市川崎区小田栄1-11-23
+    price: 470
+    lat: 35.5162658
+    lng: 139.7049277
+    type: 温泉
+-
+    id: 214
+    name: 吉の湯
+    url: https://k-o-i.jp/koten/yoshinoyu-2/
+    map: https://maps.google.com/?cid=11381407155576429733&hl=ja
+    address: 神奈川県川崎市川崎区貝塚2-5-8
+    price: 470
+    lat: 35.524347
+    lng: 139.7043158
+    type: 温泉
+-
+    id: 215
+    name: 美和乃湯
+    url: https://k-o-i.jp/koten/miwanoyu/
+    map: https://maps.google.com/?cid=9161854832961716844&hl=ja
+    address: 神奈川県川崎市川崎区渡田4-2-4
+    price: 470
+    lat: 35.5189749
+    lng: 139.7023621
+    type: 温泉
+-
+    id: 216
+    name: 翁湯
+    url: https://k-o-i.jp/koten/okinayu/
+    map: https://maps.google.com/?cid=657889788510841992&hl=ja
+    address: 神奈川県横浜市中区寿町4-14
+    price: 470
+    lat: 35.4383576
+    lng: 139.6379035
+    type: 温泉
+-
+    id: 217
+    name: 天神湯
+    url: https://k-o-i.jp/koten/tenjinyu-yoko/
+    map: https://maps.google.com/?cid=11020226944458205365&hl=ja
+    address: 神奈川県横浜市磯子区岡村3-16-4
+    price: 470
+    lat: 35.4189935
+    lng: 139.6134885
+    type: 温泉
+-
+    id: 218
+    name: 富士の湯
+    url: https://k-o-i.jp/koten/fujinoyu/
+    map: https://maps.google.com/?cid=4730910760676193855&hl=ja
+    address: 神奈川県平塚市平塚2-11-1
+    price: 470
+    lat: 35.3298012
+    lng: 139.3398065
+    type: 温泉
+-
+    id: 219
+    name: 旭湯
+    url: https://k-o-i.jp/koten/asahiyu-sho/
+    map: https://maps.google.com/?cid=13384233456879134299&hl=ja
+    address: 神奈川県相模原市南区旭町24-30
+    price: 470
+    lat: 35.5250534
+    lng: 139.4299605
+    type: 温泉

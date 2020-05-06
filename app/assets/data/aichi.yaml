@@ -1,0 +1,1621 @@
+---
+-
+    id: 1
+    name: キャナルリゾート
+    url: http://canalresort.jp/
+    map: https://maps.google.com/?cid=17799366728870241880&hl=ja
+    address: 愛知県名古屋市中川区玉川町4-1
+    price: 700
+    lat: 35.1188843
+    lng: 136.8784118
+    type: 温泉
+-
+    id: 2
+    name: 炭の湯
+    url: https://aichi1010.jp/page/detail/l/32
+    map: https://maps.google.com/?cid=8416536519100155557&hl=ja
+    address: 愛知県名古屋市中村区亀島2-11-8
+    price: 440
+    lat: 35.17422
+    lng: 136.8780825
+    type: 銭湯
+-
+    id: 3
+    name: 湯～とぴあ宝
+    url: https://www.yu-t.com
+    map: https://maps.google.com/?cid=4033534239917054133&hl=ja
+    address: 愛知県名古屋市南区前浜通1-9
+    price: 1800
+    lat: 35.0926216
+    lng: 136.9260648
+    type: 温泉
+-
+    id: 4
+    name: 天空SPA HILLS 竜泉寺の湯(守山店)
+    url: https://www.ryusenjinoyu.com/moriyama/
+    map: https://maps.google.com/?cid=14761007440544000395&hl=ja
+    address: 愛知県名古屋市守山区竜泉寺1-1501
+    price: 700
+    lat: 35.2241193
+    lng: 136.9875055
+    type: 温泉
+-
+    id: 5
+    name: 太閤天然温泉 湯吉郎
+    url: http://toukichirou.com/
+    map: https://maps.google.com/?cid=13139391667308082754&hl=ja
+    address: 愛知県清須市下河原1110-1
+    price: 650
+    lat: 35.1851116
+    lng: 136.8482951
+    type: 温泉
+-
+    id: 6
+    name: 山王温泉 喜多の湯
+    url: http://super-sentou.com/sannou/
+    map: https://maps.google.com/?cid=14864765028978126682&hl=ja
+    address: 愛知県名古屋市中川区山王1-601
+    price: 700
+    lat: 35.1531773
+    lng: 136.891015
+    type: 温泉
+-
+    id: 7
+    name: 長久手温泉 ござらっせ
+    url: http://www.nagakuteonsen.jp/
+    map: https://maps.google.com/?cid=7802418669336943231&hl=ja
+    address: 愛知県長久手市前熊下田170
+    price: 720
+    lat: 35.1844024
+    lng: 137.0606153
+    type: 温泉
+-
+    id: 8
+    name: 竜泉寺の湯(豊田浄水店)
+    url: https://ryusenjinoyu.com/josui/
+    map: https://maps.google.com/?cid=17948515335216492709&hl=ja
+    address: 愛知県豊田市浄水町伊保原376
+    price: 500
+    lat: 35.1230583
+    lng: 137.1363202
+    type: 温泉
+-
+    id: 9
+    name: 大曽根温泉 湯の城
+    url: http://www.p-castle.co.jp/yunoshiro/
+    map: https://maps.google.com/?cid=17445460984208762260&hl=ja
+    address: 愛知県名古屋市東区東大曽根町28-7
+    price: 730
+    lat: 35.1877863
+    lng: 136.9338515
+    type: 温泉
+-
+    id: 10
+    name: 名東温泉 花しょうぶ
+    url: http://hanashobu.com/meitou/
+    map: https://maps.google.com/?cid=1009112303414867553&hl=ja
+    address: 愛知県長久手市丁子田17-13
+    price: 720
+    lat: 35.1562119
+    lng: 137.0290402
+    type: 温泉
+-
+    id: 11
+    name: 天然温泉 かきつばた
+    url: http://www.kakitsubata-spa.com/
+    map: https://maps.google.com/?cid=4889767344670028564&hl=ja
+    address: 愛知県刈谷市東境町吉野55
+    price: 890
+    lat: 35.041106
+    lng: 137.0482452
+    type: 温泉
+-
+    id: 12
+    name: 松竹温泉 天風の湯
+    url: http://www.tenpunoyu.jp/matsutake/
+    map: https://maps.google.com/?cid=6516026915008135883&hl=ja
+    address: 愛知県江南市前飛保町栄378-15
+    price: 750
+    lat: 35.3433726
+    lng: 136.8584037
+    type: 温泉
+-
+    id: 13
+    name: 稲武温泉 どんぐりの湯
+    url: http://dongurinosato.com/hotsprings.html
+    map: https://maps.google.com/?cid=3317618778537353487&hl=ja
+    address: 愛知県豊田市武節町針原22-1
+    price: 600
+    lat: 35.2144979
+    lng: 137.5027186
+    type: 温泉
+-
+    id: 14
+    name: 和合温泉 湯楽
+    url: http://wagou.yuraku4126.com/
+    map: https://maps.google.com/?cid=3700680333300622429&hl=ja
+    address: 愛知県日進市浅田平子3-320
+    price: 650
+    lat: 35.1142885
+    lng: 137.0334184
+    type: 温泉
+-
+    id: 15
+    name: 篠木温泉 満天望
+    url: http://kasugai-mantenbo.com/
+    map: https://maps.google.com/?cid=1614225429942673230&hl=ja
+    address: 愛知県春日井市下市場町3-13-1
+    price: 600
+    lat: 35.2593882
+    lng: 136.9984298
+    type: 温泉
+-
+    id: 16
+    name: 宮の湯
+    url: http://miyanoyu.jp/
+    map: https://maps.google.com/?cid=1583128111810778778&hl=ja
+    address: 愛知県名古屋市熱田区桜田町20-7
+    price: 630
+    lat: 35.1408633
+    lng: 136.9121563
+    type: 温泉
+-
+    id: 17
+    name: 天然温泉 みどり楽の湯
+    url: https://rakunoyu.com/midori/
+    map: https://maps.google.com/?cid=9311986658899071155&hl=ja
+    address: 愛知県名古屋市緑区鳴海町笹塚22
+    price: 850
+    lat: 35.088233
+    lng: 137.0087147
+    type: 温泉
+-
+    id: 18
+    name: 豊田挙母温泉 おいでんの湯
+    url: http://www.oiden.info/
+    map: https://maps.google.com/?cid=8181010189533754228&hl=ja
+    address: 愛知県豊田市司町1-1-1
+    price: 650
+    lat: 35.0719282
+    lng: 137.1503833
+    type: 温泉
+-
+    id: 19
+    name: 天然温泉コロナの湯(安城店)
+    url: http://www.korona.co.jp/Onsen/anj/index.asp
+    map: https://maps.google.com/?cid=9985618359887364628&hl=ja
+    address: 愛知県安城市浜富町6-8
+    price: 750
+    lat: 34.95499849999999
+    lng: 137.0982315
+    type: 温泉
+-
+    id: 20
+    name: 天然温泉 本宮の湯
+    url: http://www.honguu-no-yu.com/
+    map: https://maps.google.com/?cid=12402536074335538289&hl=ja
+    address: 愛知県豊川市上長山町本宮下1-1685
+    price: 620
+    lat: 34.8784291
+    lng: 137.4273651
+    type: 温泉
+-
+    id: 21
+    name: 春日居温泉
+    url: https://aichi1010.jp/page/detail/l/75
+    map: https://maps.google.com/?cid=5902126356034274246&hl=ja
+    address: 愛知県春日井市乙輪町2-66
+    price: 440
+    lat: 35.24743280000001
+    lng: 136.9819315
+    type: 銭湯
+-
+    id: 22
+    name: 大庭園露天風呂 おかざき楽の湯
+    url: https://rakunoyu.com/okazaki/
+    map: https://maps.google.com/?cid=490821923617623676&hl=ja
+    address: 愛知県岡崎市庄司田1-14-14
+    price: 800
+    lat: 34.9206014
+    lng: 137.1686319
+    type: 温泉
+-
+    id: 23
+    name: 尾張温泉東海センター
+    url: http://owarionsen.co.jp/hotspring
+    map: https://maps.google.com/?cid=11635409920538170228&hl=ja
+    address: 愛知県海部郡蟹江町西之森字長瀬下72
+    price: 620
+    lat: 35.133692
+    lng: 136.7782147
+    type: 温泉
+-
+    id: 24
+    name: 天然温泉 丸屋玉ノ湯
+    url: http://www.m-tamanoyu.jp/
+    map: https://maps.google.com/?cid=7999349683689633880&hl=ja
+    address: 愛知県東海市元浜町12-7
+    price: 700
+    lat: 35.0101128
+    lng: 136.8794481
+    type: 温泉
+-
+    id: 25
+    name: 極楽湯(豊橋店)
+    url: https://www.gokurakuyu.ne.jp/tempo/toyohashi/
+    map: https://maps.google.com/?cid=951948751096760766&hl=ja
+    address: 愛知県豊橋市瓜郷町一新替13-1
+    price: 720
+    lat: 34.7884414
+    lng: 137.3765454
+    type: 温泉
+-
+    id: 26
+    name: 有松温泉 喜多の湯
+    url: http://www.super-sentou.com/arimatsu/
+    map: https://maps.google.com/?cid=8514601206698880017&hl=ja
+    address: 愛知県大府市東新町4-94
+    price: 600
+    lat: 35.038468
+    lng: 136.9629313
+    type: 温泉
+-
+    id: 27
+    name: RAKU SPA GARDEN名古屋
+    url: https://rakuspa.com/nagoya/
+    map: https://maps.google.com/?cid=11680046283348746308&hl=ja
+    address: 愛知県名古屋市名東区平和が丘1-65-2
+    price: 1480
+    lat: 35.1786171
+    lng: 136.9793795
+    type: 温泉
+-
+    id: 28
+    name: 日帰り温泉 岩風呂 金泉の湯
+    url: https://www.sanageonsen.jp/kinsenyu/top
+    map: https://maps.google.com/?cid=17063603319486676782&hl=ja
+    address: 愛知県豊田市加納町馬道通21
+    price: 1500
+    lat: 35.1838117
+    lng: 137.151883
+    type: 温泉
+-
+    id: 29
+    name: 稲沢ぽかぽか温泉
+    url: http://www.souyu.co.jp/inazawa/
+    map: https://maps.google.com/?cid=1878819964745975127&hl=ja
+    address: 愛知県稲沢市大矢町高松15-1
+    price: 630
+    lat: 35.22129839999999
+    lng: 136.7950424
+    type: 温泉
+-
+    id: 30
+    name: 香流温泉 喜多の湯
+    url: http://super-sentou.com/kanare/
+    map: https://maps.google.com/?cid=17243940790459541132&hl=ja
+    address: 愛知県名古屋市守山区森孝2-902
+    price: 700
+    lat: 35.1929463
+    lng: 137.0074705
+    type: 温泉
+-
+    id: 31
+    name: あおいパーク ハーブのお風呂
+    url: http://www.city.hekinan.lg.jp/aoi_park/6060.html
+    map: https://maps.google.com/?cid=1634002993157174460&hl=ja
+    address: 愛知県碧南市江口町3-15-3
+    price: 400
+    lat: 34.8509753
+    lng: 136.9685993
+    type: 温泉
+-
+    id: 32
+    name: 常滑温泉 マーゴの湯
+    url: http://tokoname-magonoyu.ma-go.co.jp/
+    map: https://maps.google.com/?cid=14787642287622641523&hl=ja
+    address: 愛知県常滑市りんくう町2-20-3
+    price: 800
+    lat: 34.8821271
+    lng: 136.8263633
+    type: 温泉
+-
+    id: 33
+    name: 天然温泉 アーバンクア
+    url: http://www.p-castle.co.jp/urban_quar/
+    map: https://maps.google.com/?cid=12129839690465389187&hl=ja
+    address: 愛知県名古屋市中区富士見町16-17
+    price: 900
+    lat: 35.1516309
+    lng: 136.9083708
+    type: 温泉
+-
+    id: 34
+    name: コロナの湯(豊川店)
+    url: http://www.korona.co.jp/Onsen/tok/
+    map: https://maps.google.com/?cid=8395827109990232213&hl=ja
+    address: 愛知県豊川市下長山町上アライ14-1
+    price: 700
+    lat: 34.8024517
+    lng: 137.3845784
+    type: 温泉
+-
+    id: 35
+    name: 半田天然温泉 ごんぎつねの湯
+    url: http://gongitsunenoyu.com/
+    map: https://maps.google.com/?cid=14161437390978036643&hl=ja
+    address: 愛知県半田市平和町5-73
+    price: 820
+    lat: 34.9068016
+    lng: 136.8992241
+    type: 温泉
+-
+    id: 36
+    name: 仁王門湯
+    url: https://aichi1010.jp/page/detail/l/33
+    map: https://maps.google.com/?cid=7029439235154907154&hl=ja
+    address: 愛知県名古屋市中区大須3-37-20
+    price: 440
+    lat: 35.1588538
+    lng: 136.9022512
+    type: 銭湯
+-
+    id: 37
+    name: 庄内温泉 喜多の湯
+    url: http://super-sentou.com/shonai/
+    map: https://maps.google.com/?cid=3501794370189767881&hl=ja
+    address: 愛知県名古屋市北区西味鋺1-132-1
+    price: 550
+    lat: 35.2215958
+    lng: 136.9117774
+    type: 温泉
+-
+    id: 38
+    name: スーパー銭湯 桃山の湯
+    url: http://momoyamanoyu.nagoya/
+    map: https://maps.google.com/?cid=14584831758790255287&hl=ja
+    address: 愛知県名古屋市緑区桃山4-329-1
+    price: 500
+    lat: 35.1034929
+    lng: 136.987035
+    type: 温泉
+-
+    id: 39
+    name: いちのみや温泉 楽だの湯
+    url: http://www.rakudanoyu.com/
+    map: https://maps.google.com/?cid=13394022699957263163&hl=ja
+    address: 愛知県一宮市多加木1-28-1
+    price: 450
+    lat: 35.2815752
+    lng: 136.8116719
+    type: 温泉
+-
+    id: 40
+    name: 祥楽の湯(一宮店)
+    url: http://ynx-grp.jp/shoraku/ichinomiya/
+    map: https://maps.google.com/?cid=11197284257593118706&hl=ja
+    address: 愛知県一宮市大和町毛受字一本松31
+    price: 550
+    lat: 35.2966831
+    lng: 136.7820813
+    type: 温泉
+-
+    id: 41
+    name: げんきの郷 めぐみの湯
+    url: http://www.agritown.co.jp/megumi.php
+    map: https://maps.google.com/?cid=12190970614650571382&hl=ja
+    address: 愛知県大府市吉田町正右ェ門新田1-1
+    price: 750
+    lat: 34.9935485
+    lng: 136.9428101
+    type: 温泉
+-
+    id: 42
+    name: 千人風呂
+    url:
+    map: https://maps.google.com/?cid=914749695643508948&hl=ja
+    address: 愛知県豊橋市新栄町南小向93
+    price: 440
+    lat: 34.7658076
+    lng: 137.3624717
+    type: 銭湯
+-
+    id: 43
+    name: 名号温泉 うめの湯
+    url: http://www.tees.ne.jp/~umenoyu/
+    map: https://maps.google.com/?cid=3265752905960301330&hl=ja
+    address: 愛知県新城市名号袋林28-2
+    price: 720
+    lat: 34.99646329999999
+    lng: 137.6546397
+    type: 温泉
+-
+    id: 44
+    name: 春日井 笑福の湯
+    url: https://www.kasugai-shoufuku.jp/
+    map: https://maps.google.com/?cid=17390287280367830027&hl=ja
+    address: 愛知県春日井市松河戸町2-5-4
+    price: 700
+    lat: 35.2238923
+    lng: 136.9627287
+    type: 温泉
+-
+    id: 45
+    name: 湯～らんど パルとよね
+    url: http://www.chausuyama.jp/spot/2014022514193914.html
+    map: https://maps.google.com/?cid=4280255824894664725&hl=ja
+    address: 愛知県北設楽郡豊根村上黒川字長野田20
+    price: 600
+    lat: 35.14361239999999
+    lng: 137.6981735
+    type: 温泉
+-
+    id: 46
+    name: リラクゼーション・スパ アペゼ
+    url: http://apz-spa.com/
+    map: https://maps.google.com/?cid=15574378897934264020&hl=ja
+    address: 愛知県名古屋市千種区今池5-11-14
+    price: 1880
+    lat: 35.1677114
+    lng: 136.9371413
+    type: 温泉
+-
+    id: 47
+    name: くつろぎ天然温泉 湯楽
+    url: http://www.tyuraku.com/
+    map: https://maps.google.com/?cid=14905535523891596348&hl=ja
+    address: 愛知県津島市西愛宕町2-208
+    price: 1200
+    lat: 35.1680692
+    lng: 136.7327015
+    type: 温泉
+-
+    id: 48
+    name: 癒しの里 小京都の湯
+    url: https://www.show-kyoto.com/
+    map: https://maps.google.com/?cid=17853739998335149657&hl=ja
+    address: 愛知県西尾市下町八幡下34-1
+    price: 850
+    lat: 34.8666586
+    lng: 137.044391
+    type: 温泉
+-
+    id: 49
+    name: 地蔵湯
+    url: https://aichi1010.jp/page/detail/l/20
+    map: https://maps.google.com/?cid=2601890210906360183&hl=ja
+    address: 愛知県名古屋市中村区太閤5-18-19
+    price: 440
+    lat: 35.1644401
+    lng: 136.8761026
+    type: 銭湯
+-
+    id: 50
+    name: 天然温泉 白鳥の湯
+    url: http://www.shiratorinoyu.com/index.shtml
+    map: https://maps.google.com/?cid=14363294047488857745&hl=ja
+    address: 愛知県名古屋市港区木場町6-36
+    price: 650
+    lat: 35.1022941
+    lng: 136.899511
+    type: 温泉
+-
+    id: 51
+    name: いなざわ温泉 楽だの湯
+    url: http://rakudanoyu-inazawa.com/
+    map: https://maps.google.com/?cid=1548375592034641700&hl=ja
+    address: 愛知県稲沢市桜木1-10-16
+    price: 480
+    lat: 35.254695
+    lng: 136.779787
+    type: 温泉
+-
+    id: 52
+    name: 鳳来ゆ～ゆ～ありいな
+    url: http://www.sanyurin.jp/yuyu/
+    map: https://maps.google.com/?cid=8297484095583970654&hl=ja
+    address: 愛知県新城市能登瀬字壱輪23-1
+    price: 620
+    lat: 34.9741995
+    lng: 137.615803
+    type: 温泉
+-
+    id: 53
+    name: 龍城温泉
+    url: https://aichi1010.jp/page/detail/l/67
+    map: https://maps.google.com/?cid=1737364431964446054&hl=ja
+    address: 愛知県岡崎市田町35
+    price: 440
+    lat: 34.9591227
+    lng: 137.1567179
+    type: 銭湯
+-
+    id: 54
+    name: 富美の湯
+    url: https://aichi1010.jp/page/detail/l/38
+    map: https://maps.google.com/?cid=4950068265726855304&hl=ja
+    address: 愛知県名古屋市昭和区鶴羽町3-6
+    price: 440
+    lat: 35.1514698
+    lng: 136.9350508
+    type: 銭湯
+-
+    id: 55
+    name: スーパー銭湯 ふろ屋
+    url: https://ja-jp.facebook.com/furoya/
+    map: https://maps.google.com/?cid=7337124765929267589&hl=ja
+    address: 愛知県岡崎市洞町字西五位原6-1
+    price: 600
+    lat: 34.9468383
+    lng: 137.1912994
+    type: 温泉
+-
+    id: 56
+    name: 七福湯
+    url: https://aichi1010.jp/page/detail/l/57
+    map: https://maps.google.com/?cid=13101687888656221782&hl=ja
+    address: 愛知県名古屋市南区観音町4-13
+    price: 440
+    lat: 35.0989432
+    lng: 136.9073067
+    type: 銭湯
+-
+    id: 57
+    name: 美彩都 湯友楽
+    url: https://supersento-yuuraku.jimdo.com/
+    map: https://maps.google.com/?cid=11897319451441516669&hl=ja
+    address: 愛知県一宮市開明字神明廓5
+    price: 400
+    lat: 35.317245
+    lng: 136.7696157
+    type: 温泉
+-
+    id: 58
+    name: 白山温泉
+    url: https://aichi1010.jp/page/detail/l/19
+    map: https://maps.google.com/?cid=3606860952338910733&hl=ja
+    address: 愛知県名古屋市西区枇杷島1-2-20
+    price: 440
+    lat: 35.1889378
+    lng: 136.8730869
+    type: 銭湯
+-
+    id: 59
+    name: 八千代湯
+    url: https://aichi1010.jp/page/detail/l/14
+    map: https://maps.google.com/?cid=17315369874843041525&hl=ja
+    address: 愛知県名古屋市西区上名古屋1-12-5
+    price: 440
+    lat: 35.1941309
+    lng: 136.8979307
+    type: 銭湯
+-
+    id: 60
+    name: 天然温泉コロナの湯(中川店)
+    url: http://www.korona.co.jp/Onsen/nak/index.asp
+    map: https://maps.google.com/?cid=17259328018828123113&hl=ja
+    address: 愛知県名古屋市中川区江松3-110
+    price: 650
+    lat: 35.1253715
+    lng: 136.8238277
+    type: 温泉
+-
+    id: 61
+    name: スパ＆フィットネス 大泉寺温泉 福の湯
+    url: https://www.fukunoyu.co.jp/
+    map: https://maps.google.com/?cid=4869227429648891504&hl=ja
+    address: 愛知県春日井市大泉寺町220-1
+    price: 700
+    lat: 35.2722437
+    lng: 137.0059303
+    type: 温泉
+-
+    id: 62
+    name: 萩の湯
+    url: https://aichi1010.jp/page/detail/l/11
+    map: https://maps.google.com/?cid=13653367806518357532&hl=ja
+    address: 愛知県名古屋市北区萩野通2-6
+    price: 440
+    lat: 35.208793
+    lng: 136.9106111
+    type: 銭湯
+-
+    id: 63
+    name: 八幡湯
+    url: https://aichi1010.jp/page/detail/l/39
+    map: https://maps.google.com/?cid=155811709665099795&hl=ja
+    address: 愛知県名古屋市昭和区御器所4-16-12
+    price: 440
+    lat: 35.1446448
+    lng: 136.9236408
+    type: 銭湯
+-
+    id: 64
+    name: スーパー銭湯 葵湯
+    url: http://www.kiray-yu.com/aoiyu/
+    map: https://maps.google.com/?cid=16704204264905880528&hl=ja
+    address: 愛知県岡崎市戸崎新町2-1
+    price: 760
+    lat: 34.9384599
+    lng: 137.1614024
+    type: 温泉
+-
+    id: 65
+    name: 平針東海健康センター
+    url: http://www.tokaikenkocenter.com/
+    map: https://maps.google.com/?cid=4490083313863769514&hl=ja
+    address: 愛知県名古屋市天白区天白町平針荒池下1-3
+    price: 750
+    lat: 35.1103461
+    lng: 137.0200369
+    type: 温泉
+-
+    id: 66
+    name: 天然温泉 ことぶきの湯
+    url: http://kotobukinoyu.com/
+    map: https://maps.google.com/?cid=2688894201634364963&hl=ja
+    address: 愛知県尾張旭市三郷町栄83
+    price: 600
+    lat: 35.2168173
+    lng: 137.0535125
+    type: 温泉
+-
+    id: 67
+    name: ラグーナの湯
+    url: https://www.lagunatenbosch.co.jp/yu/
+    map: https://maps.google.com/?cid=17952954347833572603&hl=ja
+    address: 愛知県蒲郡市海陽町2-8
+    price: 1050
+    lat: 34.8078946
+    lng: 137.2795219
+    type: 温泉
+-
+    id: 68
+    name: スーパー銭湯 アサヒ乃湯
+    url:
+    map: https://maps.google.com/?cid=1220943105312276008&hl=ja
+    address: 愛知県知立市中町花山28-1
+    price: 550
+    lat: 35.010289
+    lng: 137.0465192
+    type: 温泉
+-
+    id: 69
+    name: 鳴海温泉
+    url: https://aichi1010.jp/page/detail/l/63
+    map: https://maps.google.com/?cid=10685264273402394626&hl=ja
+    address: 愛知県名古屋市緑区鳴海町字向田179
+    price: 440
+    lat: 35.0778048
+    lng: 136.9497785
+    type: 銭湯
+-
+    id: 70
+    name: 永楽湯
+    url: https://aichi1010.jp/page/detail/l/34
+    map: https://maps.google.com/?cid=15333825989477925038&hl=ja
+    address: 愛知県名古屋市中区大須1-19-2
+    price: 440
+    lat: 35.1608033
+    lng: 136.8954885
+    type: 銭湯
+-
+    id: 71
+    name: テレビ温泉
+    url: https://aichi1010.jp/page/detail/l/26
+    map: https://maps.google.com/?cid=1460954247669929284&hl=ja
+    address: 愛知県名古屋市中村区牛田通1-35
+    price: 440
+    lat: 35.1594716
+    lng: 136.8645191
+    type: 銭湯
+-
+    id: 72
+    name: シーパレスリゾート アクアの湯BALI
+    url: https://www.sea-palace.co.jp/facilities/spa/
+    map: https://maps.google.com/?cid=8943027129546562848&hl=ja
+    address: 愛知県豊橋市神野新田町ミノ割1-3
+    price: 1500
+    lat: 34.7608445
+    lng: 137.3226053
+    type: 温泉
+-
+    id: 73
+    name: 亀崎の湯
+    url: https://aichi1010.jp/page/detail/l/69
+    map: https://maps.google.com/?cid=3973317470519327898&hl=ja
+    address: 愛知県半田市亀崎北浦町2-31
+    price: 440
+    lat: 34.9212034
+    lng: 136.967721
+    type: 銭湯
+-
+    id: 74
+    name: みなと花の湯
+    url: http://www.shinagawakigyo.co.jp/
+    map: https://maps.google.com/?cid=16285055756847286941&hl=ja
+    address: 愛知県名古屋市港区品川町1-1-4
+    price: 450
+    lat: 35.1044778
+    lng: 136.8649025
+    type: 温泉
+-
+    id: 75
+    name: 人参湯
+    url: https://aichi1010.jp/page/detail/l/65
+    map: https://maps.google.com/?cid=4444879490278201717&hl=ja
+    address: 愛知県豊橋市神明町47
+    price: 440
+    lat: 34.7629978
+    lng: 137.3922108
+    type: 銭湯
+-
+    id: 76
+    name: 養老温泉
+    url: https://aichi1010.jp/page/detail/l/35
+    map: https://maps.google.com/?cid=10830656170626383148&hl=ja
+    address: 愛知県名古屋市中区新栄1-32-5
+    price: 440
+    lat: 35.1640833
+    lng: 136.9180494
+    type: 銭湯
+-
+    id: 77
+    name: 比良温泉
+    url: https://aichi1010.jp/page/detail/l/16
+    map: https://maps.google.com/?cid=3182460284230093955&hl=ja
+    address: 愛知県名古屋市西区清里町337
+    price: 440
+    lat: 35.2306936
+    lng: 136.896187
+    type: 銭湯
+-
+    id: 78
+    name: レッツ高浜
+    url: http://www.k-sgroup.com/onsen/lets-takahama/
+    map: https://maps.google.com/?cid=2465702398697282722&hl=ja
+    address: 愛知県高浜市神明町8-19-1
+    price: 570
+    lat: 34.9350539
+    lng: 137.0019975
+    type: 温泉
+-
+    id: 79
+    name: 小田井温泉
+    url: https://aichi1010.jp/page/detail/l/17
+    map: https://maps.google.com/?cid=4510249111058974428&hl=ja
+    address: 愛知県名古屋市西区上小田井2-122
+    price: 440
+    lat: 35.2172771
+    lng: 136.8796408
+    type: 銭湯
+-
+    id: 80
+    name: クア・メゾン 四季の湯
+    url: http://www.shikinoyu.co.jp/
+    map: https://maps.google.com/?cid=15428326632165761473&hl=ja
+    address: 愛知県一宮市春明円光寺65-25
+    price: 500
+    lat: 35.3204168
+    lng: 136.8551286
+    type: 温泉
+-
+    id: 81
+    name: 御嶽温泉
+    url: https://aichi1010.jp/page/detail/l/36
+    map: https://maps.google.com/?cid=9398947558783102272&hl=ja
+    address: 愛知県名古屋市昭和区御器所3-10-7
+    price: 440
+    lat: 35.1481942
+    lng: 136.9238478
+    type: 銭湯
+-
+    id: 82
+    name: 報徳湯
+    url: https://aichi1010.jp/page/detail/l/13
+    map: https://maps.google.com/?cid=489723213793870828&hl=ja
+    address: 愛知県名古屋市北区平安2-20-43
+    price: 440
+    lat: 35.1954642
+    lng: 136.9333817
+    type: 銭湯
+-
+    id: 83
+    name: 柴田温泉
+    url: https://aichi1010.jp/page/detail/l/56
+    map: https://maps.google.com/?cid=5061115720280626517&hl=ja
+    address: 愛知県名古屋市南区元柴田西町1-18-1
+    price: 440
+    lat: 35.0735236
+    lng: 136.9053216
+    type: 銭湯
+-
+    id: 84
+    name: 準天然温泉 旭湯津島
+    url: https://www.asahiyu-tsm.com/index.html
+    map: https://maps.google.com/?cid=17372728237089233384&hl=ja
+    address: 愛知県津島市宇治町字小切40
+    price: 600
+    lat: 35.1799054
+    lng: 136.7549903
+    type: 温泉
+-
+    id: 85
+    name: サウナイーグル
+    url: https://www.sauna-eagle.jp/
+    map: https://maps.google.com/?cid=18268856868227770598&hl=ja
+    address: 愛知県知立市宝町塩掻58
+    price: 2420
+    lat: 35.0084801
+    lng: 137.0356701
+    type: 温泉
+-
+    id: 86
+    name: 金時湯
+    url: https://aichi1010.jp/page/detail/l/24
+    map: https://maps.google.com/?cid=7100260838246010437&hl=ja
+    address: 愛知県名古屋市中村区竹橋町39-10
+    price: 440
+    lat: 35.16998950000001
+    lng: 136.8733114
+    type: 銭湯
+-
+    id: 87
+    name: 末広温泉
+    url: https://aichi1010.jp/page/detail/l/83
+    map: https://maps.google.com/?cid=172802388119111885&hl=ja
+    address: 愛知県北名古屋市弥勒寺東1-117
+    price: 440
+    lat: 35.2477487
+    lng: 136.8704269
+    type: 銭湯
+-
+    id: 88
+    name: 長喜温泉
+    url: https://aichi1010.jp/page/detail/l/10
+    map: https://maps.google.com/?cid=2406114441049204447&hl=ja
+    address: 愛知県名古屋市北区長喜町2-18
+    price: 440
+    lat: 35.2030714
+    lng: 136.9164436
+    type: 銭湯
+-
+    id: 89
+    name: 犬山市市民健康館 さら・さくらの湯
+    url: https://www.city.inuyama.aichi.jp/kurashi/1000224/1000289/1002613/index.html
+    map: https://maps.google.com/?cid=1169194779103388647&hl=ja
+    address: 愛知県犬山市前原字橋爪山15-2
+    price: 500
+    lat: 35.3692316
+    lng: 136.9813038
+    type: 温泉
+-
+    id: 90
+    name: 八幡温泉
+    url: https://aichi1010.jp/page/detail/l/45
+    map: https://maps.google.com/?cid=10756456795835638084&hl=ja
+    address: 愛知県名古屋市中川区尾頭橋4-4-24
+    price: 440
+    lat: 35.146465
+    lng: 136.8896336
+    type: 銭湯
+-
+    id: 91
+    name: 湯あそびひろば6・3の湯
+    url: https://www.culture-park.co.jp/yu/
+    map: https://maps.google.com/?cid=4150184172520186319&hl=ja
+    address: 愛知県西尾市今川町大城3-1
+    price: 600
+    lat: 34.8562357
+    lng: 137.0570096
+    type: 温泉
+-
+    id: 92
+    name: ぽかぽか温泉 新守山乃湯
+    url: https://www.pokapoka1126.com/
+    map: https://maps.google.com/?cid=9624251741127089195&hl=ja
+    address: 愛知県名古屋市守山区鳥羽見2-10-10
+    price: 440
+    lat: 35.2028811
+    lng: 136.9500662
+    type: 温泉
+-
+    id: 93
+    name: 名古屋温泉
+    url: https://aichi1010.jp/page/detail/l/60
+    map: https://maps.google.com/?cid=835692446445532363&hl=ja
+    address: 愛知県名古屋市南区城下町1-15
+    price: 440
+    lat: 35.1028482
+    lng: 136.9269465
+    type: 銭湯
+-
+    id: 94
+    name: 山田温泉
+    url: https://aichi1010.jp/page/detail/l/61
+    map: https://maps.google.com/?cid=11657544464217544082&hl=ja
+    address: 愛知県名古屋市南区粕畠町2-25
+    price: 440
+    lat: 35.0932079
+    lng: 136.9344725
+    type: 銭湯
+-
+    id: 95
+    name: 祖父江ふれあいの郷
+    url: http://www.city.inazawa.aichi.jp/shisetsuannai/kenko_fukushi/1004696/1001709.html
+    map: https://maps.google.com/?cid=17489997002928879785&hl=ja
+    address: 愛知県稲沢市祖父江町祖父江柿ノ木104-1
+    price: 240
+    lat: 35.2707909
+    lng: 136.7071004
+    type: 温泉
+-
+    id: 96
+    name: 平和らくらくプラザ
+    url: http://www.city.inazawa.aichi.jp/shisetsuannai/kenko_fukushi/1004696/heiwarakurakuplaza/index.html
+    map: https://maps.google.com/?cid=5176117502089629724&hl=ja
+    address: 愛知県稲沢市平和町横池三番割19
+    price: 200
+    lat: 35.2127917
+    lng: 136.7415781
+    type: 温泉
+-
+    id: 97
+    name: 昭和湯
+    url: https://aichi1010.jp/page/detail/l/9
+    map: https://maps.google.com/?cid=7443545280031281007&hl=ja
+    address: 愛知県名古屋市北区城東町5-92-1
+    price: 440
+    lat: 35.1942538
+    lng: 136.9202826
+    type: 銭湯
+-
+    id: 98
+    name: 大幸温泉
+    url: https://aichi1010.jp/page/detail/l/8
+    map: https://maps.google.com/?cid=10150413952130411790&hl=ja
+    address: 愛知県名古屋市東区大幸3-15-6
+    price: 440
+    lat: 35.1904928
+    lng: 136.9506846
+    type: 銭湯
+-
+    id: 99
+    name: 銭湯ヒメ
+    url: https://aichi1010.jp/page/detail/l/66
+    map: https://maps.google.com/?cid=93018111061290137&hl=ja
+    address: 愛知県蒲郡市中央本町1-7
+    price: 440
+    lat: 34.8274428
+    lng: 137.2273788
+    type: 銭湯
+-
+    id: 100
+    name: 広路湯
+    url: https://aichi1010.jp/page/detail/l/37
+    map: https://maps.google.com/?cid=12812721112349880945&hl=ja
+    address: 愛知県名古屋市昭和区折戸町3-6
+    price: 440
+    lat: 35.1555513
+    lng: 136.9440295
+    type: 銭湯
+-
+    id: 101
+    name: デキマチ温泉
+    url: https://aichi1010.jp/page/detail/l/4
+    map: https://maps.google.com/?cid=7116198252665188208&hl=ja
+    address: 愛知県名古屋市千種区古出来3-2-24
+    price: 440
+    lat: 35.182025
+    lng: 136.9414963
+    type: 銭湯
+-
+    id: 102
+    name: 杉戸浴場
+    url: https://aichi1010.jp/page/detail/l/80
+    map: https://maps.google.com/?cid=12075675068135600596&hl=ja
+    address: 愛知県一宮市大宮3-3-20
+    price: 440
+    lat: 35.3102143
+    lng: 136.7998258
+    type: 銭湯
+-
+    id: 103
+    name: 日本鉱泉
+    url: https://aichi1010.jp/page/detail/l/70
+    map: https://maps.google.com/?cid=14370488903952579241&hl=ja
+    address: 愛知県瀬戸市銀杏木町34
+    price: 440
+    lat: 35.2232014
+    lng: 137.0988212
+    type: 銭湯
+-
+    id: 104
+    name: 天然温泉コロナの湯(半田店)
+    url: http://www.korona.co.jp/Onsen/han/
+    map: https://maps.google.com/?cid=3982563226003669022&hl=ja
+    address: 愛知県半田市旭町3-11-1
+    price: 700
+    lat: 34.874775
+    lng: 136.9217896
+    type: 温泉
+-
+    id: 105
+    name: 平田温泉
+    url: https://aichi1010.jp/page/detail/l/6
+    map: https://maps.google.com/?cid=13364953080342185910&hl=ja
+    address: 愛知県名古屋市東区相生町38
+    price: 440
+    lat: 35.1795875
+    lng: 136.9215432
+    type: 銭湯
+-
+    id: 106
+    name: サンビレッジ衣浦
+    url: http://www.katch.ne.jp/~kinu-ei/sunvillage/spa/index.html
+    map: https://maps.google.com/?cid=10733764949984656939&hl=ja
+    address: 愛知県碧南市広見町1-19-1
+    price: 440
+    lat: 34.91395809999999
+    lng: 136.9982005
+    type: 温泉
+-
+    id: 107
+    name: 桜台温泉
+    url: https://aichi1010.jp/page/detail/l/55
+    map: https://maps.google.com/?cid=3025221284084004412&hl=ja
+    address: 愛知県名古屋市南区桜台1-19-4
+    price: 440
+    lat: 35.1071131
+    lng: 136.9398429
+    type: 銭湯
+-
+    id: 108
+    name: 桔梗湯
+    url: https://aichi1010.jp/page/detail/l/7
+    map: https://maps.google.com/?cid=8934669656191724978&hl=ja
+    address: 愛知県名古屋市東区百人町94-1
+    price: 440
+    lat: 35.179103
+    lng: 136.9335455
+    type: 銭湯
+-
+    id: 109
+    name: 蒲郡温泉 がまの湯
+    url: http://gamanoyu.com/
+    map: https://maps.google.com/?cid=12177563871627048619&hl=ja
+    address: 愛知県蒲郡市鹿島町浅井新田1-36
+    price: 660
+    lat: 34.8124278
+    lng: 137.1940372
+    type: 温泉
+-
+    id: 110
+    name: 荒子温泉
+    url: https://aichi1010.jp/page/detail/l/47
+    map: https://maps.google.com/?cid=12315440446756926006&hl=ja
+    address: 愛知県名古屋市中川区大塩町3-75
+    price: 440
+    lat: 35.1281752
+    lng: 136.8593665
+    type: 銭湯
+-
+    id: 111
+    name: 飛島村ふれあい温泉
+    url: http://www.vill.tobishima.aichi.jp/shisetsu/onsen.html
+    map: https://maps.google.com/?cid=14690818474281038346&hl=ja
+    address: 愛知県海部郡飛島村竹之郷5-43
+    price: 500
+    lat: 35.0786191
+    lng: 136.8032249
+    type: 温泉
+-
+    id: 112
+    name: 永徳温泉
+    url: https://aichi1010.jp/page/detail/l/50
+    map: https://maps.google.com/?cid=4858287909080412174&hl=ja
+    address: 愛知県名古屋市港区野跡1-106
+    price: 440
+    lat: 35.0807169
+    lng: 136.8552611
+    type: 銭湯
+-
+    id: 113
+    name: 湯の島温泉
+    url: https://www.tomisato.org/%E6%B9%AF%E3%81%AE%E5%B3%B6%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=15811768982160967733&hl=ja
+    address: 愛知県北設楽郡豊根村富山兎鹿ノ平12-3
+    price: 440
+    lat: 35.183391
+    lng: 137.7997099
+    type: 温泉
+-
+    id: 114
+    name: 娯楽湯
+    url: https://aichi1010.jp/page/detail/l/1
+    map: https://maps.google.com/?cid=2254085177246769297&hl=ja
+    address: 愛知県名古屋市千種区春岡2-24-20
+    price: 440
+    lat: 35.1621616
+    lng: 136.9406011
+    type: 銭湯
+-
+    id: 115
+    name: 北名古屋市健康ドーム 城の湯
+    url: https://www.city.kitanagoya.lg.jp/kenkou/2200107.php
+    map: https://maps.google.com/?cid=142023887621229539&hl=ja
+    address: 愛知県北名古屋市九之坪笹塚1
+    price: 420
+    lat: 35.2384203
+    lng: 136.8749554
+    type: 温泉
+-
+    id: 116
+    name: 石巻湯
+    url: https://aichi1010.jp/page/detail/l/64
+    map: https://maps.google.com/?cid=6038076965544039078&hl=ja
+    address: 愛知県豊橋市八町通3-141
+    price: 440
+    lat: 34.7664119
+    lng: 137.3931813
+    type: 銭湯
+-
+    id: 117
+    name: 健康ふれあい交流館
+    url: http://www.aiko-service.co.jp/siawase/facility.html
+    map: https://maps.google.com/?cid=12661250360376332146&hl=ja
+    address: 愛知県東海市荒尾町西廻間2-1
+    price: 520
+    lat: 35.0425038
+    lng: 136.9066367
+    type: 温泉
+-
+    id: 118
+    name: 清水温泉
+    url: https://aichi1010.jp/page/detail/l/71
+    map: https://maps.google.com/?cid=12305525527284610843&hl=ja
+    address: 愛知県瀬戸市陶原町3-49
+    price: 440
+    lat: 35.222469
+    lng: 137.0893018
+    type: 銭湯
+-
+    id: 119
+    name: ユトリーナ蒲郡
+    url: http://www.city.gamagori.lg.jp/site/yutorina/
+    map: https://maps.google.com/?cid=11132763119205093902&hl=ja
+    address: 愛知県蒲郡市西浦町田土山3-4
+    price: 500
+    lat: 34.7994254
+    lng: 137.1718214
+    type: 温泉
+-
+    id: 120
+    name: 松の湯
+    url: https://aichi1010.jp/page/detail/l/3
+    map: https://maps.google.com/?cid=16899111786356206687&hl=ja
+    address: 愛知県名古屋市千種区松軒2-8-12
+    price: 440
+    lat: 35.1787724
+    lng: 136.9408314
+    type: 銭湯
+-
+    id: 121
+    name: 栄湯
+    url: https://aichi1010.jp/page/detail/l/42
+    map: https://maps.google.com/?cid=16547542513173723834&hl=ja
+    address: 愛知県名古屋市瑞穂区船原町2-6
+    price: 440
+    lat: 35.1330897
+    lng: 136.921939
+    type: 銭湯
+-
+    id: 122
+    name: 三吉温泉
+    url: https://aichi1010.jp/page/detail/l/59
+    map: https://maps.google.com/?cid=3951053254153191857&hl=ja
+    address: 愛知県名古屋市南区三吉町2-43-1
+    price: 440
+    lat: 35.0725646
+    lng: 136.9133456
+    type: 銭湯
+-
+    id: 123
+    name: 豊田ほっとかん じゅわじゅわ
+    url: http://www.toyota-hotkan.jp/
+    map: https://maps.google.com/?cid=17471778530473111724&hl=ja
+    address: 愛知県豊田市本新町7-48-6
+    price: 500
+    lat: 35.0787147
+    lng: 137.1176557
+    type: 温泉
+-
+    id: 124
+    name: 日比津温泉
+    url: https://aichi1010.jp/page/detail/l/30
+    map: https://maps.google.com/?cid=4591888873760088411&hl=ja
+    address: 愛知県名古屋市中村区高道町6-4-16
+    price: 440
+    lat: 35.1803524
+    lng: 136.8625599
+    type: 銭湯
+-
+    id: 125
+    name: 玉の湯
+    url: https://aichi1010.jp/page/detail/l/44
+    map: https://maps.google.com/?cid=8069806896202146359&hl=ja
+    address: 愛知県名古屋市瑞穂区弥富通5-56-2
+    price: 440
+    lat: 35.1195303
+    lng: 136.9576418
+    type: 銭湯
+-
+    id: 126
+    name: まるは食堂旅館 うめ乃湯
+    url: http://www.maruha-net.co.jp/
+    map: https://maps.google.com/?cid=17181621164143689613&hl=ja
+    address: 愛知県知多郡南知多町豊浜字峠8
+    price: 600
+    lat: 34.7015425
+    lng: 136.942645
+    type: 温泉
+-
+    id: 127
+    name: 天然温泉 こまき楽の湯
+    url: https://rakunoyu.com/komaki/
+    map: https://maps.google.com/?cid=8265799620795910528&hl=ja
+    address: 愛知県小牧市郷中2-182-2
+    price: 800
+    lat: 35.2763472
+    lng: 136.9201974
+    type: 温泉
+-
+    id: 128
+    name: ゆのゆTOYOHASHI
+    url: http://yunoyu.jp/
+    map: https://maps.google.com/?cid=5360202093713210056&hl=ja
+    address: 愛知県豊橋市飯村南2-31-1
+    price: 750
+    lat: 34.7443628
+    lng: 137.4249978
+    type: 温泉
+-
+    id: 129
+    name: 弘法湯
+    url: https://aichi1010.jp/page/detail/l/5
+    map: https://maps.google.com/?cid=15700099538304495648&hl=ja
+    address: 愛知県名古屋市東区豊前町3-38
+    price: 440
+    lat: 35.1756699
+    lng: 136.934501
+    type: 銭湯
+-
+    id: 130
+    name: 池須温泉
+    url: https://aichi1010.jp/page/detail/l/72
+    map: https://maps.google.com/?cid=10239950289837418773&hl=ja
+    address: 愛知県津島市橋詰町3-41
+    price: 440
+    lat: 35.1775268
+    lng: 136.7209908
+    type: 銭湯
+-
+    id: 131
+    name: 川澄湯
+    url: https://aichi1010.jp/page/detail/l/40
+    map: https://maps.google.com/?cid=13337727312033437965&hl=ja
+    address: 愛知県名古屋市瑞穂区川澄町2-20
+    price: 440
+    lat: 35.1375274
+    lng: 136.9352848
+    type: 銭湯
+-
+    id: 132
+    name: 道徳温泉
+    url: https://aichi1010.jp/page/detail/l/52
+    map: https://maps.google.com/?cid=10920459369259588211&hl=ja
+    address: 愛知県名古屋市南区道徳新町1
+    price: 440
+    lat: 35.1042937
+    lng: 136.9049598
+    type: 銭湯
+-
+    id: 133
+    name: 名豊温泉
+    url: https://aichi1010.jp/page/detail/l/31
+    map: https://maps.google.com/?cid=15092152975693115114&hl=ja
+    address: 愛知県名古屋市中村区向島町4-14-22
+    price: 440
+    lat: 35.1629754
+    lng: 136.8499892
+    type: 銭湯
+-
+    id: 134
+    name: 呼続温泉
+    url: https://aichi1010.jp/page/detail/l/54
+    map: https://maps.google.com/?cid=11239920022291382301&hl=ja
+    address: 愛知県名古屋市南区呼続1-8-8
+    price: 440
+    lat: 35.1123266
+    lng: 136.9292397
+    type: 銭湯
+-
+    id: 135
+    name: 日の出湯
+    url: https://aichi1010.jp/page/detail/l/12
+    map: https://maps.google.com/?cid=18221145347797447329&hl=ja
+    address: 愛知県名古屋市北区杉村1-21-12
+    price: 440
+    lat: 35.1892692
+    lng: 136.9231355
+    type: 銭湯
+-
+    id: 136
+    name: 松原湯
+    url: https://aichi1010.jp/page/detail/l/29
+    map: https://maps.google.com/?cid=8169435027825671989&hl=ja
+    address: 愛知県名古屋市中村区松原町3-9
+    price: 440
+    lat: 35.1755497
+    lng: 136.8708351
+    type: 銭湯
+-
+    id: 137
+    name: 宮裏温泉
+    url: https://aichi1010.jp/page/detail/l/21
+    map: https://maps.google.com/?cid=9052307673328171602&hl=ja
+    address: 愛知県名古屋市中村区荒輪井町2-5
+    price: 440
+    lat: 35.1654275
+    lng: 136.8400034
+    type: 銭湯
+-
+    id: 138
+    name: 草津湯
+    url: https://aichi1010.jp/page/detail/l/51
+    map: https://maps.google.com/?cid=15338936841023277717&hl=ja
+    address: 愛知県名古屋市港区錦町14-6
+    price: 440
+    lat: 35.0874044
+    lng: 136.8601806
+    type: 銭湯
+-
+    id: 139
+    name: 仁川湯
+    url: https://aichi1010.jp/page/detail/l/84
+    map: https://maps.google.com/?cid=1799132709373074793&hl=ja
+    address: 愛知県清須市西枇杷島町南二ツ杁35
+    price: 440
+    lat: 35.1926701
+    lng: 136.8572584
+    type: 銭湯
+-
+    id: 140
+    name: 白菊温泉
+    url: https://aichi1010.jp/page/detail/l/15
+    map: https://maps.google.com/?cid=11282203544841921290&hl=ja
+    address: 愛知県名古屋市西区枇杷島3-20-30
+    price: 440
+    lat: 35.1910468
+    lng: 136.8750372
+    type: 銭湯
+-
+    id: 141
+    name: 長命温泉
+    url: https://aichi1010.jp/page/detail/l/49
+    map: https://maps.google.com/?cid=12859315592024969297&hl=ja
+    address: 愛知県名古屋市港区佐野町3-2
+    price: 440
+    lat: 35.0977737
+    lng: 136.874627
+    type: 銭湯
+-
+    id: 142
+    name: 共栄湯
+    url: https://aichi1010.jp/page/detail/l/53
+    map: https://maps.google.com/?cid=2781820349264903213&hl=ja
+    address: 愛知県名古屋市南区城下町3-37
+    price: 440
+    lat: 35.1007871
+    lng: 136.9287089
+    type: 銭湯
+-
+    id: 143
+    name: 出口湯
+    url: https://aichi1010.jp/page/detail/l/2
+    map: https://maps.google.com/?cid=1822814867616311468&hl=ja
+    address: 愛知県名古屋市千種区今池3-36-10
+    price: 440
+    lat: 35.1633716
+    lng: 136.9328487
+    type: 銭湯
+-
+    id: 144
+    name: 新元湯
+    url: https://aichi1010.jp/page/detail/l/48
+    map: https://maps.google.com/?cid=13589076549840105620&hl=ja
+    address: 愛知県名古屋市中川区下之一色南の切54-1
+    price: 440
+    lat: 35.1188752
+    lng: 136.8342713
+    type: 銭湯
+-
+    id: 145
+    name: 辰巳温泉
+    url:
+    map: https://maps.google.com/?cid=2625037541737404930&hl=ja
+    address: 愛知県名古屋市港区九番町5-13
+    price: 440
+    lat: 35.1140292
+    lng: 136.8839581
+    type: 銭湯
+-
+    id: 146
+    name: 大黒湯
+    url: https://aichi1010.jp/page/detail/l/22
+    map: https://maps.google.com/?cid=13049841048686440592&hl=ja
+    address: 愛知県名古屋市中村区二つ橋町2-58
+    price: 440
+    lat: 35.1648559
+    lng: 136.8713475
+    type: 銭湯
+-
+    id: 147
+    name: 龍美湯
+    url: https://aichi1010.jp/page/detail/l/76
+    map: https://maps.google.com/?cid=15608675173178880473&hl=ja
+    address: 愛知県一宮市新生1-3-2
+    price: 440
+    lat: 35.303344
+    lng: 136.7950406
+    type: 銭湯
+-
+    id: 148
+    name: 楠湯
+    url: https://aichi1010.jp/page/detail/l/27
+    map: https://maps.google.com/?cid=8685355836435337876&hl=ja
+    address: 愛知県名古屋市中村区中村本町1-35
+    price: 440
+    lat: 35.1676845
+    lng: 136.8593693
+    type: 銭湯
+-
+    id: 149
+    name: 東栄温泉
+    url: https://aichi1010.jp/page/detail/l/41
+    map: https://maps.google.com/?cid=6154112359832485408&hl=ja
+    address: 愛知県名古屋市瑞穂区東栄町4-23-3
+    price: 440
+    lat: 35.1344759
+    lng: 136.9365222
+    type: 銭湯
+-
+    id: 150
+    name: 児玉湯
+    url: https://aichi1010.jp/page/detail/l/18
+    map: https://maps.google.com/?cid=9848230607702476006&hl=ja
+    address: 愛知県名古屋市西区児玉2-8-27
+    price: 440
+    lat: 35.1938841
+    lng: 136.8868445
+    type: 銭湯
+-
+    id: 151
+    name: 花岡浴場
+    url: https://aichi1010.jp/page/detail/l/77
+    map: https://maps.google.com/?cid=9595165506067214745&hl=ja
+    address: 愛知県一宮市泉2-11-1
+    price: 440
+    lat: 35.3027179
+    lng: 136.8090346
+    type: 銭湯
+-
+    id: 152
+    name: 浜湯
+    url: https://aichi1010.jp/page/detail/l/78
+    map: https://maps.google.com/?cid=13973753709324095312&hl=ja
+    address: 愛知県一宮市大浜2-2-36
+    price: 440
+    lat: 35.308749
+    lng: 136.8109974
+    type: 銭湯
+-
+    id: 153
+    name: 清正湯
+    url: https://aichi1010.jp/page/detail/l/28
+    map: https://maps.google.com/?cid=11732190845371947777&hl=ja
+    address: 愛知県名古屋市中村区中村町4-51
+    price: 440
+    lat: 35.1731258
+    lng: 136.8576559
+    type: 銭湯
+-
+    id: 154
+    name: はなぞの湯
+    url: https://aichi1010.jp/page/detail/l/79
+    map: https://maps.google.com/?cid=7493963188626157672&hl=ja
+    address: 愛知県一宮市大江2-5-19
+    price: 440
+    lat: 35.3026894
+    lng: 136.8065513
+    type: 銭湯
+-
+    id: 155
+    name: 君の湯
+    url:
+    map: https://maps.google.com/?cid=14300954002470889232&hl=ja
+    address: 愛知県名古屋市千種区内山2-14-6
+    price: 440
+    lat: 35.172021
+    lng: 136.9386392
+    type: 銭湯
+-
+    id: 156
+    name: 憩温泉
+    url:
+    map: https://maps.google.com/?cid=11566825079562807437&hl=ja
+    address: 愛知県清須市西枇杷島町砂入74
+    price: 440
+    lat: 35.1966497
+    lng: 136.8663747
+    type: 銭湯
+-
+    id: 157
+    name: 岩本湯
+    url: https://aichi1010.jp/page/detail/l/74
+    map: https://maps.google.com/maps?q=35.235051,136.938454
+    address: 愛知県春日井市花長町2-5-9
+    price: 440
+    lat: 35.2350862
+    lng: 136.9384544
+    type: 銭湯
+-
+    id: 158
+    name: 玉乃井湯
+    url: https://aichi1010.jp/page/detail/l/81
+    map: https://maps.google.com/maps?q=35.335462,136.759166
+    address: 愛知県一宮市木曽川町玉の井宮前92
+    price: 440
+    lat: 35.3354804
+    lng: 136.7591281
+    type: 銭湯
+-
+    id: 159
+    name: 新川温泉
+    url: https://aichi1010.jp/page/detail/l/68
+    map: https://maps.google.com/maps?q=34.89945,136.988425
+    address: 愛知県碧南市山神5-85
+    price: 440
+    lat: 34.8995932
+    lng: 136.9883486
+    type: 銭湯
+-
+    id: 160
+    name: 杉の湯
+    url:
+    map: https://maps.google.com/maps?q=35.12019,136.932526
+    address: 愛知県名古屋市瑞穂区鍵田町1-40
+    price: 440
+    lat: 35.1202561
+    lng: 136.9325007
+    type: 銭湯
+-
+    id: 161
+    name: 太平湯
+    url: https://aichi1010.jp/page/detail/l/46
+    map: https://maps.google.com/maps?q=35.125587,136.870483
+    address: 愛知県名古屋市中川区中野新町7-76
+    price: 440
+    lat: 35.125546
+    lng: 136.8705126
+    type: 銭湯
+-
+    id: 162
+    name: 一乃湯
+    url: https://aichi1010.jp/page/detail/l/25
+    map: https://maps.google.com/maps?q=35.162769,136.865891
+    address: 愛知県名古屋市中村区白子町1-17
+    price: 440
+    lat: 35.1628029
+    lng: 136.8659297
+    type: 銭湯

@@ -1,0 +1,201 @@
+---
+-
+    id: 1
+    name: 土佐ぽかぽか温泉
+    url: http://pokaon-tosa.com/
+    map: https://maps.google.com/?cid=10726953621752714746&hl=ja
+    address: 高知県高知市神田1197-1
+    price: 760
+    lat: 33.5410962
+    lng: 133.5120851
+    type: 温泉
+-
+    id: 2
+    name: 道の駅 土佐和紙工芸村 くらうどクアハウス
+    url: http://www.qraud-kochi.jp/
+    map: https://maps.google.com/?cid=9718655558032970722&hl=ja
+    address: 高知県吾川郡いの町鹿敷1226
+    price: 600
+    lat: 33.5736228
+    lng: 133.366265
+    type: 温泉
+-
+    id: 3
+    name: 高知ぽかぽか温泉
+    url: http://www.souyu.co.jp/kouchi/
+    map: https://maps.google.com/?cid=12540426611826982880&hl=ja
+    address: 高知県高知市北川添8-20
+    price: 720
+    lat: 33.574732
+    lng: 133.5587749
+    type: 温泉
+-
+    id: 4
+    name: 桑田山温泉
+    url: http://sondayama.com/
+    map: https://maps.google.com/?cid=16602665721353187558&hl=ja
+    address: 高知県須崎市桑田山乙1122
+    price: 700
+    lat: 33.431303
+    lng: 133.2800724
+    type: 温泉
+-
+    id: 5
+    name: 天然の湯 ながおか温泉
+    url: http://www.nagaokaonsen.com/
+    map: https://maps.google.com/?cid=1190479924451229345&hl=ja
+    address: 高知県南国市下末松106
+    price: 900
+    lat: 33.5901467
+    lng: 133.6508517
+    type: 温泉
+-
+    id: 6
+    name: 四万十温泉 平和な湯
+    url: http://www.heiwanayu.com/
+    map: https://maps.google.com/?cid=1045100123130608568&hl=ja
+    address: 高知県四万十市古津賀1-53
+    price: 600
+    lat: 32.9843258
+    lng: 132.9535188
+    type: 温泉
+-
+    id: 7
+    name: 室戸海洋深層水スパ シレストむろと
+    url: https://searest.jp/
+    map: https://maps.google.com/?cid=7965194066985043723&hl=ja
+    address: 高知県室戸市室戸岬町3795-1
+    price: 550
+    lat: 33.2587236
+    lng: 134.1823911
+    type: 温泉
+-
+    id: 8
+    name: 清水湯
+    url: https://peraichi.com/landing_pages/view/shimizuyu
+    map: https://maps.google.com/?cid=15385588762851722635&hl=ja
+    address: 高知県高知市桜馬場6-8
+    price: 400
+    lat: 33.5624804
+    lng: 133.525181
+    type: 銭湯
+-
+    id: 9
+    name: 中村温泉
+    url: 
+    map: https://maps.google.com/?cid=8570130376669790719&hl=ja
+    address: 高知県四万十市中村大橋通6-2-27
+    price: 400
+    lat: 32.99047
+    lng: 132.9363188
+    type: 銭湯
+-
+    id: 10
+    name: 天然の湯 吾北むささび温泉
+    url: https://www.inofan.jp/spot/%E5%90%BE%E5%8C%97%E3%82%80%E3%81%95%E3%81%95%E3%81%B3%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=7452527607309116820&hl=ja
+    address: 高知県吾川郡いの町小川東津賀才53-1
+    price: 600
+    lat: 33.6268215
+    lng: 133.3002513
+    type: 温泉
+-
+    id: 11
+    name: たのたの温泉
+    url: http://usui-kai.com/tanotano/
+    map: https://maps.google.com/?cid=9205691152442164520&hl=ja
+    address: 高知県安芸郡田野町636-1
+    price: 700
+    lat: 33.4310027
+    lng: 134.0166991
+    type: 温泉
+-
+    id: 12
+    name: 旭湯
+    url: 
+    map: https://maps.google.com/?cid=1303982634149503015&hl=ja
+    address: 高知県土佐清水市栄町14-1
+    price: 400
+    lat: 32.7782736
+    lng: 132.9550184
+    type: 銭湯
+-
+    id: 13
+    name: 高砂湯
+    url: 
+    map: https://maps.google.com/?cid=14130282426001517548&hl=ja
+    address: 高知県高知市新本町2-7-15
+    price: 400
+    lat: 33.569364
+    lng: 133.5483386
+    type: 銭湯
+-
+    id: 14
+    name: こまどり温泉
+    url: http://onsenkomadori.seesaa.net/
+    map: https://maps.google.com/?cid=1646288815140945168&hl=ja
+    address: 高知県安芸市黒瀬550
+    price: 400
+    lat: 33.5539101
+    lng: 133.942642
+    type: 温泉
+-
+    id: 15
+    name: 城下湯
+    url: 
+    map: https://maps.google.com/?cid=12201375636887569622&hl=ja
+    address: 高知県高知市小津町3-30
+    price: 400
+    lat: 33.5641024
+    lng: 133.5299902
+    type: 銭湯
+-
+    id: 16
+    name: 森林保養センター やなせの湯
+    url: http://www.yanasenoyu.com/
+    map: https://maps.google.com/?cid=3350401164571345818&hl=ja
+    address: 高知県安芸郡馬路村魚梁瀬丸山
+    price: 600
+    lat: 33.61462
+    lng: 134.1108
+    type: 温泉
+-
+    id: 17
+    name: 鏡文化ステーションRIO かがみ温泉RIO
+    url: https://kochij-rio.jimdo.com/%E3%81%8B%E3%81%8C%E3%81%BF%E6%B8%A9%E6%B3%89%EF%BD%92%EF%BD%89%EF%BD%8F/
+    map: https://maps.google.com/?cid=1625363991647155362&hl=ja
+    address: 高知県高知市鏡大利1
+    price: 400
+    lat: 33.6026933
+    lng: 133.4737283
+    type: 温泉
+-
+    id: 18
+    name: アウトドアヴィレッジ本山 れいほくの湯
+    url: https://motoyama.outdoorvillage.jp/menu208/contents1004
+    map: https://maps.google.com/maps?q=33.758888,133.594742
+    address: 高知県長岡郡本山町2133-1
+    price: 500
+    lat: 33.7588594
+    lng: 133.5942534
+    type: 温泉
+-
+    id: 19
+    name: 土佐温泉
+    url: 
+    map: https://maps.google.com/?cid=6143657314229950079&hl=ja
+    address: 高知県高知市百石町4-12-25
+    price: 400
+    lat: 33.5430996
+    lng: 133.545927
+    type: 銭湯
+-
+    id: 20
+    name: 潮湯
+    url: 
+    map: https://maps.google.com/?cid=4983631858748849755&hl=ja
+    address: 高知県高知市潮新町1-8-19
+    price: 400
+    lat: 33.5516111
+    lng: 133.5489597
+    type: 銭湯

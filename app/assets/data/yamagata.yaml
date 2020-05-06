@@ -1,0 +1,971 @@
+---
+-
+    id: 1
+    name: 天童最上川温泉 ゆぴあ
+    url: http://www.yupia.com/
+    map: https://maps.google.com/?cid=10121795626064456224&hl=ja
+    address: 山形県天童市藤内新田1620-1
+    price: 300
+    lat: 38.3640579
+    lng: 140.3218759
+    type: 温泉
+-
+    id: 2
+    name: 寒河江花咲か温泉 ゆ〜チェリー
+    url: http://yu-cherry.com/
+    map: https://maps.google.com/?cid=10356071265059071550&hl=ja
+    address: 山形県寒河江市寒河江久保15
+    price: 350
+    lat: 38.3639723
+    lng: 140.2587919
+    type: 温泉
+-
+    id: 3
+    name: 荒谷原温泉 山形県総合運動公園
+    url: http://park.montedio.co.jp/beni/outline/
+    map: https://maps.google.com/?cid=16933899483520161414&hl=ja
+    address: 山形県天童市山王1-1
+    price: 110
+    lat: 38.3361758
+    lng: 140.3755959
+    type: 共同浴場・銭湯
+-
+    id: 4
+    name: 蔵王温泉 大露天風呂
+    url: http://www.jupeer-zao.com/roten/
+    map: https://maps.google.com/?cid=16479696222399573217&hl=ja
+    address: 山形県山形市蔵王温泉荒敷853-3
+    price: 550
+    lat: 38.1661662
+    lng: 140.4018
+    type: 温泉
+-
+    id: 5
+    name: 湯の花茶屋 新左衛門の湯
+    url: http://zaospa.co.jp/
+    map: https://maps.google.com/?cid=16311871700172063484&hl=ja
+    address: 山形県山形市蔵王温泉川前905
+    price: 750
+    lat: 38.1643258
+    lng: 140.3945719
+    type: 温泉
+-
+    id: 6
+    name: 百目鬼温泉
+    url: https://yamagata-clip.com/domekispa
+    map: https://maps.google.com/?cid=1677399670489280795&hl=ja
+    address: 山形県山形市百目鬼42-1
+    price: 350
+    lat: 38.2276458
+    lng: 140.2811076
+    type: 温泉
+-
+    id: 7
+    name: べに花温泉 ひなの湯
+    url: http://www.hinanoyu.com/
+    map: https://maps.google.com/?cid=13654837346646286773&hl=ja
+    address: 山形県西村山郡河北町谷地字下野269
+    price: 280
+    lat: 38.4177302
+    lng: 140.3219831
+    type: 温泉
+-
+    id: 8
+    name: 庄内おばこの里 こまぎの湯
+    url: http://www.komagi.info/onsen/index.html
+    map: https://maps.google.com/?cid=1998247964253756612&hl=ja
+    address: 山形県鶴岡市日枝小真木原88-1
+    price: 500
+    lat: 38.7113623
+    lng: 139.8137356
+    type: 温泉
+-
+    id: 9
+    name: 大石田温泉 あったまりランド深堀
+    url: https://attamariland-fukabori.co.jp/day/
+    map: https://maps.google.com/?cid=4112139496369528444&hl=ja
+    address: 山形県北村山郡大石田町豊田884-1
+    price: 650
+    lat: 38.5996158
+    lng: 140.3568043
+    type: 温泉
+-
+    id: 10
+    name: ひまわり温泉 ゆ・ら・ら
+    url: http://www.yurara.jp/
+    map: https://maps.google.com/?cid=3025184648225721678&hl=ja
+    address: 山形県東村山郡中山町いずみ1
+    price: 350
+    lat: 38.3411767
+    lng: 140.2753309
+    type: 温泉
+-
+    id: 11
+    name: おいたま温泉 賜の湯
+    url: http://tamano-yu.com/
+    map: https://maps.google.com/?cid=3693729877180206184&hl=ja
+    address: 山形県米沢市上新田2300-1
+    price: 660
+    lat: 37.9526981
+    lng: 140.1376051
+    type: 温泉
+-
+    id: 12
+    name: やまぶし温泉 ゆぽか
+    url: http://yupoka01.ec-net.jp/
+    map: https://maps.google.com/?cid=15129284384948599219&hl=ja
+    address: 山形県鶴岡市羽黒町後田谷地田188
+    price: 450
+    lat: 38.7154053
+    lng: 139.8813064
+    type: 温泉
+-
+    id: 13
+    name: 長寿温泉
+    url: 
+    map: https://maps.google.com/?cid=14258424642106286515&hl=ja
+    address: 山形県鶴岡市小真木原町5-11
+    price: 400
+    lat: 38.716589
+    lng: 139.8153591
+    type: 銭湯
+-
+    id: 14
+    name: 極楽湯 鷹山の湯
+    url: http://www.gokurakuyu.jp/yozan.html
+    map: https://maps.google.com/?cid=7286852552845758309&hl=ja
+    address: 山形県米沢市中田町491-1
+    price: 450
+    lat: 37.9366786
+    lng: 140.1235116
+    type: 温泉
+-
+    id: 15
+    name: 沼木温泉 辻ヶ花
+    url: https://yamagata-clip.com/tsujigahana
+    map: https://maps.google.com/?cid=2586314508364545828&hl=ja
+    address: 山形県山形市羽黒堂63
+    price: 350
+    lat: 38.24438500000001
+    lng: 140.2979625
+    type: 温泉
+-
+    id: 16
+    name: 健康天然温泉 八百坊
+    url: http://www.happyakubou.com/
+    map: https://maps.google.com/?cid=835036467932517147&hl=ja
+    address: 山形県山形市東青田5-1-1
+    price: 550
+    lat: 38.2212087
+    lng: 140.3323447
+    type: 温泉
+-
+    id: 17
+    name: 米沢温泉 平安の湯
+    url: https://heiannoyu.com/
+    map: https://maps.google.com/?cid=16962217186291266366&hl=ja
+    address: 山形県米沢市中田町268
+    price: 300
+    lat: 37.9361701
+    lng: 140.1170154
+    type: 温泉
+-
+    id: 18
+    name: スーパー銭湯 テルメ
+    url: https://www.terme-mg.com/
+    map: https://maps.google.com/?cid=17906053855982401873&hl=ja
+    address: 山形県山形市南原町1-26-9
+    price: 580
+    lat: 38.235888
+    lng: 140.3468024
+    type: 温泉
+-
+    id: 19
+    name: 蔵王温泉 源七露天の湯
+    url: http://www.zao-gen7.com/
+    map: https://maps.google.com/?cid=2174002656550309223&hl=ja
+    address: 山形県山形市蔵王温泉862-1
+    price: 550
+    lat: 38.1665865
+    lng: 140.3989212
+    type: 温泉
+-
+    id: 20
+    name: テルメ柏陵 健康温泉館
+    url: http://oeterume4126.web.fc2.com/kenkoonsenkan1.html
+    map: https://maps.google.com/?cid=16238872226607480509&hl=ja
+    address: 山形県西村山郡大江町藤田831-40
+    price: 350
+    lat: 38.3674183
+    lng: 140.2154853
+    type: 温泉
+-
+    id: 21
+    name: 山辺温泉保養センター
+    url: https://www.town.yamanobe.yamagata.jp/soshiki/7/onsen-about.html
+    map: https://maps.google.com/?cid=12366122796325894282&hl=ja
+    address: 山形県東村山郡山辺町大塚字近江801
+    price: 350
+    lat: 38.2806351
+    lng: 140.271871
+    type: 温泉
+-
+    id: 22
+    name: 徳良湖温泉 花笠の湯
+    url: http://www3.ic-net.or.jp/~tokurako/onsen.html
+    map: https://maps.google.com/?cid=9357051442484926960&hl=ja
+    address: 山形県尾花沢市尾花沢5151-67
+    price: 350
+    lat: 38.5965983
+    lng: 140.4364768
+    type: 温泉
+-
+    id: 23
+    name: 山形うわの温泉 天神乃湯
+    url: https://itp.ne.jp/info/063057855000000899/
+    map: https://maps.google.com/?cid=16643291313177040403&hl=ja
+    address: 山形県山形市蔵王上野313-1
+    price: 390
+    lat: 38.1712402
+    lng: 140.3278343
+    type: 温泉
+-
+    id: 24
+    name: 悠々の杜温泉 アイアイひらた
+    url: http://www.aiaihirata.co.jp/
+    map: https://maps.google.com/?cid=7739499351936607189&hl=ja
+    address: 山形県酒田市山楯南山32-4
+    price: 450
+    lat: 38.898716
+    lng: 139.945098
+    type: 温泉
+-
+    id: 25
+    name: りんご温泉
+    url: http://ringoonsen.blog.fc2.com/
+    map: https://maps.google.com/?cid=12278761111313229419&hl=ja
+    address: 山形県西村山郡朝日町宮宿1353-1
+    price: 300
+    lat: 38.3074825
+    lng: 140.1617083
+    type: 温泉
+-
+    id: 26
+    name: さくらんぼ東根温泉 こまつの湯
+    url: http://komatsunoyu.com/top.html
+    map: https://maps.google.com/?cid=2811075110172935901&hl=ja
+    address: 山形県東根市温泉町2-11-1
+    price: 400
+    lat: 38.4602711
+    lng: 140.391803
+    type: 温泉
+-
+    id: 27
+    name: 東根温泉 オオタ湯
+    url: http://otayu.jp/
+    map: https://maps.google.com/?cid=2194099810474772943&hl=ja
+    address: 山形県東根市東根甲4461
+    price: 400
+    lat: 38.4367166
+    lng: 140.4170162
+    type: 温泉
+-
+    id: 28
+    name: 庄内町ギャラリー温泉 町湯
+    url: http://www.machiyu.jp/
+    map: https://maps.google.com/?cid=7482159658121117150&hl=ja
+    address: 山形県東田川郡庄内町余目土堤下35-2
+    price: 480
+    lat: 38.8420314
+    lng: 139.9053989
+    type: 温泉
+-
+    id: 29
+    name: 芭蕉の湯
+    url: 
+    map: https://maps.google.com/?cid=2990290702552392447&hl=ja
+    address: 山形県山形市北町3-7-30
+    price: 550
+    lat: 38.2727461
+    lng: 140.3265974
+    type: 温泉
+-
+    id: 30
+    name: 蔵王温泉ろばた
+    url: http://www.t023.com/~zao/
+    map: https://maps.google.com/?cid=87472507054711961&hl=ja
+    address: 山形県山形市蔵王温泉川原42-5
+    price: 800
+    lat: 38.1676364
+    lng: 140.3969694
+    type: 温泉
+-
+    id: 31
+    name: 長沼温泉 ぽっぽの湯
+    url: http://popponoyu.ec-net.jp/index.html
+    map: https://maps.google.com/?cid=14861937067042402297&hl=ja
+    address: 山形県鶴岡市長沼宮前266-1
+    price: 450
+    lat: 38.8052626
+    lng: 139.8755324
+    type: 温泉
+-
+    id: 32
+    name: 鳥海温泉保養センター あぽん西浜
+    url: http://www.yuzachokai.jp/aponnisihama
+    map: https://maps.google.com/?cid=7297380285065989685&hl=ja
+    address: 山形県飽海郡遊佐町吹浦西浜2-70
+    price: 400
+    lat: 39.0659642
+    lng: 139.8747773
+    type: 温泉
+-
+    id: 33
+    name: なの花温泉 田田
+    url: https://www.iroribinosato.info/denden.html
+    map: https://maps.google.com/?cid=8221849629696872606&hl=ja
+    address: 山形県東田川郡三川町横山堤172-1
+    price: 430
+    lat: 38.7831999
+    lng: 139.8462815
+    type: 温泉
+-
+    id: 34
+    name: 臥龍温泉保養センター
+    url: 
+    map: https://maps.google.com/?cid=13960813785970671469&hl=ja
+    address: 山形県山形市青田5-15-6
+    price: 350
+    lat: 38.2212341
+    lng: 140.3304026
+    type: 温泉
+-
+    id: 35
+    name: かみのやま温泉 下大湯共同浴場
+    url: http://kaminoyama-spa.com/spa/openairbath/
+    map: https://maps.google.com/?cid=14906126527491826020&hl=ja
+    address: 山形県上山市十日町9-30
+    price: 150
+    lat: 38.1583196
+    lng: 140.2784614
+    type: 共同浴場・銭湯
+-
+    id: 36
+    name: 八森温泉ゆりんこ
+    url: http://www.choukai.jp/yurinko/index.html
+    map: https://maps.google.com/?cid=17801268058049386498&hl=ja
+    address: 山形県酒田市麓字緑沢29-8
+    price: 460
+    lat: 38.9664525
+    lng: 139.9458381
+    type: 温泉
+-
+    id: 37
+    name: ハイジアパーク南陽
+    url: http://hygeia-park.jp/
+    map: https://maps.google.com/?cid=2061264229101692819&hl=ja
+    address: 山形県南陽市上野1855-10
+    price: 540
+    lat: 38.0677421
+    lng: 140.1581045
+    type: 温泉
+-
+    id: 38
+    name: 花笠温泉 ふくの湯
+    url: https://yamagata-clip.com/fukunoyu
+    map: https://maps.google.com/?cid=3109724834203664758&hl=ja
+    address: 山形県尾花沢市新町5-9-20
+    price: 400
+    lat: 38.60996069999999
+    lng: 140.4229118
+    type: 温泉
+-
+    id: 39
+    name: 小野川温泉 共同浴場 尼湯
+    url: 
+    map: https://maps.google.com/?cid=6384679765812326315&hl=ja
+    address: 山形県米沢市小野川町2472-2
+    price: 200
+    lat: 37.8799754
+    lng: 140.054827
+    type: 共同浴場・銭湯
+-
+    id: 40
+    name: 赤湯温泉 赤湯元湯
+    url: 
+    map: https://maps.google.com/?cid=11252727002038716284&hl=ja
+    address: 山形県南陽市赤湯754-2
+    price: 200
+    lat: 38.0498096
+    lng: 140.1678786
+    type: 共同浴場・銭湯
+-
+    id: 41
+    name: 蔵王温泉 下湯共同浴場
+    url: http://www.zao-spa.or.jp/about/
+    map: https://maps.google.com/?cid=4250856532617594765&hl=ja
+    address: 山形県山形市蔵王温泉30-2
+    price: 200
+    lat: 38.167795
+    lng: 140.3959827
+    type: 共同浴場・銭湯
+-
+    id: 42
+    name: 大井沢温泉 湯ったり館
+    url: http://www.gassan.co.jp/oisawa/
+    map: https://maps.google.com/?cid=12401471018593968992&hl=ja
+    address: 山形県西村山郡西川町大井沢1177
+    price: 300
+    lat: 38.39221879999999
+    lng: 139.9946186
+    type: 温泉
+-
+    id: 43
+    name: 肘折いでゆ館
+    url: http://www.hijiorionsen.jp/ideyukan/
+    map: https://maps.google.com/?cid=9723737632979180630&hl=ja
+    address: 山形県最上郡大蔵村南山451-2
+    price: 450
+    lat: 38.6111075
+    lng: 140.1697071
+    type: 温泉
+-
+    id: 44
+    name: まほろば温泉 高畠町太陽館
+    url: http://takahata.info/taiyokan/
+    map: https://maps.google.com/?cid=16080291625112530100&hl=ja
+    address: 山形県東置賜郡高畠町山崎200-1
+    price: 300
+    lat: 37.9926471
+    lng: 140.1530749
+    type: 温泉
+-
+    id: 45
+    name: カルデラ温泉館
+    url: http://www.hijiorionsen.jp/karuderakan/
+    map: https://maps.google.com/?cid=12212804533089622865&hl=ja
+    address: 山形県最上郡大蔵村南山2127-79
+    price: 500
+    lat: 38.6079393
+    lng: 140.1523163
+    type: 温泉
+-
+    id: 46
+    name: 新寒河江温泉 寒河江市市民浴場
+    url: http://www.yama-kan.com/onsen/sagae/
+    map: https://maps.google.com/?cid=7025283986259109657&hl=ja
+    address: 山形県寒河江市島島西8
+    price: 200
+    lat: 38.3607074
+    lng: 140.2702651
+    type: 温泉
+-
+    id: 47
+    name: 舟形若あゆ温泉 清流センター
+    url: http://www.wakaayu.jp/
+    map: https://maps.google.com/?cid=16033810876317594914&hl=ja
+    address: 山形県最上郡舟形町長沢8067
+    price: 400
+    lat: 38.71106
+    lng: 140.3398257
+    type: 温泉
+-
+    id: 48
+    name: いきいきランド ぽんぽ館
+    url: http://www.ponpokan.com/
+    map: https://maps.google.com/?cid=15463848811873174094&hl=ja
+    address: 山形県最上郡戸沢村松坂野口155
+    price: 350
+    lat: 38.78333680000001
+    lng: 140.1837552
+    type: 温泉
+-
+    id: 49
+    name: 小野川温泉 滝の湯
+    url: 
+    map: https://maps.google.com/?cid=17982712514131415707&hl=ja
+    address: 山形県米沢市小野川町
+    price: 250
+    lat: 37.8655374
+    lng: 140.0603933
+    type: 共同浴場・銭湯
+-
+    id: 50
+    name: 蔵王温泉 上湯共同浴場
+    url: http://www.zao-spa.or.jp/about/
+    map: https://maps.google.com/?cid=6214009111833387407&hl=ja
+    address: 山形県山形市蔵王温泉45-1
+    price: 200
+    lat: 38.1686565
+    lng: 140.3973903
+    type: 共同浴場・銭湯
+-
+    id: 51
+    name: 瀬見温泉共同浴場 せみの湯
+    url: http://yamagatakanko.com/onsendetail/?data_id=10848&yc=onsen&yp=1
+    map: https://maps.google.com/?cid=12138370517967955111&hl=ja
+    address: 山形県最上郡最上町大字大堀987-15
+    price: 400
+    lat: 38.7541362
+    lng: 140.4136326
+    type: 共同浴場・銭湯
+-
+    id: 52
+    name: ラ・フォーレ天童 のぞみ
+    url: http://www.nozomi-tendo.or.jp/
+    map: https://maps.google.com/?cid=2426602091376849894&hl=ja
+    address: 山形県天童市道満197-2
+    price: 490
+    lat: 38.3918463
+    lng: 140.3864846
+    type: 温泉
+-
+    id: 53
+    name: 水沢温泉館
+    url: http://www.gassan.co.jp/mizusawa/
+    map: https://maps.google.com/?cid=15313961926122031641&hl=ja
+    address: 山形県西村山郡西川町水沢2304
+    price: 300
+    lat: 38.4362337
+    lng: 140.0995924
+    type: 温泉
+-
+    id: 54
+    name: みいずみ温泉 吉乃ゆ
+    url: http://www3.ic-net.or.jp/~gut-swim/yoshinoyu.html
+    map: https://maps.google.com/?cid=8548234781836551144&hl=ja
+    address: 山形県寒河江市下河原153-2
+    price: 400
+    lat: 38.4011998
+    lng: 140.2876672
+    type: 温泉
+-
+    id: 55
+    name: かみのやま温泉 二日町共同浴場
+    url: http://kaminoyama-spa.com/spa/openairbath/
+    map: https://maps.google.com/?cid=15127853227493542814&hl=ja
+    address: 山形県上山市二日町5-21-6
+    price: 150
+    lat: 38.1538435
+    lng: 140.2743205
+    type: 共同浴場・銭湯
+-
+    id: 56
+    name: 蔵王温泉 川原湯共同浴場
+    url: http://www.zao-spa.or.jp/about/
+    map: https://maps.google.com/?cid=14995284716650465664&hl=ja
+    address: 山形県山形市蔵王温泉川原43-3
+    price: 200
+    lat: 38.1674943
+    lng: 140.3972907
+    type: 共同浴場・銭湯
+-
+    id: 57
+    name: くしびきおんせん ゆ～Town
+    url: https://u-town.info
+    map: https://maps.google.com/?cid=14035139831341721307&hl=ja
+    address: 山形県鶴岡市三千刈字清和159
+    price: 450
+    lat: 38.6795426
+    lng: 139.8576896
+    type: 温泉
+-
+    id: 58
+    name: 赤湯温泉 あずま湯
+    url: http://www.city.nanyo.yamagata.jp/kanzai2/529.html
+    map: https://maps.google.com/?cid=17951674603713773700&hl=ja
+    address: 山形県南陽市赤湯2956-7
+    price: 100
+    lat: 38.0468597
+    lng: 140.1700496
+    type: 共同浴場・銭湯
+-
+    id: 59
+    name: 小野川温泉 小町の湯
+    url: https://www.chuokai-yamagata.or.jp/onogawa/komachi.html
+    map: https://maps.google.com/?cid=17018106765404609078&hl=ja
+    address: 山形県米沢市小野川町
+    price: 200
+    lat: 37.8655374
+    lng: 140.0603933
+    type: 共同浴場・銭湯
+-
+    id: 60
+    name: 赤湯温泉公衆浴場 烏帽子の湯
+    url: http://www.city.nanyo.yamagata.jp/kanzai2/529.html
+    map: https://maps.google.com/?cid=15589043811871116469&hl=ja
+    address: 山形県南陽市赤湯356-2
+    price: 100
+    lat: 38.048341
+    lng: 140.1632077
+    type: 共同浴場・銭湯
+-
+    id: 61
+    name: 山形市総合福祉センター かすみが温泉
+    url: https://www.yamagatashishakyo.or.jp/facilities/#spa
+    map: https://maps.google.com/?cid=12719845826060152701&hl=ja
+    address: 山形県山形市城西町2-2-22
+    price: 200
+    lat: 38.25485159999999
+    lng: 140.3220718
+    type: 温泉
+-
+    id: 62
+    name: 湯野浜温泉 上区公衆浴場
+    url: https://www.tsuruokakanko.com/cate/p0115.html
+    map: https://maps.google.com/?cid=903914815251117910&hl=ja
+    address: 山形県鶴岡市湯野浜1-6-1
+    price: 200
+    lat: 38.7776941
+    lng: 139.7495791
+    type: 共同浴場・銭湯
+-
+    id: 63
+    name: かたくり温泉 ぼんぼ
+    url: http://bonbo.tyo.ne.jp/
+    map: https://maps.google.com/?cid=13112360361911770838&hl=ja
+    address: 山形県鶴岡市熊出東村157-3
+    price: 450
+    lat: 38.6332064
+    lng: 139.8499353
+    type: 温泉
+-
+    id: 64
+    name: 老人福祉センター 柏陵荘
+    url: http://oeterume4126.web.fc2.com/hakuryoso.html
+    map: https://maps.google.com/?cid=10207906015101046885&hl=ja
+    address: 山形県西村山郡大江町藤田270-3
+    price: 250
+    lat: 38.3676266
+    lng: 140.2145732
+    type: 温泉
+-
+    id: 65
+    name: 米沢市森林体験交流センター 白布森の館
+    url: http://www.city.yonezawa.yamagata.jp/4216.html
+    map: https://maps.google.com/?cid=9017052166136088832&hl=ja
+    address: 山形県米沢市関湯の入沢3934
+    price: 395
+    lat: 37.7711265
+    lng: 140.1324339
+    type: 温泉
+-
+    id: 66
+    name: 赤湯温泉 とわの湯
+    url: http://www.city.nanyo.yamagata.jp/kanzai2/529.html
+    map: https://maps.google.com/?cid=7122288214809145960&hl=ja
+    address: 山形県南陽市赤湯392
+    price: 100
+    lat: 38.0470846
+    lng: 140.1656777
+    type: 共同浴場・銭湯
+-
+    id: 67
+    name: 大堀温泉 おらだずの宿 りんどう
+    url: http://mogami.tv/info/03shisetsu/24rindou.php
+    map: https://maps.google.com/?cid=3566634434662590428&hl=ja
+    address: 山形県最上郡最上町大堀679
+    price: 360
+    lat: 38.753247
+    lng: 140.4705305
+    type: 温泉
+-
+    id: 68
+    name: スーパー銭湯 しみずの湯
+    url: 
+    map: https://maps.google.com/?cid=16319624232200856167&hl=ja
+    address: 山形県新庄市五日町清水川
+    price: 450
+    lat: 38.773342
+    lng: 140.308627
+    type: 温泉
+-
+    id: 69
+    name: むくどりの夢館 温もりの湯
+    url: https://yamagata-clip.com/mukudorispa
+    map: https://maps.google.com/?cid=5378419541489899268&hl=ja
+    address: 山形県東置賜郡高畠町一本柳2175
+    price: 300
+    lat: 38.0049972
+    lng: 140.1621703
+    type: 温泉
+-
+    id: 70
+    name: 光が丘公園プール
+    url: https://www.walkerplus.com/spot/ar0206s14774/
+    map: https://maps.google.com/?cid=9984273189158359940&hl=ja
+    address: 山形県酒田市光ケ丘3-1-70
+    price: 510
+    lat: 38.93486619999999
+    lng: 139.8293048
+    type: 温泉
+-
+    id: 71
+    name: 湯田川温泉 正面の湯
+    url: https://www.tsuruokakanko.com/spot/473
+    map: https://maps.google.com/?cid=3220327610418775053&hl=ja
+    address: 山形県鶴岡市湯田川温泉
+    price: 200
+    lat: 38.6932053
+    lng: 139.7695978
+    type: 共同浴場・銭湯
+-
+    id: 72
+    name: あつみ温泉 下の湯
+    url: http://www.atsumi-spa.or.jp/atsumionsen.html
+    map: https://maps.google.com/?cid=9994172897706905898&hl=ja
+    address: 山形県鶴岡市湯温海
+    price: 200
+    lat: 38.6160758
+    lng: 139.6199941
+    type: 共同浴場・銭湯
+-
+    id: 73
+    name: 肘折温泉共同浴場 上の湯
+    url: 
+    map: https://maps.google.com/?cid=12077904628551743354&hl=ja
+    address: 山形県最上郡大蔵村肘折
+    price: 250
+    lat: 38.7041824
+    lng: 140.2303736
+    type: 共同浴場・銭湯
+-
+    id: 74
+    name: 温海温泉 正面湯
+    url: http://www.atsumi-spa.or.jp/atsumionsen.html
+    map: https://maps.google.com/?cid=17183240977727945524&hl=ja
+    address: 山形県鶴岡市湯温海
+    price: 200
+    lat: 38.6160758
+    lng: 139.6199941
+    type: 共同浴場・銭湯
+-
+    id: 75
+    name: 神室温泉 ホットハウス カムロ
+    url: http://shenesuhaimu.ecnet.jp/#onsen
+    map: https://maps.google.com/?cid=6220549652259445931&hl=ja
+    address: 山形県最上郡金山町有屋1400
+    price: 300
+    lat: 38.9167601
+    lng: 140.3937182
+    type: 温泉
+-
+    id: 76
+    name: 羽根沢温泉 共同浴場
+    url: 
+    map: https://maps.google.com/?cid=225539870359133437&hl=ja
+    address: 山形県最上郡鮭川村中渡1321
+    price: 200
+    lat: 38.8149086
+    lng: 140.1527831
+    type: 共同浴場・銭湯
+-
+    id: 77
+    name: 東根温泉 いしの湯
+    url: https://www.higashine.com/ryokan/ishinoyu
+    map: https://maps.google.com/?cid=14312063208185775267&hl=ja
+    address: 山形県東根市温泉町1-22-5
+    price: 250
+    lat: 38.4550924
+    lng: 140.3921443
+    type: 共同浴場・銭湯
+-
+    id: 78
+    name: 成安温泉 いきいきの郷
+    url: http://kagayakinokai.or.jp/publics/index/42/
+    map: https://maps.google.com/?cid=10029121194994998279&hl=ja
+    address: 山形県山形市成安425-2
+    price: 300
+    lat: 38.3232722
+    lng: 140.310952
+    type: 温泉
+-
+    id: 79
+    name: 海味温泉 西川町老人福祉センター
+    url: 
+    map: https://maps.google.com/?cid=13588557092580925293&hl=ja
+    address: 山形県西村山郡西川町海味437-2
+    price: 200
+    lat: 38.4245361
+    lng: 140.1502444
+    type: 温泉
+-
+    id: 80
+    name: かみのやま温泉 葉山共同浴場
+    url: http://kaminoyama-spa.com/spa/openairbath/
+    map: https://maps.google.com/?cid=7689366001326767938&hl=ja
+    address: 山形県上山市葉山5-70
+    price: 150
+    lat: 38.1488476
+    lng: 140.2636607
+    type: 共同浴場・銭湯
+-
+    id: 81
+    name: かみのやま温泉 新丁鶴の湯共同浴場
+    url: http://kaminoyama-spa.com/spa/openairbath/
+    map: https://maps.google.com/?cid=15789610928547652351&hl=ja
+    address: 山形県上山市新丁7-54
+    price: 150
+    lat: 38.1597544
+    lng: 140.2808598
+    type: 共同浴場・銭湯
+-
+    id: 82
+    name: 湯野浜温泉 下区公衆浴場
+    url: https://www.tsuruokakanko.com/cate/p0115.html
+    map: https://maps.google.com/?cid=12378689054419154341&hl=ja
+    address: 山形県鶴岡市湯野浜1-1-7
+    price: 300
+    lat: 38.7798587
+    lng: 139.7517056
+    type: 共同浴場・銭湯
+-
+    id: 83
+    name: 湯田川温泉 田の湯
+    url: http://www.yutagawaonsen.com/spa.html
+    map: https://maps.google.com/?cid=17025082871023672496&hl=ja
+    address: 山形県鶴岡市湯田川温泉
+    price: 200
+    lat: 38.6932053
+    lng: 139.7695978
+    type: 共同浴場・銭湯
+-
+    id: 84
+    name: 銀山温泉 共同浴場 しろがね湯
+    url: http://www.city.obanazawa.yamagata.jp/1968.html
+    map: https://maps.google.com/?cid=5505619078065341350&hl=ja
+    address: 山形県尾花沢市銀山新畑北415-1
+    price: 500
+    lat: 38.5709518
+    lng: 140.5304039
+    type: 共同浴場・銭湯
+-
+    id: 85
+    name: あつみ温泉 湯之里公衆浴場
+    url: http://www.atsumi-spa.or.jp/atsumionsen.html
+    map: https://maps.google.com/?cid=16265876963496001579&hl=ja
+    address: 山形県鶴岡市湯温海
+    price: 200
+    lat: 38.6160758
+    lng: 139.6199941
+    type: 共同浴場・銭湯
+-
+    id: 86
+    name: いもがわ温泉 五百川温泉
+    url: http://asahimachi-kanko.jp/detail/?no=9470
+    map: https://maps.google.com/?cid=10480550119941091245&hl=ja
+    address: 山形県西村山郡朝日町太郎1544
+    price: 150
+    lat: 38.2970317
+    lng: 140.105545
+    type: 温泉
+-
+    id: 87
+    name: 新湯共同浴場 澤の湯
+    url: http://kaminoyama-spa.com/spa/openairbath/
+    map: https://maps.google.com/?cid=3337697460859964302&hl=ja
+    address: 山形県上山市新湯5-13
+    price: 150
+    lat: 38.1575999
+    lng: 140.2722102
+    type: 共同浴場・銭湯
+-
+    id: 88
+    name: おもかげ湯
+    url: 
+    map: https://maps.google.com/?cid=3012226338331075269&hl=ja
+    address: 山形県尾花沢市銀山新畑地内
+    price: 2000
+    lat: 38.5760338
+    lng: 140.5446709
+    type: 温泉
+-
+    id: 89
+    name: おくのほそ道 赤倉ゆけむり館
+    url: https://akakurayukemurikan.amebaownd.com
+    map: https://maps.google.com/?cid=8810081288895055140&hl=ja
+    address: 山形県最上町大字富澤817-1
+    price: 450
+    lat: 38.7102766
+    lng: 140.5548799
+    type: 温泉
+-
+    id: 90
+    name: 寒河江市老人福祉センター
+    url: http://www.city.sagae.yamagata.jp/kurashi/shisetsu/fukushishisetsu/rojinfukushicenter.html
+    map: https://maps.google.com/?cid=8562672078434741017&hl=ja
+    address: 山形県寒河江市白岩大江寺415
+    price: 250
+    lat: 38.409484
+    lng: 140.221738
+    type: 温泉
+-
+    id: 91
+    name: 前森温泉 清流
+    url: 
+    map: https://maps.google.com/?cid=514963641984525267&hl=ja
+    address: 山形県最上郡最上町向町1563-32
+    price: 300
+    lat: 38.7792736
+    lng: 140.5324209
+    type: 温泉
+-
+    id: 92
+    name: 老人福祉センター 漆山やすらぎ荘
+    url: https://www.city.yamagata-yamagata.lg.jp/shimin/sub7/koureisha/6feefurusiyamayasuragisou.html
+    map: https://maps.google.com/?cid=15619233156461893074&hl=ja
+    address: 山形県山形市漆山月山堂818
+    price: 100
+    lat: 38.311489
+    lng: 140.351311
+    type: 温泉
+-
+    id: 93
+    name: 老人福祉センター 鈴川ことぶき荘
+    url: https://www.yamagatashishakyo.or.jp/roujin/
+    map: https://maps.google.com/?cid=13600057537900451762&hl=ja
+    address: 山形県山形市下山家町字下宿81-5
+    price: 100
+    lat: 38.269246
+    lng: 140.362135
+    type: 温泉
+-
+    id: 94
+    name: 肘折温泉 疝気湯
+    url: 
+    map: https://maps.google.com/?cid=5165204152363428518&hl=ja
+    address: 山形県最上郡大蔵村肘折温泉
+    price: 200
+    lat: 38.7041824
+    lng: 140.2303736
+    type: 共同浴場・銭湯
+-
+    id: 95
+    name: 老人福祉センター 黒沢いこい荘
+    url: https://www.city.yamagata-yamagata.lg.jp/shimin/sub7/koureisha/623dkurosawaikoisou.html
+    map: https://maps.google.com/?cid=14340918042298740281&hl=ja
+    address: 山形県山形市黒沢字中川原541
+    price: 100
+    lat: 38.1934631
+    lng: 140.3024563
+    type: 温泉
+-
+    id: 96
+    name: 最上町 高齢者総合福祉センター
+    url: http://mogami.tv/hospital/wellness/w4.html
+    map: https://maps.google.com/?cid=16062967345526701976&hl=ja
+    address: 山形県最上郡最上町向町43-1
+    price: 310
+    lat: 38.75355210000001
+    lng: 140.5164492
+    type: 温泉
+-
+    id: 97
+    name: 肘折温泉 河原湯
+    url: 
+    map: https://maps.google.com/maps?q=38.609158,140.167496
+    address: 山形県最上郡大蔵村南山
+    price: 200
+    lat: 38.5737455
+    lng: 140.1879858
+    type: 共同浴場・銭湯

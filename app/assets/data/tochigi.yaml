@@ -1,0 +1,961 @@
+---
+-
+    id: 1
+    name: 那須どうぶつ王国 王国温泉
+    url: https://www.nasu-oukoku.com/world/spa/spa.html
+    map: https://maps.google.com/?cid=3082280352802437002&hl=ja
+    address: 栃木県那須郡那須町大島みどりヶ丘
+    price: 1000
+    lat: 37.129025
+    lng: 140.037143
+    type: 温泉
+-
+    id: 2
+    name: 道の駅きつれがわ
+    url: http://michinoeki-kitsuregawa.jp/hotspring
+    map: https://maps.google.com/?cid=11704305023846215872&hl=ja
+    address: 栃木県さくら市喜連川4145-10
+    price: 500
+    lat: 36.7153198
+    lng: 140.0321611
+    type: 温泉
+-
+    id: 3
+    name: 那須湯本温泉 鹿の湯
+    url: http://www.shikanoyu.jp
+    map: https://maps.google.com/?cid=5023755150973710211&hl=ja
+    address: 栃木県那須郡那須町湯本181
+    price: 500
+    lat: 37.0977389
+    lng: 140.0011922
+    type: 温泉
+-
+    id: 4
+    name: 道の駅 湯西川 湯の郷
+    url: http://www.michinoeki-yunishigawa.jp/yunosato/
+    map: https://maps.google.com/?cid=600758633935435493&hl=ja
+    address: 栃木県日光市西川478-1
+    price: 510
+    lat: 36.92941769999999
+    lng: 139.6879447
+    type: 温泉
+-
+    id: 5
+    name: ザ・グランドスパ南大門
+    url: https://nandaimon.co.jp/spa/
+    map: https://maps.google.com/?cid=585437003012996883&hl=ja
+    address: 栃木県宇都宮市今泉3-2-18
+    price: 1800
+    lat: 36.5646747
+    lng: 139.8946141
+    type: 温泉
+-
+    id: 6
+    name: 宇都宮天然温泉 ベルさくらの湯
+    url: https://bellsakuranoyu.com
+    map: https://maps.google.com/?cid=9564261040714945231&hl=ja
+    address: 栃木県宇都宮市陽東6-5-31
+    price: 770
+    lat: 36.5561886
+    lng: 139.9321177
+    type: 温泉
+-
+    id: 7
+    name: 栃木温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/tochigi/
+    map: https://maps.google.com/?cid=7315294382258168641&hl=ja
+    address: 栃木県栃木市大町22-70
+    price: 780
+    lat: 36.3955959
+    lng: 139.7330302
+    type: 温泉
+-
+    id: 8
+    name: 極楽湯(宇都宮店)
+    url: https://www.gokurakuyu.ne.jp/tempo/utsunomiya/
+    map: https://maps.google.com/?cid=15622709268699099771&hl=ja
+    address: 栃木県宇都宮市御幸本町4880
+    price: 500
+    lat: 36.5807632
+    lng: 139.925087
+    type: 温泉
+-
+    id: 9
+    name: 湯西川 水の郷
+    url: https://yunishigawa-mizunosato.jp/
+    map: https://maps.google.com/?cid=9814685571716909919&hl=ja
+    address: 栃木県日光市湯西川473-1
+    price: 510
+    lat: 36.96760010000001
+    lng: 139.6096381
+    type: 温泉
+-
+    id: 10
+    name: 小山やすらぎの湯
+    url: http://www.yasuraginoyu.jp/oyama/
+    map: https://maps.google.com/?cid=18038822589111188809&hl=ja
+    address: 栃木県小山市東城南5-26-5
+    price: 550
+    lat: 36.2868505
+    lng: 139.8059942
+    type: 温泉
+-
+    id: 11
+    name: 足利健康ランド
+    url: http://ashiken.3riku.co.jp
+    map: https://maps.google.com/?cid=17945124605444309824&hl=ja
+    address: 栃木県足利市朝倉町234
+    price: 1540
+    lat: 36.3195443
+    lng: 139.4523885
+    type: 温泉
+-
+    id: 12
+    name: 宇都宮天然温泉 ゆらら
+    url: http://www.yurara-onsen.com/
+    map: https://maps.google.com/?cid=6076402382923208269&hl=ja
+    address: 栃木県宇都宮市鶴田1457-2
+    price: 650
+    lat: 36.5457888
+    lng: 139.8491082
+    type: 温泉
+-
+    id: 13
+    name: 佐野やすらぎ湯
+    url: http://www.yasuraginoyu.jp/sano/
+    map: https://maps.google.com/?cid=4433246556854386811&hl=ja
+    address: 栃木県佐野市小中町215
+    price: 500
+    lat: 36.336593
+    lng: 139.5581634
+    type: 温泉
+-
+    id: 14
+    name: 天然温泉 小山 思川温泉
+    url: http://www.oyama-am.co.jp/omoigawa/
+    map: https://maps.google.com/?cid=12565809397883219757&hl=ja
+    address: 栃木県小山市喜沢1475
+    price: 750
+    lat: 36.3332595
+    lng: 139.8086442
+    type: 温泉
+-
+    id: 15
+    name: 玉川の湯(金魚湯)
+    url: http://www.cc9.ne.jp/~harukin411/99_blank001.html
+    map: https://maps.google.com/?cid=4182354238365948968&hl=ja
+    address: 栃木県栃木市室町3-14
+    price: 400
+    lat: 36.3771521
+    lng: 139.731084
+    type: 銭湯
+-
+    id: 16
+    name: 大江戸温泉物語 かもしか荘
+    url: https://kamoshika.ooedoonsen.jp/
+    map: https://maps.google.com/?cid=11015218427815064823&hl=ja
+    address: 栃木県那須塩原市塩原1256
+    price: 700
+    lat: 36.96554020000001
+    lng: 139.8327807
+    type: 温泉
+-
+    id: 17
+    name: 日光和の代温泉 やしおの湯
+    url: http://www.mct.gr.jp/yashio/
+    map: https://maps.google.com/?cid=2735568083704209972&hl=ja
+    address: 栃木県日光市清滝和の代町1726-4
+    price: 500
+    lat: 36.7434118
+    lng: 139.574513
+    type: 温泉
+-
+    id: 18
+    name: 道の駅はが ロマンの湯
+    url: http://www.michinoeki-haga.gr.jp/roman/rom_top.htm
+    map: https://maps.google.com/?cid=4473272887535467335&hl=ja
+    address: 栃木県芳賀郡芳賀町上延生160
+    price: 600
+    lat: 36.5525888
+    lng: 140.0568754
+    type: 温泉
+-
+    id: 19
+    name: お菓子の城 那須ハートランド 源泉 那須山
+    url: https://www.okashinoshiro.co.jp/
+    map: https://maps.google.com/?cid=9985133993351274544&hl=ja
+    address: 栃木県那須郡那須町高久甲4588-10
+    price: 890
+    lat: 37.0173474
+    lng: 140.032041
+    type: 温泉
+-
+    id: 20
+    name: 前日光つつじの湯交流館
+    url: https://www.city.kanuma.tochigi.jp/0283/info-0000000630-0.html
+    map: https://maps.google.com/?cid=16108451014510593011&hl=ja
+    address: 栃木県鹿沼市入粟野994-2
+    price: 500
+    lat: 36.5999745
+    lng: 139.5541604
+    type: 温泉
+-
+    id: 21
+    name: 喜連川早乙女温泉
+    url: http://www.soutome-on.com/
+    map: https://maps.google.com/?cid=11453370410523482308&hl=ja
+    address: 栃木県さくら市早乙女2114
+    price: 1050
+    lat: 36.7039272
+    lng: 140.0090941
+    type: 温泉
+-
+    id: 22
+    name: スパリゾートリブマックス
+    url: https://www.sparesort-livemax.com/
+    map: https://maps.google.com/?cid=18266915197000635390&hl=ja
+    address: 栃木県真岡市長田1-24-3
+    price: 800
+    lat: 36.452139
+    lng: 139.9633682
+    type: 温泉
+-
+    id: 23
+    name: スーパー銭湯 コール 宇都宮の湯
+    url: http://www.super-sento.com/utsunomiya/
+    map: https://maps.google.com/?cid=5716341063437046339&hl=ja
+    address: 栃木県宇都宮市西原町3544-1
+    price: 540
+    lat: 36.5420081
+    lng: 139.885524
+    type: 温泉
+-
+    id: 24
+    name: 塩原グリーンビレッジ 福のゆ
+    url: https://shiobara-gv.net/onsen/
+    map: https://maps.google.com/?cid=12846282790276965204&hl=ja
+    address: 栃木県那須塩原市塩原1230
+    price: 730
+    lat: 36.9622059
+    lng: 139.8438249
+    type: 温泉
+-
+    id: 25
+    name: ほたるの里 梵天の湯
+    url: https://www.bonten-no-yu.com/
+    map: https://maps.google.com/?cid=12240020263633136554&hl=ja
+    address: 栃木県宇都宮市今里町18-4
+    price: 510
+    lat: 36.6860454
+    lng: 139.9051682
+    type: 温泉
+-
+    id: 26
+    name: 塩原温泉 あかつきの湯
+    url: http://www.acatsuki.co.jp/shiobara/
+    map: https://maps.google.com/?cid=12800768721452759178&hl=ja
+    address: 栃木県那須塩原市関谷1689-1
+    price: 800
+    lat: 36.959026
+    lng: 139.9236948
+    type: 温泉
+-
+    id: 27
+    name: 城の湯やすらぎの里 温泉センター
+    url: http://www.yaita-onsen-shironoyu.jp/institution/
+    map: https://maps.google.com/?cid=16743338870625065265&hl=ja
+    address: 栃木県矢板市川崎反町295
+    price: 500
+    lat: 36.7937811
+    lng: 139.9178701
+    type: 温泉
+-
+    id: 28
+    name: 松島温泉 乙女の湯
+    url: http://www2u.biglobe.ne.jp/~matuon/
+    map: https://maps.google.com/?cid=8955044571292797700&hl=ja
+    address: 栃木県さくら市松島900
+    price: 850
+    lat: 36.7315759
+    lng: 139.9826172
+    type: 温泉
+-
+    id: 29
+    name: 川治温泉 薬師の湯
+    url: https://www.city.nikko.lg.jp/hujiharakankou/kankou/kinugawa/onsen/yakushinoyu.html
+    map: https://maps.google.com/?cid=6607028801546672529&hl=ja
+    address: 栃木県日光市川治温泉川治278-2
+    price: 700
+    lat: 36.8934535
+    lng: 139.7047103
+    type: 共同浴場・銭湯
+-
+    id: 30
+    name: まほろばの湯 湯親館
+    url: http://mahorobanoyu.com/
+    map: https://maps.google.com/?cid=5681154982981370049&hl=ja
+    address: 栃木県那須郡那珂川町小川1065
+    price: 600
+    lat: 36.7658762
+    lng: 140.1353632
+    type: 温泉
+-
+    id: 31
+    name: 乃木温泉ホテル ゆの郷
+    url: https://www.nogionsen.com/
+    map: https://maps.google.com/?cid=1514582866155279872&hl=ja
+    address: 栃木県那須塩原市下永田1-993-11
+    price: 390
+    lat: 36.8829182
+    lng: 139.9960963
+    type: 温泉
+-
+    id: 32
+    name: 矢板温泉 まことの湯
+    url: http://yaitaonsen.com/
+    map: https://maps.google.com/?cid=12326175257597115519&hl=ja
+    address: 栃木県矢板市館ノ川695-28
+    price: 500
+    lat: 36.7813667
+    lng: 139.9130463
+    type: 温泉
+-
+    id: 33
+    name: さくら市第１温泉浴場 もとゆ温泉
+    url: http://www.city.tochigi-sakura.lg.jp/soshiki/17/syoukou-kanko4.html
+    map: https://maps.google.com/?cid=14353567232998771924&hl=ja
+    address: 栃木県さくら市喜連川6620-1
+    price: 600
+    lat: 36.7169661
+    lng: 140.019949
+    type: 温泉
+-
+    id: 34
+    name: みつば湯楽院 令和の湯
+    url: https://m-yurakuin.jp/
+    map: https://maps.google.com/?cid=18293657240631458023&hl=ja
+    address: 栃木県小山市横倉新田226-13
+    price: 700
+    lat: 36.2904456
+    lng: 139.82314
+    type: 温泉
+-
+    id: 35
+    name: 那珂川温泉 皆幸乃湯
+    url: https://www.hotel-arai.com
+    map: https://maps.google.com/?cid=17335428739236704520&hl=ja
+    address: 栃木県那須塩原市鍋掛1088-24
+    price: 700
+    lat: 36.956263
+    lng: 140.0717671
+    type: 温泉
+-
+    id: 36
+    name: 日本で最も美しい夕陽の郷 ゆりがねの湯
+    url: http://www.yuriganenoyu.jp/
+    map: https://maps.google.com/?cid=12966359401083804307&hl=ja
+    address: 栃木県那須郡那珂川町小口1671-1
+    price: 500
+    lat: 36.7765726
+    lng: 140.1373852
+    type: 温泉
+-
+    id: 37
+    name: スーパー銭湯 コール 宝木之湯
+    url: http://www.super-sento.com/takaragi/price.html
+    map: https://maps.google.com/?cid=16972852569361801097&hl=ja
+    address: 栃木県宇都宮市細谷町662
+    price: 540
+    lat: 36.5901703
+    lng: 139.8474482
+    type: 温泉
+-
+    id: 38
+    name: 真岡井頭温泉
+    url: http://www.igasira-onsen.jp/
+    map: https://maps.google.com/?cid=11906921048507607378&hl=ja
+    address: 栃木県真岡市下籠谷21
+    price: 730
+    lat: 36.4877025
+    lng: 140.0030162
+    type: 温泉
+-
+    id: 39
+    name: 鬼怒川温泉 離れの湯 あけび
+    url: https://www.akebi-onsen.com/
+    map: https://maps.google.com/?cid=11134232330404771743&hl=ja
+    address: 栃木県日光市小佐越19-26
+    price: 3800
+    lat: 36.795411
+    lng: 139.702004
+    type: 温泉
+-
+    id: 40
+    name: ホテルカジュアルユーロ ほの香
+    url: https://www.nikko-casual.jp/spa.html
+    map: https://maps.google.com/?cid=15217646402827417625&hl=ja
+    address: 栃木県日光市所野1550-38
+    price: 500
+    lat: 36.7583883
+    lng: 139.618016
+    type: 温泉
+-
+    id: 41
+    name: 道の駅ろまんちっく村 湯処あぐり
+    url: http://www.romanticmura.com/yudokoro/
+    map: https://maps.google.com/?cid=15717441167493734210&hl=ja
+    address: 栃木県宇都宮市新里町丙254
+    price: 510
+    lat: 36.632871
+    lng: 139.829339
+    type: 温泉
+-
+    id: 42
+    name: 日光市温泉保養センター かたくりの湯
+    url: http://www.kousha.or.jp/spa_katakuri.php
+    map: https://maps.google.com/?cid=7842853866920015954&hl=ja
+    address: 栃木県日光市町谷1866-1
+    price: 500
+    lat: 36.7474362
+    lng: 139.7571233
+    type: 温泉
+-
+    id: 43
+    name: 鬼怒川公園岩風呂
+    url: https://www.city.nikko.lg.jp/hujiharakankou/kankou/kinugawa/onsen/kinu_iwaburo.html
+    map: https://maps.google.com/?cid=4727236673929101365&hl=ja
+    address: 栃木県日光市藤原19
+    price: 510
+    lat: 36.8422583
+    lng: 139.7235119
+    type: 温泉
+-
+    id: 44
+    name: ピラミッド元氣温泉
+    url: http://pyramid-onsen.com/
+    map: https://maps.google.com/?cid=11198625746449594521&hl=ja
+    address: 栃木県那須塩原市接骨木493-4
+    price: 600
+    lat: 36.9289359
+    lng: 139.9585261
+    type: 温泉
+-
+    id: 45
+    name: 源泉かけ流し ただおみ温泉
+    url: http://www.tadaomionsen.com/
+    map: https://maps.google.com/?cid=3180595489224552159&hl=ja
+    address: 栃木県宇都宮市新里町丙712
+    price: 500
+    lat: 36.6389097
+    lng: 139.8342137
+    type: 温泉
+-
+    id: 46
+    name: 幸の湯
+    url: http://www.sachinoyu.co.jp/
+    map: https://maps.google.com/?cid=14089214312989245947&hl=ja
+    address: 栃木県足利市東砂原後町1066-1
+    price: 600
+    lat: 36.3456552
+    lng: 139.4633609
+    type: 温泉
+-
+    id: 47
+    name: 黒羽温泉 五峰の湯
+    url: https://www.city.ohtawara.tochigi.jp/docs/2013082764959/
+    map: https://maps.google.com/?cid=9371678709554493937&hl=ja
+    address: 栃木県大田原市堀之内674
+    price: 500
+    lat: 36.8845712
+    lng: 140.1315105
+    type: 温泉
+-
+    id: 48
+    name: みかえりの郷 彩花の湯
+    url: http://www.mikaerinosato.jp/
+    map: https://maps.google.com/?cid=13162723437554335500&hl=ja
+    address: 栃木県那須塩原市関谷1425-211
+    price: 700
+    lat: 36.9594386
+    lng: 139.8797279
+    type: 温泉
+-
+    id: 49
+    name: 与一温泉
+    url: http://yoichi-onsen.jp/index.html
+    map: https://maps.google.com/?cid=17327516027009568507&hl=ja
+    address: 栃木県大田原市佐久山3123-2
+    price: 500
+    lat: 36.8064262
+    lng: 140.0049313
+    type: 温泉
+-
+    id: 50
+    name: 大田原温泉 ホテル龍城苑 太陽の湯
+    url: http://ohtawara-onsen.com/
+    map: https://maps.google.com/?cid=14657676447103213924&hl=ja
+    address: 栃木県大田原市中田原593-3
+    price: 600
+    lat: 36.8694084
+    lng: 140.0373605
+    type: 温泉
+-
+    id: 51
+    name: 那須高原 日帰り入浴 金ちゃん温泉
+    url: http://kinchan-onsen.com/
+    map: https://maps.google.com/?cid=8079300962408710406&hl=ja
+    address: 栃木県那須郡那須町高久乙3370-3047
+    price: 800
+    lat: 37.0757297
+    lng: 139.9850583
+    type: 温泉
+-
+    id: 52
+    name: 千本松牧場 千本松温泉
+    url: http://www.senbonmatsu.com/onsen/
+    map: https://maps.google.com/?cid=1080485425649835442&hl=ja
+    address: 栃木県那須塩原市千本松799
+    price: 700
+    lat: 36.9258904
+    lng: 139.9341469
+    type: 温泉
+-
+    id: 53
+    name: 板室健康のゆ グリーングリーン
+    url: http://www.alsok-shiobara.jp/greengreen/html/newstop.html
+    map: https://maps.google.com/?cid=2256700949190104091&hl=ja
+    address: 栃木県那須塩原市百村3090-6
+    price: 500
+    lat: 37.0642904
+    lng: 139.9233172
+    type: 温泉
+-
+    id: 54
+    name: 幸の湯
+    url: https://tochigi.k-o-i.jp/koten/sachinoyu/
+    map: https://maps.google.com/?cid=9965821571055758776&hl=ja
+    address: 栃木県小山市城山町2-5-21
+    price: 420
+    lat: 36.3172173
+    lng: 139.8041361
+    type: 銭湯
+-
+    id: 55
+    name: 足利鹿島園温泉
+    url: http://www.kashimaen.com/
+    map: https://maps.google.com/?cid=14315928468703046670&hl=ja
+    address: 栃木県足利市大沼田町2149
+    price: 500
+    lat: 36.3340747
+    lng: 139.4934741
+    type: 温泉
+-
+    id: 56
+    name: 日光山輪王寺  湯元 温泉寺
+    url: https://www.rinnoji.or.jp/temple/onsenji/
+    map: https://maps.google.com/?cid=616135216115776139&hl=ja
+    address: 栃木県日光市湯元
+    price: 500
+    lat: 36.8097104
+    lng: 139.416105
+    type: 温泉
+-
+    id: 57
+    name: 日光小倉山温泉 春暁庭ゆりん
+    url: http://syungyotei.com/yurin.htm
+    map: https://maps.google.com/?cid=11571943267759977669&hl=ja
+    address: 栃木県日光市所野2823
+    price: 900
+    lat: 36.7643464
+    lng: 139.6084
+    type: 温泉
+-
+    id: 58
+    name: 鬼怒川温泉 湯處すず風
+    url: http://www.suzukaze.jp/
+    map: https://maps.google.com/?cid=8073468204740046235&hl=ja
+    address: 栃木県日光市小佐越19-5
+    price: 900
+    lat: 36.7946161
+    lng: 139.7027132
+    type: 温泉
+-
+    id: 59
+    name: 南平台温泉 観音湯
+    url: https://www.nanpeidai-onsen.co.jp/kannonyu/
+    map: https://maps.google.com/?cid=13419252694095664503&hl=ja
+    address: 栃木県那須郡那珂川町小口1719
+    price: 500
+    lat: 36.7622803
+    lng: 140.1439537
+    type: 温泉
+-
+    id: 60
+    name: 福祉温泉 江曽島
+    url: 
+    map: https://maps.google.com/?cid=3598499145606078458&hl=ja
+    address: 栃木県宇都宮市江曽島町1218
+    price: 500
+    lat: 36.5308882
+    lng: 139.8745977
+    type: 温泉
+-
+    id: 61
+    name: ゆうゆうプラザ 四季彩の湯
+    url: http://www.you-you-plaza.jp/
+    map: https://maps.google.com/?cid=15876682731010051188&hl=ja
+    address: 栃木県栃木市大平町西野田666-1
+    price: 300
+    lat: 36.3363721
+    lng: 139.7184407
+    type: 温泉
+-
+    id: 62
+    name: 花の湯
+    url: https://tochigi.k-o-i.jp/koten/hananoyu/
+    map: https://maps.google.com/?cid=2085976476753079150&hl=ja
+    address: 栃木県足利市巴町2541-1
+    price: 420
+    lat: 36.3375379
+    lng: 139.4463919
+    type: 銭湯
+-
+    id: 63
+    name: ゆうゆう館 天平乃湯
+    url: http://www.shimotsuke-syakyo.or.jp/jigyoukatsudou/shitei/yuyukan.html
+    map: https://maps.google.com/?cid=3716243356476198826&hl=ja
+    address: 栃木県下野市小金井789
+    price: 300
+    lat: 36.385273
+    lng: 139.837418
+    type: 温泉
+-
+    id: 64
+    name: さくら市第２温泉浴場 市営露天風呂
+    url: http://www.city.tochigi-sakura.lg.jp/soshiki/17/syoukou-kanko4.html
+    map: https://maps.google.com/?cid=12912741615193848163&hl=ja
+    address: 栃木県さくら市喜連川4145-10
+    price: 300
+    lat: 36.7153198
+    lng: 140.0321611
+    type: 温泉
+-
+    id: 65
+    name: 川霧の湯
+    url: 
+    map: https://maps.google.com/?cid=16493060183527853030&hl=ja
+    address: 栃木県塩谷郡塩谷町船生町6978
+    price: 700
+    lat: 36.7690032
+    lng: 139.7456819
+    type: 温泉
+-
+    id: 66
+    name: ゆったりランド 市貝温泉健康保養センター
+    url: https://www.town.ichikai.tochigi.jp/forms/info/info.aspx?info_id=20926
+    map: https://maps.google.com/?cid=2173424523790946113&hl=ja
+    address: 栃木県芳賀郡市貝町市塙4649
+    price: 550
+    lat: 36.5265981
+    lng: 140.0897898
+    type: 温泉
+-
+    id: 67
+    name: 塩原温泉 華の湯
+    url: http://www.alsok-shiobara.jp/hananoyu/guide.html
+    map: https://maps.google.com/?cid=6874207445742796949&hl=ja
+    address: 栃木県那須塩原市上塩原603
+    price: 700
+    lat: 36.98228750000001
+    lng: 139.7856188
+    type: 温泉
+-
+    id: 68
+    name: 塩原ファミリー牧場 りんどうの湯
+    url: http://www.shiobara-fb.com/onsen.html
+    map: https://maps.google.com/?cid=12938566885853129331&hl=ja
+    address: 栃木県那須塩原市下田野428-39
+    price: 650
+    lat: 36.9410779
+    lng: 139.9083925
+    type: 温泉
+-
+    id: 69
+    name: みかも余熱利用施設 みかもリフレッシュセンター
+    url: https://www.konami.com/sportsclub/trust/mikamo/index.html
+    map: https://maps.google.com/?cid=12834189022011640149&hl=ja
+    address: 栃木県佐野市町谷町1126-6
+    price: 500
+    lat: 36.3195957
+    lng: 139.6253108
+    type: 温泉
+-
+    id: 70
+    name: 温泉保養センター 日光温泉
+    url: http://www.kousha.or.jp/spa_nikko.php
+    map: https://maps.google.com/?cid=6373612734504739283&hl=ja
+    address: 栃木県日光市七里425-3
+    price: 410
+    lat: 36.7425041
+    lng: 139.6337697
+    type: 温泉
+-
+    id: 71
+    name: 道の駅しもつけ ふれあい館
+    url: http://www.kanpi-fureaikan.com/bath
+    map: https://maps.google.com/?cid=779835642534306696&hl=ja
+    address: 栃木県下野市三王山698-5
+    price: 300
+    lat: 36.3974792
+    lng: 139.9029385
+    type: 温泉
+-
+    id: 72
+    name: 中三依温泉 男鹿の湯
+    url: https://www.nakamiyori.com/
+    map: https://maps.google.com/?cid=15551492888606168359&hl=ja
+    address: 栃木県日光市中三依423
+    price: 600
+    lat: 36.9862605
+    lng: 139.7005889
+    type: 温泉
+-
+    id: 73
+    name: 宇都宮 さくら温泉
+    url: http://sakura-onsen.com/
+    map: https://maps.google.com/?cid=11528091716189494409&hl=ja
+    address: 栃木県宇都宮市新里町1113-6
+    price: 600
+    lat: 36.6342869
+    lng: 139.818903
+    type: 温泉
+-
+    id: 74
+    name: 日光市黒部温泉 元湯 四季の湯
+    url: http://www.shikinoyu.com/
+    map: https://maps.google.com/?cid=5362338313594931921&hl=ja
+    address: 栃木県日光市黒部21
+    price: 600
+    lat: 36.86727279999999
+    lng: 139.6048057
+    type: 温泉
+-
+    id: 75
+    name: 源泉 ゆの香
+    url: http://www.gensen-yunoka.com/
+    map: https://maps.google.com/?cid=11026108677752207525&hl=ja
+    address: 栃木県日光市湯元温泉
+    price: 700
+    lat: 36.8073448
+    lng: 139.4227418
+    type: 温泉
+-
+    id: 76
+    name: 露天風呂 もみじの湯
+    url: http://shiobara.shokokai-tochigi.or.jp/chiiki-rotenburo.html
+    map: https://maps.google.com/?cid=3849599446289981864&hl=ja
+    address: 栃木県那須塩原市塩原747
+    price: 100
+    lat: 36.9720686
+    lng: 139.8195513
+    type: 共同浴場・銭湯
+-
+    id: 77
+    name: 新湯温泉 共同浴場 寺の湯
+    url: http://www.siobara.or.jp/viewhigaeri.htm
+    map: https://maps.google.com/?cid=7352715572471542841&hl=ja
+    address: 栃木県那須塩原市湯本塩原新湯
+    price: 300
+    lat: 36.9545207
+    lng: 139.7791855
+    type: 共同浴場・銭湯
+-
+    id: 78
+    name: 上人一休の湯
+    url: https://9r8m.jp/shoninikkyu/
+    map: https://maps.google.com/?cid=2831478505704914463&hl=ja
+    address: 栃木県日光市川俣740
+    price: 510
+    lat: 36.8732248
+    lng: 139.5081474
+    type: 温泉
+-
+    id: 79
+    name: 宝湯
+    url: https://tochigi.k-o-i.jp/koten/takarayu/
+    map: https://maps.google.com/?cid=6360505682485012143&hl=ja
+    address: 栃木県宇都宮市若草1-9-5
+    price: 420
+    lat: 36.5840148
+    lng: 139.8655062
+    type: 銭湯
+-
+    id: 80
+    name: 新湯温泉 共同浴場 むじなの湯
+    url: http://www.siobara.or.jp/viewhigaeri.htm
+    map: https://maps.google.com/?cid=9850914548180594112&hl=ja
+    address: 栃木県那須塩原市湯本塩原37
+    price: 300
+    lat: 36.9554078
+    lng: 139.7791778
+    type: 共同浴場・銭湯
+-
+    id: 81
+    name: 栃木天然温泉 いきいき夢ロマン
+    url: http://www.yumeroman.net
+    map: https://maps.google.com/?cid=12546353253632857435&hl=ja
+    address: 栃木県栃木市西方町金崎字木ノ下263-1
+    price: 800
+    lat: 36.4667955
+    lng: 139.7457503
+    type: 温泉
+-
+    id: 82
+    name: 八溝温泉
+    url: 
+    map: https://maps.google.com/?cid=11253606244068408836&hl=ja
+    address: 栃木県那須郡那珂川町久那瀬1634
+    price: 400
+    lat: 36.7262458
+    lng: 140.1549488
+    type: 温泉
+-
+    id: 83
+    name: ホテルサンバレー那須 アクアヴィーナス
+    url: https://www.nasu3800.co.jp/daytrip/
+    map: https://maps.google.com/?cid=10907391441918117373&hl=ja
+    address: 栃木県那須郡那須町湯本203
+    price: 800
+    lat: 37.0873332
+    lng: 140.0034278
+    type: 温泉
+-
+    id: 84
+    name: 湯津上温泉 やすらぎの湯
+    url: https://www.city.ohtawara.tochigi.jp/docs/2013082772121/
+    map: https://maps.google.com/?cid=6750956510059910572&hl=ja
+    address: 栃木県大田原市湯津上5-776
+    price: 400
+    lat: 36.8223018
+    lng: 140.1049212
+    type: 温泉
+-
+    id: 85
+    name: 上栗山温泉 開運の湯
+    url: http://www.nikko-kankou.org/spot/881/
+    map: https://maps.google.com/?cid=3384672888646184550&hl=ja
+    address: 栃木県日光市上栗山179-31
+    price: 500
+    lat: 36.8649496
+    lng: 139.5841895
+    type: 温泉
+-
+    id: 86
+    name: 野木町健康センター ゆーらんど
+    url: http://nogi-yuland.jp/
+    map: https://maps.google.com/?cid=853948115376793659&hl=ja
+    address: 栃木県下都賀郡野木町南赤塚1514-1
+    price: 500
+    lat: 36.21514579999999
+    lng: 139.7453643
+    type: 温泉
+-
+    id: 87
+    name: 鹿沼市 高齢者福祉センター
+    url: http://kanuma-shakyo.or.jp/smarts/index/63/
+    map: https://maps.google.com/?cid=14201688011805037354&hl=ja
+    address: 栃木県鹿沼市酒野谷1006
+    price: 400
+    lat: 36.5474378
+    lng: 139.7191501
+    type: 温泉
+-
+    id: 88
+    name: 森友之湯
+    url: 
+    map: https://maps.google.com/?cid=1850984124582012038&hl=ja
+    address: 栃木県日光市森友172-1
+    price: 520
+    lat: 36.7110433
+    lng: 139.7235674
+    type: 温泉
+-
+    id: 89
+    name: 新湯温泉 共同浴場 中の湯
+    url: http://www.siobara.or.jp/viewhigaeri.htm
+    map: https://maps.google.com/?cid=6908827944661876332&hl=ja
+    address: 栃木県那須塩原市湯本塩原新湯
+    price: 300
+    lat: 36.9545207
+    lng: 139.7791855
+    type: 共同浴場・銭湯
+-
+    id: 90
+    name: 那須塩原市 健康長寿センター
+    url: http://www.city.nasushiobara.lg.jp/16/001865.html
+    map: https://maps.google.com/?cid=6182542858722954670&hl=ja
+    address: 栃木県那須塩原市南郷屋5-163
+    price: 500
+    lat: 36.89649989999999
+    lng: 139.9895973
+    type: 温泉
+-
+    id: 91
+    name: 天然温泉・岩盤浴 嵐の湯KISEKI宇都宮
+    url: http://www.stonespa-kiseki.com/
+    map: https://maps.google.com/?cid=18237487540344265909&hl=ja
+    address: 栃木県宇都宮市簗瀬町1910-1
+    price: 2000
+    lat: 36.5457314
+    lng: 139.8874989
+    type: 温泉
+-
+    id: 92
+    name: 那須大丸ガーデン
+    url: http://www2a.biglobe.ne.jp/~nasu/suv/oomaru/index.html
+    map: https://maps.google.com/?cid=11227799183074145150&hl=ja
+    address: 栃木県那須町湯本157
+    price: 630
+    lat: 37.12034939999999
+    lng: 139.9859298
+    type: 温泉
+-
+    id: 93
+    name: ハートピア さくらの郷
+    url: http://care-net.biz/12/sakura-sato-h/
+    map: https://maps.google.com/?cid=15878980338162342116&hl=ja
+    address: 栃木県さくら市喜連川5633
+    price: 500
+    lat: 36.7245121
+    lng: 140.0334215
+    type: 温泉
+-
+    id: 94
+    name: 箱の森プレイパーク 遊湯センター
+    url: http://moribox.com/publics/index/21/
+    map: https://maps.google.com/?cid=2967389472728807075&hl=ja
+    address: 栃木県那須塩原市中塩原字箱の森
+    price: 600
+    lat: 36.9831887
+    lng: 139.8109723
+    type: 温泉
+-
+    id: 95
+    name: 宮の街道温泉 江戸遊
+    url: https://www.edoyu.com/utsunomiya/
+    map: https://maps.google.com/?cid=16951662658434332323&hl=ja
+    address: 栃木県宇都宮市インターパーク4-2-5
+    price: 850
+    lat: 36.4953008
+    lng: 139.910664
+    type: 温泉
+-
+    id: 96
+    name: 道の駅 ろまんちっく村 アグリスパ
+    url: http://www.romanticmura.com/stay/#agrispa
+    map: https://maps.google.com/maps?q=36.63299,139.82963
+    address: 栃木県宇都宮市新里町丙254
+    price: 1020
+    lat: 36.632871
+    lng: 139.829339
+    type: 温泉

@@ -1,0 +1,721 @@
+---
+-
+    id: 1
+    name: 音戸温泉
+    url: http://www.ondo-onsen.co.jp/
+    map: https://maps.google.com/?cid=10474448068643982771&hl=ja
+    address: 広島県広島市中区田中町6-3
+    price: 400
+    lat: 34.3883394
+    lng: 132.4643428
+    type: 銭湯
+-
+    id: 2
+    name: 宇品天然温泉 ほの湯
+    url: https://www.honoyu.jp/ujina/
+    map: https://maps.google.com/?cid=10627877540142203628&hl=ja
+    address: 広島県広島市南区宇品東3-4-34
+    price: 800
+    lat: 34.3653097
+    lng: 132.4743109
+    type: 温泉
+-
+    id: 3
+    name: 塩屋天然温泉 ほの湯 楽々園
+    url: https://www.honoyu.jp/rakurakuen/index.html
+    map: https://maps.google.com/?cid=1562302912582079358&hl=ja
+    address: 広島県広島市佐伯区楽々園5-7-1
+    price: 850
+    lat: 34.3613298
+    lng: 132.3539064
+    type: 温泉
+-
+    id: 4
+    name: 尾道平原温泉 ぽっぽの湯
+    url: http://poppo.info/
+    map: https://maps.google.com/?cid=4422713961058061104&hl=ja
+    address: 広島県尾道市平原2-1-33
+    price: 800
+    lat: 34.4101171
+    lng: 133.1791432
+    type: 温泉
+-
+    id: 5
+    name: 道の駅 スパ羅漢
+    url: https://www.sparakan.com
+    map: https://maps.google.com/?cid=10552895591172298681&hl=ja
+    address: 広島県廿日市市飯山21-5
+    price: 650
+    lat: 34.3891656
+    lng: 132.1043303
+    type: 温泉
+-
+    id: 6
+    name: 神辺天然温泉 ぐらんの湯
+    url: http://grannoyu.com/
+    map: https://maps.google.com/?cid=11660820688315492039&hl=ja
+    address: 広島県福山市神辺町新道上2-10-26
+    price: 720
+    lat: 34.5452349
+    lng: 133.3578618
+    type: 温泉
+-
+    id: 7
+    name: 道の駅 豊平どんぐり村 龍頭の湯
+    url: http://www.dongurimura.co.jp/original25.html
+    map: https://maps.google.com/?cid=16863238775085988859&hl=ja
+    address: 広島県山県郡北広島町都志見2609
+    price: 600
+    lat: 34.647077
+    lng: 132.4451227
+    type: 温泉
+-
+    id: 8
+    name: アジアンリゾート・スパ シーレ
+    url: http://seare.jp/
+    map: https://maps.google.com/?cid=15111344761859093612&hl=ja
+    address: 広島県安芸郡坂町平成ヶ浜3-2-11
+    price: 1350
+    lat: 34.3396412
+    lng: 132.5088106
+    type: 温泉
+-
+    id: 9
+    name: スーパー銭湯 ゆらら
+    url: https://yurara.ichifujinetwork.co.jp/
+    map: https://maps.google.com/?cid=9436305275804887646&hl=ja
+    address: 広島県福山市南本庄1-12-22
+    price: 450
+    lat: 34.4863539
+    lng: 133.3510236
+    type: 温泉
+-
+    id: 10
+    name: 赤ビル温泉
+    url: 
+    map: https://maps.google.com/?cid=5444114982255101177&hl=ja
+    address: 広島県呉市中通2-4-5
+    price: 450
+    lat: 34.2456495
+    lng: 132.5634279
+    type: 銭湯
+-
+    id: 11
+    name: 五日市天然温泉 ゆらゆら
+    url: http://www.yura2.com/
+    map: https://maps.google.com/?cid=4279208391947980841&hl=ja
+    address: 広島県広島市佐伯区利松2-17-10
+    price: 700
+    lat: 34.3974186
+    lng: 132.3692674
+    type: 温泉
+-
+    id: 12
+    name: 大和温泉物語
+    url: http://www.yamato-onsen.com/
+    map: https://maps.google.com/?cid=15257510896000400178&hl=ja
+    address: 広島県呉市宝町2-50
+    price: 1250
+    lat: 34.2442886
+    lng: 132.55711
+    type: 温泉
+-
+    id: 13
+    name: スーパー銭湯 雲母の里
+    url: https://ameblo.jp/unmonosato/
+    map: https://maps.google.com/?cid=15467901588820608706&hl=ja
+    address: 広島県東広島市黒瀬町兼広885-6
+    price: 650
+    lat: 34.3330054
+    lng: 132.648021
+    type: 温泉
+-
+    id: 14
+    name: 天然温泉 宮浜 べにまんさくの湯
+    url: http://benimansaku.jp/
+    map: https://maps.google.com/?cid=12800613861521553335&hl=ja
+    address: 広島県廿日市市宮浜温泉2-2-1
+    price: 750
+    lat: 34.2708652
+    lng: 132.2548515
+    type: 温泉
+-
+    id: 15
+    name: 瀬戸内オーシャンスパ 汐音
+    url: http://shion-spa.com/
+    map: https://maps.google.com/?cid=16597453897536173589&hl=ja
+    address: 広島県呉市警固屋8-16-12
+    price: 700
+    lat: 34.1961521
+    lng: 132.5435005
+    type: 温泉
+-
+    id: 16
+    name: 土橋湯
+    url: 
+    map: https://maps.google.com/?cid=17772891429860010952&hl=ja
+    address: 広島県広島市中区土橋町3-4
+    price: 450
+    lat: 34.3935883
+    lng: 132.4468726
+    type: 銭湯
+-
+    id: 17
+    name: 天然温泉ホットカモ
+    url: https://hotkamo.com/
+    map: https://maps.google.com/?cid=13612803091996341530&hl=ja
+    address: 広島県東広島市西条町御薗宇6179-1
+    price: 700
+    lat: 34.4138262
+    lng: 132.7531285
+    type: 温泉
+-
+    id: 18
+    name: ゆうゆ
+    url: http://yuyu-esthetic.jp/bathyuyu/
+    map: https://maps.google.com/?cid=3932956383268106145&hl=ja
+    address: 広島県福山市今津町4-8-4
+    price: 450
+    lat: 34.4487108
+    lng: 133.251584
+    type: 銭湯
+-
+    id: 19
+    name: いなり湯
+    url: http://www.inariyu.com/
+    map: https://maps.google.com/?cid=5290808126680187096&hl=ja
+    address: 広島県広島市南区宇品海岸2-5-2
+    price: 450
+    lat: 34.3561919
+    lng: 132.460891
+    type: 銭湯
+-
+    id: 20
+    name: スーパー銭湯 ゆ～ぽっぽ
+    url: https://www.yu-poppo.com/
+    map: https://maps.google.com/?cid=8526018723304179349&hl=ja
+    address: 広島県広島市安佐北区口田南1-5-13
+    price: 450
+    lat: 34.4567682
+    lng: 132.492807
+    type: 温泉
+-
+    id: 21
+    name: 桂浜温泉館
+    url: http://katsuragahama-spa.com/
+    map: https://maps.google.com/?cid=3522527758085568421&hl=ja
+    address: 広島県呉市倉橋町才ノ木431
+    price: 600
+    lat: 34.1019732
+    lng: 132.5122533
+    type: 温泉
+-
+    id: 22
+    name: たかみや湯の森
+    url: http://www.yunomori.net/
+    map: https://maps.google.com/?cid=2049400437495823200&hl=ja
+    address: 広島県安芸高田市高宮町原田1787-1
+    price: 700
+    lat: 34.7511123
+    lng: 132.6932999
+    type: 温泉
+-
+    id: 23
+    name: 半べえ温泉
+    url: http://www.hanbe.jp/
+    map: https://maps.google.com/?cid=9247218974922629817&hl=ja
+    address: 広島県広島市南区東本浦町8-12
+    price: 800
+    lat: 34.3760065
+    lng: 132.4901197
+    type: 温泉
+-
+    id: 24
+    name: ふかわの湯
+    url: http://www.fukawanoyu.com
+    map: https://maps.google.com/?cid=13191503752971492100&hl=ja
+    address: 広島県広島市安佐北区小河原町199
+    price: 700
+    lat: 34.4603711
+    lng: 132.562456
+    type: 温泉
+-
+    id: 25
+    name: 満天の湯(可部店)
+    url: https://www.manten-no-yu.com/
+    map: https://maps.google.com/?cid=14738949800370959136&hl=ja
+    address: 広島県広島市安佐北区可部7-4-13
+    price: 950
+    lat: 34.523266
+    lng: 132.5118943
+    type: 温泉
+-
+    id: 26
+    name: お湯処 美福
+    url: http://www.mifuku-yu.co.jp/index.html
+    map: https://maps.google.com/?cid=4677248757182734004&hl=ja
+    address: 広島県福山市曙町5-2-27
+    price: 570
+    lat: 34.4697715
+    lng: 133.3909245
+    type: 温泉
+-
+    id: 27
+    name: 栗原温泉
+    url: 
+    map: https://maps.google.com/?cid=17205439801036927621&hl=ja
+    address: 広島県尾道市三軒家町4-19
+    price: 450
+    lat: 34.4054118
+    lng: 133.1912933
+    type: 銭湯
+-
+    id: 28
+    name: 呉温泉
+    url: 
+    map: https://maps.google.com/?cid=14825400419902464216&hl=ja
+    address: 広島県呉市中央6-3-20
+    price: 450
+    lat: 34.250521
+    lng: 132.5670218
+    type: 銭湯
+-
+    id: 29
+    name: まごころの湯
+    url: https://magocoro.top/
+    map: https://maps.google.com/?cid=11839830771925942292&hl=ja
+    address: 広島県福山市千田町2-50-3
+    price: 700
+    lat: 34.519954
+    lng: 133.3850253
+    type: 温泉
+-
+    id: 30
+    name: 安芸の湯
+    url: 
+    map: https://maps.google.com/?cid=9952153324228942687&hl=ja
+    address: 広島県安芸郡府中町みくまり3-15-28-5
+    price: 750
+    lat: 34.4038815
+    lng: 132.5148669
+    type: 温泉
+-
+    id: 31
+    name: スーパー健康ランド 華のゆ
+    url: https://www.route-inn.co.jp/hananoyu-fukuyama/
+    map: https://maps.google.com/?cid=6285315236057371680&hl=ja
+    address: 広島県福山市沖野上町5-27-11
+    price: 950
+    lat: 34.4687413
+    lng: 133.3684928
+    type: 温泉
+-
+    id: 32
+    name: 昭和温泉郷 湯楽里
+    url: http://www.yurari.com/
+    map: https://maps.google.com/?cid=9943823756228660542&hl=ja
+    address: 広島県呉市広古新開3-2-28
+    price: 650
+    lat: 34.236405
+    lng: 132.6134002
+    type: 温泉
+-
+    id: 33
+    name: 天然温泉 そてつ湯
+    url: 
+    map: https://maps.google.com/?cid=9441329179943486868&hl=ja
+    address: 広島県呉市和庄登町14-9
+    price: 450
+    lat: 34.2425344
+    lng: 132.570588
+    type: 銭湯
+-
+    id: 34
+    name: 天然温泉コロナの湯(福山店)
+    url: http://www.korona.co.jp/Onsen/fuy/index.asp
+    map: https://maps.google.com/?cid=7770801289581001646&hl=ja
+    address: 広島県福山市一文字町24-1
+    price: 750
+    lat: 34.4682417
+    lng: 133.4102774
+    type: 温泉
+-
+    id: 35
+    name: 満天の湯 温泉家
+    url: https://www.manten-no-yu.net/
+    map: https://maps.google.com/?cid=8416251429112730545&hl=ja
+    address: 広島県広島市安佐南区伴東1-1-13
+    price: 950
+    lat: 34.470681
+    lng: 132.4255995
+    type: 温泉
+-
+    id: 36
+    name: 天然温泉 うら湯
+    url: http://www.urasimakinsai.com/?page_id=169
+    map: https://maps.google.com/?cid=8988555626485681870&hl=ja
+    address: 広島県尾道市美ノ郷町三成2500
+    price: 500
+    lat: 34.4486701
+    lng: 133.1986073
+    type: 温泉
+-
+    id: 37
+    name: 新原田温泉 ゆうじんの湯
+    url: https://www.ononavi.jp/staying/spa/detail.html?detail_id=480
+    map: https://maps.google.com/?cid=10344973367432998440&hl=ja
+    address: 広島県尾道市原田町梶山田4476-1
+    price: 700
+    lat: 34.4953405
+    lng: 133.2076003
+    type: 温泉
+-
+    id: 38
+    name: 泉湯
+    url: 
+    map: https://maps.google.com/?cid=8860793649339414923&hl=ja
+    address: 広島県広島市西区楠木町2-3-16
+    price: 450
+    lat: 34.4113523
+    lng: 132.4566328
+    type: 銭湯
+-
+    id: 39
+    name: クアハウス湯の山
+    url: http://www.sports-or.city.hiroshima.jp/facilities/kurhaus-yunoyama
+    map: https://maps.google.com/?cid=5073656726242769679&hl=ja
+    address: 広島県広島市佐伯区湯来町和田443
+    price: 1560
+    lat: 34.4968663
+    lng: 132.2843182
+    type: 温泉
+-
+    id: 40
+    name: 東城温泉 リフレッシュハウス東城
+    url: http://www.tojyo-onsen.sakura.ne.jp/
+    map: https://maps.google.com/?cid=4601165463788535463&hl=ja
+    address: 広島県庄原市東城町粟田2538-1
+    price: 550
+    lat: 34.9208971
+    lng: 133.2638922
+    type: 温泉
+-
+    id: 41
+    name: 香遊温泉 せら香遊ランド
+    url: https://koyuland.jp/spa/
+    map: https://maps.google.com/?cid=11386089532233122266&hl=ja
+    address: 広島県世羅郡世羅町京丸809-3
+    price: 530
+    lat: 34.61821219999999
+    lng: 133.0048908
+    type: 温泉
+-
+    id: 42
+    name: ちどり湯
+    url: http://tidoriyu.com
+    map: https://maps.google.com/?cid=8521355513830510841&hl=ja
+    address: 広島県広島市西区南観音3-6-6
+    price: 450
+    lat: 34.38587
+    lng: 132.4304208
+    type: 銭湯
+-
+    id: 43
+    name: たかの温泉 神之瀬の湯
+    url: http://shakyoshobara-city.or.jp/takano-onsen/to-top.html
+    map: https://maps.google.com/?cid=18020305966667972372&hl=ja
+    address: 広島県庄原市高野町新市1144-3
+    price: 350
+    lat: 35.0315314
+    lng: 132.9061384
+    type: 温泉
+-
+    id: 44
+    name: 大衆演劇 せら温泉
+    url: https://www.seraonsen.com/
+    map: https://maps.google.com/?cid=15959980564727514776&hl=ja
+    address: 広島県世羅郡世羅町甲山134
+    price: 800
+    lat: 34.5840221
+    lng: 133.0601238
+    type: 温泉
+-
+    id: 45
+    name: ひばごん郷温泉 すずらんの湯
+    url: http://dogoyama.jp/hot_spring.html
+    map: https://maps.google.com/?cid=14561773345686251254&hl=ja
+    address: 広島県庄原市西城町三坂152-10
+    price: 600
+    lat: 35.049906
+    lng: 133.1872376
+    type: 温泉
+-
+    id: 46
+    name: 明神湯
+    url: 
+    map: https://maps.google.com/?cid=15436582899617800338&hl=ja
+    address: 広島県呉市東中央1-4-20
+    price: 450
+    lat: 34.250556
+    lng: 132.5694523
+    type: 銭湯
+-
+    id: 47
+    name: 湯の山温泉館
+    url: https://www.yuki-lodge.jp/yunoyamaonsenkan.html
+    map: https://maps.google.com/?cid=2414044635119255251&hl=ja
+    address: 広島県広島市佐伯区湯来町和田471
+    price: 600
+    lat: 34.4971363
+    lng: 132.2829532
+    type: 温泉
+-
+    id: 48
+    name: 元湯 小瀬川温泉
+    url: http://www.view-up.jp/sahoku/member/ozegawa/
+    map: https://maps.google.com/?cid=11627904147360428840&hl=ja
+    address: 広島県廿日市市栗栖115
+    price: 450
+    lat: 34.384038
+    lng: 132.1347261
+    type: 温泉
+-
+    id: 49
+    name: 大宮湯
+    url: 
+    map: https://maps.google.com/?cid=3594620528177725066&hl=ja
+    address: 広島県尾道市東久保町6-11
+    price: 450
+    lat: 34.4135961
+    lng: 133.2067132
+    type: 銭湯
+-
+    id: 50
+    name: 県民の浜温泉 やすらぎの館
+    url: http://kennhama.net/spa.html
+    map: https://maps.google.com/?cid=13802219735051426003&hl=ja
+    address: 広島県呉市蒲刈町大浦7605
+    price: 500
+    lat: 34.1645723
+    lng: 132.7465645
+    type: 温泉
+-
+    id: 51
+    name: 焚きあげ洞窟蒸し風呂 江戸風呂
+    url: http://www.sensuijima.jp/senweb/e/index.html
+    map: https://maps.google.com/?cid=12203253830053927995&hl=ja
+    address: 広島県福山市鞆町後地3373-2
+    price: 1700
+    lat: 34.3837875
+    lng: 133.3912742
+    type: 温泉
+-
+    id: 52
+    name: 日の出湯
+    url: 
+    map: https://maps.google.com/?cid=71378541848294186&hl=ja
+    address: 広島県広島市安芸区矢野西5-19-28
+    price: 450
+    lat: 34.3510263
+    lng: 132.5358726
+    type: 銭湯
+-
+    id: 53
+    name: 鶴乃湯
+    url: 
+    map: https://maps.google.com/?cid=15135560358744743489&hl=ja
+    address: 広島県呉市阿賀北8-3-17
+    price: 450
+    lat: 34.2435277
+    lng: 132.5968789
+    type: 銭湯
+-
+    id: 54
+    name: 瀬戸の湯
+    url: 
+    map: https://maps.google.com/?cid=12591822278742533255&hl=ja
+    address: 広島県広島市中区舟入川口町13-24
+    price: 450
+    lat: 34.3806798
+    lng: 132.4400529
+    type: 銭湯
+-
+    id: 55
+    name: 平和湯
+    url: 
+    map: https://maps.google.com/?cid=8116828033829669912&hl=ja
+    address: 広島県広島市中区基町18-5-226
+    price: 450
+    lat: 34.4049359
+    lng: 132.4555191
+    type: 銭湯
+-
+    id: 56
+    name: 薬研谷温泉 大崎ふれあいの館
+    url: https://www.hiroshima-kankou.com/spot/4295
+    map: https://maps.google.com/?cid=4931090517455129319&hl=ja
+    address: 広島県豊田郡大崎上島町大串1-4
+    price: 310
+    lat: 34.2285275
+    lng: 132.8657293
+    type: 温泉
+-
+    id: 57
+    name: 俄山弘法大師温泉
+    url: 
+    map: https://maps.google.com/?cid=13688973988360790408&hl=ja
+    address: 広島県福山市津之郷町津之郷355
+    price: 300
+    lat: 34.5016436
+    lng: 133.3115446
+    type: 温泉
+-
+    id: 58
+    name: 都湯
+    url: 
+    map: https://maps.google.com/?cid=6261154674177179035&hl=ja
+    address: 広島県広島市中区舟入幸町24-15
+    price: 450
+    lat: 34.3824647
+    lng: 132.4431067
+    type: 銭湯
+-
+    id: 59
+    name: 丁字湯
+    url: 
+    map: https://maps.google.com/?cid=14622484543072174976&hl=ja
+    address: 広島県広島市西区福島町1-17-18
+    price: 450
+    lat: 34.3960004
+    lng: 132.4333525
+    type: 銭湯
+-
+    id: 60
+    name: 漢方の湯 ゆーとぴあ
+    url: 
+    map: https://maps.google.com/?cid=13457588330312750279&hl=ja
+    address: 広島県呉市本通2-8-29
+    price: 450
+    lat: 34.2435662
+    lng: 132.5669108
+    type: 銭湯
+-
+    id: 61
+    name: 筒賀高齢者生活福祉センター ひまわり
+    url: 
+    map: https://maps.google.com/?cid=10775290296280575865&hl=ja
+    address: 広島県山県郡安芸太田町中筒賀1634
+    price: 300
+    lat: 34.5636566
+    lng: 132.2496795
+    type: 温泉
+-
+    id: 62
+    name: 大学湯
+    url: 
+    map: https://maps.google.com/?cid=13919754535540674715&hl=ja
+    address: 広島県広島市南区翠2-14-2
+    price: 450
+    lat: 34.3725256
+    lng: 132.4688053
+    type: 銭湯
+-
+    id: 63
+    name: 神石高原温泉
+    url: http://jkougen.jp/onsensui/
+    map: https://maps.google.com/?cid=16472631741923242219&hl=ja
+    address: 広島県神石郡神石高原町井関1282
+    price: 850
+    lat: 34.7000291
+    lng: 133.2921091
+    type: 温泉
+-
+    id: 64
+    name: 大栄湯
+    url: https://www.ononavi.jp/staying/spa/detail.html?detail_id=720
+    map: https://maps.google.com/?cid=7117389903976310211&hl=ja
+    address: 広島県尾道市栗原西1-4-3
+    price: 450
+    lat: 34.4072178
+    lng: 133.1882865
+    type: 銭湯
+-
+    id: 65
+    name: 観音湯
+    url: 
+    map: https://maps.google.com/?cid=10472696059929341368&hl=ja
+    address: 広島県広島市西区東観音町21-9
+    price: 450
+    lat: 34.3899299
+    lng: 132.4397841
+    type: 銭湯
+-
+    id: 66
+    name: 三本松湯
+    url: 
+    map: https://maps.google.com/?cid=16564506754547000473&hl=ja
+    address: 広島県広島市東区尾長西1-5-7
+    price: 450
+    lat: 34.397987
+    lng: 132.486919
+    type: 銭湯
+-
+    id: 67
+    name: 吉島湯
+    url: 
+    map: https://maps.google.com/?cid=7804619981016285628&hl=ja
+    address: 広島県広島市中区吉島西1-8-6
+    price: 450
+    lat: 34.3761172
+    lng: 132.4482375
+    type: 銭湯
+-
+    id: 68
+    name: だいご湯
+    url: 
+    map: https://maps.google.com/?cid=3684194829200438765&hl=ja
+    address: 広島県福山市古野上町3-4
+    price: 450
+    lat: 34.4826217
+    lng: 133.358221
+    type: 銭湯
+-
+    id: 69
+    name: 寿温泉
+    url: 
+    map: https://maps.google.com/?cid=791978433458523143&hl=ja
+    address: 広島県府中市府中町1-13
+    price: 450
+    lat: 34.5737087
+    lng: 133.2361103
+    type: 銭湯
+-
+    id: 70
+    name: オリーブ湯
+    url: 
+    map: https://maps.google.com/?cid=1609077164004477670&hl=ja
+    address: 広島県呉市和庄町1-12-38
+    price: 450
+    lat: 34.2448308
+    lng: 132.5728264
+    type: 銭湯
+-
+    id: 71
+    name: 寿湯
+    url: 
+    map: https://maps.google.com/?cid=6148564069988210497&hl=ja
+    address: 広島県尾道市因島土生町1942-1
+    price: 450
+    lat: 34.28502
+    lng: 133.1794105
+    type: 銭湯
+-
+    id: 72
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=8312309748900735271&hl=ja
+    address: 広島県府中市府中町736-1
+    price: 450
+    lat: 34.5739209
+    lng: 133.2302991
+    type: 銭湯

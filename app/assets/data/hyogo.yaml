@@ -1,0 +1,1991 @@
+---
+-
+    id: 1
+    name: 灘温泉(水道筋店)
+    url: http://www.nadaonsen.jp/suidou_index.html
+    map: https://maps.google.com/?cid=7857650159823494641&hl=ja
+    address: 兵庫県神戸市灘区水道筋1-26
+    price: 450
+    lat: 34.7142682
+    lng: 135.2270087
+    type: 銭湯
+-
+    id: 2
+    name: 有馬温泉 金の湯
+    url: http://arimaspa-kingin.jp/cont01/cont01-flm.htm
+    map: https://maps.google.com/?cid=9312185879434948815&hl=ja
+    address: 兵庫県神戸市北区有馬町833
+    price: 650
+    lat: 34.7967904
+    lng: 135.2479743
+    type: 温泉
+-
+    id: 3
+    name: 湯あそびひろば 六甲おとめ塚温泉
+    url: http://www.otomeduka.com/index.html
+    map: https://maps.google.com/?cid=7564512728053810144&hl=ja
+    address: 兵庫県神戸市灘区徳井町3-4-14
+    price: 450
+    lat: 34.7158205
+    lng: 135.246299
+    type: 銭湯
+-
+    id: 4
+    name: 元湯 天然温泉 築地戎湯
+    url: http://hyougo1010.blog.jp/archives/16244263.html
+    map: https://maps.google.com/?cid=16005779384786148022&hl=ja
+    address: 兵庫県尼崎市築地2-2-20
+    price: 450
+    lat: 34.7118333
+    lng: 135.419
+    type: 銭湯
+-
+    id: 5
+    name: 湯あそびひろば 二宮温泉
+    url: https://www.facebook.com/ninomiyaonsen/
+    map: https://maps.google.com/?cid=14431751438940997702&hl=ja
+    address: 兵庫県神戸市中央区二宮町4-2-18
+    price: 450
+    lat: 34.6982529
+    lng: 135.195826
+    type: 銭湯
+-
+    id: 6
+    name: 灘温泉(六甲道店)
+    url: http://www.nadaonsen.jp/rokko_index.html
+    map: https://maps.google.com/?cid=7661911700158313982&hl=ja
+    address: 兵庫県神戸市灘区備後町3-1-19
+    price: 450
+    lat: 34.7137775
+    lng: 135.2406134
+    type: 銭湯
+-
+    id: 7
+    name: 宝乃湯
+    url: http://www.meitou-takaranoyu.com/
+    map: https://maps.google.com/?cid=6703547975313819939&hl=ja
+    address: 兵庫県宝塚市中筋3-3-1
+    price: 850
+    lat: 34.8181079
+    lng: 135.3780198
+    type: 温泉
+-
+    id: 8
+    name: 御所の湯
+    url: http://www.kinsui.net/kinosaki/sotoyu/gosyonoyu.html
+    map: https://maps.google.com/?cid=4364784114361857996&hl=ja
+    address: 兵庫県豊岡市城崎町湯島448
+    price: 800
+    lat: 35.6258975
+    lng: 134.8073991
+    type: 共同浴場・銭湯
+-
+    id: 9
+    name: つかしん天然温泉 湯の華廊
+    url: https://www.yunokarou.com
+    map: https://maps.google.com/?cid=14101838584432705847&hl=ja
+    address: 兵庫県尼崎市塚口本町4-8-12
+    price: 900
+    lat: 34.762437
+    lng: 135.4173118
+    type: 温泉
+-
+    id: 10
+    name: 蓬川温泉 みずきの湯
+    url: http://www.mizukinoyu.com/
+    map: https://maps.google.com/?cid=11453506969627220553&hl=ja
+    address: 兵庫県尼崎市蓬川町295-3
+    price: 750
+    lat: 34.7199101
+    lng: 135.3972758
+    type: 温泉
+-
+    id: 11
+    name: 美湯 松帆の郷
+    url: http://matsuho.com/
+    map: https://maps.google.com/?cid=9996960568943234907&hl=ja
+    address: 兵庫県淡路市岩屋3570-77
+    price: 700
+    lat: 34.601568
+    lng: 135.0011293
+    type: 温泉
+-
+    id: 12
+    name: 明石大蔵海岸 龍の湯
+    url: http://www.tatsunoyu1268.com/
+    map: https://maps.google.com/?cid=5410407156386596044&hl=ja
+    address: 兵庫県明石市大蔵海岸通1-2-2
+    price: 650
+    lat: 34.6427778
+    lng: 135.0127778
+    type: 温泉
+-
+    id: 13
+    name: こんだ薬師温泉 ぬくもりの郷
+    url: http://yume-konda.com/
+    map: https://maps.google.com/?cid=16915312685296652048&hl=ja
+    address: 兵庫県篠山市今田町今田新田21-10
+    price: 700
+    lat: 34.9991695
+    lng: 135.1050564
+    type: 温泉
+-
+    id: 14
+    name: 潮芦屋温泉 スパ水春
+    url: https://suisyun.jp/ashiya/
+    map: https://maps.google.com/?cid=6027961507979791292&hl=ja
+    address: 兵庫県芦屋市海洋町10-2
+    price: 1400
+    lat: 34.7116861
+    lng: 135.3187605
+    type: 温泉
+-
+    id: 15
+    name: クア武庫川
+    url: http://hyougo1010.blog.jp/archives/16244306.html
+    map: https://maps.google.com/?cid=722361642978649101&hl=ja
+    address: 兵庫県西宮市笠屋町3-10
+    price: 450
+    lat: 34.7149082
+    lng: 135.3768061
+    type: 銭湯
+-
+    id: 16
+    name: 吉川温泉よかたん
+    url: https://www.76-2401.com
+    map: https://maps.google.com/?cid=5027098119584900933&hl=ja
+    address: 兵庫県三木市吉川町吉安222
+    price: 600
+    lat: 34.8851789
+    lng: 135.1221221
+    type: 温泉
+-
+    id: 17
+    name: 有馬街道温泉 すずらんの湯
+    url: http://www.suzurann.jp/
+    map: https://maps.google.com/?cid=1416846513046307431&hl=ja
+    address: 兵庫県神戸市北区山田町小部妙賀11-1
+    price: 800
+    lat: 34.7342707
+    lng: 135.1601178
+    type: 温泉
+-
+    id: 18
+    name: 憩いの湯
+    url: http://hyougo1010.blog.jp/archives/16244338.html
+    map: https://maps.google.com/?cid=1111804010573070913&hl=ja
+    address: 兵庫県姫路市坂田町48
+    price: 380
+    lat: 34.8325244
+    lng: 134.6983736
+    type: 銭湯
+-
+    id: 19
+    name: 天然湧湯 吟湯 湯治聚落
+    url: http://www.tojishuraku.com/
+    map: https://maps.google.com/?cid=781197035066161191&hl=ja
+    address: 兵庫県神戸市北区上津台5-5-1
+    price: 850
+    lat: 34.8673144
+    lng: 135.1882297
+    type: 温泉
+-
+    id: 20
+    name: 湯あそびひろば 森温泉
+    url: http://morionsen.life.coocan.jp/
+    map: https://maps.google.com/?cid=7829305203702404431&hl=ja
+    address: 兵庫県神戸市東灘区森南町1-15-4
+    price: 450
+    lat: 34.7301497
+    lng: 135.2930969
+    type: 銭湯
+-
+    id: 21
+    name: 白雲谷温泉 ゆぴか
+    url: http://www.yupika.com/
+    map: https://maps.google.com/?cid=251341726768060256&hl=ja
+    address: 兵庫県小野市黍田町1000--1
+    price: 700
+    lat: 34.8203662
+    lng: 134.9251037
+    type: 温泉
+-
+    id: 22
+    name: 浜田温泉 甲子園旭泉の湯
+    url: http://hamada.m78.com/onsen/
+    map: https://maps.google.com/?cid=140127572115640491&hl=ja
+    address: 兵庫県西宮市甲子園浜田町1-27
+    price: 450
+    lat: 34.7300723
+    lng: 135.3599984
+    type: 銭湯
+-
+    id: 23
+    name: 天然温泉 あぐろの湯
+    url: http://www.aguro-no-yu.com/
+    map: https://maps.google.com/?cid=16310121957727532055&hl=ja
+    address: 兵庫県神戸市長田区南駒栄町1-6
+    price: 900
+    lat: 34.6522238
+    lng: 135.1518425
+    type: 温泉
+-
+    id: 24
+    name: 蓬莱湯
+    url: https://houraiyu.jp/
+    map: https://maps.google.com/?cid=7107916786397119108&hl=ja
+    address: 兵庫県尼崎市道意町2-21-2
+    price: 450
+    lat: 34.717693
+    lng: 135.398522
+    type: 銭湯
+-
+    id: 25
+    name: えびすの湯 一休
+    url: http://imazu19.jp/
+    map: https://maps.google.com/?cid=204541197060229382&hl=ja
+    address: 兵庫県西宮市今津出在家町7-40
+    price: 750
+    lat: 34.7271116
+    lng: 135.3493695
+    type: 温泉
+-
+    id: 26
+    name: 城崎温泉 鴻の湯
+    url: http://www.kinsui.net/kinosaki/sotoyu/kounoyu.html
+    map: https://maps.google.com/?cid=991895507313293772&hl=ja
+    address: 兵庫県豊岡市城崎町湯島610
+    price: 600
+    lat: 35.6262931
+    lng: 134.8045053
+    type: 共同浴場・銭湯
+-
+    id: 27
+    name: 極楽湯(尼崎店)
+    url: http://www.gokurakuyu.com/amagasaki.html
+    map: https://maps.google.com/?cid=1800614064551630330&hl=ja
+    address: 兵庫県尼崎市浜1-6-18
+    price: 450
+    lat: 34.7306286
+    lng: 135.4402837
+    type: 温泉
+-
+    id: 28
+    name: 城崎温泉 一の湯
+    url: http://www.kinosaki-spa.gr.jp/information/yumeguri/4.html
+    map: https://maps.google.com/?cid=5643583760512455049&hl=ja
+    address: 兵庫県豊岡市城崎町湯島415-1
+    price: 700
+    lat: 35.626146
+    lng: 134.8095195
+    type: 共同浴場・銭湯
+-
+    id: 29
+    name: 三興湯
+    url: http://www014.upp.so-net.ne.jp/sankouyu/
+    map: https://maps.google.com/?cid=7785596101560814599&hl=ja
+    address: 兵庫県尼崎市武庫の里2-30-18
+    price: 380
+    lat: 34.7665624
+    lng: 135.3831506
+    type: 銭湯
+-
+    id: 30
+    name: 天然療養温泉 恵美寿湯
+    url: http://hyougo1010.blog.jp/archives/16244317.html
+    map: https://maps.google.com/?cid=7981846346619507640&hl=ja
+    address: 兵庫県明石市貴崎4-6-12
+    price: 450
+    lat: 34.6548233
+    lng: 134.9664361
+    type: 銭湯
+-
+    id: 31
+    name: 有馬温泉 銀の湯
+    url: http://arimaspa-kingin.jp/cont02/cont02-flm.htm
+    map: https://maps.google.com/?cid=14178465082347345395&hl=ja
+    address: 兵庫県神戸市北区有馬町1039-1
+    price: 550
+    lat: 34.7955137
+    lng: 135.2489193
+    type: 温泉
+-
+    id: 32
+    name: 湯あそびひろば 芦原温泉
+    url: http://hyougo1010.blog.jp/archives/16244229.html
+    map: https://maps.google.com/?cid=9051452755690641266&hl=ja
+    address: 兵庫県神戸市兵庫区湊川町2-10-11
+    price: 450
+    lat: 34.6849606
+    lng: 135.1624718
+    type: 銭湯
+-
+    id: 33
+    name: 森の湯
+    url: http://www.morinoyu.com/
+    map: https://maps.google.com/?cid=15125026826768267969&hl=ja
+    address: 兵庫県姫路市南駅前町25
+    price: 450
+    lat: 34.8242649
+    lng: 134.6940664
+    type: 銭湯
+-
+    id: 34
+    name: 神戸ハーバーランド温泉 万葉倶楽部
+    url: https://www.manyo.co.jp/kobe/
+    map: https://maps.google.com/?cid=819685779712365792&hl=ja
+    address: 兵庫県神戸市中央区東川崎町1-8-1
+    price: 2300
+    lat: 34.679763
+    lng: 135.1809641
+    type: 温泉
+-
+    id: 35
+    name: 白川温泉 チムジルバンスパ神戸
+    url: https://chimuspa.com/
+    map: https://maps.google.com/?cid=2567687811478415874&hl=ja
+    address: 兵庫県神戸市須磨区車字奥中ノ尾772-6
+    price: 900
+    lat: 34.6893773
+    lng: 135.1094088
+    type: 温泉
+-
+    id: 36
+    name: 垂水温泉 太平のゆ
+    url: http://www.sentou.co.jp/
+    map: https://maps.google.com/?cid=17657199879794919409&hl=ja
+    address: 兵庫県神戸市垂水区海岸通2166-2
+    price: 750
+    lat: 34.6282821
+    lng: 135.0455475
+    type: 温泉
+-
+    id: 37
+    name: ジェームス山天然温泉 月の湯舟
+    url: http://www.tsuki-no-yufune.com/
+    map: https://maps.google.com/?cid=17942660997143374286&hl=ja
+    address: 兵庫県神戸市垂水区青山台7-4-46
+    price: 750
+    lat: 34.6459488
+    lng: 135.0712799
+    type: 温泉
+-
+    id: 38
+    name: 天然温泉 湯庵
+    url: http://www.yu-an.com/
+    map: https://maps.google.com/?cid=1880441315336488362&hl=ja
+    address: 兵庫県三木市別所町西這田566-2
+    price: 785
+    lat: 34.7906341
+    lng: 134.9534655
+    type: 温泉
+-
+    id: 39
+    name: 和らかの湯
+    url: https://yawarakanoyu.jp/
+    map: https://maps.google.com/?cid=143491681560659640&hl=ja
+    address: 兵庫県尼崎市東七松町2-4-32
+    price: 600
+    lat: 34.7338254
+    lng: 135.4111607
+    type: 温泉
+-
+    id: 40
+    name: 純天然温泉 HATなぎさの湯
+    url: https://nagisa-u.com/
+    map: https://maps.google.com/?cid=10142939822776567370&hl=ja
+    address: 兵庫県神戸市中央区脇浜海岸通1-3-3
+    price: 820
+    lat: 34.6957626
+    lng: 135.2133042
+    type: 温泉
+-
+    id: 41
+    name: 今津温泉
+    url: http://hyougo1010.blog.jp/archives/16244309.html
+    map: https://maps.google.com/?cid=6166937400604551170&hl=ja
+    address: 兵庫県西宮市今津社前町2-8
+    price: 450
+    lat: 34.725906
+    lng: 135.3545421
+    type: 銭湯
+-
+    id: 42
+    name: 司湯
+    url: http://hyougo1010.blog.jp/archives/16244220.html
+    map: https://maps.google.com/?cid=12155607184302481110&hl=ja
+    address: 兵庫県神戸市中央区下山手通8-1-24
+    price: 450
+    lat: 34.6863465
+    lng: 135.1801378
+    type: 銭湯
+-
+    id: 43
+    name: かさがた温泉 せせらぎの湯 ふところ館
+    url: https://seseraginoyu.com/
+    map: https://maps.google.com/?cid=6828902499870080279&hl=ja
+    address: 兵庫県神崎郡市川町上牛尾2073-12
+    price: 700
+    lat: 35.0217893
+    lng: 134.8215735
+    type: 温泉
+-
+    id: 44
+    name: 城崎温泉 地蔵湯
+    url: http://www.kinsui.net/kinosaki/sotoyu/jizouyu.html
+    map: https://maps.google.com/?cid=7161726288702293689&hl=ja
+    address: 兵庫県豊岡市城崎町湯島796
+    price: 600
+    lat: 35.626803
+    lng: 134.8126983
+    type: 共同浴場・銭湯
+-
+    id: 45
+    name: 神田温泉
+    url: http://hyougo1010.blog.jp/archives/16244262.html
+    map: https://maps.google.com/?cid=6019840080377909266&hl=ja
+    address: 兵庫県尼崎市神田北通8-219
+    price: 450
+    lat: 34.72273200000001
+    lng: 135.405607
+    type: 銭湯
+-
+    id: 46
+    name: あかねの湯(姫路南店)
+    url: http://bemss.jp/akane/cont101.php
+    map: https://maps.google.com/?cid=4677266989252141790&hl=ja
+    address: 兵庫県姫路市飾磨区中島2721
+    price: 670
+    lat: 34.790719
+    lng: 134.6868075
+    type: 温泉
+-
+    id: 47
+    name: あかねの湯(加古川店)
+    url: http://bemss.jp/akane/cont102.php?kmws=at3cobl3to2acg4sdrofuakna6
+    map: https://maps.google.com/?cid=5660522418243590945&hl=ja
+    address: 兵庫県加古川市尾上町池田635-48
+    price: 670
+    lat: 34.7391824
+    lng: 134.8215025
+    type: 温泉
+-
+    id: 48
+    name: 延羽の湯 野天閑雅山荘
+    url: https://nesta.co.jp/spa
+    map: https://maps.google.com/?cid=10803941804288805438&hl=ja
+    address: 兵庫県三木市細川町垂穂
+    price: 1500
+    lat: 34.8168577
+    lng: 135.0513189
+    type: 温泉
+-
+    id: 49
+    name: 湯村温泉 薬師湯
+    url: https://www.town.shinonsen.hyogo.jp/page/index.php?mode=detail&page_id=e7278b4842a879e1204aa3664eb80b0e
+    map: https://maps.google.com/?cid=12711999117730397681&hl=ja
+    address: 兵庫県美方郡新温泉町湯1265
+    price: 500
+    lat: 35.5552165
+    lng: 134.4884814
+    type: 温泉
+-
+    id: 50
+    name: 平和温泉
+    url: 
+    map: https://maps.google.com/?cid=3410055416055854854&hl=ja
+    address: 兵庫県神戸市長田区四番町1-11-6
+    price: 450
+    lat: 34.6724018
+    lng: 135.15801
+    type: 銭湯
+-
+    id: 51
+    name: 大箇温泉 宮泉の湯
+    url: http://cvnweb.bai.ne.jp/~okamoto/
+    map: https://maps.google.com/?cid=10876482321010550950&hl=ja
+    address: 兵庫県西宮市津門大箇町7-17
+    price: 450
+    lat: 34.734409
+    lng: 135.3577059
+    type: 銭湯
+-
+    id: 52
+    name: 湯あそびひろば 七松温泉
+    url: http://www.nanamatsu-onsen.com/
+    map: https://maps.google.com/?cid=9483764983460759658&hl=ja
+    address: 兵庫県尼崎市七松町1-20-6
+    price: 410
+    lat: 34.7341729
+    lng: 135.3988417
+    type: 銭湯
+-
+    id: 53
+    name: 駅舎温泉 さとの湯
+    url: http://www.kinsui.net/kinosaki/sotoyu/satonoyu.html
+    map: https://maps.google.com/?cid=11984511834568620668&hl=ja
+    address: 兵庫県豊岡市城崎町今津290-36
+    price: 800
+    lat: 35.6180452
+    lng: 134.7978566
+    type: 共同浴場・銭湯
+-
+    id: 54
+    name: 鹿之子温泉 からとの湯
+    url: http://kansai.pokanavi.jp/content.php?eid=00077
+    map: https://maps.google.com/?cid=12703153810123352478&hl=ja
+    address: 兵庫県神戸市北区有野町唐櫃1296-1
+    price: 700
+    lat: 34.7893809
+    lng: 135.2105998
+    type: 温泉
+-
+    id: 55
+    name: 兵庫の秘湯 黒川温泉 美人の湯
+    url: http://hyogo-kurokawaonsen.com/
+    map: https://maps.google.com/?cid=11336497765564222843&hl=ja
+    address: 兵庫県朝来市生野町黒川457-1
+    price: 650
+    lat: 35.23307190000001
+    lng: 134.8798554
+    type: 温泉
+-
+    id: 56
+    name: 七釜温泉 ゆーらく館
+    url: http://7kama.jp/
+    map: https://maps.google.com/?cid=3974938670509944370&hl=ja
+    address: 兵庫県美方郡新温泉町七釜524
+    price: 500
+    lat: 35.6079335
+    lng: 134.4757174
+    type: 温泉
+-
+    id: 57
+    name: 城崎温泉 まんだら湯
+    url: http://www.kinsui.net/kinosaki/sotoyu/mandarayu.html
+    map: https://maps.google.com/?cid=6027234137832580625&hl=ja
+    address: 兵庫県豊岡市城崎町湯島565
+    price: 600
+    lat: 35.6244558
+    lng: 134.80573
+    type: 共同浴場・銭湯
+-
+    id: 58
+    name: リゾ鳴尾浜 天然温泉かもめの湯
+    url: https://www.n-reso.jp
+    map: https://maps.google.com/?cid=9114259490322507753&hl=ja
+    address: 兵庫県西宮市鳴尾浜3-13
+    price: 1780
+    lat: 34.6933836
+    lng: 135.3586275
+    type: 温泉
+-
+    id: 59
+    name: 滝野温泉 ぽかぽ
+    url: http://www.pokapo.jp/
+    map: https://maps.google.com/?cid=1567686459119208583&hl=ja
+    address: 兵庫県加東市下滝野1283-1
+    price: 600
+    lat: 34.94268840000001
+    lng: 134.9348575
+    type: 温泉
+-
+    id: 60
+    name: 加古川天然温泉 ぷくぷくの湯
+    url: 
+    map: https://maps.google.com/?cid=921827537415187610&hl=ja
+    address: 兵庫県加古川市加古川町南備後315-1
+    price: 550
+    lat: 34.7563721
+    lng: 134.8251524
+    type: 温泉
+-
+    id: 61
+    name: 天然温泉 湊山温泉
+    url: https://minatoyama-onsen.com/
+    map: https://maps.google.com/?cid=3147146881360882904&hl=ja
+    address: 兵庫県神戸市兵庫区湊山町26-1
+    price: 700
+    lat: 34.69231980000001
+    lng: 135.1662878
+    type: 温泉
+-
+    id: 62
+    name: 鳴尾浜温泉 熊野の郷
+    url: https://www.kumano-no-sato.com/index2.html
+    map: https://maps.google.com/?cid=832078776248111302&hl=ja
+    address: 兵庫県西宮市鳴尾浜1-1-3
+    price: 800
+    lat: 34.7032039
+    lng: 135.3657409
+    type: 温泉
+-
+    id: 63
+    name: よふど温泉 極楽湯
+    url: http://yofudo-onsen.jp/
+    map: https://maps.google.com/?cid=11256930494537127679&hl=ja
+    address: 兵庫県朝来市山東町森108
+    price: 700
+    lat: 35.2859718
+    lng: 134.8731575
+    type: 温泉
+-
+    id: 64
+    name: 菊水温泉
+    url: http://esento.web.fc2.com/kikusui/
+    map: https://maps.google.com/?cid=11333172173164336696&hl=ja
+    address: 兵庫県神戸市長田区久保町6-1-15
+    price: 450
+    lat: 34.6529338
+    lng: 135.1461778
+    type: 銭湯
+-
+    id: 65
+    name: 橘温泉
+    url: http://hyougo1010.blog.jp/archives/16244311.html
+    map: https://maps.google.com/?cid=709566726481598212&hl=ja
+    address: 兵庫県伊丹市桜ヶ丘1-3-8
+    price: 450
+    lat: 34.7850454
+    lng: 135.4103919
+    type: 銭湯
+-
+    id: 66
+    name: とがやま温泉 天女の湯
+    url: http://www.togayama-tennyo.jp/
+    map: https://maps.google.com/?cid=7839959428304235319&hl=ja
+    address: 兵庫県養父市八鹿町高柳488-1
+    price: 700
+    lat: 35.3948969
+    lng: 134.7411506
+    type: 温泉
+-
+    id: 67
+    name: ゆーもあらんど福栄
+    url: http://hyougo1010.blog.jp/archives/16244284.html
+    map: https://maps.google.com/?cid=9999951670929957180&hl=ja
+    address: 兵庫県尼崎市杭瀬南新町1-2-1
+    price: 400
+    lat: 34.7178174
+    lng: 135.437872
+    type: 銭湯
+-
+    id: 68
+    name: あかねの湯(龍野店)
+    url: http://bemss.jp/akane/cont103.php
+    map: https://maps.google.com/?cid=4202988220029527055&hl=ja
+    address: 兵庫県たつの市揖保町揖保上425
+    price: 640
+    lat: 34.834696
+    lng: 134.5365819
+    type: 温泉
+-
+    id: 69
+    name: 東光湯
+    url: http://hyougo1010.blog.jp/archives/16244330.html
+    map: https://maps.google.com/?cid=1102722399145589565&hl=ja
+    address: 兵庫県洲本市本町7-1-44
+    price: 450
+    lat: 34.3403734
+    lng: 134.8925925
+    type: 銭湯
+-
+    id: 70
+    name: 天然温泉 奥香の湯
+    url: http://www.oukanoyu.jp/
+    map: https://maps.google.com/?cid=13452570310506978701&hl=ja
+    address: 兵庫県朝来市和田山町玉置1087-1
+    price: 700
+    lat: 35.3338313
+    lng: 134.8614741
+    type: 温泉
+-
+    id: 71
+    name: 南あわじリフレッシュ交流ハウス ゆーぷる
+    url: http://awaji-island.com/yupuru/
+    map: https://maps.google.com/?cid=191359232776081861&hl=ja
+    address: 兵庫県南あわじ市北阿万筒井1509-1
+    price: 600
+    lat: 34.2466692
+    lng: 134.7297685
+    type: 温泉
+-
+    id: 72
+    name: 一宮温泉 まほろばの湯
+    url: http://www.harima-ichinomiya.jp/mahorobanoyu/index.html
+    map: https://maps.google.com/?cid=1561878310318210186&hl=ja
+    address: 兵庫県宍粟市一宮町三方町624-1
+    price: 600
+    lat: 35.1834012
+    lng: 134.6276947
+    type: 温泉
+-
+    id: 73
+    name: 力湯
+    url: http://hyougo1010.blog.jp/archives/16244312.html
+    map: https://maps.google.com/?cid=14625040744163851480&hl=ja
+    address: 兵庫県伊丹市伊丹3-2-2
+    price: 450
+    lat: 34.7797579
+    lng: 135.4193796
+    type: 銭湯
+-
+    id: 74
+    name: 天然湧出温泉 北神戸ぽかぽか温泉
+    url: http://www.pokaon-k.com/
+    map: https://maps.google.com/?cid=3393279631797077729&hl=ja
+    address: 兵庫県神戸市北区八多町中1150
+    price: 760
+    lat: 34.8501931
+    lng: 135.2178258
+    type: 温泉
+-
+    id: 75
+    name: 城崎温泉 柳湯
+    url: http://www.kinsui.net/kinosaki/sotoyu/yanagiyu.html
+    map: https://maps.google.com/?cid=11221210446845169743&hl=ja
+    address: 兵庫県豊岡市城崎町湯島647
+    price: 600
+    lat: 35.6263461
+    lng: 134.8101486
+    type: 共同浴場・銭湯
+-
+    id: 76
+    name: 出石温泉館 乙女の湯
+    url: http://otome-izushi.jp/
+    map: https://maps.google.com/?cid=4933588162746526600&hl=ja
+    address: 兵庫県豊岡市出石町福住882
+    price: 500
+    lat: 35.4616563
+    lng: 134.8600637
+    type: 温泉
+-
+    id: 77
+    name: 湯あそびひろば 柚耶の里
+    url: 
+    map: https://maps.google.com/?cid=678083741976749938&hl=ja
+    address: 兵庫県神戸市垂水区名谷町湯屋谷2251
+    price: 430
+    lat: 34.668889
+    lng: 135.073516
+    type: 温泉
+-
+    id: 78
+    name: ふじ温泉
+    url: http://hyougo1010.blog.jp/archives/16244215.html
+    map: https://maps.google.com/?cid=1644601523359307680&hl=ja
+    address: 兵庫県神戸市灘区篠原南町1-6-17
+    price: 450
+    lat: 34.7183147
+    lng: 135.2315513
+    type: 銭湯
+-
+    id: 79
+    name: 水木湯
+    url: http://hyougo1010.blog.jp/archives/16244232.html
+    map: https://maps.google.com/?cid=9963658842361650561&hl=ja
+    address: 兵庫県神戸市兵庫区水木通2-2-21
+    price: 450
+    lat: 34.6758373
+    lng: 135.1670509
+    type: 銭湯
+-
+    id: 80
+    name: 幸福温泉
+    url: http://hyougo1010.blog.jp/archives/16244208.html
+    map: https://maps.google.com/?cid=12654482090278029560&hl=ja
+    address: 兵庫県神戸市東灘区青木5-15-10
+    price: 450
+    lat: 34.7183519
+    lng: 135.2828191
+    type: 銭湯
+-
+    id: 81
+    name: 千代の湯
+    url: https://chiyonoyu.jimdo.com/
+    map: https://maps.google.com/?cid=2820446358575553940&hl=ja
+    address: 兵庫県加古川市加古川町溝之口120-1
+    price: 430
+    lat: 34.7640923
+    lng: 134.8458857
+    type: 温泉
+-
+    id: 82
+    name: 恋野温泉 うはらの湯
+    url: https://www.uharanoyu.com/
+    map: https://maps.google.com/?cid=9389129034806460518&hl=ja
+    address: 兵庫県神戸市東灘区住吉東町4-1-3
+    price: 1100
+    lat: 34.7167333
+    lng: 135.2657006
+    type: 温泉
+-
+    id: 83
+    name: 南あわじクア施設 さんゆ～館
+    url: https://www.kaigetsu.jp/sanyukan/
+    map: https://maps.google.com/?cid=16330913475484592560&hl=ja
+    address: 兵庫県南あわじ市神代社家2332
+    price: 600
+    lat: 34.2788855
+    lng: 134.7884305
+    type: 温泉
+-
+    id: 84
+    name: 有馬富士温泉 花山乃湯
+    url: https://www.hanayamanoyu.com
+    map: https://maps.google.com/?cid=15972690760018166166&hl=ja
+    address: 兵庫県三田市尼寺835-1
+    price: 670
+    lat: 34.929984
+    lng: 135.2354505
+    type: 温泉
+-
+    id: 85
+    name: かすみ矢田川温泉
+    url: http://www.yadagawa.com/
+    map: https://maps.google.com/?cid=599767644111158049&hl=ja
+    address: 兵庫県美方郡香美町香住区三谷754
+    price: 620
+    lat: 35.6113856
+    lng: 134.6322588
+    type: 温泉
+-
+    id: 86
+    name: 湯元・天然温泉 朝日温泉
+    url: http://asahi-onsen.cool.coocan.jp
+    map: https://maps.google.com/?cid=14785121157274741364&hl=ja
+    address: 兵庫県神戸市兵庫区永沢町2-3-3
+    price: 450
+    lat: 34.6732939
+    lng: 135.1721999
+    type: 温泉
+-
+    id: 87
+    name: 合格の湯 天然温泉まんどの湯
+    url: http://www.mandonoyu.com/
+    map: https://maps.google.com/?cid=5445242134237326434&hl=ja
+    address: 兵庫県養父市三宅821
+    price: 800
+    lat: 35.3818734
+    lng: 134.6960463
+    type: 温泉
+-
+    id: 88
+    name: 鹿之子温泉 かのこの湯
+    url: 
+    map: https://maps.google.com/?cid=8220417442807209041&hl=ja
+    address: 兵庫県神戸市北区長尾町宅原1611
+    price: 600
+    lat: 34.8602914
+    lng: 135.2103826
+    type: 温泉
+-
+    id: 89
+    name: リフレッシュパークゆむら
+    url: http://www.refresh.co.jp/
+    map: https://maps.google.com/?cid=4218088501981888348&hl=ja
+    address: 兵庫県美方郡新温泉町湯1371
+    price: 1100
+    lat: 35.5571992
+    lng: 134.4917028
+    type: 温泉
+-
+    id: 90
+    name: 天然ラジウム療養泉 華の湯
+    url: http://kobe-hananoyu.com/
+    map: https://maps.google.com/?cid=10699221065115514362&hl=ja
+    address: 兵庫県神戸市須磨区妙法寺藪中の中1248-14
+    price: 450
+    lat: 34.6807115
+    lng: 135.1309871
+    type: 温泉
+-
+    id: 91
+    name: パルシェ香りの湯
+    url: http://www.parchez.co.jp/spa/
+    map: https://maps.google.com/?cid=8919505359451664257&hl=ja
+    address: 兵庫県淡路市尾崎3025-1
+    price: 700
+    lat: 34.4820709
+    lng: 134.8734217
+    type: 温泉
+-
+    id: 92
+    name: 丹波市立薬草薬樹公園 丹波の湯
+    url: http://www.yakuso.gr.jp/
+    map: https://maps.google.com/?cid=6291632753983400155&hl=ja
+    address: 兵庫県丹波市山南町和田338-1
+    price: 500
+    lat: 35.0901481
+    lng: 134.9748639
+    type: 温泉
+-
+    id: 93
+    name: しそう よい温泉
+    url: http://yoionsen.co.jp/
+    map: https://maps.google.com/?cid=14501176509704395668&hl=ja
+    address: 兵庫県宍粟市山崎町与位66-3
+    price: 700
+    lat: 35.0560537
+    lng: 134.5662678
+    type: 温泉
+-
+    id: 94
+    name: 姫路市はやしだ交流センター ゆたりん
+    url: http://yutarin.net/
+    map: https://maps.google.com/?cid=13445117511727834090&hl=ja
+    address: 兵庫県姫路市林田町口佐見386
+    price: 650
+    lat: 34.9090689
+    lng: 134.5935637
+    type: 温泉
+-
+    id: 95
+    name: 湯ったりハウス
+    url: http://yuttarihouse.co/
+    map: https://maps.google.com/?cid=16580021092034444866&hl=ja
+    address: 兵庫県姫路市野里203-1
+    price: 450
+    lat: 34.8403882
+    lng: 134.7092675
+    type: 温泉
+-
+    id: 96
+    name: ゆうゆうらんど紀の国
+    url: https://yuuyuu.jimdo.com/
+    map: https://maps.google.com/?cid=1204070275235554724&hl=ja
+    address: 兵庫県神戸市長田区野田町8-5-12
+    price: 450
+    lat: 34.6487147
+    lng: 135.1433247
+    type: 銭湯
+-
+    id: 97
+    name: 橘湯
+    url: https://www.tachibanayu.com/
+    map: https://maps.google.com/?cid=6027074908318598583&hl=ja
+    address: 兵庫県神戸市兵庫区荒田町1-2-25
+    price: 450
+    lat: 34.682599
+    lng: 135.1706519
+    type: 銭湯
+-
+    id: 98
+    name: 村岡温泉
+    url: https://www.town.mikata-kami.lg.jp/www/contents/1115979034093/
+    map: https://maps.google.com/?cid=5114750430836696012&hl=ja
+    address: 兵庫県美方郡香美町村岡区鹿田51
+    price: 500
+    lat: 35.4766667
+    lng: 134.5877205
+    type: 温泉
+-
+    id: 99
+    name: 竹野絶景温泉 北前館
+    url: http://kitamaekan.net/spa.html
+    map: https://maps.google.com/?cid=2055258675091016028&hl=ja
+    address: 兵庫県豊岡市竹野町竹野50-12
+    price: 600
+    lat: 35.6624239
+    lng: 134.7616256
+    type: 温泉
+-
+    id: 100
+    name: たんたん温泉 福寿の湯
+    url: https://tantanonsen.com/
+    map: https://maps.google.com/?cid=5749983999494327868&hl=ja
+    address: 兵庫県豊岡市但東町坂野470
+    price: 600
+    lat: 35.5234769
+    lng: 134.9860658
+    type: 温泉
+-
+    id: 101
+    name: 湊湯
+    url: http://hyougo1010.blog.jp/archives/16244225.html
+    map: https://maps.google.com/?cid=736172138953243911&hl=ja
+    address: 兵庫県神戸市兵庫区湊町1-1-17
+    price: 450
+    lat: 34.67570370000001
+    lng: 135.174529
+    type: 銭湯
+-
+    id: 102
+    name: 湯あそびひろば 3・8ハウス 尼崎中央温泉
+    url: https://3-8house.jimdo.com/
+    map: https://maps.google.com/?cid=9011682559573311782&hl=ja
+    address: 兵庫県尼崎市昭和南通7-180
+    price: 400
+    lat: 34.7224291
+    lng: 135.408977
+    type: 銭湯
+-
+    id: 103
+    name: 芦屋市立 あしや温泉
+    url: http://www.spa-ashiya.jp/
+    map: https://maps.google.com/?cid=4900180544492134291&hl=ja
+    address: 兵庫県芦屋市呉川町14-11
+    price: 380
+    lat: 34.7242702
+    lng: 135.3123208
+    type: 温泉
+-
+    id: 104
+    name: ウェルネスパーク五色 ゆーゆーファイブ
+    url: http://www.takataya.jp/relax/yu.htm
+    map: https://maps.google.com/?cid=5839736613282548575&hl=ja
+    address: 兵庫県洲本市五色町都志1087
+    price: 700
+    lat: 34.416103
+    lng: 134.7927023
+    type: 温泉
+-
+    id: 105
+    name: 双葉温泉
+    url: 
+    map: https://maps.google.com/?cid=13811817859165074571&hl=ja
+    address: 兵庫県西宮市分銅町2-28
+    price: 450
+    lat: 34.7422318
+    lng: 135.3387161
+    type: 温泉
+-
+    id: 106
+    name: 福ふく温泉
+    url: http://www.fukufuro.com/
+    map: https://maps.google.com/?cid=14057769277546388996&hl=ja
+    address: 兵庫県神崎郡福崎町福田118
+    price: 700
+    lat: 34.9629192
+    lng: 134.7546626
+    type: 温泉
+-
+    id: 107
+    name: 福寿温泉
+    url: http://hyougo1010.blog.jp/archives/16244269.html
+    map: https://maps.google.com/?cid=2469812890610598095&hl=ja
+    address: 兵庫県尼崎市東園田町5-60-3
+    price: 450
+    lat: 34.7532417
+    lng: 135.4498985
+    type: 銭湯
+-
+    id: 108
+    name: かんなべ温泉 ゆとろぎ
+    url: http://michinoeki-kannabe.com/wp/yutorogi/
+    map: https://maps.google.com/?cid=10316146201346454465&hl=ja
+    address: 兵庫県豊岡市栗栖野59-13
+    price: 600
+    lat: 35.4993015
+    lng: 134.6749238
+    type: 温泉
+-
+    id: 109
+    name: 雪彦温泉
+    url: http://www.e-yamasa.com/seppiko/
+    map: https://maps.google.com/?cid=14112010856710096346&hl=ja
+    address: 兵庫県姫路市夢前山之内掛ノ谷甲120
+    price: 800
+    lat: 35.0162156
+    lng: 134.6778925
+    type: 温泉
+-
+    id: 110
+    name: 東湯
+    url: http://hyougo1010.blog.jp/archives/16244318.html
+    map: https://maps.google.com/?cid=17121411390855235365&hl=ja
+    address: 兵庫県明石市大蔵天神町15-18
+    price: 450
+    lat: 34.6452725
+    lng: 135.0024225
+    type: 銭湯
+-
+    id: 111
+    name: 官兵衛の湯
+    url: http://kanbe-no-yu.jp/
+    map: https://maps.google.com/?cid=17521140059049233464&hl=ja
+    address: 兵庫県西脇市鹿野町255-2
+    price: 650
+    lat: 34.986754
+    lng: 134.994039
+    type: 温泉
+-
+    id: 112
+    name: 泉温泉
+    url: http://esento.web.fc2.com/izumi/
+    map: https://maps.google.com/?cid=17316066565449686377&hl=ja
+    address: 兵庫県尼崎市武庫元町2-21-2
+    price: 450
+    lat: 34.7581584
+    lng: 135.3793285
+    type: 銭湯
+-
+    id: 113
+    name: ふれあい温泉 おじろん
+    url: http://ojiron.jp/
+    map: https://maps.google.com/?cid=13223418117864202798&hl=ja
+    address: 兵庫県美方郡香美町小代区大谷510-1
+    price: 500
+    lat: 35.4513022
+    lng: 134.5298745
+    type: 温泉
+-
+    id: 114
+    name: SAUNA&SPA 花の湯
+    url: http://himeji-hananoyu.com/
+    map: https://maps.google.com/?cid=7207737595683012124&hl=ja
+    address: 兵庫県姫路市増位新町1-6
+    price: 700
+    lat: 34.8560142
+    lng: 134.7093045
+    type: 温泉
+-
+    id: 115
+    name: ユートピア浜坂
+    url: https://www.town.shinonsen.hyogo.jp/page/index.php?mode=detail&page_id=2229fa7578f92aca7a8800bf1df7e3b7
+    map: https://maps.google.com/?cid=12332929061104994857&hl=ja
+    address: 兵庫県美方郡新温泉町浜坂
+    price: 300
+    lat: 35.6232664
+    lng: 134.4546213
+    type: 温泉
+-
+    id: 116
+    name: 笹ヶ丘荘
+    url: http://www.town.sayo.lg.jp/cms-sypher/www/section/detail.jsp?id=75
+    map: https://maps.google.com/?cid=2062161322290255972&hl=ja
+    address: 兵庫県佐用郡佐用町円光寺423-11
+    price: 500
+    lat: 34.9652075
+    lng: 134.3369162
+    type: 温泉
+-
+    id: 117
+    name: 扇湯
+    url: http://hyougo1010.blog.jp/archives/16244328.html
+    map: https://maps.google.com/?cid=1939340040614106574&hl=ja
+    address: 兵庫県淡路市岩屋1470
+    price: 450
+    lat: 34.5904923
+    lng: 135.0160674
+    type: 銭湯
+-
+    id: 118
+    name: 草山温泉 やまもりの湯
+    url: http://kannonyu.or.jp/
+    map: https://maps.google.com/?cid=5442020547548277825&hl=ja
+    address: 兵庫県篠山市遠方石ン堂41-1
+    price: 700
+    lat: 35.16702240000001
+    lng: 135.2747018
+    type: 温泉
+-
+    id: 119
+    name: 昆陽温泉
+    url: http://hyougo1010.blog.jp/archives/16244313.html
+    map: https://maps.google.com/?cid=957314236605208751&hl=ja
+    address: 兵庫県伊丹市昆陽東4-13-12
+    price: 450
+    lat: 34.7787924
+    lng: 135.4001209
+    type: 銭湯
+-
+    id: 120
+    name: 梅ヶ枝湯
+    url: http://hyougo1010.blog.jp/archives/16244325.html
+    map: https://maps.google.com/?cid=6215531906829263130&hl=ja
+    address: 兵庫県高砂市高砂町次郎助町1593
+    price: 450
+    lat: 34.7483033
+    lng: 134.8011309
+    type: 銭湯
+-
+    id: 121
+    name: 湯あそびひろば ふくずみ温泉
+    url: http://www.eonet.ne.jp/~fukuzumi/
+    map: https://maps.google.com/?cid=13075944278707922795&hl=ja
+    address: 兵庫県尼崎市水堂町1-4-8
+    price: 410
+    lat: 34.740102
+    lng: 135.3958302
+    type: 温泉
+-
+    id: 122
+    name: スーパー銭湯 花の湯(飾磨店)
+    url: https://page.line.me/zbl5522f
+    map: https://maps.google.com/?cid=16842724754858814755&hl=ja
+    address: 兵庫県姫路市飾磨区恵美酒270
+    price: 650
+    lat: 34.8054883
+    lng: 134.6725753
+    type: 温泉
+-
+    id: 123
+    name: 萬歳湯
+    url: http://hyougo1010.blog.jp/archives/16244244.html
+    map: https://maps.google.com/?cid=6034109387782452843&hl=ja
+    address: 兵庫県神戸市長田区腕塚町4-1-2
+    price: 450
+    lat: 34.6549098
+    lng: 135.1480649
+    type: 銭湯
+-
+    id: 124
+    name: 竹乃湯温泉
+    url: https://www.takenoyuonsen.com/
+    map: https://maps.google.com/?cid=17494190725301099107&hl=ja
+    address: 兵庫県三木市本町2-17-43
+    price: 400
+    lat: 34.7965325
+    lng: 134.9856817
+    type: 温泉
+-
+    id: 125
+    name: ナチュールスパ宝塚
+    url: http://www.naturespa-takarazuka.jp/
+    map: https://maps.google.com/?cid=17798448698494521608&hl=ja
+    address: 兵庫県宝塚市湯本町9-33
+    price: 1040
+    lat: 34.808355
+    lng: 135.3407981
+    type: 温泉
+-
+    id: 126
+    name: 多田ハイグリーン ひらの湯
+    url: http://www.hi-green.co.jp/hiranoyu/
+    map: https://maps.google.com/?cid=13411189729894432271&hl=ja
+    address: 兵庫県川西市西畦野南山2
+    price: 700
+    lat: 34.8800927
+    lng: 135.4039319
+    type: 温泉
+-
+    id: 127
+    name: 播磨町 健康いきいきセンター
+    url: http://ikiiki-harima.com/
+    map: https://maps.google.com/?cid=8395263143435043816&hl=ja
+    address: 兵庫県加古郡播磨町南大中1-8-60
+    price: 380
+    lat: 34.7203869
+    lng: 134.8684902
+    type: 温泉
+-
+    id: 128
+    name: 鍬溪温泉 きすみのの郷
+    url: https://kuwatani-onsen.com/
+    map: https://maps.google.com/?cid=7093168995499938570&hl=ja
+    address: 兵庫県小野市下来住町659
+    price: 600
+    lat: 34.8365532
+    lng: 134.9108654
+    type: 温泉
+-
+    id: 129
+    name: 灘浜ガーデンバーデン
+    url: https://www.kobelco.co.jp/nadahama/garden/
+    map: https://maps.google.com/?cid=16686555326623374941&hl=ja
+    address: 兵庫県神戸市灘区新在家南町2-25-6
+    price: 730
+    lat: 34.7063718
+    lng: 135.239881
+    type: 温泉
+-
+    id: 130
+    name: 扇港湯
+    url: http://hyougo1010.blog.jp/archives/16244242.html
+    map: https://maps.google.com/?cid=5043771317131752450&hl=ja
+    address: 兵庫県神戸市長田区駒ヶ林町2-20-12
+    price: 450
+    lat: 34.6518799
+    lng: 135.1481273
+    type: 銭湯
+-
+    id: 131
+    name: ラウレアリゾート
+    url: http://www.laulea-resort.jp/
+    map: https://maps.google.com/?cid=7300134788219782049&hl=ja
+    address: 兵庫県尼崎市富松町3-2-43
+    price: 700
+    lat: 34.7583211
+    lng: 135.3997356
+    type: 温泉
+-
+    id: 132
+    name: うずしお温泉 ゆとりっく
+    url: https://ゆとりっく.com/%E3%81%86%E3%81%9A%E3%81%97%E3%81%8A%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=1784470351461958146&hl=ja
+    address: 兵庫県南あわじ市湊77
+    price: 630
+    lat: 34.3245268
+    lng: 134.7342597
+    type: 温泉
+-
+    id: 133
+    name: 新湯
+    url: http://hyougo1010.blog.jp/archives/16244304.html
+    map: https://maps.google.com/?cid=5881790157067952519&hl=ja
+    address: 兵庫県西宮市鳴尾町2-10-9
+    price: 450
+    lat: 34.7155193
+    lng: 135.3704988
+    type: 銭湯
+-
+    id: 134
+    name: たつの市はつらつセンター はつらつの湯
+    url: http://www.city.tatsuno.lg.jp/kurashi/iryou/kenkouzukuri/haturatunoyu.html
+    map: https://maps.google.com/?cid=13235912634133248694&hl=ja
+    address: 兵庫県たつの市龍野町富永410-2
+    price: 400
+    lat: 34.8545015
+    lng: 134.5500831
+    type: 温泉
+-
+    id: 135
+    name: 出石温泉 湯元館
+    url: http://www.wimbledon.jp/spa.html
+    map: https://maps.google.com/?cid=18097032086748752714&hl=ja
+    address: 兵庫県豊岡市出石町福住1217-1
+    price: 400
+    lat: 35.4646175
+    lng: 134.8626159
+    type: 温泉
+-
+    id: 136
+    name: 西宮市立 芦乃湯会館
+    url: https://www.nishi.or.jp/access/shiminshukai/ashinoyu.html
+    map: https://maps.google.com/?cid=1111380016804120402&hl=ja
+    address: 兵庫県西宮市森下町8-1
+    price: 340
+    lat: 34.7431268
+    lng: 135.3507503
+    type: 温泉
+-
+    id: 137
+    name: 朝日湯
+    url: http://hyougo1010.blog.jp/archives/16244217.html
+    map: https://maps.google.com/?cid=3199250363453547161&hl=ja
+    address: 兵庫県神戸市中央区旗塚通3-3-14
+    price: 450
+    lat: 34.7047548
+    lng: 135.2022286
+    type: 銭湯
+-
+    id: 138
+    name: 新宮ふれあい福祉会館 ふれあいの湯
+    url: http://www.city.tatsuno.lg.jp/kurashi/fukushi/hureainoyu.html
+    map: https://maps.google.com/?cid=853917563094416973&hl=ja
+    address: 兵庫県たつの市新宮町平野111-1
+    price: 400
+    lat: 34.9225993
+    lng: 134.5374649
+    type: 温泉
+-
+    id: 139
+    name: ハチ北温泉 湯治の郷
+    url: https://www.spa-hachikita.com/
+    map: https://maps.google.com/?cid=13469527496421767928&hl=ja
+    address: 兵庫県美方郡香美町村岡区大笹129-1
+    price: 620
+    lat: 35.4054469
+    lng: 134.56244
+    type: 温泉
+-
+    id: 140
+    name: 都湯
+    url: http://hyougo1010.blog.jp/archives/16244345.html
+    map: https://maps.google.com/?cid=6636243692683909733&hl=ja
+    address: 兵庫県相生市相生3-6-19
+    price: 450
+    lat: 34.7905218
+    lng: 134.4512171
+    type: 銭湯
+-
+    id: 141
+    name: みのり湯
+    url: http://hyougo1010.blog.jp/archives/16244293.html
+    map: https://maps.google.com/?cid=15483844760648946457&hl=ja
+    address: 兵庫県尼崎市大庄中通3-16
+    price: 450
+    lat: 34.7236256
+    lng: 135.3923319
+    type: 銭湯
+-
+    id: 142
+    name: 千種保健福祉センター エーガイヤちくさ
+    url: https://www.city.shiso.lg.jp/shisetsu/fukushi/1386571281790.html
+    map: https://maps.google.com/?cid=9724139421588877486&hl=ja
+    address: 兵庫県宍粟市千種町室1060-1
+    price: 400
+    lat: 35.1455845
+    lng: 134.440382
+    type: 温泉
+-
+    id: 143
+    name: 笠松湯
+    url: http://hyougo1010.blog.jp/archives/16244226.html
+    map: https://maps.google.com/?cid=12971859126269177049&hl=ja
+    address: 兵庫県神戸市兵庫区笠松通6-3-6
+    price: 450
+    lat: 34.6562823
+    lng: 135.1733329
+    type: 銭湯
+-
+    id: 144
+    name: 浜坂海岸レクリエーションセンター 松の湯
+    url: https://www.town.shinonsen.hyogo.jp/page/index.php?mode=detail&page_id=772b8162f9de6b904b220afba307ed6b
+    map: https://maps.google.com/?cid=705084628822300997&hl=ja
+    address: 兵庫県美方郡新温泉町芦屋853-1
+    price: 300
+    lat: 35.6270794
+    lng: 134.4483388
+    type: 温泉
+-
+    id: 145
+    name: 湯あそびひろば ゆぇ～ぶ・なぐら
+    url: https://nagurayu268.business.site/
+    map: https://maps.google.com/?cid=11188075679030471662&hl=ja
+    address: 兵庫県神戸市長田区名倉町2-1-27
+    price: 450
+    lat: 34.6781163
+    lng: 135.1463838
+    type: 銭湯
+-
+    id: 146
+    name: フォンテーヌ大庄
+    url: http://hyougo1010.blog.jp/archives/16244297.html
+    map: https://maps.google.com/?cid=11323457374765226540&hl=ja
+    address: 兵庫県尼崎市大庄北5-5-15
+    price: 450
+    lat: 34.729795
+    lng: 135.3911195
+    type: 銭湯
+-
+    id: 147
+    name: 明和温泉
+    url: http://hyougo1010.blog.jp/archives/16244336.html
+    map: https://maps.google.com/?cid=6098686540537037069&hl=ja
+    address: 兵庫県姫路市野里中町611
+    price: 450
+    lat: 34.8419728
+    lng: 134.7039868
+    type: 銭湯
+-
+    id: 148
+    name: 新鶴湯
+    url: http://hyougo1010.blog.jp/archives/16244340.html
+    map: https://maps.google.com/?cid=13496845608246952296&hl=ja
+    address: 兵庫県姫路市広畑区東新町2-21
+    price: 450
+    lat: 34.7995229
+    lng: 134.6355271
+    type: 銭湯
+-
+    id: 149
+    name: ユートピア琴浦
+    url: http://hyougo1010.blog.jp/archives/16244301.html
+    map: https://maps.google.com/?cid=13599768701007323789&hl=ja
+    address: 兵庫県尼崎市琴浦町98-2
+    price: 450
+    lat: 34.7216252
+    lng: 135.3937564
+    type: 銭湯
+-
+    id: 150
+    name: 丸吉湯
+    url: http://hyougo1010.blog.jp/archives/16244327.html
+    map: https://maps.google.com/?cid=11831746899194613950&hl=ja
+    address: 兵庫県淡路市岩屋1546
+    price: 450
+    lat: 34.5987358
+    lng: 135.0106805
+    type: 銭湯
+-
+    id: 151
+    name: 昭和温泉
+    url: http://hyougo1010.blog.jp/archives/16244271.html
+    map: https://maps.google.com/?cid=444380188640849493&hl=ja
+    address: 兵庫県尼崎市潮江2-16-3
+    price: 450
+    lat: 34.7357656
+    lng: 135.4329559
+    type: 銭湯
+-
+    id: 152
+    name: 光明温泉
+    url: http://hyougo1010.blog.jp/archives/16244281.html
+    map: https://maps.google.com/?cid=9408034950103348484&hl=ja
+    address: 兵庫県尼崎市小中島3-11-28
+    price: 420
+    lat: 34.7466347
+    lng: 135.4437392
+    type: 銭湯
+-
+    id: 153
+    name: 大黒湯
+    url: http://hyougo1010.blog.jp/archives/16244230.html
+    map: https://maps.google.com/?cid=17545692487749819012&hl=ja
+    address: 兵庫県神戸市兵庫区石井町6-4-1
+    price: 450
+    lat: 34.6899037
+    lng: 135.1629742
+    type: 銭湯
+-
+    id: 154
+    name: 第一敷島湯
+    url: https://shikishimayu.jimdo.com/
+    map: https://maps.google.com/?cid=1611561789964240672&hl=ja
+    address: 兵庫県尼崎市杭瀬本町1-25-5
+    price: 400
+    lat: 34.7199607
+    lng: 135.4418437
+    type: 銭湯
+-
+    id: 155
+    name: 三光湯
+    url: http://hyougo1010.blog.jp/archives/16244320.html
+    map: https://maps.google.com/?cid=9012067571604007228&hl=ja
+    address: 兵庫県明石市樽屋町22-6
+    price: 450
+    lat: 34.6472121
+    lng: 134.9834775
+    type: 銭湯
+-
+    id: 156
+    name: ときわ湯
+    url: http://hyougo1010.blog.jp/archives/16244206.html
+    map: https://maps.google.com/?cid=9186599256985772872&hl=ja
+    address: 兵庫県神戸市東灘区御影本町8-9-19
+    price: 450
+    lat: 34.712675
+    lng: 135.2541369
+    type: 銭湯
+-
+    id: 157
+    name: 白鶴温泉
+    url: http://hyougo1010.blog.jp/archives/16244276.html
+    map: https://maps.google.com/?cid=5948033864630654113&hl=ja
+    address: 兵庫県尼崎市東大物町2-6-10
+    price: 450
+    lat: 34.7180046
+    lng: 135.4248782
+    type: 銭湯
+-
+    id: 158
+    name: 湊河湯
+    url: http://esento.web.fc2.com/minatogawa/
+    map: https://maps.google.com/?cid=613665123719208523&hl=ja
+    address: 兵庫県神戸市兵庫区東山町2-3-5
+    price: 450
+    lat: 34.6817799
+    lng: 135.1637018
+    type: 銭湯
+-
+    id: 159
+    name: 玉乃湯
+    url: http://hyougo1010.blog.jp/archives/16244259.html
+    map: https://maps.google.com/?cid=9985326243165298032&hl=ja
+    address: 兵庫県尼崎市玄番南之町4
+    price: 450
+    lat: 34.7174068
+    lng: 135.4084786
+    type: 銭湯
+-
+    id: 160
+    name: 老人福祉センター 湯の川荘
+    url: https://www.omoroionnsenn.com/entry/2019/06/06/082659
+    map: https://maps.google.com/?cid=12709199657464390696&hl=ja
+    address: 兵庫県南あわじ市伊加利1181-1
+    price: 600
+    lat: 34.28125800000001
+    lng: 134.6912634
+    type: 温泉
+-
+    id: 161
+    name: かさがた温泉 せせらぎの湯 みはらし館
+    url: https://seseraginoyu.com/onsen/miharashi.html
+    map: https://maps.google.com/?cid=1289300842600422034&hl=ja
+    address: 兵庫県神崎郡市川町上牛尾2073-12
+    price: 650
+    lat: 35.0217893
+    lng: 134.8215735
+    type: 温泉
+-
+    id: 162
+    name: 極楽湯
+    url: http://hyougo1010.blog.jp/archives/16244314.html
+    map: https://maps.google.com/?cid=13421978281946306232&hl=ja
+    address: 兵庫県川西市中央町14-6
+    price: 450
+    lat: 34.8306255
+    lng: 135.4163829
+    type: 銭湯
+-
+    id: 163
+    name: 道の駅あいおい 白龍城 ペーロン温泉
+    url: http://peironjo.jp/
+    map: https://maps.google.com/?cid=10677808091841115740&hl=ja
+    address: 兵庫県相生市那波南本町8-55
+    price: 750
+    lat: 34.8042241
+    lng: 134.4610577
+    type: 温泉
+-
+    id: 164
+    name: 御園新温泉
+    url: http://hyougo1010.blog.jp/archives/16244273.html
+    map: https://maps.google.com/?cid=3678317350133378843&hl=ja
+    address: 兵庫県尼崎市口田中1-25-11
+    price: 450
+    lat: 34.75709000000001
+    lng: 135.432422
+    type: 銭湯
+-
+    id: 165
+    name: ふらっとふれあいセンター ぎょうぎ温泉
+    url: http://www.city.itami.lg.jp/SOSIKI/SHIMIN/JINKENC/1383904533847.html
+    map: https://maps.google.com/?cid=1667550771524067520&hl=ja
+    address: 兵庫県伊丹市昆陽南3-8-1
+    price: 370
+    lat: 34.7735714
+    lng: 135.3986512
+    type: 共同浴場・銭湯
+-
+    id: 166
+    name: 大福湯
+    url: http://hyougo1010.blog.jp/archives/16244319.html
+    map: https://maps.google.com/?cid=9001603596727619721&hl=ja
+    address: 兵庫県明石市田町2-2-3
+    price: 450
+    lat: 34.6453515
+    lng: 134.9777737
+    type: 銭湯
+-
+    id: 167
+    name: 美健SPA 湯櫻
+    url: https://yuzakura.co.jp/
+    map: https://maps.google.com/?cid=9256367573971124116&hl=ja
+    address: 兵庫県川西市火打1-16-6
+    price: 950
+    lat: 34.8364721
+    lng: 135.4193602
+    type: 温泉
+-
+    id: 168
+    name: 大内温泉
+    url: http://hyougo1010.blog.jp/archives/16244210.html
+    map: https://maps.google.com/?cid=5258163087731260258&hl=ja
+    address: 兵庫県神戸市灘区大内通2-1-1
+    price: 450
+    lat: 34.7121252
+    lng: 135.2278749
+    type: 銭湯
+-
+    id: 169
+    name: 笹乃湯
+    url: 
+    map: https://maps.google.com/?cid=18260674774207683546&hl=ja
+    address: 兵庫県尼崎市南武庫之荘10-16-4
+    price: 450
+    lat: 34.7451014
+    lng: 135.3887809
+    type: 銭湯
+-
+    id: 170
+    name: 稲葉湯
+    url: http://hyougo1010.blog.jp/archives/16244289.html
+    map: https://maps.google.com/?cid=2334433335527883877&hl=ja
+    address: 兵庫県尼崎市稲葉荘4-3-26
+    price: 450
+    lat: 34.7376125
+    lng: 135.386344
+    type: 銭湯
+-
+    id: 171
+    name: 栄町温泉
+    url: http://hyougo1010.blog.jp/archives/16244283.html
+    map: https://maps.google.com/?cid=4561810972118367290&hl=ja
+    address: 兵庫県尼崎市杭瀬北新町3-9-10
+    price: 450
+    lat: 34.7211701
+    lng: 135.4347372
+    type: 銭湯
+-
+    id: 172
+    name: 八雲温泉
+    url: http://hyougo1010.blog.jp/archives/16244257.html
+    map: https://maps.google.com/?cid=1417800062265664842&hl=ja
+    address: 兵庫県尼崎市西難波町2-4-21
+    price: 450
+    lat: 34.7285543
+    lng: 135.404007
+    type: 銭湯
+-
+    id: 173
+    name: 西脇温泉
+    url: http://hyougo1010.blog.jp/archives/16244326.html
+    map: https://maps.google.com/?cid=197887818504766016&hl=ja
+    address: 兵庫県西脇市鹿野町255-2
+    price: 450
+    lat: 34.986754
+    lng: 134.994039
+    type: 銭湯
+-
+    id: 174
+    name: 新地湯
+    url: http://hyougo1010.blog.jp/archives/16244316.html
+    map: https://maps.google.com/?cid=8434688224038505698&hl=ja
+    address: 兵庫県三田市三田町3-5
+    price: 450
+    lat: 34.8844204
+    lng: 135.2278171
+    type: 銭湯
+-
+    id: 175
+    name: 高丸湯
+    url: http://hyougo1010.blog.jp/archives/16244251.html
+    map: https://maps.google.com/?cid=10211518271492647930&hl=ja
+    address: 兵庫県神戸市垂水区泉が丘4-4-36
+    price: 450
+    lat: 34.633677
+    lng: 135.0673424
+    type: 銭湯
+-
+    id: 176
+    name: 平和湯
+    url: http://hyougo1010.blog.jp/archives/16244287.html
+    map: https://maps.google.com/?cid=10116428180291802786&hl=ja
+    address: 兵庫県尼崎市下坂部2-30-50
+    price: 450
+    lat: 34.7421371
+    lng: 135.4319886
+    type: 銭湯
+-
+    id: 177
+    name: 白浜温泉
+    url: http://hyougo1010.blog.jp/archives/16244341.html
+    map: https://maps.google.com/?cid=1192402939347639102&hl=ja
+    address: 兵庫県姫路市白浜町甲840-10
+    price: 450
+    lat: 34.7833802
+    lng: 134.7042434
+    type: 銭湯
+-
+    id: 178
+    name: 相生湯
+    url: http://hyougo1010.blog.jp/archives/16244219.html
+    map: https://maps.google.com/?cid=12139010829746070085&hl=ja
+    address: 兵庫県神戸市中央区再度筋町7-2
+    price: 450
+    lat: 34.6931554
+    lng: 135.1755841
+    type: 銭湯
+-
+    id: 179
+    name: 長洲温泉
+    url: http://hyougo1010.blog.jp/archives/16244270.html
+    map: https://maps.google.com/?cid=9717536734135988868&hl=ja
+    address: 兵庫県尼崎市長洲中通3-5-1
+    price: 450
+    lat: 34.722806
+    lng: 135.4322828
+    type: 銭湯
+-
+    id: 180
+    name: 東湯
+    url: http://hyougo1010.blog.jp/archives/16244235.html
+    map: https://maps.google.com/?cid=8178570438151949615&hl=ja
+    address: 兵庫県神戸市兵庫区三川口町1-1-1
+    price: 450
+    lat: 34.6706875
+    lng: 135.1725184
+    type: 銭湯
+-
+    id: 181
+    name: 東洋温泉
+    url: http://hyougo1010.blog.jp/archives/16244290.html
+    map: https://maps.google.com/?cid=17873749478367516882&hl=ja
+    address: 兵庫県尼崎市水明町1
+    price: 450
+    lat: 34.7209084
+    lng: 135.3967186
+    type: 銭湯
+-
+    id: 182
+    name: 鶴の湯
+    url: http://hyougo1010.blog.jp/archives/16244252.html
+    map: https://maps.google.com/?cid=11431140396240887744&hl=ja
+    address: 兵庫県神戸市垂水区川原2-1-16
+    price: 450
+    lat: 34.6306847
+    lng: 135.0583535
+    type: 銭湯
+-
+    id: 183
+    name: 宮本温泉
+    url: http://hyougo1010.blog.jp/archives/16244221.html
+    map: https://maps.google.com/?cid=13810103456460178123&hl=ja
+    address: 兵庫県神戸市中央区宮本通1-2-6
+    price: 450
+    lat: 34.7066933
+    lng: 135.2127505
+    type: 銭湯
+-
+    id: 184
+    name: 三和温泉
+    url: http://hyougo1010.blog.jp/archives/16244260.html
+    map: https://maps.google.com/?cid=15515325105788195920&hl=ja
+    address: 兵庫県尼崎市建家町97
+    price: 450
+    lat: 34.7200543
+    lng: 135.4104471
+    type: 銭湯
+-
+    id: 185
+    name: 浜添湯
+    url: http://hyougo1010.blog.jp/archives/16244247.html
+    map: https://maps.google.com/?cid=13646886316424515333&hl=ja
+    address: 兵庫県神戸市長田区浜添通1-1-10
+    price: 450
+    lat: 34.6586622
+    lng: 135.1555424
+    type: 銭湯
+-
+    id: 186
+    name: お多福湯
+    url: http://hyougo1010.blog.jp/archives/16244329.html
+    map: https://maps.google.com/?cid=2528201313528327210&hl=ja
+    address: 兵庫県洲本市本町8-9-31
+    price: 450
+    lat: 34.3394533
+    lng: 134.8901668
+    type: 銭湯
+-
+    id: 187
+    name: 西大島温泉
+    url: http://hyougo1010.blog.jp/archives/16244292.html
+    map: https://maps.google.com/?cid=7577900452802812027&hl=ja
+    address: 兵庫県尼崎市大庄北3-31-26
+    price: 450
+    lat: 34.7314036
+    lng: 135.3872807
+    type: 銭湯
+-
+    id: 188
+    name: 薬師湯
+    url: http://hyougo1010.blog.jp/archives/16244343.html
+    map: https://maps.google.com/?cid=12071062408176534185&hl=ja
+    address: 兵庫県姫路市飾磨区栄町27
+    price: 450
+    lat: 34.7976663
+    lng: 134.6732356
+    type: 銭湯
+-
+    id: 189
+    name: 戎湯
+    url: http://hyougo1010.blog.jp/archives/16244241.html
+    map: https://maps.google.com/?cid=10630240726347537022&hl=ja
+    address: 兵庫県神戸市長田区東尻池町4-3-26
+    price: 450
+    lat: 34.659298
+    lng: 135.1573731
+    type: 銭湯
+-
+    id: 190
+    name: 銀座温泉
+    url: http://hyougo1010.blog.jp/archives/16244288.html
+    map: https://maps.google.com/?cid=6876233636360363257&hl=ja
+    address: 兵庫県尼崎市大島2-4-1
+    price: 450
+    lat: 34.7263736
+    lng: 135.3873542
+    type: 銭湯
+-
+    id: 191
+    name: 小久保湯
+    url: http://hyougo1010.blog.jp/archives/16244322.html
+    map: https://maps.google.com/maps?q=34.666612,134.958727
+    address: 兵庫県明石市西明石西町1-1-5
+    price: 450
+    lat: 34.6667921
+    lng: 134.9585266
+    type: 銭湯
+-
+    id: 192
+    name: 宮島温泉
+    url: http://hyougo1010.blog.jp/archives/16244238.html
+    map: https://maps.google.com/maps?q=34.67033,135.156937
+    address: 兵庫県神戸市長田区三番町2-1
+    price: 450
+    lat: 34.6704389
+    lng: 135.1568002
+    type: 銭湯
+-
+    id: 193
+    name: 新町温泉
+    url: http://hyougo1010.blog.jp/archives/16244315.html
+    map: https://maps.google.com/maps?q=34.825386,135.418091
+    address: 兵庫県川西市小花2-15-19
+    price: 450
+    lat: 34.82536700000001
+    lng: 135.4180921
+    type: 銭湯
+-
+    id: 194
+    name: 明月湯
+    url: http://hyougo1010.blog.jp/archives/16244321.html
+    map: https://maps.google.com/maps?q=34.644058,134.983131
+    address: 兵庫県明石市日富美町14-17
+    price: 450
+    lat: 34.6440579
+    lng: 134.9831309
+    type: 銭湯
+-
+    id: 195
+    name: ときわ湯
+    url: 
+    map: https://maps.google.com/maps?q=34.290942,134.945454
+    address: 兵庫県洲本市由良2-6-16
+    price: 450
+    lat: 34.2910611
+    lng: 134.9456268
+    type: 銭湯
+-
+    id: 196
+    name: 日の本湯
+    url: 
+    map: https://maps.google.com/maps?q=34.736591,135.457016
+    address: 兵庫県尼崎市戸ノ内町3丁目27-16
+    price: 420
+    lat: 34.7365783
+    lng: 135.4568878
+    type: 銭湯
+-
+    id: 197
+    name: 湯の町浴町
+    url: 
+    map: https://maps.google.com/maps?q=34.686558,135.157715
+    address: 兵庫県神戸市兵庫区熊野町3-13-2
+    price: 450
+    lat: 34.6864195
+    lng: 135.1578021
+    type: 銭湯
+-
+    id: 198
+    name: 増田湯
+    url: http://hyougo1010.blog.jp/archives/16244331.html
+    map: https://maps.google.com/maps?q=34.288156,134.94622
+    address: 兵庫県洲本市由良1-14-7
+    price: 450
+    lat: 34.2883288
+    lng: 134.9451526
+    type: 銭湯
+-
+    id: 199
+    name: あさぎり湯
+    url: http://hyougo1010.blog.jp/archives/16244243.html
+    map: https://maps.google.com/maps?q=34.669147,135.133301
+    address: 兵庫県神戸市長田区長尾町2-13-9
+    price: 450
+    lat: 34.6691411
+    lng: 135.1332902
+    type: 銭湯

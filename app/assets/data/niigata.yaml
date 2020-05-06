@@ -1,0 +1,1511 @@
+---
+-
+    id: 1
+    name: 門前の湯
+    url: http://www.kubikino.co.jp/
+    map: https://maps.google.com/?cid=15500466815333641832&hl=ja
+    address: 新潟県上越市下門前162-1
+    price: 420
+    lat: 37.159217
+    lng: 138.2543101
+    type: 銭湯
+-
+    id: 2
+    name: ぽんしゅ館 酒風呂 湯の沢
+    url: https://www.ponshukan.com/onsen
+    map: https://maps.google.com/?cid=5842712160218940133&hl=ja
+    address: 新潟県南魚沼郡湯沢町湯沢2427-3
+    price: 800
+    lat: 36.936673
+    lng: 138.8085754
+    type: 銭湯
+-
+    id: 3
+    name: 神立スノーリゾート 神の湯
+    url: http://www.kandatsu.com/past/godspa
+    map: https://maps.google.com/?cid=11384467449469357449&hl=ja
+    address: 新潟県南魚沼郡湯沢町神立4121-1
+    price: 1000
+    lat: 36.9115252
+    lng: 138.8125899
+    type: 温泉
+-
+    id: 4
+    name: 多宝温泉 だいろの湯
+    url: http://www.daironoyu.com/
+    map: https://maps.google.com/?cid=17401339287544625696&hl=ja
+    address: 新潟県新潟市西蒲区石瀬3250
+    price: 800
+    lat: 37.7279709
+    lng: 138.8369596
+    type: 温泉
+-
+    id: 5
+    name: 弥彦温泉 さくらの湯
+    url: http://www.hotel-juraku.co.jp/sakura/
+    map: https://maps.google.com/?cid=2920484456568910261&hl=ja
+    address: 新潟県西蒲原郡弥彦村麓1970
+    price: 1000
+    lat: 37.678934
+    lng: 138.8269468
+    type: 温泉
+-
+    id: 6
+    name: 寺泊きんぱちの湯
+    url: http://www.kinpachi.co.jp/spa/
+    map: https://maps.google.com/?cid=8357880489117033946&hl=ja
+    address: 新潟県長岡市寺泊9353-621
+    price: 500
+    lat: 37.635299
+    lng: 138.7605656
+    type: 温泉
+-
+    id: 7
+    name: 日帰りスキーセンター  スパ舞子温泉
+    url: https://www.maiko-resort.com/winter/spa.html
+    map: https://maps.google.com/?cid=17057722792268919630&hl=ja
+    address: 新潟県南魚沼市舞子2056-108
+    price: 900
+    lat: 36.9828763
+    lng: 138.8261957
+    type: 温泉
+-
+    id: 8
+    name: 極楽湯(女池店)
+    url: https://www.gokurakuyu.ne.jp/tempo/meike/index.html
+    map: https://maps.google.com/?cid=1179833224100161251&hl=ja
+    address: 新潟県新潟市中央区女池6-1-11
+    price: 630
+    lat: 37.8932606
+    lng: 139.0452157
+    type: 温泉
+-
+    id: 9
+    name: 八木ケ鼻温泉 いい湯らてい
+    url: http://www.iiyuratei.com/
+    map: https://maps.google.com/?cid=13277843555775606223&hl=ja
+    address: 新潟県三条市南五百川16-1
+    price: 900
+    lat: 37.5390441
+    lng: 139.1254478
+    type: 温泉
+-
+    id: 10
+    name: 極楽湯(松崎店)
+    url: https://www.yuttarien.com/matsuzaki/
+    map: https://maps.google.com/?cid=9655881389740417262&hl=ja
+    address: 新潟県新潟市東区新松崎3-24-13
+    price: 630
+    lat: 37.9334983
+    lng: 139.1211907
+    type: 温泉
+-
+    id: 11
+    name: 秋葉温泉 花水 〜かすい〜
+    url: http://casui.net/top/
+    map: https://maps.google.com/?cid=4898313671043108318&hl=ja
+    address: 新潟県新潟市秋葉区草水町1-4-5
+    price: 950
+    lat: 37.7868356
+    lng: 139.143998
+    type: 温泉
+-
+    id: 12
+    name: 野天風呂 七福の湯(上越店)
+    url: http://www.shichifukunoyu.jp/joetsu/
+    map: https://maps.google.com/?cid=7996116106885956461&hl=ja
+    address: 新潟県上越市富岡3468
+    price: 600
+    lat: 37.1507533
+    lng: 138.2578636
+    type: 温泉
+-
+    id: 13
+    name: カーブドッチ ヴィネスパ
+    url: https://vinespa.jp/dayspa/
+    map: https://maps.google.com/?cid=6938921532857902907&hl=ja
+    address: 新潟県新潟市西蒲区角田浜1661
+    price: 1000
+    lat: 37.8033426
+    lng: 138.8464126
+    type: 温泉
+-
+    id: 14
+    name: 千年温泉 千年の湯
+    url: https://machidukuri-kawanishi.com/sennennoyu/
+    map: https://maps.google.com/?cid=10864034767493773322&hl=ja
+    address: 新潟県十日町市水口沢121-7
+    price: 600
+    lat: 37.1626251
+    lng: 138.7367803
+    type: 温泉
+-
+    id: 15
+    name: 福寿温泉 じょんのび館
+    url: https://jonnobi.com/
+    map: https://maps.google.com/?cid=8548207349585684504&hl=ja
+    address: 新潟県新潟市西蒲区福井4067
+    price: 800
+    lat: 37.7599784
+    lng: 138.8313671
+    type: 温泉
+-
+    id: 16
+    name: ホンマ健康ランド
+    url: http://www.honma-kenko-land.com/
+    map: https://maps.google.com/?cid=9198191651794132325&hl=ja
+    address: 新潟県新潟市中央区美咲町2-1-41
+    price: 1250
+    lat: 37.8876986
+    lng: 139.016567
+    type: 温泉
+-
+    id: 17
+    name: 小千谷市地域間交流センター・道の駅 ちぢみの里
+    url: http://www.chijiminosato-nsd.com/index.html
+    map: https://maps.google.com/?cid=16610073235474083900&hl=ja
+    address: 新潟県小千谷市稗生1670-1
+    price: 900
+    lat: 37.3049841
+    lng: 138.8228054
+    type: 温泉
+-
+    id: 18
+    name: みつけ健幸の湯 ほっとぴあ
+    url: http://www.hotpia.jp
+    map: https://maps.google.com/?cid=135790751416700662&hl=ja
+    address: 新潟県見附市本町1-4-23
+    price: 500
+    lat: 37.5281388
+    lng: 138.9238859
+    type: 温泉
+-
+    id: 19
+    name: 旬食・ゆ処・宿 喜芳
+    url: http://www.kihou.jp/
+    map: https://maps.google.com/?cid=9292315447940401436&hl=ja
+    address: 新潟県長岡市上岩井6964
+    price: 950
+    lat: 37.4924085
+    lng: 138.7870147
+    type: 温泉
+-
+    id: 20
+    name: 麻生田観音堂温泉 麻生の湯
+    url: http://asounoyu.com
+    map: https://maps.google.com/?cid=5723993280264443373&hl=ja
+    address: 新潟県長岡市麻生田町2063
+    price: 660
+    lat: 37.4585544
+    lng: 138.903556
+    type: 温泉
+-
+    id: 21
+    name: ランドマーク妙高高原 温泉かふぇ
+    url: http://www.onsencafe.com/
+    map: https://maps.google.com/?cid=12052371416970067224&hl=ja
+    address: 新潟県妙高市関川2413-11
+    price: 1200
+    lat: 36.871704
+    lng: 138.1790263
+    type: 温泉
+-
+    id: 22
+    name: 百花の里 城山温泉
+    url: http://www.shiroyama-onsen.com/
+    map: https://maps.google.com/?cid=4826212091100974225&hl=ja
+    address: 新潟県新発田市浦1040-1
+    price: 750
+    lat: 37.9019032
+    lng: 139.3444764
+    type: 温泉
+-
+    id: 23
+    name: ごまどう湯っ多里館
+    url: https://www.gomadouyuttarikan.com/
+    map: https://maps.google.com/?cid=3363659437136701601&hl=ja
+    address: 新潟県南蒲原郡田上町田上丙3673-1
+    price: 700
+    lat: 37.7178411
+    lng: 139.0800554
+    type: 温泉
+-
+    id: 24
+    name: 金の湯
+    url: http://niigata268.com/public_bath/%E9%87%91%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=7943412184628699403&hl=ja
+    address: 新潟県新潟市東区中山3-1-16
+    price: 420
+    lat: 37.9178116
+    lng: 139.0852206
+    type: 銭湯
+-
+    id: 25
+    name: みどり湯
+    url: http://niigata268.com/public_bath/%E3%81%BF%E3%81%A9%E3%82%8A%E6%B9%AF/
+    map: https://maps.google.com/?cid=18099666526487101292&hl=ja
+    address: 新潟県新潟市中央区米山2-8-1
+    price: 420
+    lat: 37.9080212
+    lng: 139.0574416
+    type: 銭湯
+-
+    id: 26
+    name: 桂の関温泉 ゆ～む
+    url: http://www.sekikawa.org/yu-mu/yu-mu.html
+    map: https://maps.google.com/?cid=14918102731950659591&hl=ja
+    address: 新潟県岩船郡関川村下関1307-11
+    price: 500
+    lat: 38.0923509
+    lng: 139.5657916
+    type: 温泉
+-
+    id: 27
+    name: 極楽湯(槇尾店)
+    url: https://www.gokurakuyu.ne.jp/tempo/makio/index.html
+    map: https://maps.google.com/?cid=5832461532438330077&hl=ja
+    address: 新潟県新潟市西区槇尾424
+    price: 630
+    lat: 37.8615067
+    lng: 138.946707
+    type: 温泉
+-
+    id: 28
+    name: 越後長岡ゆらいや 華の湯
+    url: http://www.yuraiya.com/hananoyu/
+    map: https://maps.google.com/?cid=6100706219407965812&hl=ja
+    address: 新潟県長岡市堺町6-1
+    price: 600
+    lat: 37.45425
+    lng: 138.8116934
+    type: 温泉
+-
+    id: 29
+    name: キナーレ 明石の湯
+    url: http://kinare.jp/page_akashi.html
+    map: https://maps.google.com/?cid=4272044937226290003&hl=ja
+    address: 新潟県十日町市本町6
+    price: 600
+    lat: 37.1384613
+    lng: 138.7625648
+    type: 温泉
+-
+    id: 30
+    name: 朝日湯
+    url: http://niigata268.com/public_bath/%E6%9C%9D%E6%97%A5%E6%B9%AF/
+    map: https://maps.google.com/?cid=9715458433514387658&hl=ja
+    address: 新潟県新潟市中央区春日町10-18
+    price: 420
+    lat: 37.9130376
+    lng: 139.0544855
+    type: 銭湯
+-
+    id: 31
+    name: 共同浴場 美人の泉
+    url: https://niigata-kankou.or.jp/spot/11321
+    map: https://maps.google.com/?cid=6155073872971696573&hl=ja
+    address: 新潟県新発田市月岡温泉403-8
+    price: 550
+    lat: 37.8776317
+    lng: 139.3100624
+    type: 共同浴場・銭湯
+-
+    id: 32
+    name: 小須戸温泉健康センター 花の湯館
+    url: https://www.hananoyukan.com/
+    map: https://maps.google.com/?cid=15534547708421207464&hl=ja
+    address: 新潟県新潟市秋葉区天ケ沢498-1
+    price: 500
+    lat: 37.7331662
+    lng: 139.0882754
+    type: 温泉
+-
+    id: 33
+    name: 駒子の湯
+    url: https://sp.yuzawaonsen.com/?page_id=160
+    map: https://maps.google.com/?cid=13974526602825036707&hl=ja
+    address: 新潟県南魚沼郡湯沢町湯沢148
+    price: 500
+    lat: 36.9436425
+    lng: 138.8047453
+    type: 共同浴場・銭湯
+-
+    id: 34
+    name: 深層湯温泉 紫雲の郷
+    url: http://www.shiunnosato.com/spa/
+    map: https://maps.google.com/?cid=16517070318293518747&hl=ja
+    address: 新潟県新発田市藤塚浜966
+    price: 700
+    lat: 38.0358506
+    lng: 139.2975126
+    type: 温泉
+-
+    id: 35
+    name: 石打ユングパルナス
+    url: http://www.yungparunas.com/
+    map: https://maps.google.com/?cid=17400648105258043031&hl=ja
+    address: 新潟県南魚沼市石打946
+    price: 900
+    lat: 36.9682837
+    lng: 138.8007019
+    type: 温泉
+-
+    id: 36
+    name: ふれあいパーク てまりの湯
+    url: http://www.michinoeki-kugami.com/furo.html
+    map: https://maps.google.com/?cid=746252164667098167&hl=ja
+    address: 新潟県燕市長辰7550-3
+    price: 500
+    lat: 37.6634248
+    lng: 138.8238974
+    type: 温泉
+-
+    id: 37
+    name: 松之山温泉 鷹の湯
+    url: http://www.matunoyama.net/02_onsen.html
+    map: https://maps.google.com/?cid=10081941324737867229&hl=ja
+    address: 新潟県十日町市松之山湯本18-1
+    price: 500
+    lat: 37.0650119
+    lng: 138.6006393
+    type: 温泉
+-
+    id: 38
+    name: 市民福祉交流センター 加茂 美人の湯
+    url: http://www.city.kamo.niigata.jp/section/kouryu/index.htm
+    map: https://maps.google.com/?cid=112238110245490891&hl=ja
+    address: 新潟県加茂市宮寄上13-1
+    price: 800
+    lat: 37.600472
+    lng: 139.1105612
+    type: 温泉
+-
+    id: 39
+    name: 山の湯
+    url: https://sp.yuzawaonsen.com/?page_id=62
+    map: https://maps.google.com/?cid=16426813776949940873&hl=ja
+    address: 新潟県南魚沼郡湯沢町湯沢930
+    price: 500
+    lat: 36.9459419
+    lng: 138.7992356
+    type: 共同浴場・銭湯
+-
+    id: 40
+    name: 新潟市ふれあい健康センター アクアパークにいがた
+    url: http://www.aquapark-niigata.jp/
+    map: https://maps.google.com/?cid=9718934213363903541&hl=ja
+    address: 新潟県新潟市西区笠木3629-1
+    price: 500
+    lat: 37.8348019
+    lng: 138.9456437
+    type: 温泉
+-
+    id: 41
+    name: 五泉市村松 さくらんど温泉
+    url: http://sakurand.com/
+    map: https://maps.google.com/?cid=8815152345629017086&hl=ja
+    address: 新潟県五泉市上木越甲423-1
+    price: 700
+    lat: 37.7003787
+    lng: 139.2066099
+    type: 温泉
+-
+    id: 42
+    name: 苗場温泉 雪ささの湯
+    url: https://www.kin611.com/yukisasa.html
+    map: https://maps.google.com/?cid=3133915612035023590&hl=ja
+    address: 新潟県南魚沼郡湯沢町三国355
+    price: 900
+    lat: 36.7887407
+    lng: 138.7953726
+    type: 温泉
+-
+    id: 43
+    name: 松之山温泉 ナステビュウ湯の山
+    url: https://yunoyama.jp/
+    map: https://maps.google.com/?cid=12697524138226423989&hl=ja
+    address: 新潟県十日町市松之山湯山1252-1
+    price: 650
+    lat: 37.0731991
+    lng: 138.6109833
+    type: 温泉
+-
+    id: 44
+    name: スーパー銭湯 越後長岡 ゆらいや
+    url: http://www.yuraiya.com/
+    map: https://maps.google.com/?cid=5679893510696774485&hl=ja
+    address: 新潟県長岡市川崎町1497-4
+    price: 600
+    lat: 37.4586883
+    lng: 138.8776904
+    type: 温泉
+-
+    id: 45
+    name: 神湯とふれあいの里 神湯温泉倶楽部
+    url: http://www.kamiyuonsen.com/dayspa/
+    map: https://maps.google.com/?cid=10795297387802895509&hl=ja
+    address: 新潟県魚沼市清本583
+    price: 700
+    lat: 37.285198
+    lng: 138.9964039
+    type: 温泉
+-
+    id: 46
+    name: ゆざわ健康ランド
+    url: https://nishikigoi-land.com/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/%E3%82%86%E3%81%96%E3%82%8F%E5%81%A5%E5%BA%B7%E3%83%A9%E3%83%B3%E3%83%89/
+    map: https://maps.google.com/?cid=745699787442524553&hl=ja
+    address: 新潟県南魚沼郡湯沢町湯沢1022-1
+    price: 1000
+    lat: 36.9517183
+    lng: 138.8009652
+    type: 温泉
+-
+    id: 47
+    name: 見晴らしの湯 こまみ
+    url: https://www.komami.jp/
+    map: https://maps.google.com/?cid=18275725679709825281&hl=ja
+    address: 新潟県魚沼市青島2083-1
+    price: 600
+    lat: 37.2245221
+    lng: 138.9508834
+    type: 温泉
+-
+    id: 48
+    name: 三俣共同浴場 街道の湯
+    url: https://sp.yuzawaonsen.com/?page_id=200
+    map: https://maps.google.com/?cid=15312646399236059131&hl=ja
+    address: 新潟県南魚沼郡湯沢町三俣1021
+    price: 600
+    lat: 36.9002387
+    lng: 138.7770829
+    type: 共同浴場・銭湯
+-
+    id: 49
+    name: 竜ヶ窪温泉 竜神の館
+    url: https://www.ryugakubo.com/
+    map: https://maps.google.com/?cid=3383994399291947198&hl=ja
+    address: 新潟県中魚沼郡津南町谷内7031
+    price: 600
+    lat: 36.9808312
+    lng: 138.630705
+    type: 温泉
+-
+    id: 50
+    name: 長峰温泉 ゆったりの郷
+    url: http://www.kisnet.or.jp/~yuttari/index.html
+    map: https://maps.google.com/?cid=13528773023322274969&hl=ja
+    address: 新潟県上越市吉川区長峰100
+    price: 640
+    lat: 37.2430595
+    lng: 138.3756905
+    type: 温泉
+-
+    id: 51
+    name: 森の湯小屋 さぎの湯 しらさぎ荘
+    url: https://www.saginoyu.net
+    map: https://maps.google.com/?cid=4873525521232264573&hl=ja
+    address: 新潟県三条市矢田888
+    price: 400
+    lat: 37.56965
+    lng: 138.9484705
+    type: 温泉
+-
+    id: 52
+    name: ざぶーん
+    url: http://www.zaboon.co.jp/
+    map: https://maps.google.com/?cid=3810875119515747165&hl=ja
+    address: 新潟県北蒲原郡聖籠町諏訪山652-3
+    price: 750
+    lat: 37.9705344
+    lng: 139.2819997
+    type: 温泉
+-
+    id: 53
+    name: 鵜の浜 人魚館
+    url: http://www.ningyokan.jp/
+    map: https://maps.google.com/?cid=9892566510634152845&hl=ja
+    address: 新潟県上越市大潟区九戸浜241-8
+    price: 600
+    lat: 37.2404447
+    lng: 138.340149
+    type: 温泉
+-
+    id: 54
+    name: 新発田温泉 あやめの湯
+    url: http://www.city.shibata.lg.jp/shisetsu/kanko/kanko/1005071.html
+    map: https://maps.google.com/?cid=4902349770052355792&hl=ja
+    address: 新潟県新発田市板敷795-1
+    price: 400
+    lat: 37.9533866
+    lng: 139.3548859
+    type: 温泉
+-
+    id: 55
+    name: 朝日まほろばふれあいセンター まほろば温泉
+    url: http://www.asahimidori.com/spa/
+    map: https://maps.google.com/?cid=3683323217947233858&hl=ja
+    address: 新潟県村上市猿沢1240
+    price: 500
+    lat: 38.2815595
+    lng: 139.5234534
+    type: 温泉
+-
+    id: 56
+    name: 新津温泉
+    url: https://niigata-kankou.or.jp/spot/11336
+    map: https://maps.google.com/?cid=6992128344308461822&hl=ja
+    address: 新潟県新潟市秋葉区新津本町4-17-13
+    price: 400
+    lat: 37.7947839
+    lng: 139.1289389
+    type: 共同浴場・銭湯
+-
+    id: 57
+    name: ゆ〜パーク薬師
+    url: http://www.yu-park.com/
+    map: https://maps.google.com/?cid=2368865947553812059&hl=ja
+    address: 新潟県魚沼市七日市新田643-1
+    price: 650
+    lat: 37.2348835
+    lng: 138.9914134
+    type: 温泉
+-
+    id: 58
+    name: 共同浴場 薬師の湯
+    url: http://www.yakushinoyu.com/kyodo/kyodo.html
+    map: https://maps.google.com/?cid=14750746063294491614&hl=ja
+    address: 新潟県阿賀野市村杉3946-6
+    price: 250
+    lat: 37.7999958
+    lng: 139.2913818
+    type: 共同浴場・銭湯
+-
+    id: 59
+    name: 大崎温泉 雪割草の湯
+    url: http://www.ksz.or.jp/yukiwarisounoyu/
+    map: https://maps.google.com/?cid=5272335943309963924&hl=ja
+    address: 新潟県柏崎市西山町大崎1190
+    price: 500
+    lat: 37.4991065
+    lng: 138.6428565
+    type: 温泉
+-
+    id: 60
+    name: 出湯温泉共同浴場
+    url: https://gozu.jp/2018/02/20/deyu_baths/
+    map: https://maps.google.com/?cid=7067336114904887358&hl=ja
+    address: 新潟県阿賀野市出湯810-1
+    price: 250
+    lat: 37.8180208
+    lng: 139.3000685
+    type: 共同浴場・銭湯
+-
+    id: 61
+    name: 湯らりあ
+    url: 
+    map: https://maps.google.com/?cid=5976136978335431027&hl=ja
+    address: 新潟県南魚沼市六日町392-3
+    price: 400
+    lat: 37.0640551
+    lng: 138.876021
+    type: 温泉
+-
+    id: 62
+    name: ゆくら妻有
+    url: http://nakasato-yukura.com/spa
+    map: https://maps.google.com/?cid=18028865703002233649&hl=ja
+    address: 新潟県十日町市芋川乙3267
+    price: 600
+    lat: 37.0293889
+    lng: 138.697375
+    type: 温泉
+-
+    id: 63
+    name: 勝木ゆり花温泉 ゆり花会館
+    url: https://www.sake3.com/spot/88
+    map: https://maps.google.com/?cid=4275035273895543085&hl=ja
+    address: 新潟県村上市勝木862-1
+    price: 350
+    lat: 38.4915403
+    lng: 139.5211882
+    type: 温泉
+-
+    id: 64
+    name: 岩の湯
+    url: https://sp.yuzawaonsen.com/?page_id=182
+    map: https://maps.google.com/?cid=7789602440864774076&hl=ja
+    address: 新潟県南魚沼郡湯沢町土樽6191-87
+    price: 500
+    lat: 36.91672
+    lng: 138.8380047
+    type: 共同浴場・銭湯
+-
+    id: 65
+    name: 糸魚川クアリゾート ひすいの湯
+    url: 
+    map: https://maps.google.com/?cid=17201954152300365850&hl=ja
+    address: 新潟県糸魚川市大野298-1
+    price: 1000
+    lat: 37.0206228
+    lng: 137.8573828
+    type: 温泉
+-
+    id: 66
+    name: 御神楽温泉 みかぐら荘
+    url: 
+    map: https://maps.google.com/?cid=5009753995917649870&hl=ja
+    address: 新潟県東蒲原郡阿賀町広谷乙2088
+    price: 500
+    lat: 37.6003925
+    lng: 139.4257909
+    type: 温泉
+-
+    id: 67
+    name: 小松湯
+    url: http://niigata268.com/public_bath/%E5%B0%8F%E6%9D%BE%E6%B9%AF-2/
+    map: https://maps.google.com/?cid=1379453941153978937&hl=ja
+    address: 新潟県新潟市東区秋葉通2-3722-12
+    price: 420
+    lat: 37.941351
+    lng: 139.0797631
+    type: 銭湯
+-
+    id: 68
+    name: 杉野沢温泉 苗名の湯
+    url: https://www.myoko.tv/spots/30
+    map: https://maps.google.com/?cid=9812909264118779149&hl=ja
+    address: 新潟県妙高市杉野沢
+    price: 450
+    lat: 36.8563337
+    lng: 138.0754717
+    type: 温泉
+-
+    id: 69
+    name: 新潟県立柏崎アクアパーク
+    url: http://aqua.ksz.or.jp/
+    map: https://maps.google.com/?cid=4429475071681120187&hl=ja
+    address: 新潟県柏崎市学校町6-73
+    price: 430
+    lat: 37.3731342
+    lng: 138.5525142
+    type: 温泉
+-
+    id: 70
+    name: 塩の湯温泉 サンセット中条
+    url: http://www.city.tainai.niigata.jp/sangyo/kanko/shionoyu.html
+    map: https://maps.google.com/?cid=18259117531279455750&hl=ja
+    address: 新潟県胎内市村松浜840-8
+    price: 350
+    lat: 38.0539455
+    lng: 139.3233575
+    type: 温泉
+-
+    id: 71
+    name: 金城の里
+    url: 
+    map: https://maps.google.com/?cid=13543134699520832312&hl=ja
+    address: 新潟県南魚沼市島新田764-2
+    price: 350
+    lat: 37.0383673
+    lng: 138.8651755
+    type: 温泉
+-
+    id: 72
+    name: 越後とちお温泉 おいらこの湯
+    url: https://www.city.nagaoka.niigata.jp/shisetsu/fukushi/oirakonoyu.html
+    map: https://maps.google.com/?cid=4223445081825590047&hl=ja
+    address: 新潟県長岡市赤谷179-2
+    price: 400
+    lat: 37.4503222
+    lng: 139.0125728
+    type: 温泉
+-
+    id: 73
+    name: じょんのび温泉 楽寿の湯
+    url: http://www.jon-nobi.com/
+    map: https://maps.google.com/?cid=14365379382548126856&hl=ja
+    address: 新潟県柏崎市高柳町高尾10-1
+    price: 600
+    lat: 37.2130191
+    lng: 138.6334084
+    type: 温泉
+-
+    id: 74
+    name: ゆきだるま温泉 雪の湯
+    url: https://www.yukidaruma-kogen.com/spa.html
+    map: https://maps.google.com/?cid=12302977881203896323&hl=ja
+    address: 新潟県上越市安塚区須川
+    price: 600
+    lat: 37.0553796
+    lng: 138.4876298
+    type: 温泉
+-
+    id: 75
+    name: いいでの湯
+    url: http://niigata268.com/public_bath/%E3%81%84%E3%81%84%E3%81%A7%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=14973690437516501978&hl=ja
+    address: 新潟県新発田市大栄町1-5-1
+    price: 420
+    lat: 37.9476903
+    lng: 139.3244044
+    type: 銭湯
+-
+    id: 76
+    name: 塩の湯温泉 ふれあい館
+    url: http://www.city.tainai.niigata.jp/sangyo/kanko/shionoyu.html
+    map: https://maps.google.com/?cid=16925325731244197459&hl=ja
+    address: 新潟県胎内市村松浜840-8
+    price: 350
+    lat: 38.0539455
+    lng: 139.3233575
+    type: 温泉
+-
+    id: 77
+    name: 千鳥湯
+    url: http://niigata268.com/public_bath/%E5%8D%83%E9%B3%A5%E6%B9%AF/
+    map: https://maps.google.com/?cid=9932085378872120846&hl=ja
+    address: 新潟県新潟市中央区西湊町通3-3310
+    price: 420
+    lat: 37.9299423
+    lng: 139.0532464
+    type: 銭湯
+-
+    id: 78
+    name: 神泉の湯
+    url: http://shinsennoyu.com/
+    map: https://maps.google.com/?cid=7786824768761929558&hl=ja
+    address: 新潟県南魚沼郡湯沢町神立七谷切3448
+    price: 600
+    lat: 36.9205048
+    lng: 138.8074465
+    type: 温泉
+-
+    id: 79
+    name: 新潟市岩室健康増進センター よりなれ
+    url: http://yorinare.com/
+    map: https://maps.google.com/?cid=3381700439878040347&hl=ja
+    address: 新潟県新潟市西蒲区石瀬3331
+    price: 500
+    lat: 37.7308252
+    lng: 138.837087
+    type: 温泉
+-
+    id: 80
+    name: 雲母温泉 上関共同浴場
+    url: http://www.sekikawa-kankou.com/onsen/common/entry-43.html
+    map: https://maps.google.com/?cid=5146674836236667066&hl=ja
+    address: 新潟県岩船郡関川村上関5-47
+    price: 100
+    lat: 38.0887089
+    lng: 139.5709465
+    type: 共同浴場・銭湯
+-
+    id: 81
+    name: 越後の里親鸞聖人 西方の湯
+    url: 
+    map: https://maps.google.com/?cid=5842353433925450872&hl=ja
+    address: 新潟県胎内市中村浜2-29
+    price: 500
+    lat: 38.0721653
+    lng: 139.3423043
+    type: 温泉
+-
+    id: 82
+    name: 畑野温泉保養センター 松泉閣
+    url: https://sadoonsen.jp/facilities/201-2/
+    map: https://maps.google.com/?cid=15762499209476185390&hl=ja
+    address: 新潟県佐渡市栗野江1810-4
+    price: 500
+    lat: 37.9973391
+    lng: 138.4059968
+    type: 温泉
+-
+    id: 83
+    name: ビジョンよしだ
+    url: http://vision-yoshida.com/
+    map: https://maps.google.com/?cid=7616160448332657195&hl=ja
+    address: 新潟県燕市吉田本所153-1
+    price: 700
+    lat: 37.6992437
+    lng: 138.8797281
+    type: 温泉
+-
+    id: 84
+    name: 華報寺共同浴場
+    url: https://gozu.jp/2018/02/20/kahouzi_baths/
+    map: https://maps.google.com/?cid=5270948292391258664&hl=ja
+    address: 新潟県阿賀野市出湯794
+    price: 250
+    lat: 37.8181034
+    lng: 139.3014147
+    type: 共同浴場・銭湯
+-
+    id: 85
+    name: 新発田市豊浦福祉センター ほうづきの里
+    url: http://www.shibata-shakyo.or.jp/about/shisetsu/hoduki.html
+    map: https://maps.google.com/?cid=15605496578475470614&hl=ja
+    address: 新潟県新発田市月岡温泉727-1
+    price: 600
+    lat: 37.8831712
+    lng: 139.3086227
+    type: 温泉
+-
+    id: 86
+    name: 桂温泉
+    url: 
+    map: https://maps.google.com/?cid=4177182803954951355&hl=ja
+    address: 新潟県長岡市桂町1527
+    price: 600
+    lat: 37.4836949
+    lng: 138.9212832
+    type: 温泉
+-
+    id: 87
+    name: 宿場の湯
+    url: https://sp.yuzawaonsen.com/?page_id=212
+    map: https://maps.google.com/?cid=14336661404575960027&hl=ja
+    address: 新潟県南魚沼郡湯沢町三国537
+    price: 600
+    lat: 36.8433286
+    lng: 138.7789685
+    type: 温泉
+-
+    id: 88
+    name: 銀山平温泉 白銀の湯
+    url: https://www.iine-uonuma.jp/stay/higaeri_onsen/spa_shirogane.html
+    map: https://maps.google.com/?cid=10367660908926000371&hl=ja
+    address: 新潟県魚沼市銀山平
+    price: 650
+    lat: 37.1353161
+    lng: 139.1415419
+    type: 温泉
+-
+    id: 89
+    name: 妙高高原 共同浴場 大湯
+    url: 
+    map: https://maps.google.com/?cid=4282121064806956680&hl=ja
+    address: 新潟県妙高市関川680-12
+    price: 350
+    lat: 36.8656225
+    lng: 138.2047811
+    type: 共同浴場・銭湯
+-
+    id: 90
+    name: 湯之谷交流センター ユピオ
+    url: http://ooyu-yupio.com/
+    map: https://maps.google.com/?cid=17733798260225855311&hl=ja
+    address: 新潟県魚沼市大湯温泉182-1
+    price: 500
+    lat: 37.1972436
+    lng: 139.0777234
+    type: 温泉
+-
+    id: 91
+    name: 江神共同浴場
+    url: http://yuzawa.koiwazurai.com/yuzawaonsen_egami.html
+    map: https://maps.google.com/?cid=4233311921762890283&hl=ja
+    address: 新潟県南魚沼郡湯沢町湯沢1-1-8
+    price: 400
+    lat: 36.9370149
+    lng: 138.8115132
+    type: 共同浴場・銭湯
+-
+    id: 92
+    name: 妙高高原ふれあい会館
+    url: http://www.city.myoko.niigata.jp/introhealthcare/50.html
+    map: https://maps.google.com/?cid=527133398009736044&hl=ja
+    address: 新潟県妙高市関川2400-7
+    price: 450
+    lat: 36.872054
+    lng: 138.186159
+    type: 温泉
+-
+    id: 93
+    name: 松ヶ峯温泉 ひばり荘
+    url: https://hibahiba2015.jimdofree.com/
+    map: https://maps.google.com/?cid=3294451508168998163&hl=ja
+    address: 新潟県上越市中郷区江口1003-1
+    price: 620
+    lat: 36.9474094
+    lng: 138.2141243
+    type: 温泉
+-
+    id: 94
+    name: 宝珠温泉 あかまつ荘
+    url: http://www.city.agano.niigata.jp/site/kankou/69.html
+    map: https://maps.google.com/?cid=3931907617204579509&hl=ja
+    address: 新潟県阿賀野市草水1136-2
+    price: 500
+    lat: 37.7676859
+    lng: 139.2631094
+    type: 温泉
+-
+    id: 95
+    name: クアハウス津南
+    url: http://tsunan.net/
+    map: https://maps.google.com/?cid=16507005088773749356&hl=ja
+    address: 新潟県中魚沼郡津南町芦ケ崎乙203
+    price: 500
+    lat: 37.0040957
+    lng: 138.635776
+    type: 温泉
+-
+    id: 96
+    name: 朝日きれい館
+    url: http://www.asahimidori.com/kireikan/
+    map: https://maps.google.com/?cid=3160035073046221536&hl=ja
+    address: 新潟県村上市猿沢2601
+    price: 500
+    lat: 38.2830339
+    lng: 139.523804
+    type: 温泉
+-
+    id: 97
+    name: 湯沢温泉 湯沢共同浴場
+    url: http://www.sekikawa-kankou.com/onsen/common/entry-44.html
+    map: https://maps.google.com/?cid=1081137010240877312&hl=ja
+    address: 新潟県岩船郡関川村湯沢
+    price: 200
+    lat: 38.099359
+    lng: 139.5956914
+    type: 共同浴場・銭湯
+-
+    id: 98
+    name: 金井温泉 金北の里
+    url: 
+    map: https://maps.google.com/?cid=4290002114864721506&hl=ja
+    address: 新潟県佐渡市中興乙2822-1
+    price: 500
+    lat: 38.028629
+    lng: 138.358374
+    type: 温泉
+-
+    id: 99
+    name: 天然温泉 熊と森の湯
+    url: https://aopoco.com/kuma-to-morinoyu.html
+    map: https://maps.google.com/?cid=15787899510989879810&hl=ja
+    address: 新潟県阿賀野市畑江320
+    price: 500
+    lat: 37.8230005
+    lng: 139.2941585
+    type: 温泉
+-
+    id: 100
+    name: スカイトピア遊ランド
+    url: http://yuuland.jp/
+    map: https://maps.google.com/?cid=2098665043044981556&hl=ja
+    address: 新潟県上越市吉川区坪野1458-2
+    price: 420
+    lat: 37.2082347
+    lng: 138.4860334
+    type: 温泉
+-
+    id: 101
+    name: エコトピア寿
+    url: http://www.ecotopia.bz/
+    map: https://maps.google.com/?cid=8875425081809965534&hl=ja
+    address: 新潟県長岡市寿3-6-30
+    price: 500
+    lat: 37.4864327
+    lng: 138.8552183
+    type: 温泉
+-
+    id: 102
+    name: クアテルメ佐渡 羽茂温泉
+    url: http://hamochionsen.com/
+    map: https://maps.google.com/?cid=1878095390864890697&hl=ja
+    address: 新潟県佐渡市羽茂飯岡170-1
+    price: 500
+    lat: 37.8595814
+    lng: 138.3299088
+    type: 温泉
+-
+    id: 103
+    name: おと姫の湯
+    url: http://www.vill.awashimaura.lg.jp/sightseeing/hot-spring-resort/
+    map: https://maps.google.com/?cid=18297289115326443188&hl=ja
+    address: 新潟県岩船郡粟島浦村日ノ見山1513-20
+    price: 500
+    lat: 38.4687521
+    lng: 139.2549858
+    type: 温泉
+-
+    id: 104
+    name: 亀田清掃センター 田舟の里
+    url: http://www.atagosyoji.co.jp/tabunenosato/tabunenosato.html
+    map: https://maps.google.com/?cid=12038506561176247418&hl=ja
+    address: 新潟県新潟市江南区亀田1835-1
+    price: 200
+    lat: 37.8823363
+    lng: 139.0955383
+    type: 温泉
+-
+    id: 105
+    name: 新樽ヶ橋温泉 クアハウスたいない
+    url: http://tainai.info/kuahaus_tainai/
+    map: https://maps.google.com/?cid=9712849390689527828&hl=ja
+    address: 新潟県胎内市下赤谷387-16
+    price: 520
+    lat: 38.0641219
+    lng: 139.4517436
+    type: 温泉
+-
+    id: 106
+    name: 須田コミュニティセンター
+    url: http://www.city.kamo.niigata.jp/section/oshiraseban/komisen/sudakomi.htm
+    map: https://maps.google.com/?cid=10760205908296181437&hl=ja
+    address: 新潟県加茂市前須田1-1
+    price: 100
+    lat: 37.6883711
+    lng: 139.0065952
+    type: 共同浴場・銭湯
+-
+    id: 107
+    name: 雲母共同浴場
+    url: http://www.sekikawa-kankou.com/onsen/common/entry-42.html
+    map: https://maps.google.com/?cid=15819782638317677524&hl=ja
+    address: 新潟県岩船郡関川村上関314-1
+    price: 100
+    lat: 38.0894013
+    lng: 139.564965
+    type: 共同浴場・銭湯
+-
+    id: 108
+    name: リバーサイド津南
+    url: https://tsunan.info/riversidetsunan-2/
+    map: https://maps.google.com/?cid=13008012943537934565&hl=ja
+    address: 新潟県中魚沼郡津南町外丸丁1921-1
+    price: 500
+    lat: 37.0280366
+    lng: 138.6406803
+    type: 温泉
+-
+    id: 109
+    name: 旭湯
+    url: http://niigata268.com/public_bath/%E6%97%AD%E6%B9%AF/
+    map: https://maps.google.com/?cid=1750078769789356930&hl=ja
+    address: 新潟県新潟市西区内野町1072-2
+    price: 420
+    lat: 37.8562141
+    lng: 138.9369888
+    type: 銭湯
+-
+    id: 110
+    name: 寿和温泉
+    url: https://www.iine-uonuma.jp/stay/higaeri_onsen/spa_suwa.html
+    map: https://maps.google.com/?cid=8894325824021566309&hl=ja
+    address: 新潟県魚沼市穴沢20
+    price: 700
+    lat: 37.3625798
+    lng: 139.0655914
+    type: 温泉
+-
+    id: 111
+    name: ほっとランド
+    url: http://www.city.myoko.niigata.jp/introtourism/81.html
+    map: https://maps.google.com/?cid=6000705411756218832&hl=ja
+    address: 新潟県妙高市高柳972-1
+    price: 400
+    lat: 37.040816
+    lng: 138.2660343
+    type: 温泉
+-
+    id: 112
+    name: 赤倉温泉 大野天風呂 滝の湯
+    url: https://www.myoko.tv/spots/11
+    map: https://maps.google.com/?cid=17936277564841342184&hl=ja
+    address: 新潟県妙高市赤倉
+    price: 500
+    lat: 36.8922219
+    lng: 138.1771637
+    type: 温泉
+-
+    id: 113
+    name: コマクサの湯
+    url: https://www.pref.niigata.lg.jp/site/minamiuonuma-miryoku/1294724209493.html
+    map: https://maps.google.com/?cid=9687045778631633899&hl=ja
+    address: 新潟県南魚沼郡湯沢町湯沢490
+    price: 500
+    lat: 36.9377277
+    lng: 138.7902543
+    type: 温泉
+-
+    id: 114
+    name: 花立温泉 ろばた館
+    url: https://niigata-kankou.or.jp/spot/11629
+    map: https://maps.google.com/?cid=4001936049767509098&hl=ja
+    address: 新潟県上越市名立区西蒲生田155
+    price: 400
+    lat: 37.0860489
+    lng: 138.0998896
+    type: 温泉
+-
+    id: 115
+    name: 塩之入温泉 志保の里荘
+    url: http://www.nagaoka-shakyo.or.jp/%E6%96%BD%E8%A8%AD%E7%B4%B9%E4%BB%8B/%E5%BF%97%E4%BF%9D%E3%81%AE%E9%87%8C%E8%8D%98/
+    map: https://maps.google.com/?cid=17323554563487600159&hl=ja
+    address: 新潟県長岡市与板町本与板2380-1
+    price: 500
+    lat: 37.555948
+    lng: 138.8083378
+    type: 温泉
+-
+    id: 116
+    name: 亀徳泉
+    url: https://kitokusen.com
+    map: https://maps.google.com/?cid=5709588518723417185&hl=ja
+    address: 新潟県五泉市刈羽乙1360
+    price: 500
+    lat: 37.6834431
+    lng: 139.1048193
+    type: 温泉
+-
+    id: 117
+    name: かのせ温泉 杖忘れの湯 赤湯
+    url: https://www.aka-yu.com/
+    map: https://maps.google.com/?cid=12638862642671385929&hl=ja
+    address: 新潟県東蒲原郡阿賀町鹿瀬11540-1
+    price: 500
+    lat: 37.7125411
+    lng: 139.462515
+    type: 温泉
+-
+    id: 118
+    name: 養楽館 延命の湯
+    url: https://www.ogurin-park.com/
+    map: https://maps.google.com/?cid=3849179779867273955&hl=ja
+    address: 新潟県長岡市小国町小国沢2531
+    price: 400
+    lat: 37.2806665
+    lng: 138.7151497
+    type: 温泉
+-
+    id: 119
+    name: 仙道温泉 湯林荘
+    url: http://niigata268.com/public_bath/%E4%BB%99%E9%81%93%E6%B8%A9%E6%B3%89/
+    map: https://maps.google.com/?cid=9546206112726991080&hl=ja
+    address: 新潟県佐渡市栗野江1301-1
+    price: 420
+    lat: 37.9977377
+    lng: 138.4086116
+    type: 銭湯
+-
+    id: 120
+    name: 下条コミュニティセンター
+    url: http://www.city.kamo.niigata.jp/section/oshiraseban/komisen/gekomi.htm
+    map: https://maps.google.com/?cid=13404275229433831391&hl=ja
+    address: 新潟県加茂市中村6-17
+    price: 100
+    lat: 37.6529546
+    lng: 139.0427502
+    type: 共同浴場・銭湯
+-
+    id: 121
+    name: 千代乃湯
+    url: http://niigata268.com/public_bath/%E5%8D%83%E4%BB%A3%E4%B9%83%E6%B9%AF/
+    map: https://maps.google.com/?cid=18268848182022460981&hl=ja
+    address: 新潟県新潟市中央区沼垂東4-12-3
+    price: 420
+    lat: 37.923183
+    lng: 139.0680902
+    type: 銭湯
+-
+    id: 122
+    name: いずみ湯
+    url: http://niigata268.com/public_bath/%E3%81%84%E3%81%9A%E3%81%BF%E6%B9%AF/
+    map: https://maps.google.com/?cid=16465131088768517743&hl=ja
+    address: 新潟県新潟市中央区本町通二番町179
+    price: 420
+    lat: 37.9154933
+    lng: 139.0426648
+    type: 銭湯
+-
+    id: 123
+    name: 保健福祉総合センター ふれあいの里
+    url: http://www.town.izumozaki.niigata.jp/shisetsu/public/fureainosato.html
+    map: https://maps.google.com/?cid=13732694493401918517&hl=ja
+    address: 新潟県三島郡出雲崎町大門394-1
+    price: 200
+    lat: 37.5379949
+    lng: 138.7164606
+    type: 温泉
+-
+    id: 124
+    name: 老人福祉センター 黒埼荘
+    url: http://www.city.niigata.lg.jp/nishi/shisetsu/fukushi/koreisya/rojinkurosaki.html
+    map: https://maps.google.com/?cid=6177458995353740024&hl=ja
+    address: 新潟県新潟市西区緒立流通2-4-1
+    price: 450
+    lat: 37.8573826
+    lng: 138.9857979
+    type: 温泉
+-
+    id: 125
+    name: 新潟市潟東ゆう学館
+    url: http://www.city.niigata.lg.jp/nishikan/shisetsu/manabi/shiminkaikan/katahigashiyu.html
+    map: https://maps.google.com/?cid=16886934995054404008&hl=ja
+    address: 新潟県新潟市西蒲区三方10
+    price: 500
+    lat: 37.7683628
+    lng: 138.9652385
+    type: 温泉
+-
+    id: 126
+    name: 栃窪温泉 あばれ井戸の湯
+    url: 
+    map: https://maps.google.com/?cid=10892081643417388423&hl=ja
+    address: 新潟県上越市柿崎区栃窪下林819
+    price: 500
+    lat: 37.2781338
+    lng: 138.4395933
+    type: 温泉
+-
+    id: 127
+    name: さわたコミュニティーセンター ビューさわた
+    url: https://niigata-kankou.or.jp/spot/11443
+    map: https://maps.google.com/?cid=11379532275916973386&hl=ja
+    address: 新潟県佐渡市中原244-2
+    price: 400
+    lat: 38.0096538
+    lng: 138.3189807
+    type: 温泉
+-
+    id: 128
+    name: 星乃湯
+    url: http://niigata268.com/public_bath/%E6%98%9F%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=17928035541216321658&hl=ja
+    address: 新潟県佐渡市両津夷新9
+    price: 420
+    lat: 38.0866591
+    lng: 138.4316516
+    type: 共同浴場・銭湯
+-
+    id: 129
+    name: 虹の里交流館
+    url: http://www.shibata-kouiki.jp/s-kouiki/HPNEW26/haikibutu/nijinosato_sisetu/nijinosato_sisetu.html
+    map: https://maps.google.com/?cid=9328896707232486240&hl=ja
+    address: 新潟県新発田市藤掛639-1
+    price: 200
+    lat: 37.9200897
+    lng: 139.3319036
+    type: 温泉
+-
+    id: 130
+    name: やひこ桜井郷温泉 高齢者総合生活支援センター
+    url: http://www.vill.yahiko.niigata.jp/facilites/facilities_rest/
+    map: https://maps.google.com/?cid=13497609905241934863&hl=ja
+    address: 新潟県西蒲原郡弥彦村麓7039
+    price: 300
+    lat: 37.6828723
+    lng: 138.8225296
+    type: 温泉
+-
+    id: 131
+    name: 七谷コミュニティセンター
+    url: http://www.city.kamo.niigata.jp/section/oshiraseban/komisen/nanakomi.htm
+    map: https://maps.google.com/?cid=7198109245950722437&hl=ja
+    address: 新潟県加茂市下大谷1045-1
+    price: 100
+    lat: 37.6231403
+    lng: 139.1046882
+    type: 共同浴場・銭湯
+-
+    id: 132
+    name: 老人憩の家 心起園
+    url: http://www.town.tagami.niigata.jp/living/se/se05.html
+    map: https://maps.google.com/?cid=6176280921496548969&hl=ja
+    address: 新潟県南蒲原郡田上町田上丙1189
+    price: 400
+    lat: 37.7119994
+    lng: 139.0726856
+    type: 共同浴場・銭湯
+-
+    id: 133
+    name: 大平やすらぎ館
+    url: http://www.greenmessenou.com/日帰り温泉/
+    map: https://maps.google.com/?cid=8890258389013120186&hl=ja
+    address: 新潟県糸魚川市島道1302-2
+    price: 500
+    lat: 37.0632018
+    lng: 138.036384
+    type: 温泉
+-
+    id: 134
+    name: 舞平清掃センター附属休憩所
+    url: https://www.city.niigata.lg.jp/konan/shisetsu/yoka/maihirakyukei.html
+    map: https://maps.google.com/?cid=13284134048145922068&hl=ja
+    address: 新潟県新潟市江南区平賀161-1
+    price: 100
+    lat: 37.8462798
+    lng: 139.0427075
+    type: 温泉
+-
+    id: 135
+    name: 魚沼市 守門高齢者センター
+    url: https://www.city.uonuma.niigata.jp/docs/2015012100141/
+    map: https://maps.google.com/?cid=8512471580447971568&hl=ja
+    address: 新潟県魚沼市西名新田485
+    price: 700
+    lat: 37.3570103
+    lng: 139.0374716
+    type: 温泉
+-
+    id: 136
+    name: ユートピアくびき希望館
+    url: https://www.city.joetsu.niigata.jp/soshiki/kubiki-ku/sisetu-syukai-kubiki.html
+    map: https://maps.google.com/?cid=18178028897339054583&hl=ja
+    address: 新潟県上越市頸城区百問町716
+    price: 400
+    lat: 37.1883502
+    lng: 138.3267286
+    type: 温泉
+-
+    id: 137
+    name: 田上町老人福祉センター
+    url: http://www.town.tagami.niigata.jp/living/se/se05.html
+    map: https://maps.google.com/?cid=14368361233700157116&hl=ja
+    address: 新潟県南蒲原郡田上町大字川船河甲885-1
+    price: 400
+    lat: 37.67912
+    lng: 139.057551
+    type: 共同浴場・銭湯
+-
+    id: 138
+    name: 上越市 市民いこいの家
+    url: https://niigata-bs.sakura.ne.jp/si/ikoi/
+    map: https://maps.google.com/?cid=6843185198488529299&hl=ja
+    address: 新潟県上越市石橋1-1-3
+    price: 360
+    lat: 37.1669109
+    lng: 138.237625
+    type: 温泉
+-
+    id: 139
+    name: 釜ぶたの湯
+    url: http://hidakk.co.jp/kamabutanoyu/
+    map: https://maps.google.com/?cid=10745349395325740297&hl=ja
+    address: 新潟県上越市大和5-4
+    price: 420
+    lat: 37.0811662
+    lng: 138.2452968
+    type: 温泉
+-
+    id: 140
+    name: 荒川いこいの家
+    url: https://www.city.murakami.lg.jp/site/koureisya-fukushi/arakawa-ikoinoie.html
+    map: https://maps.google.com/?cid=14066917541624260980&hl=ja
+    address: 新潟県岩船郡関川村大字湯沢697
+    price: 500
+    lat: 38.0958285
+    lng: 139.577391
+    type: 共同浴場・銭湯
+-
+    id: 141
+    name: SPAガーラの湯
+    url: https://gala.co.jp/winter/facilities
+    map: https://maps.google.com/?cid=13523977600425897648&hl=ja
+    address: 新潟県南魚沼郡湯沢町湯沢茅平1039-2
+    price: 1300
+    lat: 36.950732
+    lng: 138.79954
+    type: 温泉
+-
+    id: 142
+    name: 宮島の湯
+    url: http://niigata268.com/public_bath/%E5%AE%AE%E5%B3%B6%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=771073076750779205&hl=ja
+    address: 新潟県三条市田島2-12-2
+    price: 420
+    lat: 37.6253166
+    lng: 138.9675614
+    type: 銭湯
+-
+    id: 143
+    name: 中之口老人福祉センター やすらぎの湯
+    url: https://www.city.niigata.lg.jp/smph/nishikan/shisetsu/fukushi/koreisya/nakanokuchirojin.html
+    map: https://maps.google.com/?cid=8135273584783163865&hl=ja
+    address: 新潟県新潟市西蒲区南福島323
+    price: 450
+    lat: 37.725179
+    lng: 138.9607585
+    type: 温泉
+-
+    id: 144
+    name: 南魚沼市大和老人福祉センター 湯咲荘
+    url: http://www.city.minamiuonuma.niigata.jp/kenkou/kaigo/koureisha/hukusisenta/1455423632320.html
+    map: https://maps.google.com/?cid=17860490643926306622&hl=ja
+    address: 新潟県南魚沼市大崎594-9
+    price: 900
+    lat: 37.1376643
+    lng: 138.9361974
+    type: 共同浴場・銭湯
+-
+    id: 145
+    name: 高齢者憩いの家 松寿荘
+    url: 
+    map: https://maps.google.com/?cid=739296573704694623&hl=ja
+    address: 新潟県十日町市松之山天水越775
+    price: 500
+    lat: 37.0448394
+    lng: 138.5741425
+    type: 温泉
+-
+    id: 146
+    name: 小松湯
+    url: http://niigata268.com/public_bath/%E5%B0%8F%E6%9D%BE%E6%B9%AF/
+    map: https://maps.google.com/?cid=9954612183432391398&hl=ja
+    address: 新潟県新潟市江南区亀田新明町2-6-24
+    price: 420
+    lat: 37.8665201
+    lng: 139.109345
+    type: 銭湯
+-
+    id: 147
+    name: 秋葉湯
+    url: http://niigata268.com/public_bath/%E7%A7%8B%E8%91%89%E6%B9%AF/
+    map: https://maps.google.com/?cid=14280724627709925762&hl=ja
+    address: 新潟県新潟市東区北葉町10-17
+    price: 420
+    lat: 37.939156
+    lng: 139.0765422
+    type: 銭湯
+-
+    id: 148
+    name: 玉宅湯
+    url: http://niigata268.com/public_bath/玉宅湯/
+    map: https://maps.google.com/?cid=13037013197392672524&hl=ja
+    address: 新潟県燕市宮町4453
+    price: 420
+    lat: 37.6641152
+    lng: 138.9265977
+    type: 銭湯
+-
+    id: 149
+    name: 有馬湯
+    url: http://niigata268.com/public_bath/%E6%9C%89%E9%A6%AC%E6%B9%AF/
+    map: https://maps.google.com/?cid=8359415085748050314&hl=ja
+    address: 新潟県新潟市中央区白山浦1-417
+    price: 420
+    lat: 37.9157923
+    lng: 139.0350123
+    type: 銭湯
+-
+    id: 150
+    name: 泉乃湯
+    url: http://niigata268.com/public_bath/%E6%B3%89%E4%B9%83%E6%B9%AF/
+    map: https://maps.google.com/?cid=12648834772179986505&hl=ja
+    address: 新潟県三条市林町1-6-18
+    price: 420
+    lat: 37.6299697
+    lng: 138.9648715
+    type: 銭湯
+-
+    id: 151
+    name: さか井湯
+    url: http://niigata268.com/public_bath/%E3%81%95%E3%81%8B%E4%BA%95%E6%B9%AF/
+    map: https://maps.google.com/?cid=9318945282878929141&hl=ja
+    address: 新潟県新潟市中央区沼垂東2-11-4
+    price: 420
+    lat: 37.9195533
+    lng: 139.0695059
+    type: 銭湯

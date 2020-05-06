@@ -1,0 +1,521 @@
+---
+-
+    id: 1
+    name: まちなか健康銭湯 ちどり湯
+    url: https://r.goope.jp/chidoriyu
+    map: https://maps.google.com/?cid=13652265446433327302&hl=ja
+    address: 島根県松江市千鳥町83
+    price: 350
+    lat: 35.4661978
+    lng: 133.0435472
+    type: 銭湯
+-
+    id: 2
+    name: 道の駅 津和野温泉 なごみの里 あさぎりの湯
+    url: http://nagomi-nosato.com/
+    map: https://maps.google.com/?cid=16129397268129348549&hl=ja
+    address: 島根県鹿足郡津和野町鷲原イ257
+    price: 610
+    lat: 34.450345
+    lng: 131.7581591
+    type: 温泉
+-
+    id: 3
+    name: 温泉津温泉 薬師湯
+    url: https://www.yunotsu.com/
+    map: https://maps.google.com/?cid=13406800686823501951&hl=ja
+    address: 島根県大田市温泉津町温泉津ロ7-1
+    price: 500
+    lat: 35.09638
+    lng: 132.349531
+    type: 温泉
+-
+    id: 4
+    name: 玉造温泉 ゆ～ゆ
+    url: http://www.tama-yuuyu.com/
+    map: https://maps.google.com/?cid=4734693830580755746&hl=ja
+    address: 島根県松江市玉湯町玉造255
+    price: 500
+    lat: 35.4171996
+    lng: 133.0103417
+    type: 温泉
+-
+    id: 5
+    name: いずも縁結び温泉 ゆらり
+    url: http://yurari-izumo.jp/
+    map: https://maps.google.com/?cid=14481458743149640436&hl=ja
+    address: 島根県出雲市平田町7178
+    price: 600
+    lat: 35.4405583
+    lng: 132.8231875
+    type: 温泉
+-
+    id: 6
+    name: 出雲駅前温泉 らんぷの湯
+    url: http://ranpu-no-yu.com/
+    map: https://maps.google.com/?cid=4939638713907181329&hl=ja
+    address: 島根県出雲市駅南町1-3-3
+    price: 720
+    lat: 35.3602069
+    lng: 132.7564449
+    type: 温泉
+-
+    id: 7
+    name: 湯屋温泉 リフレパークきんたの里
+    url: https://kintanosato.com/onsen/
+    map: https://maps.google.com/?cid=5958115770610791404&hl=ja
+    address: 島根県浜田市金城町七条イ980-1
+    price: 600
+    lat: 34.862696
+    lng: 132.161748
+    type: 温泉
+-
+    id: 8
+    name: 美都温泉 湯元館
+    url: http://mito-onsen.com/
+    map: https://maps.google.com/?cid=4861342044485456789&hl=ja
+    address: 島根県益田市美都町宇津川ロ630-3
+    price: 500
+    lat: 34.6880556
+    lng: 132.0244444
+    type: 温泉
+-
+    id: 9
+    name: 松江市温泉施設 鹿島 多久の湯
+    url: https://www.takunoyu.jp/
+    map: https://maps.google.com/?cid=1924179802876100952&hl=ja
+    address: 島根県松江市鹿島町北講武885-7
+    price: 410
+    lat: 35.5217185
+    lng: 133.0266562
+    type: 温泉
+-
+    id: 10
+    name: 出雲いりすの丘 ひかわ美人の湯
+    url: http://www.mishimane.co.jp/16.html
+    map: https://maps.google.com/?cid=1974538437236367362&hl=ja
+    address: 島根県出雲市斐川町学頭3646-1
+    price: 600
+    lat: 35.3869513
+    lng: 132.8737802
+    type: 温泉
+-
+    id: 11
+    name: 多伎いちじく温泉
+    url: http://www.kirara-taki.co.jp/onsen/index.php
+    map: https://maps.google.com/?cid=288709382283345533&hl=ja
+    address: 島根県出雲市多伎町久村654
+    price: 600
+    lat: 35.2927886
+    lng: 132.6462395
+    type: 温泉
+-
+    id: 12
+    name: 夢ランドしらさぎ
+    url: http://www.yumeshirasagi.or.jp/
+    map: https://maps.google.com/?cid=8739194225674816887&hl=ja
+    address: 島根県安来市古川町835
+    price: 520
+    lat: 35.3754834
+    lng: 133.1967629
+    type: 温泉
+-
+    id: 13
+    name: きまち湯治村 大森の湯
+    url: http://www.kimachi.jp/
+    map: https://maps.google.com/?cid=6778880889493809342&hl=ja
+    address: 島根県松江市宍道町上来待210-1
+    price: 410
+    lat: 35.4027513
+    lng: 132.9605848
+    type: 温泉
+-
+    id: 14
+    name: おろち湯ったり館
+    url: https://unnan-ud.com/orochi/
+    map: https://maps.google.com/?cid=6707424393523229234&hl=ja
+    address: 島根県雲南市木次町木次952-4
+    price: 520
+    lat: 35.2852845
+    lng: 132.9078767
+    type: 温泉
+-
+    id: 15
+    name: 日本三大美人の湯 湯の川温泉 四季荘
+    url: http://shikisou.com/
+    map: https://maps.google.com/?cid=11845616497563311672&hl=ja
+    address: 島根県出雲市斐川町学頭1369-1
+    price: 600
+    lat: 35.3819882
+    lng: 132.8741799
+    type: 温泉
+-
+    id: 16
+    name: 温泉津温泉元湯 泉薬湯
+    url: 
+    map: https://maps.google.com/?cid=13464131136663042778&hl=ja
+    address: 島根県大田市温泉津町温泉津ロ208-1
+    price: 370
+    lat: 35.096525
+    lng: 132.3499
+    type: 共同浴場・銭湯
+-
+    id: 17
+    name: 赤来温泉 加田の湯
+    url: https://www.satoyamania.net/spot/sp/2017/08/post-15.html
+    map: https://maps.google.com/?cid=5185921746960466872&hl=ja
+    address: 島根県飯石郡飯南町下来島707-2
+    price: 400
+    lat: 35.0500888
+    lng: 132.7351684
+    type: 温泉
+-
+    id: 18
+    name: 湯谷温泉 弥山荘
+    url: http://ec.shokokai.or.jp/cpsite/32/misensou/index.htm
+    map: https://maps.google.com/?cid=13778204706302582631&hl=ja
+    address: 島根県邑智郡川本町湯谷781-2
+    price: 540
+    lat: 35.0078896
+    lng: 132.4478319
+    type: 温泉
+-
+    id: 19
+    name: 出雲ゆうプラザ
+    url: http://www.city.izumo.shimane.jp/www/contents/1115954047302/index.html
+    map: https://maps.google.com/?cid=13129931753250626942&hl=ja
+    address: 島根県出雲市西新町1-2547-2
+    price: 830
+    lat: 35.33462859999999
+    lng: 132.7232649
+    type: 温泉
+-
+    id: 20
+    name: 佐白温泉 長者の湯
+    url: http://www.chojyanoyu.jp/
+    map: https://maps.google.com/?cid=1493052356208417791&hl=ja
+    address: 島根県仁多郡奥出雲町佐白223-5
+    price: 400
+    lat: 35.2325252
+    lng: 132.986188
+    type: 温泉
+-
+    id: 21
+    name: 木部谷温泉 松乃湯
+    url: https://www.town.yoshika.lg.jp/kankou/onsen/
+    map: https://maps.google.com/?cid=10111504195546600236&hl=ja
+    address: 島根県鹿足郡吉賀町柿木村木部谷530
+    price: 500
+    lat: 34.4285561
+    lng: 131.8946922
+    type: 温泉
+-
+    id: 22
+    name: しっとりつるつる 北山温泉
+    url: https://kitayama-onsen.com
+    map: https://maps.google.com/?cid=15537147602526730751&hl=ja
+    address: 島根県出雲市西林木町61-1
+    price: 600
+    lat: 35.3963228
+    lng: 132.7695509
+    type: 温泉
+-
+    id: 23
+    name: 千原湯谷湯治場
+    url: http://www.chihara-onsen.jp/
+    map: https://maps.google.com/?cid=17923578943317691225&hl=ja
+    address: 島根県邑智郡美郷町千原1070
+    price: 500
+    lat: 35.0843063
+    lng: 132.65002
+    type: 温泉
+-
+    id: 24
+    name: 旭温泉 あさひ荘
+    url: http://asahionsen.net/selected/
+    map: https://maps.google.com/?cid=11932126739593562891&hl=ja
+    address: 島根県浜田市旭町木田954-3
+    price: 500
+    lat: 34.8856372
+    lng: 132.2644528
+    type: 温泉
+-
+    id: 25
+    name: 海潮温泉 桂荘
+    url: http://www.katurasou.jp/
+    map: https://maps.google.com/?cid=15987100446096638722&hl=ja
+    address: 島根県雲南市大東町中湯石204-1
+    price: 300
+    lat: 35.3257418
+    lng: 132.9943518
+    type: 温泉
+-
+    id: 26
+    name: ゴールデンユートピアおおち
+    url: http://utopia.shimane-misato.jp/
+    map: https://maps.google.com/?cid=7037172602947789245&hl=ja
+    address: 島根県邑智郡美郷町粕渕57-1
+    price: 500
+    lat: 35.08147890000001
+    lng: 132.5911198
+    type: 温泉
+-
+    id: 27
+    name: 出雲保養センター 出雲平成温泉
+    url: http://furusato.sanin.jp/p/area/izumo/13/
+    map: https://maps.google.com/?cid=47268469423776299&hl=ja
+    address: 島根県出雲市平成町2320-13
+    price: 500
+    lat: 35.3165562
+    lng: 132.711811
+    type: 温泉
+-
+    id: 28
+    name: 美又温泉 国民保養センター
+    url: https://www.mimataonsen.jp/
+    map: https://maps.google.com/?cid=15137897008532162690&hl=ja
+    address: 島根県浜田市金城町追原32-1
+    price: 500
+    lat: 34.8942221
+    lng: 132.237986
+    type: 温泉
+-
+    id: 29
+    name: 御前湯
+    url: https://gotsu-kanko.jp/gotsuonsen/arifuku#spa
+    map: https://maps.google.com/?cid=5495891420573273817&hl=ja
+    address: 島根県江津市有福温泉町710
+    price: 400
+    lat: 34.9409169
+    lng: 132.200658
+    type: 共同浴場・銭湯
+-
+    id: 30
+    name: 志学薬師 鶴の湯
+    url: https://www.ginzan-wm.jp/spot/1902
+    map: https://maps.google.com/?cid=13316352716685446358&hl=ja
+    address: 島根県大田市三瓶町志学932-1
+    price: 300
+    lat: 35.114676
+    lng: 132.6271519
+    type: 温泉
+-
+    id: 31
+    name: 柿木温泉 はとの湯荘
+    url: http://kakinokimura.shop-pro.jp/?tid=3&mode=f5
+    map: https://maps.google.com/?cid=16293903737178395995&hl=ja
+    address: 島根県鹿足郡吉賀町柿木村柿木81
+    price: 510
+    lat: 34.4366614
+    lng: 131.8669224
+    type: 温泉
+-
+    id: 32
+    name: 美又温泉会館
+    url: https://www.all-iwami.com/spot/detail_1042.html?action=SpotView&spot_id=45
+    map: https://maps.google.com/?cid=11716084837885045860&hl=ja
+    address: 島根県浜田市金城町追原11
+    price: 350
+    lat: 34.8951225
+    lng: 132.2388458
+    type: 温泉
+-
+    id: 33
+    name: 塩ヶ平温泉 掛合まめなかセンター
+    url: https://www.unnan-kankou.jp/contents/spa/83
+    map: https://maps.google.com/?cid=2254305501782278003&hl=ja
+    address: 島根県雲南市掛合町掛合821-1
+    price: 310
+    lat: 35.1908103
+    lng: 132.8206095
+    type: 温泉
+-
+    id: 34
+    name: 湯村温泉元湯 漆仁の湯
+    url: http://www.yunouekan.net/spa.html
+    map: https://maps.google.com/?cid=3210114101070936889&hl=ja
+    address: 島根県雲南市木次町湯村1336
+    price: 450
+    lat: 35.2179896
+    lng: 132.9084913
+    type: 共同浴場・銭湯
+-
+    id: 35
+    name: みとや深谷温泉 ふかたに荘
+    url: http://www.fukatani-sou.com/
+    map: https://maps.google.com/?cid=4796130187250447212&hl=ja
+    address: 島根県雲南市三刀屋町根波別所1591-1
+    price: 300
+    lat: 35.2615136
+    lng: 132.8002186
+    type: 温泉
+-
+    id: 36
+    name: 波多温泉 満壽の湯
+    url: https://www.unnan-kankou.jp/contents/spa/84
+    map: https://maps.google.com/?cid=8957133535975252018&hl=ja
+    address: 島根県雲南市掛合町波多1171-1
+    price: 310
+    lat: 35.1424749
+    lng: 132.7295601
+    type: 温泉
+-
+    id: 37
+    name: いわみ温泉 霧の湯
+    url: http://iwamionsen4.wixsite.com/mysite
+    map: https://maps.google.com/?cid=17448154816940903207&hl=ja
+    address: 島根県邑智郡邑南町矢上8532-2
+    price: 650
+    lat: 34.8743382
+    lng: 132.4215921
+    type: 温泉
+-
+    id: 38
+    name: 隠岐温泉GOKA
+    url: https://www.town.okinoshima.shimane.jp/www/sp/contents/1001000000230/index.html
+    map: https://maps.google.com/?cid=166972591735176567&hl=ja
+    address: 島根県隠岐郡隠岐の島町南方296-1
+    price: 500
+    lat: 36.288623
+    lng: 133.2255886
+    type: 温泉
+-
+    id: 39
+    name: 三瓶温泉 亀の湯
+    url: https://www.ginzan-wm.jp/spot/1904
+    map: https://maps.google.com/?cid=16011181177276405943&hl=ja
+    address: 島根県大田市三瓶町志学ロ357-1
+    price: 300
+    lat: 35.1138175
+    lng: 132.6338903
+    type: 共同浴場・銭湯
+-
+    id: 40
+    name: 広瀬温泉 月山の湯 憩いの家
+    url: http://fureai.shikanosuke.net/gassan/ikoinoie/
+    map: https://maps.google.com/?cid=7590709610236024121&hl=ja
+    address: 島根県安来市広瀬町富田1031-1
+    price: 300
+    lat: 35.3600548
+    lng: 133.1814378
+    type: 温泉
+-
+    id: 41
+    name: 小浜温泉 才市の湯
+    url: https://www.ginzan-wm.jp/spot/1772
+    map: https://maps.google.com/?cid=11842865115601569588&hl=ja
+    address: 島根県大田市温泉津町小浜
+    price: 300
+    lat: 35.08795560000001
+    lng: 132.3520225
+    type: 温泉
+-
+    id: 42
+    name: 安来市 ふれあいプラザ
+    url: http://www.yasugi-kankou.com/index.php?view=5197
+    map: https://maps.google.com/?cid=1959614981907459632&hl=ja
+    address: 島根県安来市古川町848
+    price: 510
+    lat: 35.3751179
+    lng: 133.1971334
+    type: 温泉
+-
+    id: 43
+    name: さつき湯
+    url: https://gotsu-kanko.jp/gotsuonsen/arifuku#spa
+    map: https://maps.google.com/?cid=9959845367543412542&hl=ja
+    address: 島根県江津市有福温泉町687
+    price: 400
+    lat: 34.9400761
+    lng: 132.1992394
+    type: 共同浴場・銭湯
+-
+    id: 44
+    name: 湯屋温泉 子安華湯館
+    url: http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1045
+    map: https://maps.google.com/?cid=8362817250430766697&hl=ja
+    address: 島根県浜田市金城町下来原1425-2
+    price: 500
+    lat: 34.858555
+    lng: 132.166978
+    type: 温泉
+-
+    id: 45
+    name: ホットランドやくも
+    url: http://www.hot-land.jp/
+    map: https://maps.google.com/?cid=7559332549707078650&hl=ja
+    address: 島根県松江市八雲町熊野772-3
+    price: 810
+    lat: 35.3734385
+    lng: 133.0726209
+    type: 温泉
+-
+    id: 46
+    name: 有福温泉 やよい湯
+    url: https://gotsu-kanko.jp/gotsuonsen/arifuku#spa
+    map: https://maps.google.com/?cid=17018622078987125792&hl=ja
+    address: 島根県江津市有福温泉町736-1
+    price: 400
+    lat: 34.9398554
+    lng: 132.2001409
+    type: 共同浴場・銭湯
+-
+    id: 47
+    name: 深野温泉 ケアポートよしだ
+    url: http://www.cpyoshida.jp/refresh
+    map: https://maps.google.com/?cid=10110315842868130814&hl=ja
+    address: 島根県雲南市吉田町深野84-6
+    price: 300
+    lat: 35.2037042
+    lng: 132.9159592
+    type: 温泉
+-
+    id: 48
+    name: 出雲ドーム健康温泉
+    url: http://www.city.izumo.shimane.jp/www/contents/1269844034120/
+    map: https://maps.google.com/?cid=9161815091681036821&hl=ja
+    address: 島根県出雲市矢野町999
+    price: 600
+    lat: 35.381699
+    lng: 132.7407845
+    type: 温泉
+-
+    id: 49
+    name: 上津井温泉 森の銀座
+    url: https://gotsu-kanko.jp/gotsuonsen/kanzui
+    map: https://maps.google.com/?cid=13905718317003011460&hl=ja
+    address: 島根県江津市松川町上津井84
+    price: 350
+    lat: 35.0072233
+    lng: 132.3045932
+    type: 温泉
+-
+    id: 50
+    name: 潮の井ふれあいセンター 潮の井荘
+    url: 
+    map: https://maps.google.com/?cid=14471182100679662733&hl=ja
+    address: 島根県出雲市佐田町須佐749-5
+    price: 100
+    lat: 35.2358426
+    lng: 132.7355001
+    type: 温泉
+-
+    id: 51
+    name: 温泉リゾート 風の国
+    url: https://www.kazenokuni.jp/
+    map: https://maps.google.com/?cid=16860218634523385761&hl=ja
+    address: 島根県江津市桜江町長谷2696
+    price: 600
+    lat: 34.9241589
+    lng: 132.2673635
+    type: 温泉
+-
+    id: 52
+    name: 湖陵福祉センター
+    url: http://ijsc.skr.jp/action/koryo-hukushi
+    map: https://maps.google.com/?cid=18297671132687805497&hl=ja
+    address: 島根県出雲市湖陵町三部1352
+    price: 100
+    lat: 35.3168991
+    lng: 132.6744155
+    type: 共同浴場・銭湯

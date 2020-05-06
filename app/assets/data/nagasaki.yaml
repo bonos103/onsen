@@ -1,0 +1,551 @@
+---
+-
+    id: 1
+    name: 稲佐山温泉 ふくの湯
+    url: http://www.fukunoyu.com/nagasaki/
+    map: https://maps.google.com/?cid=16513374346830674497&hl=ja
+    address: 長崎県長崎市岩見町451-23
+    price: 800
+    lat: 32.767921
+    lng: 129.8534109
+    type: 温泉
+-
+    id: 2
+    name: サンスパおおむら 天然温泉 ゆの華
+    url: http://www.sunspa.jp/spa/
+    map: https://maps.google.com/?cid=3948587278427017725&hl=ja
+    address: 長崎県大村市森園町663-3
+    price: 750
+    lat: 32.9220774
+    lng: 129.9375314
+    type: 温泉
+-
+    id: 3
+    name: はさみ温泉 湯治楼
+    url: http://minami-denen.jp/spa
+    map: https://maps.google.com/?cid=9328925253688331930&hl=ja
+    address: 長崎県東彼杵郡波佐見町長野郷558-3
+    price: 700
+    lat: 33.1150172
+    lng: 129.8689355
+    type: 温泉
+-
+    id: 4
+    name: 雲仙温泉 小地獄温泉館
+    url: http://www.unzen.org/daytrip/detail2.html
+    map: https://maps.google.com/?cid=15855632475808814407&hl=ja
+    address: 長崎県雲仙市小浜町雲仙462
+    price: 460
+    lat: 32.7325738
+    lng: 130.2628061
+    type: 温泉
+-
+    id: 5
+    name: 川棚大崎温泉 しおさいの湯
+    url: http://kankou-kawatana.jp/shiosai/
+    map: https://maps.google.com/?cid=15535503220242695816&hl=ja
+    address: 長崎県東彼杵郡川棚町小串郷237
+    price: 600
+    lat: 33.0558358
+    lng: 129.8247844
+    type: 温泉
+-
+    id: 6
+    name: 天然温泉＆ホットヨガ 諫早もとの湯
+    url: https://www.motonoyu.com/
+    map: https://maps.google.com/?cid=10610883440669013769&hl=ja
+    address: 長崎県諫早市本野町7-1
+    price: 670
+    lat: 32.8865039
+    lng: 130.0240295
+    type: 温泉
+-
+    id: 7
+    name: 雲仙新湯温泉館
+    url: http://www.unzen.org/daytrip/detail3.html
+    map: https://maps.google.com/?cid=1393615036508149926&hl=ja
+    address: 長崎県雲仙市小浜町雲仙320
+    price: 100
+    lat: 32.7379828
+    lng: 130.2627559
+    type: 共同浴場・銭湯
+-
+    id: 8
+    name: ゆりの温泉
+    url: http://www.yurino-onsen.co.jp/
+    map: https://maps.google.com/?cid=10100517318624943684&hl=ja
+    address: 長崎県西彼杵郡長与町高田郷2289-2
+    price: 800
+    lat: 32.8096464
+    lng: 129.8484676
+    type: 温泉
+-
+    id: 9
+    name: 味処湯処 よしちょう
+    url: http://obama.or.jp/modules/taberu/index.php?lid=9
+    map: https://maps.google.com/?cid=1401106563081585062&hl=ja
+    address: 長崎県雲仙市小浜町北本町915-32
+    price: 300
+    lat: 32.7257221
+    lng: 130.2052712
+    type: 温泉
+-
+    id: 10
+    name: 長崎伊王島 島風の湯
+    url: http://www.shimakazenoyu.jp/
+    map: https://maps.google.com/?cid=3771011677826896240&hl=ja
+    address: 長崎県長崎市伊王島町1字仙崎甲3278-3
+    price: 800
+    lat: 32.7086063
+    lng: 129.7738952
+    type: 温泉
+-
+    id: 11
+    name: 創業明治元年 長崎 道の尾温泉
+    url: http://michinoo-onsen.jp/
+    map: https://maps.google.com/?cid=5206753351650047782&hl=ja
+    address: 長崎県西彼杵郡長与町高田郷284
+    price: 680
+    lat: 32.8025525
+    lng: 129.8590959
+    type: 温泉
+-
+    id: 12
+    name: 上対馬温泉 渚の湯
+    url: http://nagisanoyu.jp/
+    map: https://maps.google.com/?cid=1942076380885018719&hl=ja
+    address: 長崎県対馬市上対馬町西泊1217-8
+    price: 600
+    lat: 34.6686279
+    lng: 129.4838157
+    type: 温泉
+-
+    id: 13
+    name: 日栄湯
+    url: 
+    map: https://maps.google.com/?cid=6738718942969484028&hl=ja
+    address: 長崎県長崎市大浦町9-7
+    price: 350
+    lat: 32.7351906
+    lng: 129.87256
+    type: 銭湯
+-
+    id: 14
+    name: 余熱利用施設 のんのこ温水センター
+    url: http://www.nonnoco.jp/
+    map: https://maps.google.com/?cid=9824120480558238682&hl=ja
+    address: 長崎県諫早市福田町1184
+    price: 520
+    lat: 32.87029
+    lng: 130.0611471
+    type: 温泉
+-
+    id: 15
+    name: 鹿町温泉・美人の湯 やすらぎ館
+    url: http://www.shikamachi-onsen.com/spa/index.html
+    map: https://maps.google.com/?cid=7624216584284530536&hl=ja
+    address: 長崎県佐世保市鹿町町土肥ノ浦169-2
+    price: 660
+    lat: 33.3051821
+    lng: 129.6196197
+    type: 温泉
+-
+    id: 16
+    name: 頭部クリーンセンター エコスパ佐世保
+    url: http://www.ecospa-sasebo.jp/
+    map: https://maps.google.com/?cid=2572043079241119411&hl=ja
+    address: 長崎県佐世保市大塔町1036-1
+    price: 660
+    lat: 33.1440597
+    lng: 129.7787325
+    type: 温泉
+-
+    id: 17
+    name: 雲仙よか湯
+    url: http://www.unzen-yokayu.co.jp/yokayu.html
+    map: https://maps.google.com/?cid=12563324908111896984&hl=ja
+    address: 長崎県雲仙市小浜町雲仙380
+    price: 450
+    lat: 32.7365961
+    lng: 130.2600891
+    type: 温泉
+-
+    id: 18
+    name: いいもり月の丘温泉
+    url: https://isahaya-skk.jp/onsen_facilities.html
+    map: https://maps.google.com/?cid=12870033816426128229&hl=ja
+    address: 長崎県諫早市飯盛町平古場279
+    price: 520
+    lat: 32.7873744
+    lng: 130.0158503
+    type: 温泉
+-
+    id: 19
+    name: 海上露天風呂 波の湯 茜
+    url: http://www.obama.or.jp/modules/tachiyoriyu/index.php?lid=12&cid=3
+    map: https://maps.google.com/?cid=13394583682140885607&hl=ja
+    address: 長崎県雲仙市小浜町マリーナ20
+    price: 300
+    lat: 32.7261354
+    lng: 130.2047068
+    type: 共同浴場・銭湯
+-
+    id: 20
+    name: 島原温泉 ゆとろぎの湯
+    url: http://yutoroginoyu.com/
+    map: https://maps.google.com/?cid=12695437630402816571&hl=ja
+    address: 長崎県島原市堀町171-3
+    price: 530
+    lat: 32.7847901
+    lng: 130.3692556
+    type: 温泉
+-
+    id: 21
+    name: 長崎温泉 喜道庵
+    url: http://www.kidoan.com/
+    map: https://maps.google.com/?cid=15433783026593061233&hl=ja
+    address: 長崎県西彼杵郡長与町岡郷2762-1
+    price: 1550
+    lat: 32.8664993
+    lng: 129.8806984
+    type: 温泉
+-
+    id: 22
+    name: 湯多里ランドつしま
+    url: http://yuttariland.com/index.html
+    map: https://maps.google.com/?cid=2759369844919456578&hl=ja
+    address: 長崎県対馬市美津島町鶏知乙1168-1
+    price: 800
+    lat: 34.2848092
+    lng: 129.3186213
+    type: 温泉
+-
+    id: 23
+    name: 徳の湯
+    url: 
+    map: https://maps.google.com/?cid=10573216304054598744&hl=ja
+    address: 長崎県佐世保市松浦町4-3
+    price: 350
+    lat: 33.1747956
+    lng: 129.7175826
+    type: 銭湯
+-
+    id: 24
+    name: 脇浜温泉浴場 おたっしゃん湯
+    url: http://www.obama.or.jp/modules/tachiyoriyu/index.php?lid=4&cid=3
+    map: https://maps.google.com/?cid=15859829973650025547&hl=ja
+    address: 長崎県雲仙市小浜町南本町7
+    price: 200
+    lat: 32.7191767
+    lng: 130.2018229
+    type: 共同浴場・銭湯
+-
+    id: 25
+    name: 湯の里温泉共同浴場
+    url: http://unzen.org/daytrip/detail4.html
+    map: https://maps.google.com/?cid=14800960618605827155&hl=ja
+    address: 長崎県雲仙市小浜町雲仙303-1
+    price: 200
+    lat: 32.7429488
+    lng: 130.2596056
+    type: 共同浴場・銭湯
+-
+    id: 26
+    name: 龍神温泉 かやぜの湯
+    url: http://ilabo.style.coocan.jp/kayazenoyu/
+    map: https://maps.google.com/?cid=14368875722446075749&hl=ja
+    address: 長崎県大村市田下町17-3
+    price: 700
+    lat: 32.9501428
+    lng: 129.9921773
+    type: 温泉
+-
+    id: 27
+    name: 地域福祉センター 荒川温泉
+    url: http://goto-shakyo.or.jp/structure/arakawa/
+    map: https://maps.google.com/?cid=7798933487285611379&hl=ja
+    address: 長崎県五島市玉之浦町荒川130-2
+    price: 300
+    lat: 32.6672687
+    lng: 128.6706626
+    type: 温泉
+-
+    id: 28
+    name: 真珠（たま）の湯
+    url: https://www.nagasaki-tabinet.com/guide/825/
+    map: https://maps.google.com/?cid=1055940008879168061&hl=ja
+    address: 長崎県対馬市美津島町鶏知甲41-10
+    price: 400
+    lat: 34.2585977
+    lng: 129.3226509
+    type: 温泉
+-
+    id: 29
+    name: 富江温泉センター たっしゃかランド
+    url: https://goto.nagasaki-tabinet.com/spot/668/
+    map: https://maps.google.com/?cid=17591215292210064142&hl=ja
+    address: 長崎県五島市富江町松尾662-2
+    price: 500
+    lat: 32.6180669
+    lng: 128.7617658
+    type: 温泉
+-
+    id: 30
+    name: みずほ温泉 千年の湯
+    url: http://www.city.unzen.nagasaki.jp/info/prev.asp?fol_id=15121
+    map: https://maps.google.com/?cid=1551007563029838799&hl=ja
+    address: 長崎県雲仙市瑞穂町西郷辛621-6
+    price: 500
+    lat: 32.8718011
+    lng: 130.2370682
+    type: 温泉
+-
+    id: 31
+    name: 西彼保健福祉センター 遊湯館
+    url: https://www.nagasaki-tabinet.com/guide/60524/
+    map: https://maps.google.com/?cid=18270502901775707640&hl=ja
+    address: 長崎県西海市西彼町鳥加郷2218
+    price: 300
+    lat: 32.9903279
+    lng: 129.7482284
+    type: 共同浴場・銭湯
+-
+    id: 32
+    name: 峰温泉 ほたるの湯
+    url: http://www.baijinkai.jp/facility/hotaru_onsen/
+    map: https://maps.google.com/?cid=13749289381228179803&hl=ja
+    address: 長崎県対馬市峰町三根65
+    price: 450
+    lat: 34.4691228
+    lng: 129.3123343
+    type: 温泉
+-
+    id: 33
+    name: 湯川温泉 いき湯川温泉
+    url: 
+    map: https://maps.google.com/?cid=10427026004507515117&hl=ja
+    address: 長崎県壱岐市郷ノ浦町片原触416
+    price: 500
+    lat: 33.7444362
+    lng: 129.6952267
+    type: 温泉
+-
+    id: 34
+    name: 市営温泉 浜の湯
+    url: http://www.obama.or.jp/modules/tachiyoriyu/index.php?lid=5&cid=3
+    map: https://maps.google.com/?cid=11088617992210511577&hl=ja
+    address: 長崎県雲仙市小浜町北本町25-19
+    price: 150
+    lat: 32.7309808
+    lng: 130.2074354
+    type: 共同浴場・銭湯
+-
+    id: 35
+    name: 徳乃湯
+    url: 
+    map: https://maps.google.com/?cid=18319895030368328651&hl=ja
+    address: 長崎県長崎市上野町6-25
+    price: 350
+    lat: 32.7787506
+    lng: 129.8693434
+    type: 銭湯
+-
+    id: 36
+    name: すこやか温泉
+    url: 
+    map: https://maps.google.com/?cid=18068359946805547110&hl=ja
+    address: 長崎県壱岐市勝本町本宮南触1323-3
+    price: 350
+    lat: 33.8116136
+    lng: 129.6848526
+    type: 温泉
+-
+    id: 37
+    name: ベストパワーランド 御湯神指し
+    url: http://onyukamisashi.weebly.com/
+    map: https://maps.google.com/?cid=2335085044709645789&hl=ja
+    address: 長崎県諫早市飯盛町川下234
+    price: 2500
+    lat: 32.7641544
+    lng: 130.0113046
+    type: 温泉
+-
+    id: 38
+    name: 有明福祉センター 有明温泉 美人の湯
+    url: http://www.shimabara-shakyo.or.jp/ariakeonsen_bijin_no_yu/
+    map: https://maps.google.com/?cid=14900740436901990371&hl=ja
+    address: 長崎県島原市有明町大三東戊1352-1
+    price: 520
+    lat: 32.8489547
+    lng: 130.3374523
+    type: 温泉
+-
+    id: 39
+    name: 壱岐湯ノ本温泉 山口温泉
+    url: https://www.88onsen.com/spot/detail/hid/130
+    map: https://maps.google.com/?cid=7040650248690381915&hl=ja
+    address: 長崎県壱岐市勝本町本宮南触400
+    price: 350
+    lat: 33.81181
+    lng: 129.684511
+    type: 共同浴場・銭湯
+-
+    id: 40
+    name: 南島原市布津福祉センター 湯楽里
+    url: https://www.city.minamishimabara.lg.jp/page4230.html
+    map: https://maps.google.com/?cid=7129854044831631882&hl=ja
+    address: 長崎県南島原市布津町乙470
+    price: 500
+    lat: 32.6982327
+    lng: 130.3468596
+    type: 温泉
+-
+    id: 41
+    name: 別所共同浴場
+    url: http://www.unzen.org/daytrip/detail5.html
+    map: https://maps.google.com/?cid=14799865708772981237&hl=ja
+    address: 長崎県雲仙市小浜町雲仙
+    price: 100
+    lat: 32.7421048
+    lng: 130.2628986
+    type: 共同浴場・銭湯
+-
+    id: 42
+    name: 雲仙市リフレッシュセンターおばま
+    url: http://www.city.unzen.nagasaki.jp/info/prev.asp?fol_id=14512
+    map: https://maps.google.com/?cid=13669294936496760099&hl=ja
+    address: 長崎県雲仙市小浜南本町24-23
+    price: 700
+    lat: 32.7206591
+    lng: 130.202437
+    type: 温泉
+-
+    id: 43
+    name: 池島東浴場
+    url: https://www1.g-reiki.net/nagasaki/reiki_honbun/q302RG00000921.html
+    map: https://maps.google.com/?cid=12490015984298800754&hl=ja
+    address: 長崎県長崎市池島町1240-5
+    price: 100
+    lat: 32.8820119
+    lng: 129.5979383
+    type: 共同浴場・銭湯
+-
+    id: 44
+    name: 湯本温泉 高峰温泉
+    url: 
+    map: https://maps.google.com/?cid=5316144036416422452&hl=ja
+    address: 長崎県壱岐市勝本町立石西触200
+    price: 300
+    lat: 33.804678
+    lng: 129.6834925
+    type: 共同浴場・銭湯
+-
+    id: 45
+    name: 千綿花房温泉
+    url: 
+    map: https://maps.google.com/?cid=12204626452260363778&hl=ja
+    address: 長崎県東彼杵郡東彼杵町瀬戸郷401-2
+    price: 1000
+    lat: 33.0204484
+    lng: 129.9530853
+    type: 温泉
+-
+    id: 46
+    name: 海水温浴施設 高島いやしの湯
+    url: http://nagasakist.web.fc2.com/hotspring.html
+    map: https://maps.google.com/?cid=5875528591074658051&hl=ja
+    address: 長崎県長崎市高島町2706-19
+    price: 1040
+    lat: 32.6583367
+    lng: 129.7552675
+    type: 温泉
+-
+    id: 47
+    name: 池島港浴場
+    url: https://www1.g-reiki.net/nagasaki/reiki_honbun/q302RG00000921.html
+    map: https://maps.google.com/?cid=15740396844193250639&hl=ja
+    address: 長崎県長崎市池島町154
+    price: 100
+    lat: 32.88901269999999
+    lng: 129.6038238
+    type: 共同浴場・銭湯
+-
+    id: 48
+    name: 湯ノ本温泉 万福温泉
+    url: 
+    map: https://maps.google.com/?cid=6084579052734736302&hl=ja
+    address: 長崎県壱岐市勝本町湯本浦41-3
+    price: 300
+    lat: 33.8053643
+    lng: 129.6867463
+    type: 共同浴場・銭湯
+-
+    id: 49
+    name: 小長井健康センター
+    url: https://www.city.isahaya.nagasaki.jp/post23/21071.html
+    map: https://maps.google.com/?cid=9175317310096058719&hl=ja
+    address: 長崎県諫早市小長井町井崎127
+    price: 420
+    lat: 32.9302302
+    lng: 130.198761
+    type: 温泉
+-
+    id: 50
+    name: 黄金と水素の湯 ハウステンボス天然温泉
+    url: https://www.huistenbosch.co.jp/hot-spring/
+    map: https://maps.google.com/maps?q=33.087649,129.782182
+    address: 長崎県佐世保市ハウステンボス町6-1
+    price: 600
+    lat: 33.087909
+    lng: 129.7822913
+    type: 温泉
+-
+    id: 51
+    name: MINATO SPA 岩盤 TERRACE ミナトスパ岩盤テラス
+    url: https://www.islandnagasaki.jp/spa/minato-spa.php
+    map: https://maps.google.com/maps?q=32.702019,129.779694
+    address: 長崎県長崎市伊王島町2-2047-31
+    price: 800
+    lat: 32.7020515
+    lng: 129.7796571
+    type: 温泉
+-
+    id: 52
+    name: 高崎湯
+    url: 
+    map: https://maps.google.com/?cid=13194061579130813948&hl=ja
+    address: 長崎県長崎市茂木町2167
+    price: 350
+    lat: 32.7017293
+    lng: 129.9112263
+    type: 銭湯
+-
+    id: 53
+    name: 白菊湯
+    url: 
+    map: https://maps.google.com/?cid=10348516416649723463&hl=ja
+    address: 長崎県長崎市片淵1-2-11
+    price: 350
+    lat: 32.7533432
+    lng: 129.8850608
+    type: 銭湯
+-
+    id: 54
+    name: 西山湯
+    url: 
+    map: https://maps.google.com/?cid=1311499934053643309&hl=ja
+    address: 長崎県長崎市下西山町6-11
+    price: 350
+    lat: 32.755586
+    lng: 129.8851805
+    type: 銭湯
+-
+    id: 55
+    name: 小田湯
+    url: 
+    map: https://maps.google.com/?cid=12096491864057511755&hl=ja
+    address: 長崎県長崎市茂木町1631
+    price: 350
+    lat: 32.7058621
+    lng: 129.9097585
+    type: 銭湯

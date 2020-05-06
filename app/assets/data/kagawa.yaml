@@ -1,0 +1,461 @@
+---
+-
+    id: 1
+    name: 直島銭湯 I♥湯
+    url: http://benesse-artsite.jp/art/naoshimasento.html
+    map: https://maps.google.com/?cid=6420406967383278656&hl=ja
+    address: 香川県香川郡直島町2252-2
+    price: 510
+    lat: 34.4580532
+    lng: 133.9751695
+    type: 銭湯
+-
+    id: 2
+    name: 仏生山温泉 天平湯
+    url: http://busshozan.com/
+    map: https://maps.google.com/?cid=15882272255796825551&hl=ja
+    address: 香川県高松市仏生山町乙114-5
+    price: 700
+    lat: 34.2817859
+    lng: 134.0492628
+    type: 温泉
+-
+    id: 3
+    name: 瀬戸大橋 四国健康村
+    url: http://www.kenkou-mura.com/
+    map: https://maps.google.com/?cid=13231306235399233157&hl=ja
+    address: 香川県綾歌郡宇多津町浜一番丁6-10
+    price: 1500
+    lat: 34.3136254
+    lng: 133.8112459
+    type: 温泉
+-
+    id: 4
+    name: 讃岐路野天風呂 湯屋 琴弾廻廊
+    url: https://kotohiki-kairo.co.jp/
+    map: https://maps.google.com/?cid=10924375900012972523&hl=ja
+    address: 香川県観音寺市有明町6-6
+    price: 820
+    lat: 34.1301685
+    lng: 133.6385438
+    type: 温泉
+-
+    id: 5
+    name: 吉野湯
+    url: 
+    map: https://maps.google.com/?cid=10737795918126553251&hl=ja
+    address: 香川県高松市城東町1-2-10
+    price: 400
+    lat: 34.3469598
+    lng: 134.0565605
+    type: 銭湯
+-
+    id: 6
+    name: やしま第一健康ランド
+    url: http://www.8411126.jp/
+    map: https://maps.google.com/?cid=4381788944112769152&hl=ja
+    address: 香川県高松市屋島西町2274-5
+    price: 1500
+    lat: 34.3620014
+    lng: 134.0908565
+    type: 温泉
+-
+    id: 7
+    name: 高松クレーターの湯 天然温泉きらら
+    url: https://www.kiraraonsen.com/
+    map: https://maps.google.com/?cid=7506069884036314238&hl=ja
+    address: 香川県高松市一宮町800-1
+    price: 700
+    lat: 34.2883831
+    lng: 134.0307289
+    type: 温泉
+-
+    id: 8
+    name: 丸亀ぽかぽか温泉
+    url: http://www.souyu.co.jp/marugame/
+    map: https://maps.google.com/?cid=17207741474466355639&hl=ja
+    address: 香川県丸亀市山北町400-1
+    price: 600
+    lat: 34.2746061
+    lng: 133.7995521
+    type: 温泉
+-
+    id: 9
+    name: 道の駅 香南楽湯
+    url: http://www.souyu.co.jp/kounan/index.php
+    map: https://maps.google.com/?cid=11797241139851006409&hl=ja
+    address: 香川県高松市香南町横井997-2
+    price: 630
+    lat: 34.239453
+    lng: 134.0072535
+    type: 温泉
+-
+    id: 10
+    name: 癒しの里 さらい
+    url: https://iyashi-sarai.jp/
+    map: https://maps.google.com/?cid=7785048432101492852&hl=ja
+    address: 香川県坂出市西大浜北1-1-22
+    price: 1300
+    lat: 34.3219534
+    lng: 133.8453399
+    type: 温泉
+-
+    id: 11
+    name: 道の駅 ことなみ エピアみかど
+    url: http://www.e-mikado.jp/
+    map: https://maps.google.com/?cid=4591675808967259699&hl=ja
+    address: 香川県仲多度郡まんのう町川東2355-1
+    price: 600
+    lat: 34.0950503
+    lng: 134.0078778
+    type: 温泉
+-
+    id: 12
+    name: たかせ天然温泉
+    url: http://www.souyu.co.jp/takase/index.php
+    map: https://maps.google.com/?cid=5493890308710787585&hl=ja
+    address: 香川県三豊市高瀬町上高瀬768-1
+    price: 580
+    lat: 34.1947312
+    lng: 133.7298917
+    type: 温泉
+-
+    id: 13
+    name: たからだの里 環の湯
+    url: http://www.takaradanosato.co.jp/hp/tamaki/index_t.htm
+    map: https://maps.google.com/?cid=15217585688074204159&hl=ja
+    address: 香川県三豊市財田町財田上1110-8
+    price: 520
+    lat: 34.1082983
+    lng: 133.7961646
+    type: 温泉
+-
+    id: 14
+    name: 高松ぽかぽか温泉
+    url: http://www.souyu.co.jp/takamatsu/
+    map: https://maps.google.com/?cid=5744263425302764505&hl=ja
+    address: 香川県高松市伏石町2165-1
+    price: 480
+    lat: 34.3078203
+    lng: 134.0550544
+    type: 温泉
+-
+    id: 15
+    name: サン・オリーブ温泉
+    url: http://www.olive-pk.jp/map/sunolive.html
+    map: https://maps.google.com/?cid=18096492792832932621&hl=ja
+    address: 香川県小豆郡小豆島町西村甲1941-1
+    price: 700
+    lat: 34.4723666
+    lng: 134.2741859
+    type: 温泉
+-
+    id: 16
+    name: 春日なごみの湯 湯楽温泉
+    url: http://www.yuurakuonsen.com/
+    map: https://maps.google.com/?cid=5126520409358495617&hl=ja
+    address: 香川県高松市木太町6区2750-3
+    price: 400
+    lat: 34.3372928
+    lng: 134.0844894
+    type: 温泉
+-
+    id: 17
+    name: オリーブ温泉
+    url: http://www.marunaka.net/_olive/information.php
+    map: https://maps.google.com/?cid=1545749890389873686&hl=ja
+    address: 香川県小豆郡土庄町半の池甲1360-10
+    price: 700
+    lat: 34.4762348
+    lng: 134.1788843
+    type: 温泉
+-
+    id: 18
+    name: 塩入温泉
+    url: http://www.shioiri-onsen.jp/
+    map: https://maps.google.com/?cid=6915811509425854800&hl=ja
+    address: 香川県仲多度郡まんのう町塩入718-140
+    price: 500
+    lat: 34.1372635
+    lng: 133.8777241
+    type: 温泉
+-
+    id: 19
+    name: 天然温泉あ・くあ
+    url: http://www.onsen-aqua.jp/
+    map: https://maps.google.com/?cid=13629607220787156188&hl=ja
+    address: 香川県丸亀市郡家町1555-5
+    price: 630
+    lat: 34.2502533
+    lng: 133.8252211
+    type: 温泉
+-
+    id: 20
+    name: 国立公園 城山温泉
+    url: http://kiyamaonsen.co.jp/
+    map: https://maps.google.com/?cid=14831286069087680730&hl=ja
+    address: 香川県坂出市府中町5913-3
+    price: 700
+    lat: 34.3053372
+    lng: 133.9001837
+    type: 温泉
+-
+    id: 21
+    name: 健康交流施設 おおのはら 萩の湯
+    url: http://public-sj.com/
+    map: https://maps.google.com/?cid=946501307912736897&hl=ja
+    address: 香川県観音寺市大野原町大野原1509
+    price: 620
+    lat: 34.0836415
+    lng: 133.6588313
+    type: 温泉
+-
+    id: 22
+    name: スーパー銭湯 あかね温泉
+    url: https://akaneonsen.com/
+    map: https://maps.google.com/?cid=7222800712831475979&hl=ja
+    address: 香川県高松市茜町28-43
+    price: 400
+    lat: 34.3507114
+    lng: 134.0236372
+    type: 温泉
+-
+    id: 23
+    name: 三十六温泉 由良里の湯
+    url: 
+    map: https://maps.google.com/?cid=8058319985194243493&hl=ja
+    address: 香川県高松市由良町43-1
+    price: 400
+    lat: 34.2840199
+    lng: 134.095994
+    type: 温泉
+-
+    id: 24
+    name: クア温泉屋島
+    url: 
+    map: https://maps.google.com/?cid=18060858344763670145&hl=ja
+    address: 香川県高松市高松町2187-1
+    price: 400
+    lat: 34.3439436
+    lng: 134.1204237
+    type: 銭湯
+-
+    id: 25
+    name: かざし温泉
+    url: 
+    map: https://maps.google.com/?cid=16051696369383607786&hl=ja
+    address: 香川県高松市国分寺町福家甲995-1
+    price: 550
+    lat: 34.2778035
+    lng: 133.9657283
+    type: 温泉
+-
+    id: 26
+    name: 城北温泉
+    url: 
+    map: https://maps.google.com/?cid=1402019250212146764&hl=ja
+    address: 香川県丸亀市風袋町157
+    price: 400
+    lat: 34.2936299
+    lng: 133.8003554
+    type: 銭湯
+-
+    id: 27
+    name: 翼山温泉
+    url: http://www.souyu.co.jp/tubasayama/
+    map: https://maps.google.com/?cid=10701834267007498138&hl=ja
+    address: 香川県東かがわ市引田991-16
+    price: 500
+    lat: 34.2171399
+    lng: 134.3939686
+    type: 温泉
+-
+    id: 28
+    name: 天然いやだに温泉 大師の湯
+    url: https://www.park-mino.info/onsen
+    map: https://maps.google.com/?cid=10604855688567974864&hl=ja
+    address: 香川県三豊市三野町大見乙74
+    price: 900
+    lat: 34.2176497
+    lng: 133.7190392
+    type: 温泉
+-
+    id: 29
+    name: 行基の湯
+    url: https://www.shionoe.jp/stay/gyouki.html
+    map: https://maps.google.com/?cid=15615495843758617319&hl=ja
+    address: 香川県高松市塩江町安原上東37-1
+    price: 470
+    lat: 34.1694344
+    lng: 134.0820286
+    type: 温泉
+-
+    id: 30
+    name: クアタラソ さぬき津田
+    url: https://q-t.anabuki-enter.jp/
+    map: https://maps.google.com/?cid=13489943713256729252&hl=ja
+    address: 香川県さぬき市津田町鶴羽24-2
+    price: 1650
+    lat: 34.28368469999999
+    lng: 134.2599681
+    type: 温泉
+-
+    id: 31
+    name: 春日温泉
+    url: https://www.sanuki-sa.jp/kasuga/
+    map: https://maps.google.com/?cid=17106383484476416731&hl=ja
+    address: 香川県さぬき市寒川町神前22
+    price: 610
+    lat: 34.2810015
+    lng: 134.2247042
+    type: 温泉
+-
+    id: 32
+    name: 門入 カメリア温泉
+    url: https://spa-kameria.com/
+    map: https://maps.google.com/?cid=8265297244862324687&hl=ja
+    address: 香川県さぬき市寒川町石田東甲2988-1
+    price: 600
+    lat: 34.234257
+    lng: 134.218557
+    type: 温泉
+-
+    id: 33
+    name: あやうた温泉 湯舟道
+    url: http://yubunemichi.com/
+    map: https://maps.google.com/?cid=12675347151391786286&hl=ja
+    address: 香川県丸亀市綾歌町栗熊西68-2
+    price: 350
+    lat: 34.2138194
+    lng: 133.8862548
+    type: 温泉
+-
+    id: 34
+    name: ゆーとぴあ みろく温泉
+    url: https://www.sanuki-sa.jp/miroku/
+    map: https://maps.google.com/?cid=7528165342790027368&hl=ja
+    address: 香川県さぬき市大川町富田中3424
+    price: 610
+    lat: 34.2559192
+    lng: 134.2424252
+    type: 温泉
+-
+    id: 35
+    name: はくちょう温泉
+    url: http://www.taka-spo.or.jp/hak1.html
+    map: https://maps.google.com/?cid=6268773742432722057&hl=ja
+    address: 香川県高松市国分寺町新名2213-1
+    price: 520
+    lat: 34.271935
+    lng: 133.9504213
+    type: 温泉
+-
+    id: 36
+    name: いとより温泉
+    url: 
+    map: https://maps.google.com/?cid=1257990617406903325&hl=ja
+    address: 香川県高松市瀬戸内町3-16
+    price: 400
+    lat: 34.3484667
+    lng: 134.0366549
+    type: 銭湯
+-
+    id: 37
+    name: 大井温泉
+    url: 
+    map: https://maps.google.com/?cid=10669567899347549490&hl=ja
+    address: 香川県三豊市仁尾町仁尾246-1
+    price: 400
+    lat: 34.2023821
+    lng: 133.651925
+    type: 銭湯
+-
+    id: 38
+    name: 綾川町社会福祉センター もみじ温泉
+    url: http://www.ayagawa-shakyo.or.jp/s011/momiji.htm
+    map: https://maps.google.com/?cid=3880774894677437019&hl=ja
+    address: 香川県綾歌郡綾川町東分甲343-3
+    price: 500
+    lat: 34.2185001
+    lng: 133.9520039
+    type: 温泉
+-
+    id: 39
+    name: 共楽湯
+    url: 
+    map: https://maps.google.com/?cid=16655853252376889205&hl=ja
+    address: 香川県観音寺市観音寺町甲2926
+    price: 400
+    lat: 34.1273563
+    lng: 133.6507257
+    type: 銭湯
+-
+    id: 40
+    name: 岡本荘 椿温泉
+    url: http://www.koutouen.com/okamotosou/facilities/tsubaki_spa.html
+    map: https://maps.google.com/?cid=7145285856580510166&hl=ja
+    address: 香川県高松市岡本町527-1
+    price: 550
+    lat: 34.266301
+    lng: 133.9947338
+    type: 温泉
+-
+    id: 41
+    name: 塩入健康センター
+    url: http://www.shioiri-onsen.jp/health/
+    map: https://maps.google.com/maps?q=34.136326,133.877457
+    address: 香川県仲多度郡まんのう町塩入672-2
+    price: 500
+    lat: 34.1358224
+    lng: 133.8777696
+    type: 温泉
+-
+    id: 42
+    name: えびす湯
+    url: 
+    map: https://maps.google.com/?cid=11698162022303604083&hl=ja
+    address: 香川県高松市扇町1-21-4
+    price: 400
+    lat: 34.3463044
+    lng: 134.0351815
+    type: 銭湯
+-
+    id: 43
+    name: 志よ乃湯
+    url: 
+    map: https://maps.google.com/?cid=15495324260436330802&hl=ja
+    address: 香川県東かがわ市三本松779
+    price: 400
+    lat: 34.2543874
+    lng: 134.3378092
+    type: 銭湯
+-
+    id: 44
+    name: 琴平かまぶろ温泉
+    url: 
+    map: https://maps.google.com/?cid=10172586384316453011&hl=ja
+    address: 香川県仲多度郡琴平町榎井750-1
+    price: 400
+    lat: 34.1896782
+    lng: 133.8250096
+    type: 銭湯
+-
+    id: 45
+    name: 梅の湯
+    url: 
+    map: https://maps.google.com/?cid=17979039318376222380&hl=ja
+    address: 香川県高松市花ノ宮町3-2-7
+    price: 400
+    lat: 34.326535
+    lng: 134.0478408
+    type: 銭湯
+-
+    id: 46
+    name: 柳湯
+    url: 
+    map: https://maps.google.com/maps?q=34.314994,133.85866
+    address: 香川県坂出市京町1-5-19
+    price: 400
+    lat: 34.3150712
+    lng: 133.8587416
+    type: 銭湯

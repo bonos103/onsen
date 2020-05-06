@@ -1,0 +1,581 @@
+---
+-
+    id: 1
+    name: スキージャム勝山 温泉大浴場ささゆり
+    url: https://www.skijam.jp/illumination/spa/
+    map: https://maps.google.com/?cid=17031163363632026135&hl=ja
+    address: 福井県勝山市170-70
+    price: 820
+    lat: 36.0733333
+    lng: 136.5555556
+    type: 温泉
+-
+    id: 2
+    name: ゆけむり温泉 ゆ〜遊
+    url: https://onsen-yuyu.com
+    map: https://maps.google.com/?cid=10784262418851607110&hl=ja
+    address: 福井県福井市渕2-1401
+    price: 1300
+    lat: 36.0441557
+    lng: 136.1881157
+    type: 温泉
+-
+    id: 3
+    name: たきのゆ
+    url: http://www.huroya.com/
+    map: https://maps.google.com/?cid=7939308699582692357&hl=ja
+    address: 福井県福井市足羽2-17-4
+    price: 430
+    lat: 36.0612575
+    lng: 136.2042405
+    type: 銭湯
+-
+    id: 4
+    name: 越前温泉露天風呂 漁火
+    url: http://www.echizen-kk.jp/isaribi.html
+    map: https://maps.google.com/?cid=12059494927853104954&hl=ja
+    address: 福井県丹生郡越前町厨71-335-1
+    price: 520
+    lat: 35.9195027
+    lng: 135.996951
+    type: 温泉
+-
+    id: 5
+    name: 敦賀きらめき温泉 リラ・ポート
+    url: https://relaport.com/
+    map: https://maps.google.com/?cid=3468384488558238697&hl=ja
+    address: 福井県敦賀市高野91-9-3
+    price: 700
+    lat: 35.645321
+    lng: 136.0942176
+    type: 温泉
+-
+    id: 6
+    name: コミュニティリゾート リライム
+    url: http://www.relaim.co.jp/
+    map: https://maps.google.com/?cid=6306642863522386212&hl=ja
+    address: 福井県福井市開発町6-6-1
+    price: 1047
+    lat: 36.0850208
+    lng: 136.2445764
+    type: 温泉
+-
+    id: 7
+    name: 極楽湯(福井店)
+    url: https://www.gokurakuyu.ne.jp/tempo/fukui/
+    map: https://maps.google.com/?cid=15624000806232967977&hl=ja
+    address: 福井県福井市開発1-118
+    price: 710
+    lat: 36.0745223
+    lng: 136.2391732
+    type: 温泉
+-
+    id: 8
+    name: セントピアあわら
+    url: https://www.awara-saintpia.com/
+    map: https://maps.google.com/?cid=4142472910249887907&hl=ja
+    address: 福井県あわら市温泉4-305
+    price: 500
+    lat: 36.224751
+    lng: 136.1936907
+    type: 温泉
+-
+    id: 9
+    name: みかた温泉 きらら
+    url: https://kiraranoyu.net
+    map: https://maps.google.com/?cid=17464910669085485671&hl=ja
+    address: 福井県三方上中郡若狭町中央1-6-1
+    price: 650
+    lat: 35.5489229
+    lng: 135.908772
+    type: 温泉
+-
+    id: 10
+    name: 三国温泉 ゆあぽーと
+    url: http://www.yourport.biz/
+    map: https://maps.google.com/?cid=9403283411143460135&hl=ja
+    address: 福井県坂井市三国町宿2-18-1
+    price: 500
+    lat: 36.2208674
+    lng: 136.1358678
+    type: 温泉
+-
+    id: 11
+    name: 越のゆ(鯖江店)
+    url: http://www.yu-iwashita.jp/sabae/
+    map: https://maps.google.com/?cid=4748448671084835395&hl=ja
+    address: 福井県鯖江市神中町2-2-26
+    price: 650
+    lat: 35.9693487
+    lng: 136.1920242
+    type: 温泉
+-
+    id: 12
+    name: 勝山温泉センター 水芭蕉
+    url: http://mizubasyo.jp/
+    map: https://maps.google.com/?cid=6461062444685568626&hl=ja
+    address: 福井県勝山市村岡町浄土寺30-11
+    price: 650
+    lat: 36.0744735
+    lng: 136.5145881
+    type: 温泉
+-
+    id: 13
+    name: 越のゆ(敦賀店)
+    url: http://www.yu-iwashita.jp/tsuruga/
+    map: https://maps.google.com/?cid=14652742008979487479&hl=ja
+    address: 福井県敦賀市木崎13-10
+    price: 650
+    lat: 35.6406888
+    lng: 136.0468596
+    type: 温泉
+-
+    id: 14
+    name: 越前温泉露天風呂 日本海
+    url: http://www.echizen-kk.jp/nihonkai.html
+    map: https://maps.google.com/?cid=17322975063153934913&hl=ja
+    address: 福井県丹生郡越前町米ノ66-97
+    price: 520
+    lat: 35.8828
+    lng: 135.9999839
+    type: 温泉
+-
+    id: 15
+    name: 御食国若狭おばま 濱の湯
+    url: http://www.yu-iwashita.jp/hama/
+    map: https://maps.google.com/?cid=15682462394664225321&hl=ja
+    address: 福井県小浜市川崎3-4
+    price: 600
+    lat: 35.5013639
+    lng: 135.7376634
+    type: 温泉
+-
+    id: 16
+    name: 越のゆ(福井店)
+    url: http://www.yu-iwashita.jp/fukui/
+    map: https://maps.google.com/?cid=15846955350016216502&hl=ja
+    address: 福井県福井市高木中央2-2613
+    price: 620
+    lat: 36.09268720000001
+    lng: 136.2367538
+    type: 温泉
+-
+    id: 17
+    name: 大野市健康保養施設 あっ宝んど
+    url: http://www.yu-iwashita.jp/attakaland/
+    map: https://maps.google.com/?cid=8626421726522601391&hl=ja
+    address: 福井県大野市南新在家26-101
+    price: 600
+    lat: 36.0123252
+    lng: 136.5129286
+    type: 温泉
+-
+    id: 18
+    name: いきいきプラザ 霞の郷温泉
+    url: https://kasuminosato.jp
+    map: https://maps.google.com/?cid=7323613546381784290&hl=ja
+    address: 福井県坂井市丸岡町八ヶ郷21-7-1
+    price: 500
+    lat: 36.1604987
+    lng: 136.2825421
+    type: 温泉
+-
+    id: 19
+    name: 越前水仙の里 波の華温泉
+    url: http://www.fukui-naminohana.com/
+    map: https://maps.google.com/?cid=17883319319529777492&hl=ja
+    address: 福井県福井市蒲生町1-94
+    price: 520
+    lat: 36.0372436
+    lng: 136.0120112
+    type: 温泉
+-
+    id: 20
+    name: スーパー銭湯 花の湯
+    url: http://www.hanano-yu.com/
+    map: https://maps.google.com/?cid=6735647497316551438&hl=ja
+    address: 福井県福井市福1-2801
+    price: 550
+    lat: 36.0486109
+    lng: 136.187217
+    type: 温泉
+-
+    id: 21
+    name: あみーシャン大飯 湯ったり温泉
+    url: http://www.wakasa-ohi.co.jp/?page_id=155
+    map: https://maps.google.com/?cid=4296333377259468557&hl=ja
+    address: 福井県大飯郡おおい町本郷郷82-14
+    price: 300
+    lat: 35.4730428
+    lng: 135.6236688
+    type: 温泉
+-
+    id: 22
+    name: 九頭竜温泉 平成の湯
+    url: http://www.hotelfurearuizumi.com/onsen/index.html#sec22
+    map: https://maps.google.com/?cid=1549423699384739772&hl=ja
+    address: 福井県大野市下山63-2-24
+    price: 600
+    lat: 35.9221034
+    lng: 136.6450062
+    type: 温泉
+-
+    id: 23
+    name: 道の駅 禅の里
+    url: http://michinoeki-zennosato.com/
+    map: https://maps.google.com/?cid=8675092886436205920&hl=ja
+    address: 福井県吉田郡永平寺町清水2-16-1
+    price: 500
+    lat: 36.0798038
+    lng: 136.3993718
+    type: 温泉
+-
+    id: 24
+    name: 河野シーサイド温泉 ゆうばえ
+    url: http://toshichan.be.fukui-nct.ac.jp/okumura/fukuinoonsen/onsensyokai/kouno.html
+    map: https://maps.google.com/?cid=6474389173634135689&hl=ja
+    address: 福井県南条郡南越前町甲楽城7-31-1
+    price: 500
+    lat: 35.8435472
+    lng: 136.0450823
+    type: 温泉
+-
+    id: 25
+    name: 今庄365温泉 やすらぎ
+    url: https://www.imajyo365.com/yasuragi/
+    map: https://maps.google.com/?cid=6326284562696368902&hl=ja
+    address: 福井県南条郡南越前町板取85-6
+    price: 550
+    lat: 35.7204697
+    lng: 136.1468311
+    type: 温泉
+-
+    id: 26
+    name: 健康の森温泉 生きがい交流センター
+    url: http://fkenkan.or.jp/living/hot-spring.html
+    map: https://maps.google.com/?cid=17385127801612933342&hl=ja
+    address: 福井県福井市真栗町47-51
+    price: 620
+    lat: 36.0156741
+    lng: 136.1402234
+    type: 温泉
+-
+    id: 27
+    name: トロン温浴施設 うらら館
+    url: http://toronnonnyokuurarakann.co.jp/
+    map: https://maps.google.com/?cid=4069255421566149612&hl=ja
+    address: 福井県大野市南六呂師169-136
+    price: 600
+    lat: 36.0203314
+    lng: 136.5760651
+    type: 温泉
+-
+    id: 28
+    name: サフラン湯
+    url: http://1010fukui.jp/se-sahuranyu.html
+    map: https://maps.google.com/?cid=4611944288793251990&hl=ja
+    address: 福井県敦賀市津内町2-9-5
+    price: 430
+    lat: 35.6500455
+    lng: 136.0700513
+    type: 銭湯
+-
+    id: 29
+    name: 松の湯
+    url: http://1010fukui.jp/se-hmatunoyu.html
+    map: https://maps.google.com/?cid=14237202643166431813&hl=ja
+    address: 福井県坂井市春江町為国幸4-5
+    price: 430
+    lat: 36.1280036
+    lng: 136.2281186
+    type: 銭湯
+-
+    id: 30
+    name: ふれあい会館 今庄サイクリングターミナル
+    url: 
+    map: https://maps.google.com/?cid=13907301822283974644&hl=ja
+    address: 福井県南条郡南越前町今庄85-2-18
+    price: 600
+    lat: 35.7728692
+    lng: 136.2007376
+    type: 温泉
+-
+    id: 31
+    name: 伊自良温泉 伊自良館
+    url: https://www.city.fukui.lg.jp/sisei/plan/sonota/ijira.html
+    map: https://maps.google.com/?cid=11660529147357771940&hl=ja
+    address: 福井県福井市中手町29-3
+    price: 300
+    lat: 35.9571522
+    lng: 136.4219168
+    type: 温泉
+-
+    id: 32
+    name: 越前温泉 道の湯
+    url: https://www.town.echizen.fukui.jp/shisetsu/09/p001907.html
+    map: https://maps.google.com/?cid=5702695394635313228&hl=ja
+    address: 福井県丹生郡越前町道口9-41
+    price: 410
+    lat: 35.93335769999999
+    lng: 135.9977745
+    type: 温泉
+-
+    id: 33
+    name: 余熱館ささおか
+    url: http://www.yonetsukan-sasaoka.com/
+    map: https://maps.google.com/?cid=7540377056613839004&hl=ja
+    address: 福井県あわら市笹岡32-88-2
+    price: 500
+    lat: 36.2072805
+    lng: 136.2670639
+    type: 温泉
+-
+    id: 34
+    name: 越前温泉 なぎさの湯
+    url: https://www.town-echizen.jp/spot/spot01Detail.php?id=299
+    map: https://maps.google.com/?cid=17111203021798567858&hl=ja
+    address: 福井県丹生郡越前町梅浦60-15
+    price: 410
+    lat: 35.9527406
+    lng: 135.9833394
+    type: 温泉
+-
+    id: 35
+    name: 六呂師高原温泉 ピクニックガーデン
+    url: https://www.fuku-e.com/050_spa/?id=446
+    map: https://maps.google.com/?cid=12710949651047355704&hl=ja
+    address: 福井県勝山市平泉寺町平泉寺230-50
+    price: 520
+    lat: 36.0279476
+    lng: 136.5722924
+    type: 温泉
+-
+    id: 36
+    name: シーサイドスパ おおいの湯
+    url: https://www.hotel-uminpia.jp/ooinoyu
+    map: https://maps.google.com/?cid=16903905105844222201&hl=ja
+    address: 福井県大飯郡おおい町成海1-8
+    price: 750
+    lat: 35.4812812
+    lng: 135.6322347
+    type: 温泉
+-
+    id: 37
+    name: 鶴賀温泉
+    url: http://1010fukui.jp/se-turugaonsen.html
+    map: https://maps.google.com/?cid=3375295712613974243&hl=ja
+    address: 福井県敦賀市津内町1-14-15
+    price: 430
+    lat: 35.652213
+    lng: 136.068028
+    type: 銭湯
+-
+    id: 38
+    name: 荒川湯
+    url: http://1010fukui.jp/se-arakawayu.html
+    map: https://maps.google.com/?cid=14187166701056952180&hl=ja
+    address: 福井県福井市松城町6-45
+    price: 430
+    lat: 36.0633516
+    lng: 136.2370255
+    type: 銭湯
+-
+    id: 39
+    name: 福井市美山 楽く楽く亭
+    url: http://www.mirakurutei.jp/rakurakutei/rakurakutei.asp
+    map: https://maps.google.com/?cid=8519057540392865263&hl=ja
+    address: 福井県福井市市波町26-15
+    price: 510
+    lat: 36.0183054
+    lng: 136.3327896
+    type: 温泉
+-
+    id: 40
+    name: さぶり川温泉 やまびこ会館
+    url: 
+    map: https://maps.google.com/?cid=2372334233653741700&hl=ja
+    address: 福井県大飯郡おおい町万願寺27-81
+    price: 100
+    lat: 35.4571408
+    lng: 135.5968781
+    type: 温泉
+-
+    id: 41
+    name: 老人憩いの家 陶寿園
+    url: https://www.town.echizen.fukui.jp/shisetsu/09/p001497.html
+    map: https://maps.google.com/?cid=3422473025404992583&hl=ja
+    address: 福井県丹生郡越前町大谷15-1
+    price: 300
+    lat: 35.9422153
+    lng: 136.1196801
+    type: 温泉
+-
+    id: 42
+    name: 高齢者保険福祉支援センター いきいき館
+    url: http://www.mitene.or.jp/~jyakutan/pe-ji/ikiiki.htm
+    map: https://maps.google.com/?cid=3369218414707712376&hl=ja
+    address: 福井県大飯郡おおい町名田庄下6-1
+    price: 330
+    lat: 35.4069902
+    lng: 135.6438892
+    type: 温泉
+-
+    id: 43
+    name: 和田温泉 ふる里交流センター
+    url: 
+    map: https://maps.google.com/?cid=15142666654557829995&hl=ja
+    address: 福井県三方郡美浜町和田11-2-1
+    price: 300
+    lat: 35.6164307
+    lng: 135.9419791
+    type: 温泉
+-
+    id: 44
+    name: シーサイド高浜 湯っぷる
+    url: https://peraichi.com/landing_pages/view/michinoeki-seasidetakahama
+    map: https://maps.google.com/?cid=8916259462629077022&hl=ja
+    address: 福井県大飯郡高浜町下車持46-10
+    price: 700
+    lat: 35.4893592
+    lng: 135.5952032
+    type: 温泉
+-
+    id: 45
+    name: 美浜町保健福祉センター はあとぴあ
+    url: https://www.mihamachoshakyo.com/%E4%BF%9D%E5%81%A5%E7%A6%8F%E7%A5%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AF%E3%81%82%E3%81%A8%E3%81%B4%E3%81%82/
+    map: https://maps.google.com/?cid=17578118255747149584&hl=ja
+    address: 福井県三方郡美浜町郷市25-20
+    price: 600
+    lat: 35.5998503
+    lng: 135.9414552
+    type: 温泉
+-
+    id: 46
+    name: すがや温泉
+    url: http://1010fukui.jp/se-sugayaonsen.html
+    map: https://maps.google.com/?cid=15504737864743624347&hl=ja
+    address: 福井県福井市菅谷2-10-12
+    price: 430
+    lat: 36.0726307
+    lng: 136.1918303
+    type: 銭湯
+-
+    id: 47
+    name: やしろ湯
+    url: http://1010fukui.jp/se-yasiroyu.html
+    map: https://maps.google.com/?cid=15248683104765802838&hl=ja
+    address: 福井県福井市下江守町22-19
+    price: 430
+    lat: 36.0493812
+    lng: 136.1774457
+    type: 銭湯
+-
+    id: 48
+    name: 東湯
+    url: http://1010fukui.jp/se-azumayu.html
+    map: https://maps.google.com/?cid=12623537492199576652&hl=ja
+    address: 福井県大野市高砂町14-4
+    price: 430
+    lat: 35.9786353
+    lng: 136.492131
+    type: 銭湯
+-
+    id: 49
+    name: 松葉湯
+    url: http://1010fukui.jp/se-matubayu.html
+    map: https://maps.google.com/?cid=11868721445058708263&hl=ja
+    address: 福井県福井市月見2-5-6
+    price: 430
+    lat: 36.0463643
+    lng: 136.2148579
+    type: 銭湯
+-
+    id: 50
+    name: 亀山湯
+    url: http://1010fukui.jp/se-kameyamayu.html
+    map: https://maps.google.com/?cid=7349687758375655229&hl=ja
+    address: 福井県大野市城町7-18
+    price: 430
+    lat: 35.9879706
+    lng: 136.4869708
+    type: 銭湯
+-
+    id: 51
+    name: いづみ湯
+    url: http://1010fukui.jp/se-idumiyu.html
+    map: https://maps.google.com/?cid=6727586009409877702&hl=ja
+    address: 福井県福井市足羽1-19-32
+    price: 430
+    lat: 36.0586514
+    lng: 136.2074624
+    type: 銭湯
+-
+    id: 52
+    name: 宝永湯
+    url: http://1010fukui.jp/se-houeiyu.html
+    map: https://maps.google.com/?cid=10972298050736207993&hl=ja
+    address: 福井県福井市宝永3-26-3
+    price: 430
+    lat: 36.0695904
+    lng: 136.2223345
+    type: 銭湯
+-
+    id: 53
+    name: machi YOKU 城勝湯
+    url: https://www.machiyoku.info/jokatsuyu
+    map: https://maps.google.com/?cid=3783419032493793443&hl=ja
+    address: 福井県越前市若竹町10-18
+    price: 430
+    lat: 35.893249
+    lng: 136.1670587
+    type: 銭湯
+-
+    id: 54
+    name: キューピー湯
+    url: http://1010fukui.jp/se-kyupiyu.html
+    map: https://maps.google.com/?cid=5217467648916349660&hl=ja
+    address: 福井県大野市陽明町1-1302
+    price: 430
+    lat: 35.9881528
+    lng: 136.4969764
+    type: 銭湯
+-
+    id: 55
+    name: 阿津満湯
+    url: http://1010fukui.jp/se-adumayu.html
+    map: https://maps.google.com/?cid=12064898826254188477&hl=ja
+    address: 福井県吉田郡永平寺町松岡芝原1-62
+    price: 430
+    lat: 36.0908172
+    lng: 136.2927507
+    type: 銭湯
+-
+    id: 56
+    name: 南部湯
+    url: http://1010fukui.jp/se-nanbuyu.html
+    map: https://maps.google.com/?cid=1308250821264446699&hl=ja
+    address: 福井県勝山市元町1-17-6
+    price: 430
+    lat: 36.058906
+    lng: 136.5009385
+    type: 銭湯
+-
+    id: 57
+    name: 木久乃湯
+    url: http://1010fukui.jp/se-kikunoyu.html
+    map: https://maps.google.com/?cid=15750441671856577882&hl=ja
+    address: 福井県勝山市元町2-10-9
+    price: 430
+    lat: 36.0581947
+    lng: 136.5032879
+    type: 銭湯
+-
+    id: 58
+    name: 桃之湯
+    url: http://1010fukui.jp/se-momonoyu.html
+    map: https://maps.google.com/?cid=17744969212874616795&hl=ja
+    address: 福井県福井市田原2-34-29
+    price: 430
+    lat: 36.0745691
+    lng: 136.2159808
+    type: 銭湯

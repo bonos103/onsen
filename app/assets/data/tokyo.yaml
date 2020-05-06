@@ -1,0 +1,5751 @@
+---
+-
+    id: 1
+    name: 東京お台場 大江戸温泉物語
+    url: https://daiba.ooedoonsen.jp/
+    map: https://maps.google.com/?cid=13919405450926408671&hl=ja
+    address: 東京都江東区青海2-6-3
+    price: 2768
+    lat: 35.6160151
+    lng: 139.7772492
+    type: 温泉
+-
+    id: 2
+    name: 東京ドーム天然温泉 Spa LaQua
+    url: https://www.laqua.jp/spa
+    map: https://maps.google.com/?cid=10888609339907168331&hl=ja
+    address: 東京都文京区春日1-1-1
+    price: 2900
+    lat: 35.7065675
+    lng: 139.7529566
+    type: 温泉
+-
+    id: 3
+    name: ひだまりの泉 萩の湯
+    url: http://haginoyu.jp
+    map: https://maps.google.com/?cid=8093471392910547000&hl=ja
+    address: 東京都台東区根岸2-13-13
+    price: 470
+    lat: 35.7242598
+    lng: 139.7777261
+    type: 銭湯
+-
+    id: 4
+    name: 寿湯
+    url: http://www7.plala.or.jp/iiyudana/
+    map: https://maps.google.com/?cid=8027089939204605072&hl=ja
+    address: 東京都台東区東上野5-4-17
+    price: 470
+    lat: 35.7122541
+    lng: 139.7827135
+    type: 銭湯
+-
+    id: 5
+    name: さやの湯処
+    url: https://www.sayanoyudokoro.co.jp
+    map: https://maps.google.com/?cid=3704279090084377669&hl=ja
+    address: 東京都板橋区前野町3-41-1
+    price: 890
+    lat: 35.770819
+    lng: 139.692653
+    type: 温泉
+-
+    id: 6
+    name: 天然温泉 久松湯
+    url: http://hisamatsuyu.jp/
+    map: https://maps.google.com/?cid=15319394911501017452&hl=ja
+    address: 東京都練馬区桜台4-32-15
+    price: 470
+    lat: 35.7414026
+    lng: 139.661624
+    type: 銭湯
+-
+    id: 7
+    name: 竜泉寺の湯(八王子みなみの店)
+    url: https://ryusenjinoyu.com/hachioji/
+    map: https://maps.google.com/?cid=8421066584024883824&hl=ja
+    address: 東京都八王子市片倉町3505
+    price: 750
+    lat: 35.6406668
+    lng: 139.3328897
+    type: 温泉
+-
+    id: 8
+    name: 燕湯
+    url: https://www.1010.or.jp/map/item/item-cnt-82
+    map: https://maps.google.com/?cid=8311303545884008734&hl=ja
+    address: 東京都台東区上野3-14-5
+    price: 470
+    lat: 35.7055096
+    lng: 139.7729046
+    type: 銭湯
+-
+    id: 9
+    name: 秋川渓谷 瀬音の湯
+    url: http://www.seotonoyu.jp/
+    map: https://maps.google.com/?cid=1661856125454029330&hl=ja
+    address: 東京都あきる野市乙津565
+    price: 900
+    lat: 35.7273367
+    lng: 139.1869011
+    type: 温泉
+-
+    id: 10
+    name: 御谷湯
+    url: http://mikokuyu.com/
+    map: https://maps.google.com/?cid=15208185827468729733&hl=ja
+    address: 東京都墨田区石原3-30-8
+    price: 470
+    lat: 35.7015357
+    lng: 139.8045206
+    type: 銭湯
+-
+    id: 11
+    name: 戸越銀座温泉
+    url: http://togoshiginzaonsen.com/
+    map: https://maps.google.com/?cid=5491713260116512792&hl=ja
+    address: 東京都品川区戸越2-1-6
+    price: 470
+    lat: 35.6147383
+    lng: 139.7185906
+    type: 銭湯
+-
+    id: 12
+    name: そしがや温泉21
+    url: http://www.soshigaya-onsen21.com/index.html
+    map: https://maps.google.com/?cid=86270271154795650&hl=ja
+    address: 東京都世田谷区祖師谷3-36-21
+    price: 470
+    lat: 35.6456026
+    lng: 139.6076819
+    type: 銭湯
+-
+    id: 13
+    name: 押上温泉 天然温泉 大黒湯
+    url: http://daikokuyu.com/
+    map: https://maps.google.com/?cid=12437758408109450457&hl=ja
+    address: 東京都墨田区横川3-12-14
+    price: 470
+    lat: 35.7050245
+    lng: 139.8136356
+    type: 銭湯
+-
+    id: 14
+    name: 北品川温泉 天神湯
+    url: http://www.tenjinyu.com/
+    map: https://maps.google.com/?cid=1669935803604933877&hl=ja
+    address: 東京都品川区北品川2-23-9
+    price: 470
+    lat: 35.6179143
+    lng: 139.7433439
+    type: 銭湯
+-
+    id: 15
+    name: 蒲田温泉
+    url: http://kamataonsen.on.coocan.jp
+    map: https://maps.google.com/?cid=1703240611850394911&hl=ja
+    address: 東京都大田区蒲田本町2-23-2
+    price: 470
+    lat: 35.5558487
+    lng: 139.7180443
+    type: 銭湯
+-
+    id: 16
+    name: 斉藤湯
+    url: http://saito-yu.com/
+    map: https://maps.google.com/?cid=16174325861575456152&hl=ja
+    address: 東京都荒川区東日暮里6-59-2
+    price: 470
+    lat: 35.7293315
+    lng: 139.7730306
+    type: 銭湯
+-
+    id: 17
+    name: 稲城天然温泉 季乃彩
+    url: http://www.tokinoirodori.com/
+    map: https://maps.google.com/?cid=7100526699935239315&hl=ja
+    address: 東京都稲城市向陽台6-13
+    price: 830
+    lat: 35.6455322
+    lng: 139.4897585
+    type: 温泉
+-
+    id: 18
+    name: 天然温泉 テルマー湯
+    url: http://thermae-yu.jp/
+    map: https://maps.google.com/?cid=13871194554529312284&hl=ja
+    address: 東京都新宿区歌舞伎町1-1-2
+    price: 2405
+    lat: 35.694505
+    lng: 139.7050067
+    type: 温泉
+-
+    id: 19
+    name: 万年湯
+    url: http://www.1010.or.jp/map/item/item-cnt-333
+    map: https://maps.google.com/?cid=2327837110506786592&hl=ja
+    address: 東京都新宿区大久保1-15-17
+    price: 470
+    lat: 35.701062
+    lng: 139.7034645
+    type: 銭湯
+-
+    id: 20
+    name: 京王高尾山温泉 極楽湯
+    url: http://www.takaosan-onsen.jp/
+    map: https://maps.google.com/?cid=315041917626324276&hl=ja
+    address: 東京都八王子市高尾町2229-7
+    price: 1000
+    lat: 35.6320971
+    lng: 139.2692731
+    type: 温泉
+-
+    id: 21
+    name: 小杉湯
+    url: http://www13.plala.or.jp/Kosugiyu/
+    map: https://maps.google.com/?cid=14610170215999282914&hl=ja
+    address: 東京都杉並区高円寺北3-32-2
+    price: 470
+    lat: 35.708073
+    lng: 139.648809
+    type: 銭湯
+-
+    id: 22
+    name: 光明泉
+    url: http://kohmeisen.com/
+    map: https://maps.google.com/?cid=14257391735967158552&hl=ja
+    address: 東京都目黒区上目黒1-6-1
+    price: 470
+    lat: 35.6455401
+    lng: 139.7002847
+    type: 銭湯
+-
+    id: 23
+    name: おふろの王様(花小金井店)
+    url: https://www.ousama2603.com/shop/hanakoganei/
+    map: https://maps.google.com/?cid=17114517395868596048&hl=ja
+    address: 東京都小平市花小金井南町3-9-10
+    price: 960
+    lat: 35.7215549
+    lng: 139.5214834
+    type: 温泉
+-
+    id: 24
+    name: はすぬま温泉
+    url: http://ota1010.com/explore/はすぬま温泉/
+    map: https://maps.google.com/?cid=10626443166725646850&hl=ja
+    address: 東京都大田区西蒲田6-16-11
+    price: 470
+    lat: 35.565431
+    lng: 139.7086314
+    type: 銭湯
+-
+    id: 25
+    name: 東京・湯河原温泉 万葉の湯
+    url: https://www.manyo.co.jp/machida/
+    map: https://maps.google.com/?cid=6466989507584219800&hl=ja
+    address: 東京都町田市鶴間7-3-1
+    price: 2300
+    lat: 35.507445
+    lng: 139.47728
+    type: 温泉
+-
+    id: 26
+    name: 天然温泉 湯どんぶり 栄湯
+    url: http://sakaeyu.com/
+    map: https://maps.google.com/?cid=7554589849738309790&hl=ja
+    address: 東京都台東区日本堤1-4-5
+    price: 470
+    lat: 35.7254669
+    lng: 139.7987632
+    type: 銭湯
+-
+    id: 27
+    name: 昭島温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/akishima/
+    map: https://maps.google.com/?cid=14358421405320569783&hl=ja
+    address: 東京都昭島市美堀町3-14-10
+    price: 850
+    lat: 35.7217211
+    lng: 139.355079
+    type: 温泉
+-
+    id: 28
+    name: 桜館
+    url: http://sakurakan.biz/
+    map: https://maps.google.com/?cid=5194328778129233096&hl=ja
+    address: 東京都大田区池上6-35-5
+    price: 470
+    lat: 35.5685022
+    lng: 139.7032031
+    type: 銭湯
+-
+    id: 29
+    name: ふくの湯
+    url: http://www.sentou-bunkyo.com/pg65.html
+    map: https://maps.google.com/?cid=8392467610846327777&hl=ja
+    address: 東京都文京区千駄木5-41-5
+    price: 470
+    lat: 35.7280836
+    lng: 139.7568094
+    type: 銭湯
+-
+    id: 30
+    name: 富士見湯
+    url: https://www.fujimiyu.co
+    map: https://maps.google.com/?cid=10130170867842559042&hl=ja
+    address: 東京都昭島市中神町1260
+    price: 470
+    lat: 35.7093863
+    lng: 139.3811126
+    type: 銭湯
+-
+    id: 31
+    name: 弁天湯
+    url: http://www.1010.or.jp/map/item/item-cnt-325
+    map: https://maps.google.com/?cid=12261421382030844433&hl=ja
+    address: 東京都新宿区余丁町5-1
+    price: 470
+    lat: 35.6954823
+    lng: 139.7149181
+    type: 銭湯
+-
+    id: 32
+    name: 国立温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/kunitachi/
+    map: https://maps.google.com/?cid=4799575911244187894&hl=ja
+    address: 東京都国立市谷保3143-1
+    price: 870
+    lat: 35.6766579
+    lng: 139.4265764
+    type: 温泉
+-
+    id: 33
+    name: 文化浴泉
+    url: https://www.bunkayokusen1010.com
+    map: https://maps.google.com/?cid=3298339155556367767&hl=ja
+    address: 東京都目黒区東山3-6-8
+    price: 470
+    lat: 35.6497996
+    lng: 139.687269
+    type: 銭湯
+-
+    id: 34
+    name: 東京染井温泉 SAKURA
+    url: http://www.sakura-2005.com/
+    map: https://maps.google.com/?cid=1895361523676727543&hl=ja
+    address: 東京都豊島区駒込5-4-24
+    price: 1320
+    lat: 35.7378179
+    lng: 139.7391555
+    type: 温泉
+-
+    id: 35
+    name: 湯処葛西
+    url: http://www.yudokoro.jp/index2.html
+    map: https://maps.google.com/?cid=4757911686223593113&hl=ja
+    address: 東京都江戸川区東葛西9-3-5
+    price: 700
+    lat: 35.6557731
+    lng: 139.8817021
+    type: 温泉
+-
+    id: 36
+    name: イーストランド
+    url: http://eastland.jp/
+    map: https://maps.google.com/?cid=6864381885829433036&hl=ja
+    address: 東京都江戸川区西篠崎2-23-1
+    price: 470
+    lat: 35.7112976
+    lng: 139.8970404
+    type: 銭湯
+-
+    id: 37
+    name: 大谷田温泉 明神の湯
+    url: http://www.myoujin-no-yu.com/
+    map: https://maps.google.com/?cid=15659629854172987928&hl=ja
+    address: 東京都足立区大谷田1-18-1
+    price: 1200
+    lat: 35.778157
+    lng: 139.8475741
+    type: 温泉
+-
+    id: 38
+    name: 金春湯
+    url: http://www002.upp.so-net.ne.jp/konparu/
+    map: https://maps.google.com/?cid=17652040559896011309&hl=ja
+    address: 東京都中央区銀座8-7-5
+    price: 470
+    lat: 35.6686663
+    lng: 139.7613781
+    type: 銭湯
+-
+    id: 39
+    name: 乙女湯
+    url: https://www.oyunofuji1010.com/gallery/1839/
+    map: https://maps.google.com/?cid=7735065652356928159&hl=ja
+    address: 東京都江戸川区船堀7-3-13
+    price: 470
+    lat: 35.678405
+    lng: 139.8690029
+    type: 銭湯
+-
+    id: 40
+    name: 仙川 湯けむりの里
+    url: https://www.yukemurinosato.com/sengawa/
+    map: https://maps.google.com/?cid=4861870790223077891&hl=ja
+    address: 東京都調布市若葉町2-11-2
+    price: 750
+    lat: 35.6574251
+    lng: 139.5875847
+    type: 温泉
+-
+    id: 41
+    name: 豊島園 庭の湯
+    url: http://www.niwanoyu.jp/niwa/
+    map: https://maps.google.com/?cid=15710855913718526911&hl=ja
+    address: 東京都練馬区向山3-25-1
+    price: 2350
+    lat: 35.7440043
+    lng: 139.6479742
+    type: 温泉
+-
+    id: 42
+    name: 湊湯
+    url: http://www.minatoyu.jp
+    map: https://maps.google.com/?cid=5590949922005939146&hl=ja
+    address: 東京都中央区湊1-6-2
+    price: 470
+    lat: 35.6726175
+    lng: 139.779512
+    type: 銭湯
+-
+    id: 43
+    name: 麻布黒美水温泉 竹の湯
+    url: https://takenoyuazabu.wixsite.com/takeno-yu
+    map: https://maps.google.com/?cid=4713968945597517484&hl=ja
+    address: 東京都港区南麻布1-15-12
+    price: 470
+    lat: 35.6514764
+    lng: 139.7342365
+    type: 銭湯
+-
+    id: 44
+    name: 月見湯温泉
+    url: https://tsukimiyu.com/
+    map: https://maps.google.com/?cid=1048606222043182987&hl=ja
+    address: 東京都世田谷区赤堤5-36-16
+    price: 470
+    lat: 35.6654669
+    lng: 139.6358647
+    type: 銭湯
+-
+    id: 45
+    name: 六龍鉱泉
+    url: http://taito1010.com/component/mtree/sento-list/rokuryu.html?Itemid=
+    map: https://maps.google.com/?cid=14055449450930065649&hl=ja
+    address: 東京都台東区池之端3-4-20
+    price: 470
+    lat: 35.71704
+    lng: 139.7695057
+    type: 銭湯
+-
+    id: 46
+    name: 梅の湯
+    url: http://arakawa-sento.jp/%E6%A2%85%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=10695755852458088498&hl=ja
+    address: 東京都荒川区西尾久4-13-2
+    price: 470
+    lat: 35.7467821
+    lng: 139.7614671
+    type: 銭湯
+-
+    id: 47
+    name: 一の湯
+    url: https://ichino-yu.jp/
+    map: https://maps.google.com/?cid=3941939910740654444&hl=ja
+    address: 東京都中野区沼袋1-39-10
+    price: 470
+    lat: 35.7202128
+    lng: 139.6637616
+    type: 銭湯
+-
+    id: 48
+    name: あけぼの湯
+    url: https://www.oyunofuji1010.com/gallery/1899/
+    map: https://maps.google.com/?cid=3498067176728164024&hl=ja
+    address: 東京都江戸川区船堀3-12-11
+    price: 470
+    lat: 35.6806353
+    lng: 139.8636869
+    type: 銭湯
+-
+    id: 49
+    name: 武蔵小山温泉 清水湯
+    url: http://www.shimizuyu.com/
+    map: https://maps.google.com/?cid=604540314679880494&hl=ja
+    address: 東京都品川区小山3-9-1
+    price: 470
+    lat: 35.6202311
+    lng: 139.7076216
+    type: 温泉
+-
+    id: 50
+    name: 銀座湯
+    url: http://www.268chuou.com/list/detail01.php
+    map: https://maps.google.com/?cid=2468294144872308296&hl=ja
+    address: 東京都中央区銀座1-12-2
+    price: 470
+    lat: 35.6744703
+    lng: 139.7702419
+    type: 銭湯
+-
+    id: 51
+    name: 東京健康ランド まねきの湯
+    url: http://www.manekinoyu.jp/tokyokenkoland/
+    map: https://maps.google.com/?cid=295277283797130596&hl=ja
+    address: 東京都江戸川区船堀1-2-1
+    price: 1500
+    lat: 35.6869126
+    lng: 139.8615793
+    type: 温泉
+-
+    id: 52
+    name: 深大寺天然温泉 湯守の里
+    url: http://www.yumorinosato.com/
+    map: https://maps.google.com/?cid=16742934979975251546&hl=ja
+    address: 東京都調布市深大寺元町2-12-2
+    price: 1000
+    lat: 35.6640481
+    lng: 139.548569
+    type: 温泉
+-
+    id: 53
+    name: おふろの王様(多摩百草店)
+    url: https://www.ousama2603.com/shop/tamamogusa/
+    map: https://maps.google.com/?cid=11558840855887100697&hl=ja
+    address: 東京都多摩市和田1352-1
+    price: 800
+    lat: 35.6446878
+    lng: 139.4209436
+    type: 温泉
+-
+    id: 54
+    name: 武蔵野温泉 なごみの湯
+    url: https://www.nagomino-yu.com/index.html
+    map: https://maps.google.com/?cid=6163923292688980415&hl=ja
+    address: 東京都杉並区上荻1-10-10
+    price: 1830
+    lat: 35.704787
+    lng: 139.6183491
+    type: 温泉
+-
+    id: 55
+    name: 天然温泉 改正湯
+    url: http://www.kaiseiyokujou.com/
+    map: https://maps.google.com/?cid=13642534213974544189&hl=ja
+    address: 東京都大田区西蒲田5-10-5
+    price: 470
+    lat: 35.5670498
+    lng: 139.7139977
+    type: 銭湯
+-
+    id: 56
+    name: タイムズ スパ・レスタ
+    url: http://www.timesspa-resta.jp/
+    map: https://maps.google.com/?cid=10656232318207892657&hl=ja
+    address: 東京都豊島区東池袋4-25-9
+    price: 2850
+    lat: 35.7288576
+    lng: 139.717427
+    type: 温泉
+-
+    id: 57
+    name: 西品川温泉 宮城湯
+    url: http://www.miyagiyu.co.jp/
+    map: https://maps.google.com/?cid=2638378156739843030&hl=ja
+    address: 東京都品川区西品川2-18-4
+    price: 470
+    lat: 35.6116266
+    lng: 139.7263742
+    type: 銭湯
+-
+    id: 58
+    name: 渋谷笹塚温泉 栄湯
+    url: http://sasazukasakaeyu.com/index.html
+    map: https://maps.google.com/?cid=10269649169339641208&hl=ja
+    address: 東京都渋谷区笹塚2-9-5
+    price: 470
+    lat: 35.6757018
+    lng: 139.6686832
+    type: 銭湯
+-
+    id: 59
+    name: 生涯青春の湯 つるつる温泉
+    url: http://www.gws.ne.jp/home/onsen/
+    map: https://maps.google.com/?cid=11756418460910999641&hl=ja
+    address: 東京都西多摩郡日の出町大久野4718
+    price: 860
+    lat: 35.7795057
+    lng: 139.1921052
+    type: 温泉
+-
+    id: 60
+    name: 庄楽の湯
+    url: http://syourakunoyu.sakura.ne.jp/
+    map: https://maps.google.com/?cid=3533873091568473097&hl=ja
+    address: 東京都江戸川区上篠崎2-12-16
+    price: 470
+    lat: 35.7122316
+    lng: 139.9033461
+    type: 銭湯
+-
+    id: 61
+    name: 薬師湯
+    url: http://yakushiyu.com/
+    map: https://maps.google.com/?cid=2823389560510806152&hl=ja
+    address: 東京都墨田区向島3-46-10
+    price: 470
+    lat: 35.7114091
+    lng: 139.8092847
+    type: 銭湯
+-
+    id: 62
+    name: アクア東中野
+    url: http://www.1010.or.jp/map/item/item-cnt-360
+    map: https://maps.google.com/?cid=12267554888145817771&hl=ja
+    address: 東京都中野区東中野4-9-22
+    price: 470
+    lat: 35.7074785
+    lng: 139.6857357
+    type: 銭湯
+-
+    id: 63
+    name: 辰巳湯
+    url: http://www.maroon.dti.ne.jp/tatsumi/question.html
+    map: https://maps.google.com/?cid=8158635724054611239&hl=ja
+    address: 東京都江東区三好1-2-3
+    price: 470
+    lat: 35.6798458
+    lng: 139.7997075
+    type: 銭湯
+-
+    id: 64
+    name: 新生湯
+    url: http://www.shinseiyu.jp/
+    map: https://maps.google.com/?cid=32173645562568483&hl=ja
+    address: 東京都品川区旗の台4-5-18
+    price: 470
+    lat: 35.6027111
+    lng: 139.7056649
+    type: 銭湯
+-
+    id: 65
+    name: 千代乃湯
+    url: http://www.chiyonoyu.co.jp/index.html
+    map: https://maps.google.com/?cid=13396240142623663582&hl=ja
+    address: 東京都三鷹市井口2-4-31
+    price: 470
+    lat: 35.6872224
+    lng: 139.5493189
+    type: 銭湯
+-
+    id: 66
+    name: 天然温泉 久が原湯
+    url: http://ota1010.com/explore/%e4%b9%85%e3%81%8c%e5%8e%9f%e6%b9%af/
+    map: https://maps.google.com/?cid=14374995121020946785&hl=ja
+    address: 東京都大田区久が原2-14-15
+    price: 470
+    lat: 35.5822433
+    lng: 139.6975889
+    type: 銭湯
+-
+    id: 67
+    name: 秀の湯
+    url: http://sentou.jp/map/2-19.html
+    map: https://maps.google.com/?cid=3543911461159463351&hl=ja
+    address: 東京都杉並区桃井4-2-9
+    price: 470
+    lat: 35.712459
+    lng: 139.6028411
+    type: 銭湯
+-
+    id: 68
+    name: 松の湯
+    url: http://www.shinagawa1010.jp/list/matsunoyu_b.html
+    map: https://maps.google.com/?cid=15871862358785293879&hl=ja
+    address: 東京都品川区戸越6-23-15
+    price: 470
+    lat: 35.6059756
+    lng: 139.7148818
+    type: 銭湯
+-
+    id: 69
+    name: 羽衣湯
+    url: http://www.1010.or.jp/map/item/item-cnt-354
+    map: https://maps.google.com/?cid=7496441514463118945&hl=ja
+    address: 東京都渋谷区本町3-24-20
+    price: 470
+    lat: 35.6920242
+    lng: 139.6843821
+    type: 銭湯
+-
+    id: 70
+    name: 大蔵湯
+    url: http://ookurayu.com/
+    map: https://maps.google.com/?cid=6086442120429557331&hl=ja
+    address: 東京都町田市木曽町522
+    price: 470
+    lat: 35.5617158
+    lng: 139.4299742
+    type: 銭湯
+-
+    id: 71
+    name: 天然温泉 ロテン・ガーデン
+    url: http://roten-garden.com/
+    map: https://maps.google.com/?cid=3707236778855970892&hl=ja
+    address: 東京都町田市相原町358
+    price: 760
+    lat: 35.6089908
+    lng: 139.3447535
+    type: 温泉
+-
+    id: 72
+    name: 稲荷湯
+    url: http://www.1010.or.jp/map/item/item-cnt-560
+    map: https://maps.google.com/?cid=4825195371909784152&hl=ja
+    address: 東京都北区滝野川6-27-14
+    price: 470
+    lat: 35.7446559
+    lng: 139.7244466
+    type: 銭湯
+-
+    id: 73
+    name: 大黒湯
+    url: https://www.1010.or.jp/map/item/item-cnt-199
+    map: https://maps.google.com/?cid=11633376213769436123&hl=ja
+    address: 東京都足立区千住寿町32-6
+    price: 470
+    lat: 35.753388
+    lng: 139.7998994
+    type: 銭湯
+-
+    id: 74
+    name: 極楽湯(多摩センター店)
+    url: https://www.gokurakuyu.ne.jp/tempo/tamacenter/
+    map: https://maps.google.com/?cid=14272894384125881867&hl=ja
+    address: 東京都多摩市落合1-30-1
+    price: 830
+    lat: 35.6232256
+    lng: 139.4289456
+    type: 温泉
+-
+    id: 75
+    name: 天然温泉 幸の湯
+    url: http://ota1010.com/explore/%e5%b9%b8%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=10129464099936914212&hl=ja
+    address: 東京都大田区西糀谷1-25-15
+    price: 470
+    lat: 35.5576197
+    lng: 139.7325706
+    type: 銭湯
+-
+    id: 76
+    name: 稲荷湯
+    url: http://www.1010.or.jp/map/item/item-cnt-54
+    map: https://maps.google.com/?cid=17734026655523519847&hl=ja
+    address: 東京都千代田区内神田1-7-3
+    price: 470
+    lat: 35.6901485
+    lng: 139.7663674
+    type: 銭湯
+-
+    id: 77
+    name: 湯の森 深大湯
+    url: http://jindaiyu.web.fc2.com/info.html
+    map: https://maps.google.com/?cid=4597057462286872254&hl=ja
+    address: 東京都調布市深大寺北町6-17-3
+    price: 470
+    lat: 35.6773981
+    lng: 139.5464935
+    type: 銭湯
+-
+    id: 78
+    name: やすらぎの湯 ニュー椿
+    url: https://www.1010.or.jp/map/item/item-cnt-548
+    map: https://maps.google.com/?cid=11724223481512411039&hl=ja
+    address: 東京都豊島区巣鴨5-20-3
+    price: 470
+    lat: 35.7413935
+    lng: 139.7311213
+    type: 銭湯
+-
+    id: 79
+    name: アクアセゾン
+    url: http://aqua-saison.com/
+    map: https://maps.google.com/?cid=12099467469027431484&hl=ja
+    address: 東京都板橋区常盤台3-14-6
+    price: 470
+    lat: 35.761631
+    lng: 139.6843049
+    type: 銭湯
+-
+    id: 80
+    name: 日の出湯
+    url: http://hinodeyu.com/
+    map: https://maps.google.com/?cid=1909779664651883603&hl=ja
+    address: 東京都台東区元浅草2-10-5
+    price: 470
+    lat: 35.7106952
+    lng: 139.7842705
+    type: 銭湯
+-
+    id: 81
+    name: 井草湯
+    url: https://www.facebook.com/1010igusayu/
+    map: https://maps.google.com/?cid=11263923187694388765&hl=ja
+    address: 東京都杉並区下井草5-3-15
+    price: 470
+    lat: 35.7196737
+    lng: 139.6147493
+    type: 銭湯
+-
+    id: 82
+    name: 曙湯
+    url: http://taito1010.com/component/mtree/sento-list/akebono-yu.html
+    map: https://maps.google.com/?cid=4016374754809145407&hl=ja
+    address: 東京都台東区浅草4-17-1
+    price: 470
+    lat: 35.7182607
+    lng: 139.7954264
+    type: 銭湯
+-
+    id: 83
+    name: 第三玉の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-323
+    map: https://maps.google.com/?cid=1452135263972901465&hl=ja
+    address: 東京都新宿区白銀町1-4
+    price: 470
+    lat: 35.7028929
+    lng: 139.7384427
+    type: 銭湯
+-
+    id: 84
+    name: タカラ湯
+    url: http://slowtime.net/takarayu/
+    map: https://maps.google.com/?cid=256648985926722930&hl=ja
+    address: 東京都足立区千住元町27-1
+    price: 470
+    lat: 35.7559694
+    lng: 139.7942703
+    type: 銭湯
+-
+    id: 85
+    name: 千代の湯
+    url: http://www.tiyonoyu.com/
+    map: https://maps.google.com/?cid=10805307028308827019&hl=ja
+    address: 東京都目黒区鷹番2-20-3
+    price: 470
+    lat: 35.6295373
+    lng: 139.6867593
+    type: 銭湯
+-
+    id: 86
+    name: 奥多摩温泉 もえぎの湯
+    url: https://www.okutamas.co.jp/moegi/
+    map: https://maps.google.com/?cid=7127610027802078930&hl=ja
+    address: 東京都西多摩郡奥多摩町氷川119-1
+    price: 850
+    lat: 35.8046429
+    lng: 139.1026385
+    type: 温泉
+-
+    id: 87
+    name: 稲荷湯
+    url: http://www.1010.or.jp/map/item/item-cnt-699
+    map: https://maps.google.com/?cid=3831736656361388534&hl=ja
+    address: 東京都八王子市子安町1-27-20
+    price: 470
+    lat: 35.6527813
+    lng: 139.3411303
+    type: 銭湯
+-
+    id: 88
+    name: 松の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-700
+    map: https://maps.google.com/?cid=15372185841074358775&hl=ja
+    address: 東京都八王子市小門町20
+    price: 470
+    lat: 35.6595581
+    lng: 139.3251309
+    type: 銭湯
+-
+    id: 89
+    name: 大塚記念湯
+    url: https://www.1010.or.jp/map/item/item-cnt-552
+    map: https://maps.google.com/?cid=13991210675207115973&hl=ja
+    address: 東京都豊島区南大塚3-38-15
+    price: 470
+    lat: 35.7299791
+    lng: 139.7268406
+    type: 銭湯
+-
+    id: 90
+    name: 月島温泉
+    url: http://tsukishima-onsen.seesaa.net/
+    map: https://maps.google.com/?cid=13402128015874721506&hl=ja
+    address: 東京都中央区月島3-4-5
+    price: 470
+    lat: 35.6634779
+    lng: 139.7810827
+    type: 銭湯
+-
+    id: 91
+    name: 清春湯
+    url: http://www.1010.or.jp/map/item/item-cnt-369
+    map: https://maps.google.com/?cid=6025937727252939763&hl=ja
+    address: 東京都中野区弥生町2-1-9
+    price: 470
+    lat: 35.6903213
+    lng: 139.6768909
+    type: 銭湯
+-
+    id: 92
+    name: おふろの王様(大井町店)
+    url: https://www.ousama2603.com/shop/ooimachi/
+    map: https://maps.google.com/?cid=8531757836237206531&hl=ja
+    address: 東京都品川区大井1-50-5
+    price: 1380
+    lat: 35.6052646
+    lng: 139.7340679
+    type: 温泉
+-
+    id: 93
+    name: 十思湯
+    url: http://www.268chuou.com/list/detail11.php
+    map: https://maps.google.com/?cid=5757847454326497813&hl=ja
+    address: 東京都中央区日本橋小伝馬町5-9
+    price: 470
+    lat: 35.6913054
+    lng: 139.7773337
+    type: 銭湯
+-
+    id: 94
+    name: 鶴の湯
+    url: https://www.oyunofuji1010.com/gallery/1936/
+    map: https://maps.google.com/?cid=201605770325839972&hl=ja
+    address: 東京都江戸川区船堀2-11-16
+    price: 470
+    lat: 35.6834382
+    lng: 139.8596963
+    type: 銭湯
+-
+    id: 95
+    name: ゆパウザひばり
+    url: http://www.yu-pauza.com/
+    map: https://maps.google.com/?cid=6832799733797340409&hl=ja
+    address: 東京都西東京市谷戸町3-17-8
+    price: 470
+    lat: 35.7482201
+    lng: 139.5433951
+    type: 銭湯
+-
+    id: 96
+    name: 友の湯
+    url: http://tomonoyu.com/
+    map: https://maps.google.com/?cid=3517361622014833114&hl=ja
+    address: 東京都江戸川区東小岩5-1-3
+    price: 470
+    lat: 35.7293512
+    lng: 139.8875954
+    type: 銭湯
+-
+    id: 97
+    name: 改良湯
+    url: http://www.1010.or.jp/map/item/item-cnt-344
+    map: https://maps.google.com/?cid=12094811564206706334&hl=ja
+    address: 東京都渋谷区東2-19-9
+    price: 470
+    lat: 35.6530753
+    lng: 139.7095256
+    type: 銭湯
+-
+    id: 98
+    name: 神代湯
+    url: http://www.jindaiyu.jp/
+    map: https://maps.google.com/?cid=4563099230682672646&hl=ja
+    address: 東京都調布市菊野台1-13-1
+    price: 470
+    lat: 35.6545432
+    lng: 139.5662881
+    type: 銭湯
+-
+    id: 99
+    name: よみうりランド 丘の湯
+    url: http://www.yomiuriland.com/okanoyu/
+    map: https://maps.google.com/?cid=2188072215827220612&hl=ja
+    address: 東京都稲城市矢野口3302-8
+    price: 670
+    lat: 35.6254012
+    lng: 139.5151765
+    type: 温泉
+-
+    id: 100
+    name: THE SPA 西新井
+    url: https://www.central.co.jp/thespa/nishiarai/
+    map: https://maps.google.com/?cid=15687076951761697416&hl=ja
+    address: 東京都足立区西新井栄町1-17-10
+    price: 1038
+    lat: 35.7749385
+    lng: 139.7898812
+    type: 温泉
+-
+    id: 101
+    name: 健康ランド末広湯
+    url: https://www.1010.or.jp/map/item/item-cnt-533
+    map: https://maps.google.com/?cid=13471835821839287628&hl=ja
+    address: 東京都豊島区千早2-14-13
+    price: 470
+    lat: 35.732811
+    lng: 139.6923566
+    type: 銭湯
+-
+    id: 102
+    name: テルメ末広
+    url: http://www.therme.co.jp/
+    map: https://maps.google.com/?cid=14955966358946903083&hl=ja
+    address: 東京都北区志茂5-16-14
+    price: 470
+    lat: 35.7825014
+    lng: 139.7310922
+    type: 銭湯
+-
+    id: 103
+    name: 藤の湯
+    url: https://www.setagaya1010.tokyo/guide/fuji-no-yu/
+    map: https://maps.google.com/?cid=13965040621666678849&hl=ja
+    address: 東京都世田谷区玉川台2-1-16
+    price: 470
+    lat: 35.6219811
+    lng: 139.6308274
+    type: 銭湯
+-
+    id: 104
+    name: 久松温泉
+    url: http://ota1010.com/explore/久松温泉/
+    map: https://maps.google.com/?cid=9478991679376871143&hl=ja
+    address: 東京都大田区池上3-31-16
+    price: 470
+    lat: 35.5737468
+    lng: 139.7026999
+    type: 銭湯
+-
+    id: 105
+    name: 白山湯
+    url: https://kotomise.jp/shops/%e7%99%bd%e5%b1%b1%e6%b9%af/
+    map: https://maps.google.com/?cid=1288221876632973429&hl=ja
+    address: 東京都江東区枝川1-6-15
+    price: 470
+    lat: 35.6569376
+    lng: 139.8038856
+    type: 銭湯
+-
+    id: 106
+    name: バン・ドゥーシュ
+    url: http://www.1010.or.jp/map/item/item-cnt-56
+    map: https://maps.google.com/?cid=9079361507662368868&hl=ja
+    address: 東京都千代田区麹町1-5-4
+    price: 470
+    lat: 35.6836134
+    lng: 139.7417925
+    type: 銭湯
+-
+    id: 107
+    name: 大黒湯
+    url: http://www.1010.or.jp/map/item/item-cnt-357
+    map: https://maps.google.com/?cid=4339154770883053277&hl=ja
+    address: 東京都渋谷区西原3-24-5
+    price: 470
+    lat: 35.6709613
+    lng: 139.6831509
+    type: 銭湯
+-
+    id: 108
+    name: 熱海湯
+    url: http://www.1010.or.jp/map/item/item-cnt-322
+    map: https://maps.google.com/?cid=519536879992168705&hl=ja
+    address: 東京都新宿区神楽坂3-6
+    price: 470
+    lat: 35.7009601
+    lng: 139.7402039
+    type: 銭湯
+-
+    id: 109
+    name: 中野寿湯温泉
+    url: http://www.1010.or.jp/map/item/item-cnt-375
+    map: https://maps.google.com/?cid=8915218050067845393&hl=ja
+    address: 東京都中野区新井1-14-13
+    price: 470
+    lat: 35.7112021
+    lng: 139.6670749
+    type: 銭湯
+-
+    id: 110
+    name: 天然温泉 平和島
+    url: https://www.heiwajima-onsen.jp
+    map: https://maps.google.com/?cid=4848260307894126820&hl=ja
+    address: 東京都大田区平和島1-1-1
+    price: 2000
+    lat: 35.5857587
+    lng: 139.7394821
+    type: 温泉
+-
+    id: 111
+    name: 浅草ROX まつり湯
+    url: https://www.matsuri-yu.com/
+    map: https://maps.google.com/?cid=9880664463873267585&hl=ja
+    address: 東京都台東区浅草1-25-15
+    price: 2750
+    lat: 35.7129208
+    lng: 139.792792
+    type: 温泉
+-
+    id: 112
+    name: 大平湯
+    url: https://www.1010.or.jp/map/item/item-cnt-231
+    map: https://maps.google.com/?cid=8136661472989295036&hl=ja
+    address: 東京都足立区青井6-21-3
+    price: 470
+    lat: 35.777947
+    lng: 139.8141163
+    type: 銭湯
+-
+    id: 113
+    name: 照の湯
+    url: http://ota1010.com/explore/%e7%85%a7%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=6257239400711994142&hl=ja
+    address: 東京都大田区仲六郷3-23-6
+    price: 470
+    lat: 35.5458242
+    lng: 139.7111211
+    type: 銭湯
+-
+    id: 114
+    name: 世田谷温泉 四季の湯
+    url: https://www.setagaya1010.tokyo/guide/setagaya-onsen-shiki-no-yu/
+    map: https://maps.google.com/?cid=11605960739533485359&hl=ja
+    address: 東京都世田谷区桜丘2-18-26
+    price: 470
+    lat: 35.6453055
+    lng: 139.625034
+    type: 銭湯
+-
+    id: 115
+    name: 世界湯
+    url: http://www.1010.or.jp/map/item/item-cnt-336
+    map: https://maps.google.com/?cid=9295632454566331602&hl=ja
+    address: 東京都新宿区高田馬場3-8-31
+    price: 470
+    lat: 35.7146767
+    lng: 139.6996986
+    type: 銭湯
+-
+    id: 116
+    name: HOTランドみどり湯
+    url: http://midoriyu.main.jp/
+    map: https://maps.google.com/?cid=6440058209532178536&hl=ja
+    address: 東京都北区志茂3-25-9
+    price: 470
+    lat: 35.7794682
+    lng: 139.7332706
+    type: 銭湯
+-
+    id: 117
+    name: 南青山 清水湯
+    url: https://shimizuyu.jp/
+    map: https://maps.google.com/?cid=1666170432163158396&hl=ja
+    address: 東京都港区南青山3-12-3
+    price: 470
+    lat: 35.6660512
+    lng: 139.7140075
+    type: 温泉
+-
+    id: 118
+    name: 湯処じんのび
+    url: https://www.1010.or.jp/map/item/item-cnt-213
+    map: https://maps.google.com/?cid=15601263040387845661&hl=ja
+    address: 東京都足立区西新井6-43-4
+    price: 470
+    lat: 35.7824257
+    lng: 139.7769307
+    type: 銭湯
+-
+    id: 119
+    name: やなぎ湯
+    url: http://www.1010.or.jp/map/item/item-cnt-575
+    map: https://maps.google.com/?cid=3938756116089020869&hl=ja
+    address: 東京都北区東十条3-5-15
+    price: 470
+    lat: 35.7649933
+    lng: 139.7308911
+    type: 銭湯
+-
+    id: 120
+    name: マジック温泉 昭和浴場
+    url: http://www.tajimagic.com/
+    map: https://maps.google.com/?cid=7625213395958278682&hl=ja
+    address: 東京都中野区中央5-21-12
+    price: 470
+    lat: 35.6994757
+    lng: 139.6621319
+    type: 銭湯
+-
+    id: 121
+    name: 小平天然温泉 テルメ小川
+    url: http://terme-ogawa.com/
+    map: https://maps.google.com/?cid=18270624891935315970&hl=ja
+    address: 東京都小平市小川町1-2494
+    price: 840
+    lat: 35.7320868
+    lng: 139.4517923
+    type: 温泉
+-
+    id: 122
+    name: 天神湯
+    url: http://www.ota1010.com/tenjinyu/
+    map: https://maps.google.com/?cid=3765177078912434204&hl=ja
+    address: 東京都大田区南蒲田1-7-23
+    price: 470
+    lat: 35.5593182
+    lng: 139.7270038
+    type: 銭湯
+-
+    id: 123
+    name: 天狗湯
+    url: http://blog.livedoor.jp/sirakababbq/
+    map: https://maps.google.com/?cid=14739994100895076453&hl=ja
+    address: 東京都杉並区西荻南1-21-4
+    price: 470
+    lat: 35.6989806
+    lng: 139.6013808
+    type: 銭湯
+-
+    id: 124
+    name: 岡田湯
+    url: https://okadayu.com/
+    map: https://maps.google.com/?cid=16584941462971944634&hl=ja
+    address: 東京都足立区関原3-43-2
+    price: 470
+    lat: 35.7712336
+    lng: 139.7854106
+    type: 銭湯
+-
+    id: 125
+    name: 湯～ゆランドあずま
+    url: https://www.1010.or.jp/map/item/item-cnt-528
+    map: https://maps.google.com/?cid=16757644102992018957&hl=ja
+    address: 東京都豊島区西池袋4-13-9
+    price: 470
+    lat: 35.7285013
+    lng: 139.6993074
+    type: 銭湯
+-
+    id: 126
+    name: ときわ健康温泉
+    url: http://1010itabashi.or.jp/detail/195/
+    map: https://maps.google.com/?cid=2710438874827202088&hl=ja
+    address: 東京都板橋区中台1-25-5
+    price: 470
+    lat: 35.7667765
+    lng: 139.6792878
+    type: 銭湯
+-
+    id: 127
+    name: 梅の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-53
+    map: https://maps.google.com/?cid=3652465714508894837&hl=ja
+    address: 東京都千代田区神田神保町2-8-2
+    price: 470
+    lat: 35.6967141
+    lng: 139.7551119
+    type: 銭湯
+-
+    id: 128
+    name: 駒の湯
+    url: https://www.setagaya1010.tokyo/guide/koma-no-yu/
+    map: https://maps.google.com/?cid=11234592941062607827&hl=ja
+    address: 東京都世田谷区三軒茶屋2-17-13
+    price: 470
+    lat: 35.6428865
+    lng: 139.6670537
+    type: 銭湯
+-
+    id: 129
+    name: 富士見湯
+    url: http://www.sentou-bunkyo.com/pg64.html
+    map: https://maps.google.com/?cid=12766768654451082137&hl=ja
+    address: 東京都文京区白山1-3-5
+    price: 470
+    lat: 35.7155095
+    lng: 139.7533239
+    type: 銭湯
+-
+    id: 130
+    name: ふれあいの湯
+    url: https://www.city.minato.tokyo.jp/smartphone/shisetsu/sonota/koshuyokujo/01.html
+    map: https://maps.google.com/?cid=14755760047156225756&hl=ja
+    address: 東京都港区芝2-2-18
+    price: 470
+    lat: 35.6530475
+    lng: 139.75276
+    type: 銭湯
+-
+    id: 131
+    name: 寺島浴場
+    url: http://www.terajima-yokujo.com/
+    map: https://maps.google.com/?cid=15150870925284697747&hl=ja
+    address: 東京都墨田区東向島6-34-18
+    price: 470
+    lat: 35.7244185
+    lng: 139.821059
+    type: 銭湯
+-
+    id: 132
+    name: 鶴の湯
+    url: https://www.setagaya1010.tokyo/guide/goutokuji-tsuru-no-yu/
+    map: https://maps.google.com/?cid=14033237013257479925&hl=ja
+    address: 東京都世田谷区豪徳寺1-23-20
+    price: 470
+    lat: 35.6523376
+    lng: 139.6464211
+    type: 銭湯
+-
+    id: 133
+    name: 朝日湯
+    url: http://taito1010.com/component/mtree/sento-list/asahi.html
+    map: https://maps.google.com/?cid=11524478193663339943&hl=ja
+    address: 東京都台東区谷中2-18-7
+    price: 470
+    lat: 35.7244154
+    lng: 139.7644994
+    type: 銭湯
+-
+    id: 134
+    name: 草津湯
+    url: http://ota1010.com/explore/%e8%8d%89%e6%b4%a5%e6%b9%af/
+    map: https://maps.google.com/?cid=6083871494900233578&hl=ja
+    address: 東京都大田区東矢口2-7-21
+    price: 470
+    lat: 35.5652701
+    lng: 139.6998765
+    type: 銭湯
+-
+    id: 135
+    name: 松の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-334
+    map: https://maps.google.com/?cid=578185393907204115&hl=ja
+    address: 東京都新宿区西早稲田1-4-12
+    price: 470
+    lat: 35.7091597
+    lng: 139.7170135
+    type: 銭湯
+-
+    id: 136
+    name: 平和湯
+    url: https://www.1010.or.jp/map/item/item-cnt-542
+    map: https://maps.google.com/?cid=5759256856840918413&hl=ja
+    address: 東京都豊島区池袋2-64-11
+    price: 470
+    lat: 35.7352643
+    lng: 139.7112377
+    type: 銭湯
+-
+    id: 137
+    name: ゆ～ポッポ
+    url: http://www.yu-pop.jp/
+    map: https://maps.google.com/?cid=4642979228538816863&hl=ja
+    address: 東京都練馬区北町6-4-13
+    price: 470
+    lat: 35.7600315
+    lng: 139.6557974
+    type: 銭湯
+-
+    id: 138
+    name: 仁岸湯
+    url: https://www.oyunofuji1010.com/gallery/2088/
+    map: https://maps.google.com/?cid=15504493308895703068&hl=ja
+    address: 東京都江戸川区中央2-7-2
+    price: 470
+    lat: 35.7079891
+    lng: 139.8723309
+    type: 銭湯
+-
+    id: 139
+    name: 貫井浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-633
+    map: https://maps.google.com/?cid=11889372375585833186&hl=ja
+    address: 東京都練馬区貫井2-20-16
+    price: 470
+    lat: 35.7401195
+    lng: 139.6326856
+    type: 銭湯
+-
+    id: 140
+    name: 高砂湯
+    url: http://www.1010.or.jp/map/item/item-cnt-650
+    map: https://maps.google.com/?cid=9103038378090583681&hl=ja
+    address: 東京都立川市柴崎町2-11-17
+    price: 470
+    lat: 35.6962951
+    lng: 139.409601
+    type: 銭湯
+-
+    id: 141
+    name: 世界湯
+    url: http://www.268chuou.com/list/detail06.php
+    map: https://maps.google.com/?cid=6506127750665569277&hl=ja
+    address: 東京都中央区日本橋人形町2-17-2
+    price: 470
+    lat: 35.6853326
+    lng: 139.7853433
+    type: 銭湯
+-
+    id: 142
+    name: 庚申湯
+    url: http://www.koushin-yu.com/index.html
+    map: https://maps.google.com/?cid=9859905991279296540&hl=ja
+    address: 東京都西東京市芝久保町1-13-2
+    price: 470
+    lat: 35.7227423
+    lng: 139.5284321
+    type: 銭湯
+-
+    id: 143
+    name: さくら湯
+    url: http://sakurayu.jp
+    map: https://maps.google.com/?cid=7903350535640624126&hl=ja
+    address: 東京都墨田区業平4-6-5
+    price: 470
+    lat: 35.7074957
+    lng: 139.8150242
+    type: 銭湯
+-
+    id: 144
+    name: 蒲田福の湯
+    url: http://ota1010.com/explore/kamata-fukuno-yu/
+    map: https://maps.google.com/?cid=18266134163681332597&hl=ja
+    address: 東京都大田区蒲田1-12-15
+    price: 470
+    lat: 35.5660983
+    lng: 139.7202959
+    type: 銭湯
+-
+    id: 145
+    name: さかえ湯
+    url: http://www.1010.or.jp/map/item/item-cnt-347
+    map: https://maps.google.com/?cid=6755155247159631553&hl=ja
+    address: 東京都渋谷区東1-31-19
+    price: 470
+    lat: 35.6545659
+    lng: 139.7063366
+    type: 銭湯
+-
+    id: 146
+    name: 稲城浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-702
+    map: https://maps.google.com/?cid=15614428528265221889&hl=ja
+    address: 東京都稲城市大丸221
+    price: 470
+    lat: 35.6463865
+    lng: 139.4996743
+    type: 銭湯
+-
+    id: 147
+    name: 明神湯
+    url: http://ota1010.com/explore/%e6%98%8e%e7%a5%9e%e6%b9%af/
+    map: https://maps.google.com/?cid=4089893406760003277&hl=ja
+    address: 東京都大田区南雪谷5-14-7
+    price: 470
+    lat: 35.5896063
+    lng: 139.6900713
+    type: 銭湯
+-
+    id: 148
+    name: 両国湯屋 江戸遊
+    url: https://www.edoyu.com/ryougoku/
+    map: https://maps.google.com/?cid=13532544118803457656&hl=ja
+    address: 東京都墨田区亀沢1-5-8
+    price: 2750
+    lat: 35.6966435
+    lng: 139.798462
+    type: 温泉
+-
+    id: 149
+    name: 鶴の湯
+    url: http://taito1010.com/component/mtree/sento-list/tsuru_asakusa.html
+    map: https://maps.google.com/?cid=14838219910063308907&hl=ja
+    address: 東京都台東区浅草5-48-4
+    price: 470
+    lat: 35.7206982
+    lng: 139.7991714
+    type: 銭湯
+-
+    id: 150
+    name: 中延記念湯
+    url: http://www.nakanobukinenyu.com/
+    map: https://maps.google.com/?cid=9579578352490320287&hl=ja
+    address: 東京都品川区旗の台4-11-2
+    price: 470
+    lat: 35.601678
+    lng: 139.7029694
+    type: 銭湯
+-
+    id: 151
+    name: 辰己湯
+    url: http://www.tatsumiyu-nerima.com/
+    map: https://maps.google.com/?cid=11305583007770632452&hl=ja
+    address: 東京都練馬区桜台4-42-2
+    price: 470
+    lat: 35.7407863
+    lng: 139.6568316
+    type: 銭湯
+-
+    id: 152
+    name: 弁天湯
+    url: http://www.1010.or.jp/map/item/item-cnt-678
+    map: https://maps.google.com/?cid=9998201909392293352&hl=ja
+    address: 東京都武蔵野市吉祥寺本町2-27-13
+    price: 470
+    lat: 35.7056126
+    lng: 139.5758524
+    type: 銭湯
+-
+    id: 153
+    name: 富士見湯健康セントー
+    url: http://www.1010.or.jp/map/item/item-cnt-655
+    map: https://maps.google.com/?cid=18011865393122738315&hl=ja
+    address: 東京都東大和市南街6-1-25
+    price: 470
+    lat: 35.7372736
+    lng: 139.4300404
+    type: 銭湯
+-
+    id: 154
+    name: 八幡湯
+    url: http://www.1010.or.jp/map/item/item-cnt-355
+    map: https://maps.google.com/?cid=10189606043685823154&hl=ja
+    address: 東京都渋谷区富ケ谷1-2-10
+    price: 470
+    lat: 35.6696094
+    lng: 139.6892048
+    type: 銭湯
+-
+    id: 155
+    name: 高井戸天然温泉 美しの湯
+    url: http://utsukushi-yu.com/
+    map: https://maps.google.com/?cid=11247743636018038740&hl=ja
+    address: 東京都杉並区高井戸西2-3-45
+    price: 950
+    lat: 35.6845254
+    lng: 139.6148923
+    type: 温泉
+-
+    id: 156
+    name: 高砂湯
+    url: https://takasagoyu.jimdo.com/
+    map: https://maps.google.com/?cid=2619056940343742682&hl=ja
+    address: 東京都中野区中央4-49-2
+    price: 470
+    lat: 35.7018351
+    lng: 139.6696795
+    type: 銭湯
+-
+    id: 157
+    name: 観音湯
+    url: http://www.1010.or.jp/map/item/item-cnt-351
+    map: https://maps.google.com/?cid=15171310097643964345&hl=ja
+    address: 東京都渋谷区幡ケ谷2-46-7
+    price: 470
+    lat: 35.6791045
+    lng: 139.67652
+    type: 銭湯
+-
+    id: 158
+    name: 八幡湯
+    url: http://www.shinagawa1010.jp/list/yawatayu.html
+    map: https://maps.google.com/?cid=758547315305461186&hl=ja
+    address: 東京都品川区西中延3-15-8
+    price: 470
+    lat: 35.6063069
+    lng: 139.7084137
+    type: 銭湯
+-
+    id: 159
+    name: アサヒトレンド21
+    url: http://www.1010.or.jp/map/item/item-cnt-683
+    map: https://maps.google.com/?cid=10272055473544585419&hl=ja
+    address: 東京都三鷹市上連雀2-7-1
+    price: 470
+    lat: 35.7009945
+    lng: 139.558327
+    type: 銭湯
+-
+    id: 160
+    name: お湯どころ野川
+    url: http://www.1010.or.jp/map/item/item-cnt-676
+    map: https://maps.google.com/?cid=9814330383413986932&hl=ja
+    address: 東京都狛江市東野川1-30-14
+    price: 470
+    lat: 35.6413898
+    lng: 139.5830087
+    type: 銭湯
+-
+    id: 161
+    name: 飛鳥山温泉
+    url: http://asuka1010.main.jp/
+    map: https://maps.google.com/?cid=1694058110146168655&hl=ja
+    address: 東京都北区滝野川2-43-2
+    price: 470
+    lat: 35.749306
+    lng: 139.734196
+    type: 銭湯
+-
+    id: 162
+    name: 新越泉
+    url: http://shinetusen.com/
+    map: https://maps.google.com/?cid=9032521273649407177&hl=ja
+    address: 東京都中野区新井5-17-2
+    price: 470
+    lat: 35.7153372
+    lng: 139.670093
+    type: 銭湯
+-
+    id: 163
+    name: 湯の楽代田橋
+    url: http://sentou.jp/map/3-15.html
+    map: https://maps.google.com/?cid=9359138267661428035&hl=ja
+    address: 東京都杉並区和泉1-1-4
+    price: 470
+    lat: 35.6726416
+    lng: 139.6597376
+    type: 銭湯
+-
+    id: 164
+    name: 於玉湯
+    url: http://www.1010.or.jp/map/item/item-cnt-55
+    map: https://maps.google.com/?cid=11517090387531879589&hl=ja
+    address: 東京都千代田区岩本町2-2-14
+    price: 470
+    lat: 35.6927726
+    lng: 139.7755342
+    type: 銭湯
+-
+    id: 165
+    name: ヌーランドさがみ湯
+    url: http://nu-land.com/
+    map: https://maps.google.com/?cid=6856234389844498188&hl=ja
+    address: 東京都大田区仲六郷2-7-5
+    price: 1250
+    lat: 35.5522775
+    lng: 139.7145965
+    type: 温泉
+-
+    id: 166
+    name: ゆ～ザ中井
+    url: http://www.1010.or.jp/map/item/item-cnt-342
+    map: https://maps.google.com/?cid=12489055384858052968&hl=ja
+    address: 東京都新宿区中落合1-13-8
+    price: 470
+    lat: 35.7160733
+    lng: 139.6890178
+    type: 銭湯
+-
+    id: 167
+    name: 万福湯
+    url: http://www.shinagawa1010.jp/list/manpukuyu.html
+    map: https://maps.google.com/?cid=12327086419724462681&hl=ja
+    address: 東京都品川区大崎4-2-3
+    price: 470
+    lat: 35.6222395
+    lng: 139.7234054
+    type: 銭湯
+-
+    id: 168
+    name: 豊川浴泉
+    url: http://www.sentou-bunkyo.com/pg61.html
+    map: https://maps.google.com/?cid=10304022377449384319&hl=ja
+    address: 東京都文京区目白台1-13-1
+    price: 470
+    lat: 35.7144993
+    lng: 139.7176706
+    type: 銭湯
+-
+    id: 169
+    name: 常盤湯
+    url: https://kotomise.jp/shops/%e5%b8%b8%e7%9b%a4%e6%b9%af/
+    map: https://maps.google.com/?cid=7555683033335627177&hl=ja
+    address: 東京都江東区常盤2-3-8
+    price: 470
+    lat: 35.6847385
+    lng: 139.797021
+    type: 銭湯
+-
+    id: 170
+    name: 河辺温泉 梅の湯
+    url: http://kabeonsen-umenoyu.com/
+    map: https://maps.google.com/?cid=14261969157738260235&hl=ja
+    address: 東京都青梅市河辺町10-8-1
+    price: 880
+    lat: 35.7853639
+    lng: 139.2850384
+    type: 温泉
+-
+    id: 171
+    name: 山の湯温泉
+    url: https://www.1010.or.jp/map/item/item-cnt-535
+    map: https://maps.google.com/?cid=6897133501791365042&hl=ja
+    address: 東京都豊島区要町1-47-12
+    price: 470
+    lat: 35.7365968
+    lng: 139.6965004
+    type: 銭湯
+-
+    id: 172
+    name: 文化湯
+    url: https://kotomise.jp/shops/%e6%96%87%e5%8c%96%e6%b9%af/
+    map: https://maps.google.com/?cid=4757417261856010940&hl=ja
+    address: 東京都江東区北砂6-14-8
+    price: 470
+    lat: 35.6842672
+    lng: 139.8369605
+    type: 銭湯
+-
+    id: 173
+    name: 松の湯
+    url: http://matsuno-yu.com
+    map: https://maps.google.com/?cid=8139440216320878618&hl=ja
+    address: 東京都墨田区緑3-4-6
+    price: 470
+    lat: 35.6932228
+    lng: 139.8050402
+    type: 銭湯
+-
+    id: 174
+    name: THE SPA 成城
+    url: https://www.central.co.jp/thespa/seijo/
+    map: https://maps.google.com/?cid=10923802228632846721&hl=ja
+    address: 東京都世田谷区千歳台3-20-2
+    price: 1320
+    lat: 35.6536514
+    lng: 139.6154008
+    type: 温泉
+-
+    id: 175
+    name: 増穂湯
+    url: https://www.setagaya1010.tokyo/guide/masuho-yu/
+    map: https://maps.google.com/?cid=15932271749957739249&hl=ja
+    address: 東京都世田谷区南烏山5-21-15
+    price: 470
+    lat: 35.6661625
+    lng: 139.6022438
+    type: 銭湯
+-
+    id: 176
+    name: 梅の湯
+    url: http://umenoyu-senju.sakura.ne.jp/
+    map: https://maps.google.com/?cid=16630856917379881580&hl=ja
+    address: 東京都足立区千住旭町41-11
+    price: 470
+    lat: 35.7501281
+    lng: 139.8062296
+    type: 銭湯
+-
+    id: 177
+    name: 栄湯
+    url: http://www.1010.or.jp/map/item/item-cnt-343
+    map: https://maps.google.com/?cid=14721285681166865694&hl=ja
+    address: 東京都新宿区西落合2-6-2
+    price: 470
+    lat: 35.7206487
+    lng: 139.6782481
+    type: 銭湯
+-
+    id: 178
+    name: 玉の湯
+    url: http://sentou.jp/map/1-20.html
+    map: https://maps.google.com/?cid=13397798618281382578&hl=ja
+    address: 東京都杉並区阿佐谷北1-13-7
+    price: 470
+    lat: 35.7071977
+    lng: 139.639634
+    type: 銭湯
+-
+    id: 179
+    name: 永山健康ランド 竹取の湯
+    url: http://www.taketorinoyu.com/
+    map: https://maps.google.com/?cid=12055903707015545425&hl=ja
+    address: 東京都多摩市永山1-3-4
+    price: 2100
+    lat: 35.6313958
+    lng: 139.4479575
+    type: 温泉
+-
+    id: 180
+    name: 福の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-701
+    map: https://maps.google.com/?cid=321460554705811188&hl=ja
+    address: 東京都八王子市本町3-6
+    price: 470
+    lat: 35.6615781
+    lng: 139.3338025
+    type: 銭湯
+-
+    id: 181
+    name: ピース湯
+    url: http://www.shinagawa1010.jp/list/peaceyu.html
+    map: https://maps.google.com/?cid=6378449572067447489&hl=ja
+    address: 東京都品川区西大井6-15-16
+    price: 470
+    lat: 35.5998611
+    lng: 139.7159876
+    type: 銭湯
+-
+    id: 182
+    name: クアパレス藤
+    url: http://1010itabashi.or.jp/detail/332/
+    map: https://maps.google.com/?cid=6396076792293082301&hl=ja
+    address: 東京都板橋区南町39-10
+    price: 470
+    lat: 35.7408245
+    lng: 139.6995477
+    type: 銭湯
+-
+    id: 183
+    name: 八王子温泉 やすらぎの湯
+    url: https://www.yu-granspa.com/
+    map: https://maps.google.com/?cid=10783849544293120462&hl=ja
+    address: 東京都八王子市中町2-1
+    price: 2100
+    lat: 35.6584678
+    lng: 139.3373914
+    type: 温泉
+-
+    id: 184
+    name: 十條湯
+    url: https://www.1010.or.jp/map/item/item-cnt-578
+    map: https://maps.google.com/?cid=17164701294611839693&hl=ja
+    address: 東京都北区十条仲原1-14-2
+    price: 470
+    lat: 35.762857
+    lng: 139.7201392
+    type: 銭湯
+-
+    id: 185
+    name: 上越泉
+    url: http://www.1010.or.jp/map/item/item-cnt-373
+    map: https://maps.google.com/?cid=16410818527379427079&hl=ja
+    address: 東京都中野区野方1-51-10
+    price: 470
+    lat: 35.7109514
+    lng: 139.654852
+    type: 銭湯
+-
+    id: 186
+    name: 松本湯
+    url: http://www.1010.or.jp/map/item/item-cnt-361
+    map: https://maps.google.com/?cid=17347549688154537495&hl=ja
+    address: 東京都中野区東中野5-29-12
+    price: 470
+    lat: 35.7108656
+    lng: 139.689735
+    type: 銭湯
+-
+    id: 187
+    name: みどり湯
+    url: http://midoriyururi.com
+    map: https://maps.google.com/?cid=13877058331327442600&hl=ja
+    address: 東京都目黒区緑が丘2-7-14
+    price: 470
+    lat: 35.6090384
+    lng: 139.674085
+    type: 銭湯
+-
+    id: 188
+    name: 川場湯
+    url: http://kawabayu.asablo.jp/blog/
+    map: https://maps.google.com/?cid=1053829338635322541&hl=ja
+    address: 東京都練馬区桜台3-15-14
+    price: 470
+    lat: 35.7472904
+    lng: 139.6670115
+    type: 銭湯
+-
+    id: 189
+    name: 妙法湯
+    url: https://www.1010.or.jp/map/item/item-cnt-529
+    map: https://maps.google.com/?cid=5037798583992382334&hl=ja
+    address: 東京都豊島区西池袋4-32-4
+    price: 470
+    lat: 35.7271428
+    lng: 139.6970565
+    type: 銭湯
+-
+    id: 190
+    name: のぼり湯
+    url: http://www.1010.or.jp/map/item/item-cnt-685
+    map: https://maps.google.com/?cid=9370766064269546079&hl=ja
+    address: 東京都三鷹市井口5-5-18
+    price: 470
+    lat: 35.6952742
+    lng: 139.5348765
+    type: 銭湯
+-
+    id: 191
+    name: 宝泉湯
+    url: http://taito1010.com/component/mtree/sento-list/housen.html
+    map: https://maps.google.com/?cid=2989550705580579175&hl=ja
+    address: 東京都台東区根岸3-14-14
+    price: 470
+    lat: 35.7222806
+    lng: 139.7824751
+    type: 銭湯
+-
+    id: 192
+    name: 東京天然温泉 古代の湯
+    url: http://www.kodainoyu.jp/
+    map: https://maps.google.com/?cid=8248227327072475784&hl=ja
+    address: 東京都葛飾区奥戸4-2-1
+    price: 2680
+    lat: 35.7294537
+    lng: 139.8631593
+    type: 温泉
+-
+    id: 193
+    name: 仙石湯
+    url: http://www.1010.or.jp/map/item/item-cnt-356
+    map: https://maps.google.com/?cid=14949467943173710472&hl=ja
+    address: 東京都渋谷区西原2-27-5
+    price: 470
+    lat: 35.6750706
+    lng: 139.6784659
+    type: 銭湯
+-
+    id: 194
+    name: ゆ〜シティ蒲田
+    url: http://youcity.sakura.ne.jp/
+    map: https://maps.google.com/?cid=15425210566610800023&hl=ja
+    address: 東京都大田区蒲田1-26-16
+    price: 470
+    lat: 35.5651602
+    lng: 139.7180685
+    type: 温泉
+-
+    id: 195
+    name: 松乃湯
+    url: https://www.1010.or.jp/map/item/item-cnt-642
+    map: https://maps.google.com/?cid=7410836887378670731&hl=ja
+    address: 東京都練馬区石神井台7-11-1
+    price: 470
+    lat: 35.7301436
+    lng: 139.5793782
+    type: 銭湯
+-
+    id: 196
+    name: 金春湯
+    url: https://kotomise.jp/shops/%e9%87%91%e6%98%a5%e6%b9%af/
+    map: https://maps.google.com/?cid=2011395297643489630&hl=ja
+    address: 東京都江東区東陽1-6-9
+    price: 470
+    lat: 35.6673576
+    lng: 139.8090214
+    type: 銭湯
+-
+    id: 197
+    name: 板橋天然温泉 スパディオ
+    url: http://www.spadio.com/
+    map: https://maps.google.com/?cid=11523339702728558482&hl=ja
+    address: 東京都板橋区宮本町49-4
+    price: 2260
+    lat: 35.7645547
+    lng: 139.6999995
+    type: 温泉
+-
+    id: 198
+    name: 狛江湯
+    url: http://www.1010.or.jp/map/item/item-cnt-674
+    map: https://maps.google.com/?cid=8390979269592133095&hl=ja
+    address: 東京都狛江市東和泉1-12-6
+    price: 470
+    lat: 35.6325352
+    lng: 139.5794558
+    type: 銭湯
+-
+    id: 199
+    name: 金町湯
+    url: https://katsushika1010.com/sento/金町湯/
+    map: https://maps.google.com/?cid=14445144339807726827&hl=ja
+    address: 東京都葛飾区金町5-14-9
+    price: 470
+    lat: 35.7683377
+    lng: 139.8658356
+    type: 銭湯
+-
+    id: 200
+    name: 大黒湯
+    url: http://www.1010.or.jp/map/item/item-cnt-367
+    map: https://maps.google.com/?cid=6632648279919039364&hl=ja
+    address: 東京都中野区本町4-32-10
+    price: 470
+    lat: 35.6948306
+    lng: 139.6695239
+    type: 銭湯
+-
+    id: 201
+    name: 天徳泉
+    url: http://sentou.jp/map/1-23.html
+    map: https://maps.google.com/?cid=335928125900956376&hl=ja
+    address: 東京都杉並区阿佐谷北2-22-1
+    price: 470
+    lat: 35.7058516
+    lng: 139.632088
+    type: 銭湯
+-
+    id: 202
+    name: アクアドルフィンランド
+    url: https://katsushika1010.com/sento/アクアドルフィンランド/
+    map: https://maps.google.com/?cid=1942184267029211205&hl=ja
+    address: 東京都葛飾区立石7-16-3
+    price: 470
+    lat: 35.7407066
+    lng: 139.850025
+    type: 銭湯
+-
+    id: 203
+    name: 村山温泉 かたくりの湯
+    url: http://www.katakuri-y.com/
+    map: https://maps.google.com/?cid=17323048743755027242&hl=ja
+    address: 東京都武蔵村山市本町5-29-1
+    price: 800
+    lat: 35.7628667
+    lng: 139.3869369
+    type: 温泉
+-
+    id: 204
+    name: 府中駅前天然温泉 縄文の湯
+    url: http://www.to-ji.net/
+    map: https://maps.google.com/?cid=11797173647297378470&hl=ja
+    address: 東京都府中市宮西町1-5-1
+    price: 2400
+    lat: 35.671585
+    lng: 139.4788036
+    type: 温泉
+-
+    id: 205
+    name: 曙湯
+    url: https://www.1010.or.jp/map/item/item-cnt-206
+    map: https://maps.google.com/?cid=4631821585770218248&hl=ja
+    address: 東京都足立区足立4-22-3
+    price: 470
+    lat: 35.7656866
+    lng: 139.8052845
+    type: 銭湯
+-
+    id: 206
+    name: 堀田湯
+    url: http://www.hotta-yu.jp/
+    map: https://maps.google.com/?cid=4033878520552293884&hl=ja
+    address: 東京都足立区関原3-20-14
+    price: 470
+    lat: 35.7717196
+    lng: 139.7889991
+    type: 銭湯
+-
+    id: 207
+    name: ゆーらんど
+    url: http://1010itabashi.or.jp/detail/256/
+    map: https://maps.google.com/?cid=11112281083962204594&hl=ja
+    address: 東京都板橋区板橋1-41-13
+    price: 470
+    lat: 35.7488735
+    lng: 139.7153474
+    type: 銭湯
+-
+    id: 208
+    name: 稲荷湯
+    url: https://www.1010.or.jp/map/item/item-cnt-540
+    map: https://maps.google.com/?cid=10427904736302989803&hl=ja
+    address: 東京都豊島区上池袋1-9-17
+    price: 470
+    lat: 35.7346532
+    lng: 139.7190204
+    type: 銭湯
+-
+    id: 209
+    name: アクアガーデン 三越湯
+    url: http://www.1010.or.jp/map/item/item-cnt-107
+    map: https://maps.google.com/?cid=16875720599427870086&hl=ja
+    address: 東京都港区白金5-12-16
+    price: 470
+    lat: 35.6447931
+    lng: 139.7242425
+    type: 銭湯
+-
+    id: 210
+    name: 塩湯
+    url: http://www.1010.or.jp/map/item/item-cnt-327
+    map: https://maps.google.com/?cid=17493364254506692665&hl=ja
+    address: 東京都新宿区三栄町1
+    price: 470
+    lat: 35.687294
+    lng: 139.7272798
+    type: 銭湯
+-
+    id: 211
+    name: 堤柳泉
+    url: http://taito1010.com/component/mtree/sento-list/teiryuu.html?Itemid=
+    map: https://maps.google.com/?cid=11768201389253371168&hl=ja
+    address: 東京都台東区千束4-5-4
+    price: 470
+    lat: 35.7236358
+    lng: 139.797508
+    type: 銭湯
+-
+    id: 212
+    name: 広尾湯
+    url: http://www.1010.or.jp/map/item/item-cnt-346
+    map: https://maps.google.com/?cid=13827032816338868843&hl=ja
+    address: 東京都渋谷区広尾5-4-16
+    price: 470
+    lat: 35.6507676
+    lng: 139.7217754
+    type: 銭湯
+-
+    id: 213
+    name: 宮下湯
+    url: https://www.1010.or.jp/map/item/item-cnt-546
+    map: https://maps.google.com/?cid=3702553813914739350&hl=ja
+    address: 東京都豊島区巣鴨1-30-2
+    price: 470
+    lat: 35.7319663
+    lng: 139.7377849
+    type: 銭湯
+-
+    id: 214
+    name: 末広湯
+    url: http://www.shinagawa1010.jp/list/suehiroyu.html
+    map: https://maps.google.com/?cid=4533651517418231086&hl=ja
+    address: 東京都品川区大井1-42-4
+    price: 470
+    lat: 35.6040191
+    lng: 139.7322339
+    type: 銭湯
+-
+    id: 215
+    name: 大星湯
+    url: http://www.1010.or.jp/map/item/item-cnt-326
+    map: https://maps.google.com/?cid=7855824267715147241&hl=ja
+    address: 東京都新宿区市谷台町18-3
+    price: 470
+    lat: 35.6945056
+    lng: 139.7173512
+    type: 銭湯
+-
+    id: 216
+    name: 銭湯 GOKURAKUYA
+    url: http://ts.italworks.com/
+    map: https://maps.google.com/?cid=17122929837581934735&hl=ja
+    address: 東京都杉並区上荻2-40-14
+    price: 470
+    lat: 35.7082279
+    lng: 139.6138439
+    type: 銭湯
+-
+    id: 217
+    name: 若松湯
+    url: http://adachi1010.jp/sento/wakamatsuyu.html
+    map: https://maps.google.com/?cid=856090443275016075&hl=ja
+    address: 東京都足立区中央本町2-19-11
+    price: 470
+    lat: 35.7704177
+    lng: 139.8101266
+    type: 銭湯
+-
+    id: 218
+    name: 檜原温泉センター 数馬の湯
+    url: http://kazumanoyu.net/
+    map: https://maps.google.com/?cid=1491071791948420028&hl=ja
+    address: 東京都西多摩郡檜原村2430
+    price: 880
+    lat: 35.7241631
+    lng: 139.0540466
+    type: 温泉
+-
+    id: 219
+    name: 功泉湯
+    url: http://1010itabashi.or.jp/detail/299/
+    map: https://maps.google.com/?cid=7044941951512395180&hl=ja
+    address: 東京都板橋区西台2-17-20
+    price: 470
+    lat: 35.779514
+    lng: 139.6730674
+    type: 銭湯
+-
+    id: 220
+    name: 鶴の湯
+    url: https://www.oyunofuji1010.com/gallery/2118/
+    map: https://maps.google.com/?cid=8296777064924336711&hl=ja
+    address: 東京都江戸川区北小岩7-4-16
+    price: 470
+    lat: 35.7444352
+    lng: 139.8895433
+    type: 銭湯
+-
+    id: 221
+    name: 大和湯
+    url: http://adachi1010.jp/sento/yamatoyu-yanagihara.html
+    map: https://maps.google.com/?cid=1315563131882794920&hl=ja
+    address: 東京都足立区柳原2-43-1
+    price: 470
+    lat: 35.748318
+    lng: 139.8123724
+    type: 銭湯
+-
+    id: 222
+    name: 竹の湯
+    url: https://www.1010.or.jp/map/item/item-cnt-216
+    map: https://maps.google.com/?cid=16650398987976316560&hl=ja
+    address: 東京都足立区関原1-9-13
+    price: 470
+    lat: 35.7647772
+    lng: 139.7885902
+    type: 銭湯
+-
+    id: 223
+    name: 神明湯
+    url: https://www.shinmeiyu.jp/
+    map: https://maps.google.com/?cid=8581135974676220565&hl=ja
+    address: 東京都東大和市新堀1-1432-59
+    price: 470
+    lat: 35.7399361
+    lng: 139.4496759
+    type: 銭湯
+-
+    id: 224
+    name: 梅の湯
+    url: https://www.city.chofu.tokyo.jp/www/contents/1213868827344/
+    map: https://maps.google.com/?cid=14799911356907885146&hl=ja
+    address: 東京都調布市深大寺東町6-9-5
+    price: 470
+    lat: 35.6752412
+    lng: 139.5576453
+    type: 銭湯
+-
+    id: 225
+    name: 湯～ハウス
+    url: http://1010itabashi.or.jp/detail/159/
+    map: https://maps.google.com/?cid=1859463928672029091&hl=ja
+    address: 東京都板橋区上板橋3-18-12
+    price: 470
+    lat: 35.7652568
+    lng: 139.6731308
+    type: 銭湯
+-
+    id: 226
+    name: 湯パークレビランド
+    url: https://www.setagaya1010.tokyo/guide/yu-park-levee-land/
+    map: https://maps.google.com/?cid=5851752987071652692&hl=ja
+    address: 東京都世田谷区祖師谷1-24-1
+    price: 470
+    lat: 35.6462858
+    lng: 139.6135609
+    type: 銭湯
+-
+    id: 227
+    name: 弁天湯
+    url: http://www7b.biglobe.ne.jp/~bentenyu/
+    map: https://maps.google.com/?cid=17635833912017346846&hl=ja
+    address: 東京都台東区浅草橋1-33-6
+    price: 470
+    lat: 35.6985498
+    lng: 139.7849548
+    type: 銭湯
+-
+    id: 228
+    name: 天狗湯
+    url: https://www.setagaya1010.tokyo/guide/tengu-yu/
+    map: https://maps.google.com/?cid=7019180080980227548&hl=ja
+    address: 東京都世田谷区世田谷1-16-20
+    price: 470
+    lat: 35.6421013
+    lng: 139.6504756
+    type: 銭湯
+-
+    id: 229
+    name: 紀の国湯
+    url: http://1010itabashi.or.jp/detail/273/
+    map: https://maps.google.com/?cid=15401605235383433991&hl=ja
+    address: 東京都板橋区坂下2-33-4
+    price: 470
+    lat: 35.7843537
+    lng: 139.6798926
+    type: 銭湯
+-
+    id: 230
+    name: 第二亀の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-646
+    map: https://maps.google.com/?cid=16256360407458150885&hl=ja
+    address: 東京都練馬区関町北1-15-7
+    price: 470
+    lat: 35.7253138
+    lng: 139.5775606
+    type: 銭湯
+-
+    id: 231
+    name: 勝どき湯
+    url: http://www.268chuou.com/list/detail10.php
+    map: https://maps.google.com/?cid=3620557038124948138&hl=ja
+    address: 東京都中央区勝どき3-9-7
+    price: 470
+    lat: 35.6579122
+    lng: 139.7741497
+    type: 銭湯
+-
+    id: 232
+    name: 入船湯
+    url: http://www.irifuneyu.com/
+    map: https://maps.google.com/?cid=8316694409113020685&hl=ja
+    address: 東京都大田区羽田6-15-15
+    price: 470
+    lat: 35.5458284
+    lng: 139.749427
+    type: 銭湯
+-
+    id: 233
+    name: 三筋湯
+    url: http://taito1010.com/component/mtree/sento-list/misuji_yu.html
+    map: https://maps.google.com/?cid=11178742415364383772&hl=ja
+    address: 東京都台東区三筋2-13-2
+    price: 470
+    lat: 35.7054011
+    lng: 139.7864743
+    type: 銭湯
+-
+    id: 234
+    name: 鶴の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-669
+    map: https://maps.google.com/?cid=3965792575681268507&hl=ja
+    address: 東京都調布市下石原1-10-2
+    price: 470
+    lat: 35.6572321
+    lng: 139.5353761
+    type: 銭湯
+-
+    id: 235
+    name: 月光泉
+    url: http://www.1010.or.jp/map/item/item-cnt-523
+    map: https://maps.google.com/?cid=3367665762476766659&hl=ja
+    address: 東京都目黒区目黒本町4-2-10
+    price: 470
+    lat: 35.6225631
+    lng: 139.6976277
+    type: 銭湯
+-
+    id: 236
+    name: 大勝湯
+    url: http://arakawa-sento.jp/%E5%A4%A7%E5%8B%9D%E6%B9%AF/
+    map: https://maps.google.com/?cid=4732089819488167676&hl=ja
+    address: 東京都荒川区南千住1-19-4
+    price: 470
+    lat: 35.7330307
+    lng: 139.7906511
+    type: 銭湯
+-
+    id: 237
+    name: 吹上湯
+    url: http://www.shinagawa1010.jp/list/fukiageyu.html
+    map: https://maps.google.com/?cid=15118344453037062799&hl=ja
+    address: 東京都品川区北品川1-25-12
+    price: 470
+    lat: 35.6206899
+    lng: 139.7403346
+    type: 銭湯
+-
+    id: 238
+    name: SPA＆HOTEL 和
+    url: https://www.spa-nagomi.com/
+    map: https://maps.google.com/?cid=3799653452235154244&hl=ja
+    address: 東京都大田区西蒲田7-4-12
+    price: 2400
+    lat: 35.5637749
+    lng: 139.7159104
+    type: 温泉
+-
+    id: 239
+    name: 新寿湯
+    url: https://www.setagaya1010.tokyo/guide/shin-kotobuki-yu/
+    map: https://maps.google.com/?cid=8468450205563857706&hl=ja
+    address: 東京都世田谷区代田5-11-7
+    price: 470
+    lat: 35.6598665
+    lng: 139.6603785
+    type: 銭湯
+-
+    id: 240
+    name: 富士見湯
+    url: https://www.setagaya1010.tokyo/guide/fujimi-yu/
+    map: https://maps.google.com/?cid=1074009860978319677&hl=ja
+    address: 東京都世田谷区太子堂2-33-10
+    price: 470
+    lat: 35.6470912
+    lng: 139.6720903
+    type: 銭湯
+-
+    id: 241
+    name: 金泉湯
+    url: http://www.1010.or.jp/map/item/item-cnt-335
+    map: https://maps.google.com/?cid=14862826736841192152&hl=ja
+    address: 東京都新宿区西早稲田2-16-20
+    price: 470
+    lat: 35.7099495
+    lng: 139.7123374
+    type: 銭湯
+-
+    id: 242
+    name: 入船湯
+    url: http://www.268chuou.com/list/detail03.php
+    map: https://maps.google.com/?cid=8031963329402417535&hl=ja
+    address: 東京都中央区入船3-6-14
+    price: 470
+    lat: 35.6712155
+    lng: 139.7765201
+    type: 銭湯
+-
+    id: 243
+    name: 光徳湯
+    url: http://1010itabashi.or.jp/detail/48/
+    map: https://maps.google.com/?cid=11235929328265103405&hl=ja
+    address: 東京都板橋区徳丸3-11-16
+    price: 470
+    lat: 35.7705853
+    lng: 139.6554893
+    type: 銭湯
+-
+    id: 244
+    name: 天然温泉 第二天狗湯
+    url: http://ota1010.com/explore/%e7%ac%ac%e4%ba%8c%e5%a4%a9%e7%8b%97%e6%b9%af/
+    map: https://maps.google.com/?cid=273105539351060341&hl=ja
+    address: 東京都大田区大森西2-15-3
+    price: 470
+    lat: 35.5777062
+    lng: 139.7302437
+    type: 銭湯
+-
+    id: 245
+    name: 末吉温泉 みはらしの湯
+    url: http://www.town.hachijo.tokyo.jp/onsen/miharashi.html
+    map: https://maps.google.com/?cid=9410457556855026505&hl=ja
+    address: 東京都八丈島八丈町末吉581-1
+    price: 500
+    lat: 33.0792444
+    lng: 139.8514027
+    type: 温泉
+-
+    id: 246
+    name: 君の湯
+    url: https://tokyosento.com/archive/bunkyou-ku/7987/
+    map: https://maps.google.com/?cid=5041997403027732452&hl=ja
+    address: 東京都文京区大塚6-10-9
+    price: 420
+    lat: 35.7258524
+    lng: 139.7271354
+    type: 銭湯
+-
+    id: 247
+    name: 柳湯
+    url: http://www.1010.or.jp/map/item/item-cnt-324
+    map: https://maps.google.com/?cid=13846844415091168481&hl=ja
+    address: 東京都新宿区市谷柳町25
+    price: 470
+    lat: 35.6989079
+    lng: 139.7268848
+    type: 銭湯
+-
+    id: 248
+    name: 桜湯
+    url: http://www.1010.or.jp/map/item/item-cnt-689
+    map: https://maps.google.com/?cid=15475271984729846522&hl=ja
+    address: 東京都東村山市萩山町3-15-1
+    price: 470
+    lat: 35.7458631
+    lng: 139.4725727
+    type: 銭湯
+-
+    id: 249
+    name: 旭湯
+    url: http://www.1010.or.jp/map/item/item-cnt-664
+    map: https://maps.google.com/?cid=4129346655946532026&hl=ja
+    address: 東京都府中市宮西町3-6-2
+    price: 470
+    lat: 35.6718685
+    lng: 139.4741833
+    type: 銭湯
+-
+    id: 250
+    name: 荒井湯
+    url: http://www.1010.or.jp/map/item/item-cnt-146
+    map: https://maps.google.com/?cid=700103877389952984&hl=ja
+    address: 東京都墨田区本所2-8-7
+    price: 470
+    lat: 35.7034516
+    lng: 139.8006668
+    type: 銭湯
+-
+    id: 251
+    name: 大黒湯
+    url: http://www.sentou-bunkyo.com/daikokuyu.html
+    map: https://maps.google.com/?cid=5957993812903860567&hl=ja
+    address: 東京都文京区大塚3-8-6
+    price: 470
+    lat: 35.7209266
+    lng: 139.7326371
+    type: 銭湯
+-
+    id: 252
+    name: 第二かねき湯
+    url: http://www.1010.or.jp/map/item/item-cnt-353
+    map: https://maps.google.com/?cid=13750137190260793176&hl=ja
+    address: 東京都渋谷区本町1-31-2
+    price: 470
+    lat: 35.6810478
+    lng: 139.6809172
+    type: 銭湯
+-
+    id: 253
+    name: アクアプレイス旭
+    url: http://taito1010.com/component/mtree/sento-list/aquaplace-asahi.html
+    map: https://maps.google.com/?cid=15883998166318667037&hl=ja
+    address: 東京都台東区浅草5-10-10
+    price: 470
+    lat: 35.7201674
+    lng: 139.7944851
+    type: 銭湯
+-
+    id: 254
+    name: 旭湯
+    url: https://1010meguro.tokyo/map/more/asahiyu/
+    map: https://maps.google.com/?cid=811576106021394396&hl=ja
+    address: 東京都目黒区平町1-25-23
+    price: 470
+    lat: 35.6171826
+    lng: 139.6771971
+    type: 銭湯
+-
+    id: 255
+    name: 武蔵湯
+    url: https://www.oyunofuji1010.com/gallery/2161/
+    map: https://maps.google.com/?cid=3549789383135543369&hl=ja
+    address: 東京都江戸川区西小岩1-6-16
+    price: 470
+    lat: 35.7304082
+    lng: 139.876641
+    type: 銭湯
+-
+    id: 256
+    name: 石川湯
+    url: https://www.setagaya1010.tokyo/guide/ishikawa-yu/
+    map: https://maps.google.com/?cid=8152043890560734927&hl=ja
+    address: 東京都世田谷区北沢3-12-8
+    price: 470
+    lat: 35.6653941
+    lng: 139.6709101
+    type: 銭湯
+-
+    id: 257
+    name: 稲荷湯
+    url: http://ota1010.com/explore/%e7%a8%b2%e8%8d%b7%e6%b9%af/
+    map: https://maps.google.com/?cid=10244933896434945320&hl=ja
+    address: 東京都大田区東雪谷3-30-14
+    price: 470
+    lat: 35.5935361
+    lng: 139.6872399
+    type: 銭湯
+-
+    id: 258
+    name: よろづ湯
+    url: http://www.1010.or.jp/map/item/item-cnt-677
+    map: https://maps.google.com/?cid=2110842320981636467&hl=ja
+    address: 東京都武蔵野市吉祥寺本町1-18-9
+    price: 470
+    lat: 35.7040766
+    lng: 139.5813787
+    type: 銭湯
+-
+    id: 259
+    name: たつの湯
+    url: http://www.1010.or.jp/map/item/item-cnt-641
+    map: https://maps.google.com/?cid=17042667025268646457&hl=ja
+    address: 東京都練馬区石神井台6-19-26
+    price: 470
+    lat: 35.7389359
+    lng: 139.5796682
+    type: 銭湯
+-
+    id: 260
+    name: 第二寿湯
+    url: https://www.oyunofuji1010.com/gallery/2398/
+    map: https://maps.google.com/?cid=2391864898129351507&hl=ja
+    address: 東京都江戸川区江戸川1-46-12
+    price: 470
+    lat: 35.6881003
+    lng: 139.9035381
+    type: 銭湯
+-
+    id: 261
+    name: 水神湯
+    url: http://www.1010.or.jp/map/item/item-cnt-412
+    map: https://maps.google.com/?cid=7054274440919323564&hl=ja
+    address: 東京都品川区南大井6-9-10
+    price: 470
+    lat: 35.5915465
+    lng: 139.7331672
+    type: 銭湯
+-
+    id: 262
+    name: 境南浴場
+    url: http://sentou.life.coocan.jp/yu/main_data_each_mu/mu_01_kyonan_yokujo/index.html
+    map: https://maps.google.com/?cid=11168448686430011557&hl=ja
+    address: 東京都武蔵野市境南町3-11-8
+    price: 470
+    lat: 35.7002381
+    lng: 139.5412957
+    type: 銭湯
+-
+    id: 263
+    name: 成弘湯
+    url: https://katsushika1010.com/sento/成弘湯/
+    map: https://maps.google.com/?cid=6190792679375719248&hl=ja
+    address: 東京都葛飾区立石6-32-19
+    price: 470
+    lat: 35.7431128
+    lng: 139.8527204
+    type: 銭湯
+-
+    id: 264
+    name: 金春湯
+    url: https://kom-pal.com/
+    map: https://maps.google.com/?cid=14535411566305069726&hl=ja
+    address: 東京都品川区大崎3-18-8
+    price: 470
+    lat: 35.6174134
+    lng: 139.7216135
+    type: 銭湯
+-
+    id: 265
+    name: 白山浴場
+    url: http://www.sentou-bunkyo.com/pg63.html
+    map: https://maps.google.com/?cid=2864924096532784613&hl=ja
+    address: 東京都文京区白山2-7-1
+    price: 470
+    lat: 35.7157732
+    lng: 139.7484735
+    type: 銭湯
+-
+    id: 266
+    name: お玉湯
+    url: http://www.1010.or.jp/map/item/item-cnt-580
+    map: https://maps.google.com/?cid=14193047833331578557&hl=ja
+    address: 東京都北区赤羽北1-25-13
+    price: 470
+    lat: 35.7867695
+    lng: 139.7144896
+    type: 銭湯
+-
+    id: 267
+    name: 新田浴場
+    url: http://ota1010.com/explore/%e6%96%b0%e7%94%b0%e6%b5%b4%e5%a0%b4/
+    map: https://maps.google.com/?cid=3023005083370372610&hl=ja
+    address: 東京都大田区矢口2-5-12
+    price: 470
+    lat: 35.5641178
+    lng: 139.6914287
+    type: 銭湯
+-
+    id: 268
+    name: 立川湯屋敷 梅の湯
+    url: https://www.ume-no-yu.net/
+    map: https://maps.google.com/?cid=2804562469746853860&hl=ja
+    address: 東京都立川市高松町3-13-2
+    price: 470
+    lat: 35.7032829
+    lng: 139.4164388
+    type: 温泉
+-
+    id: 269
+    name: 竹の湯
+    url: https://katsushika1010.com/sento/竹の湯/
+    map: https://maps.google.com/?cid=7852494933896068390&hl=ja
+    address: 東京都葛飾区四つ木1-16-10
+    price: 470
+    lat: 35.7337346
+    lng: 139.8356905
+    type: 銭湯
+-
+    id: 270
+    name: 東宝湯
+    url: http://www.1010.or.jp/map/item/item-cnt-332
+    map: https://maps.google.com/?cid=11098090783911969604&hl=ja
+    address: 東京都新宿区新宿7-11-5
+    price: 470
+    lat: 35.6982433
+    lng: 139.7120446
+    type: 銭湯
+-
+    id: 271
+    name: なみのゆ
+    url: http://naminoyu.com/
+    map: https://maps.google.com/?cid=10358107614141649021&hl=ja
+    address: 東京都杉並区高円寺北3-29-2
+    price: 470
+    lat: 35.7084378
+    lng: 139.6461456
+    type: 銭湯
+-
+    id: 272
+    name: ゆ家 和ごころ 吉の湯
+    url: http://yoshinoyu.sakura.ne.jp/
+    map: https://maps.google.com/?cid=9828765714787853720&hl=ja
+    address: 東京都杉並区成田東1-14-7
+    price: 470
+    lat: 35.6896364
+    lng: 139.6389864
+    type: 温泉
+-
+    id: 273
+    name: 愛らんどセンター 御神火温泉
+    url: http://www.izu-oshima.or.jp/work/gojinka/gojinkasp.html
+    map: https://maps.google.com/?cid=9410508091350401788&hl=ja
+    address: 東京都江東区大島大島町元町仲の原1-8
+    price: 700
+    lat: 34.7560583
+    lng: 139.3517583
+    type: 温泉
+-
+    id: 274
+    name: クアパレス ゆうゆう
+    url: http://www.1010.or.jp/map/item/item-cnt-561
+    map: https://maps.google.com/?cid=5503440339433195152&hl=ja
+    address: 東京都北区滝野川7-11-8
+    price: 470
+    lat: 35.7446947
+    lng: 139.7210709
+    type: 銭湯
+-
+    id: 275
+    name: 桃の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-662
+    map: https://maps.google.com/?cid=7895547936207280532&hl=ja
+    address: 東京都国分寺市東元町3-1-20
+    price: 470
+    lat: 35.6938192
+    lng: 139.4805517
+    type: 銭湯
+-
+    id: 276
+    name: 富の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-673
+    map: https://maps.google.com/?cid=4210857677304579320&hl=ja
+    address: 東京都狛江市西野川4-5-14
+    price: 470
+    lat: 35.6466402
+    lng: 139.5696697
+    type: 銭湯
+-
+    id: 277
+    name: 三の輪湯
+    url: http://www.1010.or.jp/map/item/item-cnt-340
+    map: https://maps.google.com/?cid=13628438028881935237&hl=ja
+    address: 東京都新宿区上落合3-31-2
+    price: 470
+    lat: 35.7137966
+    lng: 139.6819238
+    type: 銭湯
+-
+    id: 278
+    name: 竹の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-321
+    map: https://maps.google.com/?cid=14155512255220189653&hl=ja
+    address: 東京都新宿区改代町2
+    price: 470
+    lat: 35.7065241
+    lng: 139.7346008
+    type: 銭湯
+-
+    id: 279
+    name: らかん湯
+    url: https://kotomise.jp/shops/%e3%82%89%e3%81%8b%e3%82%93%e6%b9%af/
+    map: https://maps.google.com/?cid=10783205598335856002&hl=ja
+    address: 東京都江東区大島2-37-7
+    price: 470
+    lat: 35.6913667
+    lng: 139.8257482
+    type: 銭湯
+-
+    id: 280
+    name: 仲の湯
+    url: https://www.oyunofuji1010.com/gallery/1801/
+    map: https://maps.google.com/?cid=5297342538921788812&hl=ja
+    address: 東京都江戸川区東葛西7-3-5
+    price: 470
+    lat: 35.6596362
+    lng: 139.8735916
+    type: 銭湯
+-
+    id: 281
+    name: 松の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-691
+    map: https://maps.google.com/?cid=3556326324248692609&hl=ja
+    address: 東京都西東京市南町1-13-11
+    price: 470
+    lat: 35.7258377
+    lng: 139.5465077
+    type: 銭湯
+-
+    id: 282
+    name: 八幡浴場
+    url: http://ota1010.com/explore/%e5%85%ab%e5%b9%a1%e6%b5%b4%e5%a0%b4/
+    map: https://maps.google.com/?cid=6920454236813472805&hl=ja
+    address: 東京都大田区南千束3-1-13
+    price: 470
+    lat: 35.6044142
+    lng: 139.6872529
+    type: 銭湯
+-
+    id: 283
+    name: みやこ湯
+    url: http://1010itabashi.or.jp/detail/179/
+    map: https://maps.google.com/?cid=4855310586589269419&hl=ja
+    address: 東京都板橋区熊野町34-14
+    price: 470
+    lat: 35.743112
+    lng: 139.7049569
+    type: 銭湯
+-
+    id: 284
+    name: 大黒湯
+    url: http://www.1010.or.jp/map/item/item-cnt-565
+    map: https://maps.google.com/?cid=2685251867685962875&hl=ja
+    address: 東京都北区上中里2-31-12
+    price: 470
+    lat: 35.7476319
+    lng: 139.7479486
+    type: 銭湯
+-
+    id: 285
+    name: 平和湯
+    url: http://www.1010.or.jp/map/item/item-cnt-630
+    map: https://maps.google.com/?cid=7861444453312572951&hl=ja
+    address: 東京都練馬区中村南3-11-2
+    price: 470
+    lat: 35.7261306
+    lng: 139.6409769
+    type: 銭湯
+-
+    id: 286
+    name: 松の湯
+    url: http://www.shinagawa1010.jp/list/matsunoyu_a.html
+    map: https://maps.google.com/?cid=5970487740381827567&hl=ja
+    address: 東京都品川区西五反田6-18-3
+    price: 470
+    lat: 35.6218358
+    lng: 139.7151843
+    type: 銭湯
+-
+    id: 287
+    name: 永泉湯
+    url: http://adachi1010.jp/sento/eisenyu.html
+    map: https://maps.google.com/?cid=8659037027686281343&hl=ja
+    address: 東京都足立区西新井3-10-2
+    price: 470
+    lat: 35.7879704
+    lng: 139.7836442
+    type: 銭湯
+-
+    id: 288
+    name: 新呑川湯
+    url: http://ota1010.com/explore/%e6%96%b0%e5%91%91%e5%b7%9d%e6%b9%af/
+    map: https://maps.google.com/?cid=11128108855742737838&hl=ja
+    address: 東京都大田区大森南1-21-11
+    price: 470
+    lat: 35.5618728
+    lng: 139.7385157
+    type: 銭湯
+-
+    id: 289
+    name: 富士見湯
+    url: http://www.fujimi-yu.com/
+    map: https://maps.google.com/?cid=13664479527311659278&hl=ja
+    address: 東京都品川区東中延1-3-8
+    price: 470
+    lat: 35.6114888
+    lng: 139.7142787
+    type: 銭湯
+-
+    id: 290
+    name: 帝国湯
+    url: http://arakawa-sento.jp/%E5%B8%9D%E5%9B%BD%E6%B9%AF/
+    map: https://maps.google.com/?cid=11030807110825475780&hl=ja
+    address: 東京都荒川区東日暮里3-22-3
+    price: 470
+    lat: 35.7307944
+    lng: 139.781102
+    type: 銭湯
+-
+    id: 291
+    name: 旭湯
+    url: https://www.oyunofuji1010.com/gallery/1935/
+    map: https://maps.google.com/?cid=15663468421401783394&hl=ja
+    address: 東京都江戸川区平井2-18-12
+    price: 470
+    lat: 35.7025736
+    lng: 139.8462414
+    type: 銭湯
+-
+    id: 292
+    name: 高砂湯
+    url: https://takasagoyu.jimdo.com/
+    map: https://maps.google.com/?cid=9126342272931243383&hl=ja
+    address: 東京都墨田区立川4-11-12
+    price: 470
+    lat: 35.6910819
+    lng: 139.8066197
+    type: 銭湯
+-
+    id: 293
+    name: ニュー松の湯
+    url: https://kotomise.jp/shops/%e3%83%8b%e3%83%a5%e3%83%bc%e6%9d%be%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=4698147530003010630&hl=ja
+    address: 東京都江東区東陽3-12-11
+    price: 470
+    lat: 35.6702248
+    lng: 139.8096321
+    type: 銭湯
+-
+    id: 294
+    name: ゆートピア21
+    url: http://www.1010.or.jp/map/item/item-cnt-259
+    map: https://maps.google.com/?cid=540159893931671598&hl=ja
+    address: 東京都葛飾区亀有3-30-12
+    price: 470
+    lat: 35.7656397
+    lng: 139.8488667
+    type: 銭湯
+-
+    id: 295
+    name: 初音湯
+    url: http://1010itabashi.or.jp/detail/39/
+    map: https://maps.google.com/?cid=1700610145636881777&hl=ja
+    address: 東京都板橋区成増3-41-16
+    price: 470
+    lat: 35.7825443
+    lng: 139.6293208
+    type: 銭湯
+-
+    id: 296
+    name: アクアガーデン栄湯
+    url: https://katsushika1010.com/sento/アクアガーデン栄湯/
+    map: https://maps.google.com/?cid=7054417999994177161&hl=ja
+    address: 東京都葛飾区東四つ木3-45-7
+    price: 470
+    lat: 35.7304281
+    lng: 139.8400725
+    type: 銭湯
+-
+    id: 297
+    name: 明美湯
+    url: https://www.1010.or.jp/map/item/item-cnt-209
+    map: https://maps.google.com/?cid=5035068134763970470&hl=ja
+    address: 東京都足立区梅田4-40-21
+    price: 470
+    lat: 35.7655251
+    lng: 139.792293
+    type: 銭湯
+-
+    id: 298
+    name: 日の出湯
+    url: https://www.1010.or.jp/map/item/item-cnt-93
+    map: https://maps.google.com/?cid=15577698216224019252&hl=ja
+    address: 東京都台東区三ノ輪1-15-12
+    price: 470
+    lat: 35.7281237
+    lng: 139.7938673
+    type: 銭湯
+-
+    id: 299
+    name: 富来浴場
+    url: http://arakawa-sento.jp/%E5%AF%8C%E6%9D%A5%E6%B5%B4%E5%A0%B4/
+    map: https://maps.google.com/?cid=2661268828884608168&hl=ja
+    address: 東京都荒川区西日暮里4-22-10
+    price: 470
+    lat: 35.7315286
+    lng: 139.7643586
+    type: 銭湯
+-
+    id: 300
+    name: 弁天湯
+    url: http://sentou.jp/map/1-04.html
+    map: https://maps.google.com/?cid=17069509818738991341&hl=ja
+    address: 東京都杉並区高円寺南3-25-1
+    price: 470
+    lat: 35.7008686
+    lng: 139.6450575
+    type: 銭湯
+-
+    id: 301
+    name: 金星湯
+    url: http://www.1010.or.jp/map/item/item-cnt-572
+    map: https://maps.google.com/?cid=11834891057817667117&hl=ja
+    address: 東京都北区王子4-1-3
+    price: 470
+    lat: 35.7609177
+    lng: 139.7331482
+    type: 銭湯
+-
+    id: 302
+    name: 天然温泉 楽天地スパ
+    url: https://rakutenchi-oasis.com/raku_spa/
+    map: https://maps.google.com/?cid=14635947227754674984&hl=ja
+    address: 東京都墨田区江東橋4-27-14
+    price: 2400
+    lat: 35.6963119
+    lng: 139.8156604
+    type: 温泉
+-
+    id: 303
+    name: 丸正浴場
+    url: https://www.setagaya1010.tokyo/guide/marusho-yokujou/
+    map: https://maps.google.com/?cid=1218581778794107741&hl=ja
+    address: 東京都世田谷区喜多見4-36-16
+    price: 470
+    lat: 35.6324562
+    lng: 139.5918333
+    type: 銭湯
+-
+    id: 304
+    name: 香藤湯
+    url: http://sentou.jp/map/1-08.html
+    map: https://maps.google.com/?cid=16673178043622565303&hl=ja
+    address: 東京都杉並区高円寺南5-1-7
+    price: 470
+    lat: 35.7019763
+    lng: 139.6607649
+    type: 銭湯
+-
+    id: 305
+    name: 調布弁天湯
+    url: http://www.1010.or.jp/map/item/item-cnt-477
+    map: https://maps.google.com/?cid=7753911699345174752&hl=ja
+    address: 東京都大田区北嶺町10-11
+    price: 470
+    lat: 35.5862588
+    lng: 139.6821898
+    type: 銭湯
+-
+    id: 306
+    name: 松の湯
+    url: http://1010itabashi.or.jp/detail/149/
+    map: https://maps.google.com/?cid=8511803815150202870&hl=ja
+    address: 東京都板橋区志村3-28-6
+    price: 470
+    lat: 35.7786884
+    lng: 139.6873638
+    type: 銭湯
+-
+    id: 307
+    name: 府中湯楽館 桜湯
+    url: http://www.1010.or.jp/map/item/item-cnt-666
+    map: https://maps.google.com/?cid=3637129487243392997&hl=ja
+    address: 東京都府中市宮町1-23-3
+    price: 460
+    lat: 35.6706591
+    lng: 139.4820042
+    type: 銭湯
+-
+    id: 308
+    name: 旭湯
+    url: https://kotomise.jp/shops/%e6%97%ad%e6%b9%af/
+    map: https://maps.google.com/?cid=12521568723364095310&hl=ja
+    address: 東京都江東区東砂7-15-1
+    price: 470
+    lat: 35.6744383
+    lng: 139.8403056
+    type: 銭湯
+-
+    id: 309
+    name: 尾久ゆ～ランド
+    url: http://arakawa-sento.jp/%E5%B0%BE%E4%B9%85%E3%82%86%EF%BD%9E%E3%83%A9%E3%83%B3%E3%83%89/
+    map: https://maps.google.com/?cid=14829850557277732226&hl=ja
+    address: 東京都荒川区東尾久5-27-5
+    price: 470
+    lat: 35.7453515
+    lng: 139.7671819
+    type: 銭湯
+-
+    id: 310
+    name: COCOFURO ますの湯
+    url: https://www.1010.or.jp/map/item/item-cnt-473
+    map: https://maps.google.com/?cid=1546701495019622790&hl=ja
+    address: 東京都大田区南久が原2-1-23
+    price: 470
+    lat: 35.5798726
+    lng: 139.6858628
+    type: 銭湯
+-
+    id: 311
+    name: 金森湯
+    url: http://www.1010.or.jp/map/item/item-cnt-703
+    map: https://maps.google.com/?cid=15580492934064873950&hl=ja
+    address: 東京都町田市金森1177-1
+    price: 470
+    lat: 35.5274042
+    lng: 139.4605829
+    type: 銭湯
+-
+    id: 312
+    name: 黄金湯
+    url: http://www.1010.or.jp/map/item/item-cnt-149
+    map: https://maps.google.com/?cid=1249902651410050491&hl=ja
+    address: 東京都墨田区太平4-14-6
+    price: 470
+    lat: 35.7023286
+    lng: 139.8152983
+    type: 銭湯
+-
+    id: 313
+    name: 第一金乗湯
+    url: http://1010itabashi.or.jp/detail/1/
+    map: https://maps.google.com/?cid=14070349742309397426&hl=ja
+    address: 東京都板橋区若木1-19-6
+    price: 470
+    lat: 35.768761
+    lng: 139.6711504
+    type: 銭湯
+-
+    id: 314
+    name: あづま浴泉
+    url: https://www.oyunofuji1010.com/gallery/2067/
+    map: https://maps.google.com/?cid=2868170647223351228&hl=ja
+    address: 東京都江戸川区中央2-34-2
+    price: 470
+    lat: 35.7087675
+    lng: 139.875621
+    type: 銭湯
+-
+    id: 315
+    name: 八幡湯
+    url: https://www.setagaya1010.tokyo/guide/hachiman-yu/
+    map: https://maps.google.com/?cid=14637626746277779637&hl=ja
+    address: 東京都世田谷区太子堂5-21-4
+    price: 470
+    lat: 35.6479516
+    lng: 139.6663085
+    type: 銭湯
+-
+    id: 316
+    name: 千代の湯
+    url: https://www.setagaya1010.tokyo/guide/chiyo-no-yu/
+    map: https://maps.google.com/?cid=1521408458352147637&hl=ja
+    address: 東京都世田谷区三軒茶屋2-12-7
+    price: 470
+    lat: 35.6425748
+    lng: 139.6695505
+    type: 銭湯
+-
+    id: 317
+    name: 大森湯
+    url: http://ota1010.com/explore/%e5%a4%a7%e6%a3%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=9390067614168224667&hl=ja
+    address: 東京都大田区大森西3-8-17
+    price: 470
+    lat: 35.5735303
+    lng: 139.7303473
+    type: 銭湯
+-
+    id: 318
+    name: 殿上湯
+    url: https://denjyoyu.tokyo/
+    map: https://maps.google.com/?cid=7515260215512712912&hl=ja
+    address: 東京都北区西ケ原1-20-12
+    price: 470
+    lat: 35.7423977
+    lng: 139.7490143
+    type: 銭湯
+-
+    id: 319
+    name: タイムリゾート
+    url: http://arakawa-sento.jp/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88/
+    map: https://maps.google.com/?cid=5576842819468199490&hl=ja
+    address: 東京都荒川区町屋4-4-1
+    price: 470
+    lat: 35.7457113
+    lng: 139.7771327
+    type: 銭湯
+-
+    id: 320
+    name: 露天風呂ゆの花
+    url: http://www.e-yunohana.com/yunohana-1.htm
+    map: https://maps.google.com/?cid=12681257570981246444&hl=ja
+    address: 東京都北区浮間4-6-10
+    price: 400
+    lat: 35.7886737
+    lng: 139.6972938
+    type: 銭湯
+-
+    id: 321
+    name: ぽかぽかランド 鷹番の湯
+    url: https://www.takaban-yu.com/
+    map: https://maps.google.com/?cid=8817283224857656446&hl=ja
+    address: 東京都目黒区鷹番2-2-1
+    price: 470
+    lat: 35.6298471
+    lng: 139.6893677
+    type: 温泉
+-
+    id: 322
+    name: 竹の湯
+    url: https://www.oyunofuji1010.com/gallery/2279/
+    map: https://maps.google.com/?cid=17190565758966936337&hl=ja
+    address: 東京都江戸川区篠崎町4-21-15
+    price: 470
+    lat: 35.6994824
+    lng: 139.9121546
+    type: 銭湯
+-
+    id: 323
+    name: 松の湯
+    url: https://www.setagaya1010.tokyo/guide/okusawa-matsu-no-yu/
+    map: https://maps.google.com/?cid=16776033479786207723&hl=ja
+    address: 東京都世田谷区奥沢4-24-2
+    price: 470
+    lat: 35.6023201
+    lng: 139.6714273
+    type: 銭湯
+-
+    id: 324
+    name: クラブ湯
+    url: http://www.1010.or.jp/map/item/item-cnt-366
+    map: https://maps.google.com/?cid=15159011085237473830&hl=ja
+    address: 東京都中野区本町2-47-5
+    price: 470
+    lat: 35.6963983
+    lng: 139.6808031
+    type: 銭湯
+-
+    id: 325
+    name: 松の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-566
+    map: https://maps.google.com/?cid=3149289051275960710&hl=ja
+    address: 東京都北区田端4-3-8
+    price: 470
+    lat: 35.7361954
+    lng: 139.7523507
+    type: 銭湯
+-
+    id: 326
+    name: 五色湯
+    url: https://goshikiyu.jpn.com
+    map: https://maps.google.com/?cid=9288606296884561850&hl=ja
+    address: 東京都豊島区目白5-21-4
+    price: 470
+    lat: 35.7250076
+    lng: 139.6960471
+    type: 銭湯
+-
+    id: 327
+    name: 寿湯
+    url: http://ota1010.com/explore/寿湯/
+    map: https://maps.google.com/?cid=3223075073117762062&hl=ja
+    address: 東京都大田区蒲田3-8-6
+    price: 470
+    lat: 35.5640674
+    lng: 139.7241818
+    type: 銭湯
+-
+    id: 328
+    name: 玉の湯
+    url: http://adachi1010.jp/sento/tamanoyu.html
+    map: https://maps.google.com/?cid=9226739939040940843&hl=ja
+    address: 東京都足立区綾瀬2-37-4
+    price: 470
+    lat: 35.7598012
+    lng: 139.8293426
+    type: 銭湯
+-
+    id: 329
+    name: 美寿々湯
+    url: http://www.1010.or.jp/map/item/item-cnt-649
+    map: https://maps.google.com/?cid=7459614231938775396&hl=ja
+    address: 東京都練馬区大泉町6-10-2
+    price: 470
+    lat: 35.7561567
+    lng: 139.5949363
+    type: 銭湯
+-
+    id: 330
+    name: 第一相模湯
+    url: https://www.daiichisagamiyu.com
+    map: https://maps.google.com/?cid=420732859582009022&hl=ja
+    address: 東京都大田区西六郷2-29-2
+    price: 470
+    lat: 35.5496605
+    lng: 139.7076066
+    type: 銭湯
+-
+    id: 331
+    name: 富士の湯
+    url: https://www.1010.or.jp/map/item/item-cnt-648
+    map: https://maps.google.com/?cid=17806533494836262395&hl=ja
+    address: 東京都練馬区三原台1-30-1
+    price: 470
+    lat: 35.750591
+    lng: 139.6028898
+    type: 銭湯
+-
+    id: 332
+    name: 大和湯
+    url: http://adachi1010.jp/sento/yamatoyu-shimane.html
+    map: https://maps.google.com/?cid=18441125270100596231&hl=ja
+    address: 東京都足立区島根2-19-7
+    price: 470
+    lat: 35.7814101
+    lng: 139.7979907
+    type: 銭湯
+-
+    id: 333
+    name: 小川バスマンション 喜久の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-638
+    map: https://maps.google.com/?cid=17537095937654259673&hl=ja
+    address: 東京都練馬区田柄2-32-20
+    price: 470
+    lat: 35.7686573
+    lng: 139.6452391
+    type: 銭湯
+-
+    id: 334
+    name: ゆラックス
+    url: http://www.yurax.jp/
+    map: https://maps.google.com/?cid=14298067156248506286&hl=ja
+    address: 東京都豊島区上池袋2-10-6
+    price: 470
+    lat: 35.7355184
+    lng: 139.7165644
+    type: 銭湯
+-
+    id: 335
+    name: 桜湯
+    url: http://sentou.jp/map/1-45.html
+    map: https://maps.google.com/?cid=11697445963764089601&hl=ja
+    address: 東京都杉並区和田3-11-9
+    price: 470
+    lat: 35.6926554
+    lng: 139.6560339
+    type: 銭湯
+-
+    id: 336
+    name: 柳泉園グランドパーク 湯〜プラザ柳泉園
+    url: http://www.ryusenen.or.jp/grandpark_u.html
+    map: https://maps.google.com/?cid=10019611247944572000&hl=ja
+    address: 東京都東久留米市下里4-3-10
+    price: 500
+    lat: 35.7552404
+    lng: 139.5000058
+    type: 温泉
+-
+    id: 337
+    name: 八王子市 戸吹湯ったり館
+    url: https://www.nem-shiteikanri.jp/shisetsu/yuttarikan/
+    map: https://maps.google.com/?cid=6844492336333789422&hl=ja
+    address: 東京都八王子市戸吹町1798
+    price: 700
+    lat: 35.7021624
+    lng: 139.2945606
+    type: 温泉
+-
+    id: 338
+    name: 松の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-667
+    map: https://maps.google.com/?cid=15870600926618794108&hl=ja
+    address: 東京都府中市新町3-6-5
+    price: 470
+    lat: 35.6924832
+    lng: 139.4877961
+    type: 銭湯
+-
+    id: 339
+    name: 昭和湯
+    url: http://www.1010.or.jp/map/item/item-cnt-372
+    map: https://maps.google.com/?cid=10420413482878426956&hl=ja
+    address: 東京都中野区野方1-21-1
+    price: 470
+    lat: 35.7120982
+    lng: 139.6579676
+    type: 銭湯
+-
+    id: 340
+    name: 北沢湯
+    url: https://www.setagaya1010.tokyo/guide/kitazawa-yu/
+    map: https://maps.google.com/?cid=7430960578119853625&hl=ja
+    address: 東京都世田谷区上北沢4-10-11
+    price: 470
+    lat: 35.6686173
+    lng: 139.6258061
+    type: 銭湯
+-
+    id: 341
+    name: 元町浜の湯
+    url: https://www.town.oshima.tokyo.jp/soshiki/kankou/hamanoyu.html
+    map: https://maps.google.com/?cid=707326941988683193&hl=ja
+    address: 東京都大島町元町トンチ畑882
+    price: 300
+    lat: 34.7546041
+    lng: 139.3518602
+    type: 温泉
+-
+    id: 342
+    name: 草津湯
+    url: http://arakawa-sento.jp/%E8%8D%89%E6%B4%A5%E6%B9%AF/
+    map: https://maps.google.com/?cid=7328186085594537771&hl=ja
+    address: 東京都荒川区南千住7-26-2
+    price: 470
+    lat: 35.7355238
+    lng: 139.7992639
+    type: 銭湯
+-
+    id: 343
+    name: 隆の湯
+    url: http://ota1010.com/explore/%e9%9a%86%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=12669827532102507701&hl=ja
+    address: 東京都大田区仲六郷2-27-12
+    price: 470
+    lat: 35.5501227
+    lng: 139.7134606
+    type: 銭湯
+-
+    id: 344
+    name: 松原湯
+    url: https://www.setagaya1010.tokyo/guide/matsubara-yu/
+    map: https://maps.google.com/?cid=13734410746769986266&hl=ja
+    address: 東京都世田谷区松原2-31-12
+    price: 470
+    lat: 35.6674222
+    lng: 139.6481295
+    type: 銭湯
+-
+    id: 345
+    name: 帝国湯
+    url: http://taito1010.com/component/mtree/sento-list/teikoku.html
+    map: https://maps.google.com/?cid=1084168047383956138&hl=ja
+    address: 東京都台東区浅草橋5-23-6
+    price: 470
+    lat: 35.701958
+    lng: 139.7817761
+    type: 銭湯
+-
+    id: 346
+    name: 富士の湯
+    url: http://adachi1010.jp/sento/fujinoyu.html
+    map: https://maps.google.com/?cid=12195426507028967641&hl=ja
+    address: 東京都足立区東和4-15-10
+    price: 470
+    lat: 35.7735937
+    lng: 139.8405088
+    type: 銭湯
+-
+    id: 347
+    name: 柏湯
+    url: http://www.1010.or.jp/map/item/item-cnt-330
+    map: https://maps.google.com/?cid=11318348351398118859&hl=ja
+    address: 東京都新宿区北新宿4-3-7
+    price: 470
+    lat: 35.7066132
+    lng: 139.6933362
+    type: 銭湯
+-
+    id: 348
+    name: 神津島温泉保養センター
+    url: https://vill.kouzushima.tokyo.jp/travel/onsen.html
+    map: https://maps.google.com/?cid=11040844066623471267&hl=ja
+    address: 東京都神津島村錆崎1-1
+    price: 800
+    lat: 34.2208003
+    lng: 139.1298004
+    type: 温泉
+-
+    id: 349
+    name: 吉野湯
+    url: https://www.oyunofuji1010.com/gallery/1865/
+    map: https://maps.google.com/?cid=18339922996647527730&hl=ja
+    address: 東京都江戸川区平井4-23-2
+    price: 470
+    lat: 35.7071421
+    lng: 139.8462648
+    type: 銭湯
+-
+    id: 350
+    name: 千歳湯
+    url: http://arakawa-sento.jp/%E5%8D%83%E6%AD%B3%E6%B9%AF/
+    map: https://maps.google.com/?cid=917485499673685075&hl=ja
+    address: 東京都荒川区西日暮里4-8-4
+    price: 470
+    lat: 35.7333766
+    lng: 139.7620302
+    type: 銭湯
+-
+    id: 351
+    name: 美保湯
+    url: http://www.1010.or.jp/map/item/item-cnt-651
+    map: https://maps.google.com/?cid=10344217609116380167&hl=ja
+    address: 東京都立川市羽衣町1-2-18
+    price: 470
+    lat: 35.6982354
+    lng: 139.4229847
+    type: 銭湯
+-
+    id: 352
+    name: 湯パーク松島
+    url: https://katsushika1010.com/sento/湯パーク松島/
+    map: https://maps.google.com/?cid=1444156218981099243&hl=ja
+    address: 東京都葛飾区新小岩3-8-14
+    price: 470
+    lat: 35.7156104
+    lng: 139.8644933
+    type: 銭湯
+-
+    id: 353
+    name: 鶴の湯
+    url: http://taito1010.com/component/mtree/sento-list/tsuru_asakusabashi.html
+    map: https://maps.google.com/?cid=11849583121332321124&hl=ja
+    address: 東京都台東区浅草橋5-27-2
+    price: 470
+    lat: 35.7013297
+    lng: 139.7835665
+    type: 銭湯
+-
+    id: 354
+    name: みどり湯
+    url: http://www.1010.or.jp/map/item/item-cnt-690
+    map: https://maps.google.com/?cid=4482595605148749672&hl=ja
+    address: 東京都西東京市ひばりが丘1-14-2
+    price: 470
+    lat: 35.7512773
+    lng: 139.5426155
+    type: 銭湯
+-
+    id: 355
+    name: 浅間湯
+    url: http://www.1010.or.jp/map/item/item-cnt-625
+    map: https://maps.google.com/?cid=6560015486809489451&hl=ja
+    address: 東京都練馬区栄町38-3
+    price: 470
+    lat: 35.7390216
+    lng: 139.6719226
+    type: 銭湯
+-
+    id: 356
+    name: 砂川湯
+    url: http://www.1010.or.jp/map/item/item-cnt-657
+    map: https://maps.google.com/?cid=11806986233693088207&hl=ja
+    address: 東京都武蔵村山市学園3-68-1
+    price: 470
+    lat: 35.7446422
+    lng: 139.4051534
+    type: 銭湯
+-
+    id: 357
+    name: 金沢浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-331
+    map: https://maps.google.com/?cid=469421282093742225&hl=ja
+    address: 東京都新宿区新宿7-22-11
+    price: 470
+    lat: 35.7000726
+    lng: 139.7102836
+    type: 銭湯
+-
+    id: 358
+    name: 曙湯
+    url: http://www.1010.or.jp/map/item/item-cnt-665
+    map: https://maps.google.com/?cid=11633472625863359459&hl=ja
+    address: 東京都府中市晴見町1-11-1
+    price: 470
+    lat: 35.6797584
+    lng: 139.4795294
+    type: 銭湯
+-
+    id: 359
+    name: 藤乃湯
+    url: http://sentou.jp/map/2-02.html
+    map: https://maps.google.com/?cid=9515218073105684055&hl=ja
+    address: 東京都杉並区天沼2-17-20
+    price: 470
+    lat: 35.7074557
+    lng: 139.624285
+    type: 銭湯
+-
+    id: 360
+    name: 大黒湯
+    url: https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/koshuyokujo/ooguro.html
+    map: https://maps.google.com/?cid=14296335863812685173&hl=ja
+    address: 東京都目黒区上目黒4-25-10
+    price: 470
+    lat: 35.6417282
+    lng: 139.6897216
+    type: 銭湯
+-
+    id: 361
+    name: 大黒湯
+    url: http://sentou.jp/map/3-18.html
+    map: https://maps.google.com/?cid=17319028597215240963&hl=ja
+    address: 東京都杉並区和泉1-34-2
+    price: 470
+    lat: 35.6760414
+    lng: 139.6573497
+    type: 銭湯
+-
+    id: 362
+    name: 小松湯
+    url: https://www.1010.or.jp/map/item/item-cnt-537
+    map: https://maps.google.com/?cid=15885058402494536103&hl=ja
+    address: 東京都豊島区池袋本町3-1-3
+    price: 470
+    lat: 35.7416222
+    lng: 139.7123059
+    type: 銭湯
+-
+    id: 363
+    name: めぐみ湯
+    url: http://adachi1010.jp/sento/megumiyu.html
+    map: https://maps.google.com/?cid=1719141066440603338&hl=ja
+    address: 東京都足立区綾瀬5-20-6
+    price: 470
+    lat: 35.7667679
+    lng: 139.8277669
+    type: 銭湯
+-
+    id: 364
+    name: 第二喜多の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-698
+    map: https://maps.google.com/?cid=12727082624934939506&hl=ja
+    address: 東京都東久留米市幸町1-5-10
+    price: 470
+    lat: 35.7599209
+    lng: 139.526117
+    type: 銭湯
+-
+    id: 365
+    name: ニコニコ湯
+    url: https://www.1010.or.jp/map/item/item-cnt-202
+    map: https://maps.google.com/?cid=14863426184500948839&hl=ja
+    address: 東京都足立区千住柳町2-10
+    price: 470
+    lat: 35.7528111
+    lng: 139.7973433
+    type: 銭湯
+-
+    id: 366
+    name: 松見湯
+    url: http://www.1010.or.jp/map/item/item-cnt-652
+    map: https://maps.google.com/?cid=15334022550280570573&hl=ja
+    address: 東京都立川市羽衣町1-8-12
+    price: 470
+    lat: 35.6964707
+    lng: 139.4257917
+    type: 銭湯
+-
+    id: 367
+    name: 千代の湯
+    url: https://www.oyunofuji1010.com/gallery/1900/
+    map: https://maps.google.com/?cid=1669139215912020703&hl=ja
+    address: 東京都江戸川区平井4-19-7
+    price: 470
+    lat: 35.7051104
+    lng: 139.8486361
+    type: 銭湯
+-
+    id: 368
+    name: 鶴の湯
+    url: https://www.1010.or.jp/map/item/item-cnt-557
+    map: https://maps.google.com/?cid=8851404465437167452&hl=ja
+    address: 東京都北区滝野川1-18-8
+    price: 470
+    lat: 35.7472086
+    lng: 139.736827
+    type: 銭湯
+-
+    id: 369
+    name: ニュー恵美須
+    url: http://arakawa-sento.jp/%E3%83%8B%E3%83%A5%E3%83%BC%E6%81%B5%E7%BE%8E%E9%A0%88/
+    map: https://maps.google.com/?cid=6561403652809471453&hl=ja
+    address: 東京都荒川区東尾久4-17-9
+    price: 470
+    lat: 35.7435614
+    lng: 139.7676173
+    type: 銭湯
+-
+    id: 370
+    name: 喜楽湯
+    url: http://arakawa-sento.jp/%E5%96%9C%E6%A5%BD%E6%B9%AF/
+    map: https://maps.google.com/?cid=8535658948114965275&hl=ja
+    address: 東京都荒川区荒川3-59-11
+    price: 470
+    lat: 35.7341819
+    lng: 139.7792074
+    type: 銭湯
+-
+    id: 371
+    name: 大久保湯
+    url: http://taito1010.com/component/mtree/sento-list/ookubo.html
+    map: https://maps.google.com/?cid=15906638439590218509&hl=ja
+    address: 東京都台東区松が谷3-13-10
+    price: 470
+    lat: 35.7160631
+    lng: 139.787682
+    type: 銭湯
+-
+    id: 372
+    name: みどり湯
+    url: http://www.shinagawa1010.jp/list/midoriyu.html
+    map: https://maps.google.com/?cid=13401321301300823372&hl=ja
+    address: 東京都品川区西大井1-7-26
+    price: 470
+    lat: 35.6009094
+    lng: 139.7239039
+    type: 銭湯
+-
+    id: 373
+    name: 狸湯
+    url: http://www.1010.or.jp/map/item/item-cnt-163
+    map: https://maps.google.com/?cid=2833070061327753844&hl=ja
+    address: 東京都墨田区墨田2-21-8
+    price: 470
+    lat: 35.730417
+    lng: 139.8170862
+    type: 銭湯
+-
+    id: 374
+    name: 三光湯
+    url: http://www.1010.or.jp/map/item/item-cnt-658
+    map: https://maps.google.com/?cid=5647646911191124883&hl=ja
+    address: 東京都昭島市東町4-11-1
+    price: 470
+    lat: 35.7019361
+    lng: 139.3905035
+    type: 銭湯
+-
+    id: 375
+    name: 杉並湯
+    url: http://sentou.jp/map/1-25.html
+    map: https://maps.google.com/?cid=7364557505672020895&hl=ja
+    address: 東京都杉並区梅里1-13-7
+    price: 470
+    lat: 35.6972565
+    lng: 139.6503871
+    type: 銭湯
+-
+    id: 376
+    name: 都湯
+    url: http://ota1010.com/explore/%e9%83%bd%e6%b9%af/
+    map: https://maps.google.com/?cid=10027319401237422218&hl=ja
+    address: 東京都大田区下丸子4-3-11
+    price: 470
+    lat: 35.5720453
+    lng: 139.6829566
+    type: 銭湯
+-
+    id: 377
+    name: 友の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-645
+    map: https://maps.google.com/?cid=16922345842026333462&hl=ja
+    address: 東京都練馬区石神井町7-3-3
+    price: 470
+    lat: 35.7442192
+    lng: 139.6020423
+    type: 銭湯
+-
+    id: 378
+    name: 栄湯
+    url: https://www.setagaya1010.tokyo/guide/youga_sakae-yu/
+    map: https://maps.google.com/?cid=10039783865718147344&hl=ja
+    address: 東京都世田谷区用賀4-31-3
+    price: 470
+    lat: 35.6290654
+    lng: 139.6342518
+    type: 銭湯
+-
+    id: 379
+    name: 電気湯
+    url: http://www.1010.or.jp/map/item/item-cnt-159
+    map: https://maps.google.com/?cid=5056812234927719780&hl=ja
+    address: 東京都墨田区京島3-10-10
+    price: 470
+    lat: 35.7164445
+    lng: 139.8225549
+    type: 銭湯
+-
+    id: 380
+    name: 小平浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-687
+    map: https://maps.google.com/?cid=14974235225400629887&hl=ja
+    address: 東京都小平市津田町3-4-22
+    price: 470
+    lat: 35.720203
+    lng: 139.4710567
+    type: 銭湯
+-
+    id: 381
+    name: 月の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-370
+    map: https://maps.google.com/?cid=16924735659253439509&hl=ja
+    address: 東京都中野区南台2-30-7
+    price: 470
+    lat: 35.6841231
+    lng: 139.6701529
+    type: 銭湯
+-
+    id: 382
+    name: 藤の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-668
+    map: https://maps.google.com/?cid=10377665835566819924&hl=ja
+    address: 東京都府中市朝日町2-27-20
+    price: 470
+    lat: 35.6767698
+    lng: 139.518397
+    type: 銭湯
+-
+    id: 383
+    name: 天空のアジト マルシンスパ
+    url: http://marushinspa.jp/
+    map: https://maps.google.com/?cid=11954300142587706972&hl=ja
+    address: 東京都渋谷区笹塚1-58-6
+    price: 2500
+    lat: 35.673693
+    lng: 139.6658945
+    type: 温泉
+-
+    id: 384
+    name: 吉野湯
+    url: https://www.oyunofuji1010.com/gallery/2190/
+    map: https://maps.google.com/?cid=915182527051377754&hl=ja
+    address: 東京都江戸川区西小岩3-36-20
+    price: 470
+    lat: 35.7379038
+    lng: 139.8788915
+    type: 銭湯
+-
+    id: 385
+    name: 春の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-682
+    map: https://maps.google.com/?cid=40007267953328551&hl=ja
+    address: 東京都三鷹市下連雀3-37-12
+    price: 470
+    lat: 35.6996315
+    lng: 139.5602111
+    type: 銭湯
+-
+    id: 386
+    name: ぬくい湯
+    url: http://www.1010.or.jp/map/item/item-cnt-661
+    map: https://maps.google.com/?cid=7337747486403869068&hl=ja
+    address: 東京都小金井市貫井北町3-4-4
+    price: 470
+    lat: 35.7071806
+    lng: 139.4975553
+    type: 銭湯
+-
+    id: 387
+    name: 樫立向里温泉 ふれあいの湯
+    url: http://hatijo.com/asobu/hureaiyu.html
+    map: https://maps.google.com/?cid=8214780730851997581&hl=ja
+    address: 東京都八丈島八丈町樫立1812-3
+    price: 300
+    lat: 33.0758651
+    lng: 139.7905588
+    type: 温泉
+-
+    id: 388
+    name: 鶴巻湯
+    url: http://www.1010.or.jp/map/item/item-cnt-317
+    map: https://maps.google.com/?cid=10177870260669691035&hl=ja
+    address: 東京都新宿区早稲田鶴巻町533
+    price: 470
+    lat: 35.7078795
+    lng: 139.7224644
+    type: 銭湯
+-
+    id: 389
+    name: 第二宝湯
+    url: http://sentou.jp/map/2-06.html
+    map: https://maps.google.com/?cid=16828155137736492897&hl=ja
+    address: 東京都杉並区本天沼2-7-13
+    price: 470
+    lat: 35.7116951
+    lng: 139.6245948
+    type: 銭湯
+-
+    id: 390
+    name: 健康浴泉
+    url: http://www.1010.or.jp/map/item/item-cnt-359
+    map: https://maps.google.com/?cid=10974188847861239448&hl=ja
+    address: 東京都中野区東中野3-17-3
+    price: 470
+    lat: 35.7084668
+    lng: 139.681439
+    type: 銭湯
+-
+    id: 391
+    name: サウナリゾート オリエンタル
+    url: https://sauna-oriental.com/
+    map: https://maps.google.com/?cid=5521835328384579506&hl=ja
+    address: 東京都港区赤坂3-19-3
+    price: 2500
+    lat: 35.6757936
+    lng: 139.736388
+    type: 温泉
+-
+    id: 392
+    name: 岩の湯
+    url: http://1010itabashi.or.jp/detail/141/
+    map: https://maps.google.com/?cid=15547521105111739473&hl=ja
+    address: 東京都板橋区赤塚6-12-2
+    price: 470
+    lat: 35.7747316
+    lng: 139.6441568
+    type: 銭湯
+-
+    id: 393
+    name: あたり湯
+    url: http://ota1010.com/explore/%e3%81%82%e3%81%9f%e3%82%8a%e6%b9%af/
+    map: https://maps.google.com/?cid=758493559481440534&hl=ja
+    address: 東京都大田区大森西3-11-2
+    price: 470
+    lat: 35.5738972
+    lng: 139.7256213
+    type: 銭湯
+-
+    id: 394
+    name: 高松湯
+    url: http://www.shinagawa1010.jp/list/takamatsuyu.html
+    map: https://maps.google.com/?cid=16731800722365639092&hl=ja
+    address: 東京都品川区上大崎3-5-4
+    price: 470
+    lat: 35.6344676
+    lng: 139.7194218
+    type: 銭湯
+-
+    id: 395
+    name: 文化湯
+    url: http://sentou.jp/map/2-27.html
+    map: https://maps.google.com/?cid=11381027418848745018&hl=ja
+    address: 東京都杉並区西荻北4-3-10
+    price: 470
+    lat: 35.7067602
+    lng: 139.5962094
+    type: 銭湯
+-
+    id: 396
+    name: 黄金湯
+    url: http://1010itabashi.or.jp/detail/207/
+    map: https://maps.google.com/?cid=14173349655323213891&hl=ja
+    address: 東京都板橋区徳丸5-2-2
+    price: 470
+    lat: 35.7763557
+    lng: 139.6579834
+    type: 銭湯
+-
+    id: 397
+    name: パブリバ八光
+    url: http://1010itabashi.or.jp/detail/282/
+    map: https://maps.google.com/?cid=4868358856748922072&hl=ja
+    address: 東京都板橋区東新町2-56-13
+    price: 470
+    lat: 35.7532776
+    lng: 139.6833125
+    type: 銭湯
+-
+    id: 398
+    name: 金の湯
+    url: http://adachi1010.jp/sento/kinnoyu.html
+    map: https://maps.google.com/?cid=2712851080009150071&hl=ja
+    address: 東京都足立区千住柳町36-8
+    price: 470
+    lat: 35.7550104
+    lng: 139.7964531
+    type: 銭湯
+-
+    id: 399
+    name: 江北湯
+    url: http://www.adachi1010.jp/sento/kohokuyu.html
+    map: https://maps.google.com/?cid=12854156042061004266&hl=ja
+    address: 東京都足立区江北2-27-6
+    price: 470
+    lat: 35.7701748
+    lng: 139.7648045
+    type: 銭湯
+-
+    id: 400
+    name: 清水湯
+    url: http://1010itabashi.or.jp/detail/215/
+    map: https://maps.google.com/?cid=15953594961547695773&hl=ja
+    address: 東京都板橋区大原町24-3
+    price: 470
+    lat: 35.7680758
+    lng: 139.6985956
+    type: 銭湯
+-
+    id: 401
+    name: 福の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-341
+    map: https://maps.google.com/?cid=4713055692778324720&hl=ja
+    address: 東京都新宿区下落合4-25-10
+    price: 470
+    lat: 35.7217472
+    lng: 139.694747
+    type: 銭湯
+-
+    id: 402
+    name: 松の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-339
+    map: https://maps.google.com/?cid=15831425210134805324&hl=ja
+    address: 東京都新宿区上落合3-9-10
+    price: 470
+    lat: 35.7108667
+    lng: 139.6839087
+    type: 銭湯
+-
+    id: 403
+    name: えびす湯
+    url: http://www.1010.or.jp/map/item/item-cnt-556
+    map: https://maps.google.com/?cid=3639495379297705784&hl=ja
+    address: 東京都北区滝野川1-1-20
+    price: 470
+    lat: 35.7487331
+    lng: 139.7386551
+    type: 銭湯
+-
+    id: 404
+    name: たからゆ
+    url: http://www.takarayu.com/
+    map: https://maps.google.com/?cid=1396970707795916874&hl=ja
+    address: 東京都中野区若宮1-49-1
+    price: 470
+    lat: 35.7201862
+    lng: 139.6480499
+    type: 銭湯
+-
+    id: 405
+    name: 前田湯
+    url: http://www.toshima1010.com/sentozyoho/385.html
+    map: https://maps.google.com/?cid=12285952576877170873&hl=ja
+    address: 東京都豊島区池袋4-12-25
+    price: 470
+    lat: 35.7390496
+    lng: 139.706925
+    type: 銭湯
+-
+    id: 406
+    name: 愛染湯
+    url: http://1010itabashi.or.jp/detail/187/
+    map: https://maps.google.com/?cid=5790543456658540567&hl=ja
+    address: 東京都板橋区大和町46-7
+    price: 470
+    lat: 35.7565846
+    lng: 139.7039886
+    type: 銭湯
+-
+    id: 407
+    name: 中村浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-631
+    map: https://maps.google.com/?cid=1791090926255670998&hl=ja
+    address: 東京都練馬区中村北3-3-11
+    price: 470
+    lat: 35.7364867
+    lng: 139.6410327
+    type: 銭湯
+-
+    id: 408
+    name: 松の湯
+    url: http://adachi1010.jp/sento/matsunoyu-motogi.html
+    map: https://maps.google.com/?cid=5121676640186529450&hl=ja
+    address: 東京都足立区柳原1-24-8
+    price: 470
+    lat: 35.7455903
+    lng: 139.8132515
+    type: 銭湯
+-
+    id: 409
+    name: 寿湯
+    url: https://katsushika1010.com/sento/ことぶき湯（寿湯）/
+    map: https://maps.google.com/?cid=7940266832265967863&hl=ja
+    address: 東京都葛飾区堀切6-8-6
+    price: 470
+    lat: 35.7519468
+    lng: 139.8302941
+    type: 銭湯
+-
+    id: 410
+    name: 大盛湯
+    url: http://www.shinagawa1010.jp/list/oomoriyu.html
+    map: https://maps.google.com/?cid=9982162223914341545&hl=ja
+    address: 東京都品川区二葉2-4-4
+    price: 470
+    lat: 35.6048184
+    lng: 139.7261351
+    type: 銭湯
+-
+    id: 411
+    name: 中の湯
+    url: https://www.oyunofuji1010.com/gallery/1838/
+    map: https://maps.google.com/?cid=15350383798495236760&hl=ja
+    address: 東京都江戸川区平井6-42-11
+    price: 470
+    lat: 35.7105816
+    lng: 139.8438836
+    type: 銭湯
+-
+    id: 412
+    name: 金泉湯
+    url: https://www.oyunofuji1010.com/gallery/1820/
+    map: https://maps.google.com/?cid=8746612442138724007&hl=ja
+    address: 東京都江戸川区平井7-17-36
+    price: 470
+    lat: 35.7144175
+    lng: 139.8387823
+    type: 銭湯
+-
+    id: 413
+    name: 小島湯
+    url: https://www.oyunofuji1010.com/gallery/1868/
+    map: https://maps.google.com/?cid=2783270069878933875&hl=ja
+    address: 東京都江戸川区西葛西1-7-3
+    price: 470
+    lat: 35.6733946
+    lng: 139.8528536
+    type: 銭湯
+-
+    id: 414
+    name: 第五相模湯
+    url: http://ota1010.com/explore/%e7%ac%ac%e4%ba%94%e7%9b%b8%e6%a8%a1%e6%b9%af/
+    map: https://maps.google.com/?cid=9580733762365956714&hl=ja
+    address: 東京都大田区南六郷2-7-20
+    price: 470
+    lat: 35.5478277
+    lng: 139.7198761
+    type: 銭湯
+-
+    id: 415
+    name: 竹の湯
+    url: http://arakawa-sento.jp/%E7%AB%B9%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=1391357797213463860&hl=ja
+    address: 東京都荒川区町屋1-21-14
+    price: 470
+    lat: 35.7434973
+    lng: 139.7832008
+    type: 銭湯
+-
+    id: 416
+    name: 大黒湯
+    url: http://1010itabashi.or.jp/detail/308/
+    map: https://maps.google.com/?cid=10718788630280488872&hl=ja
+    address: 東京都板橋区大谷口1-47-5
+    price: 470
+    lat: 35.742944
+    lng: 139.6893674
+    type: 銭湯
+-
+    id: 417
+    name: 玉の湯
+    url: http://ota1010.com/explore/%e7%8e%89%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=11387595767963666329&hl=ja
+    address: 東京都大田区羽田5-19-13
+    price: 470
+    lat: 35.548381
+    lng: 139.7493823
+    type: 銭湯
+-
+    id: 418
+    name: 高砂湯
+    url: https://www.1010.or.jp/map/item/item-cnt-527
+    map: https://maps.google.com/?cid=6867843484772774908&hl=ja
+    address: 東京都豊島区雑司が谷1-5-3
+    price: 470
+    lat: 35.7187527
+    lng: 139.7192519
+    type: 銭湯
+-
+    id: 419
+    name: 源の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-697
+    map: https://maps.google.com/?cid=16928752505829029981&hl=ja
+    address: 東京都東久留米市東本町7-6
+    price: 470
+    lat: 35.7628138
+    lng: 139.5328392
+    type: 銭湯
+-
+    id: 420
+    name: 大正湯
+    url: http://ota1010.com/explore/大正湯/
+    map: https://maps.google.com/?cid=2994675976743275384&hl=ja
+    address: 東京都大田区東蒲田1-21-6
+    price: 470
+    lat: 35.5633425
+    lng: 139.7272284
+    type: 銭湯
+-
+    id: 421
+    name: 江古田湯
+    url: http://www.1010.or.jp/map/item/item-cnt-623
+    map: https://maps.google.com/?cid=8580505598106683487&hl=ja
+    address: 東京都練馬区旭丘1-17-3
+    price: 470
+    lat: 35.7325123
+    lng: 139.6761981
+    type: 銭湯
+-
+    id: 422
+    name: 日の出湯
+    url: https://www.oyunofuji1010.com/gallery/2151/
+    map: https://maps.google.com/?cid=11533522133122994109&hl=ja
+    address: 東京都江戸川区松江7-11-18
+    price: 470
+    lat: 35.6936651
+    lng: 139.8739663
+    type: 銭湯
+-
+    id: 423
+    name: 亀の湯
+    url: https://kotomise.jp/shops/%e4%ba%80%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=416819521016729445&hl=ja
+    address: 東京都江東区猿江1-18-9
+    price: 470
+    lat: 35.6869687
+    lng: 139.8117354
+    type: 銭湯
+-
+    id: 424
+    name: おかめ湯
+    url: http://www.1010.or.jp/map/item/item-cnt-154
+    map: https://maps.google.com/?cid=265339584557317187&hl=ja
+    address: 東京都墨田区八広1-1-2
+    price: 470
+    lat: 35.7202965
+    lng: 139.8209665
+    type: 銭湯
+-
+    id: 425
+    name: 雲翠泉
+    url: http://arakawa-sento.jp/%E9%9B%B2%E7%BF%A0%E6%B3%89/
+    map: https://maps.google.com/?cid=10602755959885301694&hl=ja
+    address: 東京都荒川区東日暮里3-16-4
+    price: 470
+    lat: 35.7321424
+    lng: 139.7805234
+    type: 銭湯
+-
+    id: 426
+    name: SPA大手町
+    url: http://spa-otemachi.jp/
+    map: https://maps.google.com/?cid=14674560787394395950&hl=ja
+    address: 東京都千代田区大手町1-9-2
+    price: 1100
+    lat: 35.6887808
+    lng: 139.764566
+    type: 温泉
+-
+    id: 427
+    name: 星の湯
+    url: http://www.shinagawa1010.jp/list/hoshinoyu.html
+    map: https://maps.google.com/?cid=11860045334827386919&hl=ja
+    address: 東京都品川区中延6-1-10
+    price: 470
+    lat: 35.6035619
+    lng: 139.7108372
+    type: 銭湯
+-
+    id: 428
+    name: 昭和湯
+    url: http://www.1010.or.jp/map/item/item-cnt-659
+    map: https://maps.google.com/?cid=2256290127609676470&hl=ja
+    address: 東京都昭島市玉川町4-3-7
+    price: 470
+    lat: 35.7047888
+    lng: 139.3803941
+    type: 銭湯
+-
+    id: 429
+    name: 富山湯
+    url: https://kotomise.jp/shops/%e5%af%8c%e5%b1%b1%e6%b9%af/
+    map: https://maps.google.com/?cid=938888425807495849&hl=ja
+    address: 東京都江東区亀戸6-49-14
+    price: 470
+    lat: 35.6946828
+    lng: 139.8325297
+    type: 銭湯
+-
+    id: 430
+    name: 地蔵湯
+    url: http://www.1010.or.jp/map/item/item-cnt-574
+    map: https://maps.google.com/?cid=10955609646494172311&hl=ja
+    address: 東京都北区東十条2-14-6
+    price: 470
+    lat: 35.7639697
+    lng: 139.7289658
+    type: 銭湯
+-
+    id: 431
+    name: 大和湯
+    url: http://sentou.jp/map/3-23.html
+    map: https://maps.google.com/?cid=16895338098545167175&hl=ja
+    address: 東京都杉並区和田1-71-18
+    price: 470
+    lat: 35.693508
+    lng: 139.6593439
+    type: 銭湯
+-
+    id: 432
+    name: 藤ランド
+    url: http://www7b.biglobe.ne.jp/~fujiland/
+    map: https://maps.google.com/?cid=2658728217338386352&hl=ja
+    address: 東京都北区東十条1-22-11
+    price: 470
+    lat: 35.7625406
+    lng: 139.731035
+    type: 銭湯
+-
+    id: 433
+    name: 隆乃湯
+    url: https://kotomise.jp/shops/%e9%9a%86%e4%b9%83%e6%b9%af/
+    map: https://maps.google.com/?cid=14815598078121787154&hl=ja
+    address: 東京都江東区亀戸5-9-7
+    price: 470
+    lat: 35.6989374
+    lng: 139.8280368
+    type: 銭湯
+-
+    id: 434
+    name: 豊玉浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-629
+    map: https://maps.google.com/?cid=15202003888466938356&hl=ja
+    address: 東京都練馬区豊玉北2-7-18
+    price: 470
+    lat: 35.7325014
+    lng: 139.6659674
+    type: 銭湯
+-
+    id: 435
+    name: 良の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-160
+    map: https://maps.google.com/?cid=8732722048724323915&hl=ja
+    address: 東京都墨田区東向島2-15-6
+    price: 470
+    lat: 35.7180774
+    lng: 139.8160315
+    type: 銭湯
+-
+    id: 436
+    name: 竹の湯
+    url: https://kotomise.jp/shops/%e7%ab%b9%e3%81%ae%e6%b9%af-3/
+    map: https://maps.google.com/?cid=9912590253077226460&hl=ja
+    address: 東京都江東区北砂3-25-8
+    price: 470
+    lat: 35.6814741
+    lng: 139.8298824
+    type: 銭湯
+-
+    id: 437
+    name: 香取湯
+    url: https://www.1010.or.jp/map/item/item-cnt-554
+    map: https://maps.google.com/?cid=15490810343246872174&hl=ja
+    address: 東京都豊島区駒込6-16-6
+    price: 470
+    lat: 35.7399395
+    lng: 139.7429559
+    type: 銭湯
+-
+    id: 438
+    name: アカスリサウナ adam・eve
+    url: https://adamandeve.biz/
+    map: https://maps.google.com/?cid=1528453942518294640&hl=ja
+    address: 東京都港区西麻布3-5-5
+    price: 3990
+    lat: 35.6566726
+    lng: 139.7263612
+    type: 温泉
+-
+    id: 439
+    name: 宝泉湯
+    url: http://www.1010.or.jp/map/item/item-cnt-571
+    map: https://maps.google.com/?cid=12276964231284632368&hl=ja
+    address: 東京都北区豊島8-23-5
+    price: 470
+    lat: 35.7663577
+    lng: 139.7402616
+    type: 銭湯
+-
+    id: 440
+    name: 日の出湯
+    url: https://katsushika1010.com/sento/日の出湯/
+    map: https://maps.google.com/?cid=10175408108896556091&hl=ja
+    address: 東京都葛飾区西亀有4-16-14
+    price: 470
+    lat: 35.765857
+    lng: 139.8411096
+    type: 銭湯
+-
+    id: 441
+    name: 旭湯
+    url: https://www.oyunofuji1010.com/gallery/2012/
+    map: https://maps.google.com/?cid=5524153488050963852&hl=ja
+    address: 東京都江戸川区松島4-28-11
+    price: 470
+    lat: 35.7127178
+    lng: 139.8587434
+    type: 銭湯
+-
+    id: 442
+    name: 日の出湯
+    url: http://www.268chuou.com/list/detail07.php
+    map: https://maps.google.com/?cid=6398697828804729691&hl=ja
+    address: 東京都中央区佃1-6-7
+    price: 470
+    lat: 35.6674901
+    lng: 139.7832455
+    type: 銭湯
+-
+    id: 443
+    name: ふるさと体験ビレッジ ふるさとの湯
+    url: https://www.miyakejima.gr.jp/play/furusatonoyu/
+    map: https://maps.google.com/?cid=3870007068666566928&hl=ja
+    address: 東京都三宅島三宅村阿古644
+    price: 500
+    lat: 34.0737858
+    lng: 139.4780691
+    type: 温泉
+-
+    id: 444
+    name: 江古田湯
+    url: http://www.1010.or.jp/map/item/item-cnt-379
+    map: https://maps.google.com/?cid=5862262633685600342&hl=ja
+    address: 東京都中野区江古田3-5-12
+    price: 470
+    lat: 35.7261413
+    lng: 139.6690956
+    type: 銭湯
+-
+    id: 445
+    name: 中之郷温泉 やすらぎの湯
+    url: http://www.town.hachijo.tokyo.jp/onsen/yasuragi.html
+    map: https://maps.google.com/?cid=14906106544009936591&hl=ja
+    address: 東京都八丈島八丈町中之郷1442
+    price: 300
+    lat: 33.0605302
+    lng: 139.8152606
+    type: 温泉
+-
+    id: 446
+    name: 給田湯
+    url: https://www.setagaya1010.tokyo/guide/kyuden-yu/
+    map: https://maps.google.com/?cid=18043756259499421535&hl=ja
+    address: 東京都世田谷区給田3-1-28
+    price: 470
+    lat: 35.6668391
+    lng: 139.5962042
+    type: 銭湯
+-
+    id: 447
+    name: 改栄湯
+    url: http://taito1010.com/component/mtree/sento-list/kaiei.html
+    map: https://maps.google.com/?cid=8771766215012316456&hl=ja
+    address: 東京都台東区三ノ輪2-10-15
+    price: 470
+    lat: 35.7298988
+    lng: 139.7941235
+    type: 銭湯
+-
+    id: 448
+    name: 千代の湯
+    url: https://www.1010.or.jp/map/item/item-cnt-362
+    map: https://maps.google.com/?cid=9975896410302607114&hl=ja
+    address: 東京都中野区中央3-16-12
+    price: 470
+    lat: 35.7014029
+    lng: 139.673333
+    type: 銭湯
+-
+    id: 449
+    name: 梅の湯
+    url: http://1010itabashi.or.jp/detail/324/
+    map: https://maps.google.com/?cid=10305885133862158082&hl=ja
+    address: 東京都板橋区仲宿22-6
+    price: 470
+    lat: 35.7557225
+    lng: 139.711013
+    type: 銭湯
+-
+    id: 450
+    name: 富久の湯
+    url: http://taito1010.com/component/mtree/sento-list/fukuno.html
+    map: https://maps.google.com/?cid=4782110507873616529&hl=ja
+    address: 東京都台東区千束2-34-6
+    price: 470
+    lat: 35.7225983
+    lng: 139.7904523
+    type: 銭湯
+-
+    id: 451
+    name: 竹の湯
+    url: http://1010itabashi.or.jp/detail/265/
+    map: https://maps.google.com/?cid=15564733677046392276&hl=ja
+    address: 東京都板橋区本町18-3
+    price: 470
+    lat: 35.7598631
+    lng: 139.7081166
+    type: 銭湯
+-
+    id: 452
+    name: 北町浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-635
+    map: https://maps.google.com/?cid=3288909012800145762&hl=ja
+    address: 東京都練馬区北町2-28-13
+    price: 470
+    lat: 35.767518
+    lng: 139.6596239
+    type: 銭湯
+-
+    id: 453
+    name: 富士の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-258
+    map: https://maps.google.com/?cid=9609002275274640213&hl=ja
+    address: 東京都葛飾区亀有2-5-7
+    price: 470
+    lat: 35.7578575
+    lng: 139.849802
+    type: 銭湯
+-
+    id: 454
+    name: 栄湯
+    url: http://www.1010.or.jp/map/item/item-cnt-257
+    map: https://maps.google.com/?cid=9858784897115219956&hl=ja
+    address: 東京都葛飾区高砂8-15-12
+    price: 470
+    lat: 35.7553342
+    lng: 139.8675946
+    type: 銭湯
+-
+    id: 455
+    name: 吉の湯
+    url: https://katsushika1010.com/sento/吉の湯/
+    map: https://maps.google.com/?cid=3201015983888538799&hl=ja
+    address: 東京都葛飾区堀切6-33-5
+    price: 470
+    lat: 35.7532664
+    lng: 139.8278154
+    type: 銭湯
+-
+    id: 456
+    name: 野崎浴場
+    url: http://arakawa-sento.jp/%E9%87%8E%E5%B4%8E%E6%B5%B4%E5%A0%B4/
+    map: https://maps.google.com/?cid=2418975079131919415&hl=ja
+    address: 東京都荒川区荒川2-59-2
+    price: 470
+    lat: 35.7401294
+    lng: 139.782035
+    type: 銭湯
+-
+    id: 457
+    name: 大塚湯
+    url: http://www.1010.or.jp/map/item/item-cnt-518
+    map: https://maps.google.com/?cid=16937257869548937455&hl=ja
+    address: 東京都目黒区目黒4-21-19
+    price: 470
+    lat: 35.633606
+    lng: 139.6988159
+    type: 銭湯
+-
+    id: 458
+    name: 豊島湯
+    url: http://www.1010.or.jp/map/item/item-cnt-569
+    map: https://maps.google.com/?cid=287747067042159350&hl=ja
+    address: 東京都北区豊島3-19-7
+    price: 470
+    lat: 35.7610681
+    lng: 139.7460266
+    type: 銭湯
+-
+    id: 459
+    name: 重の湯
+    url: http://ota1010.com/explore/%e9%87%8d%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=15098924496743468232&hl=ja
+    address: 東京都大田区羽田3-16-10
+    price: 470
+    lat: 35.546147
+    lng: 139.7437923
+    type: 銭湯
+-
+    id: 460
+    name: 千代の湯
+    url: http://arakawa-sento.jp/%e5%8d%83%e4%bb%a3%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=4429212625586968746&hl=ja
+    address: 東京都荒川区西尾久5-22-14
+    price: 470
+    lat: 35.748597
+    lng: 139.7590268
+    type: 銭湯
+-
+    id: 461
+    name: 照の湯
+    url: https://www.oyunofuji1010.com/gallery/2280/
+    map: https://maps.google.com/?cid=10032641594126741570&hl=ja
+    address: 東京都江戸川区南小岩6-26-19
+    price: 470
+    lat: 35.7282596
+    lng: 139.8813918
+    type: 銭湯
+-
+    id: 462
+    name: 喜久の湯
+    url: https://katsushika1010.com/sento/喜久の湯/
+    map: https://maps.google.com/?cid=9036562123663378408&hl=ja
+    address: 東京都葛飾区東立石2-21-16
+    price: 470
+    lat: 35.7327498
+    lng: 139.8507652
+    type: 銭湯
+-
+    id: 463
+    name: 豊宏湯
+    url: http://www.1010.or.jp/map/item/item-cnt-644
+    map: https://maps.google.com/?cid=1962154425997940501&hl=ja
+    address: 東京都練馬区石神井町3-14-8
+    price: 470
+    lat: 35.7418518
+    lng: 139.6037898
+    type: 銭湯
+-
+    id: 464
+    name: みどり湯
+    url: https://www.oyunofuji1010.com/gallery/1978/
+    map: https://maps.google.com/?cid=1647493830877970723&hl=ja
+    address: 東京都江戸川区東小岩1-17-18
+    price: 470
+    lat: 35.7217048
+    lng: 139.8923264
+    type: 銭湯
+-
+    id: 465
+    name: 神田湯
+    url: http://arakawa-sento.jp/%E7%A5%9E%E7%94%B0%E6%B9%AF/
+    map: https://maps.google.com/?cid=17070338669728736205&hl=ja
+    address: 東京都荒川区西尾久8-38-3
+    price: 470
+    lat: 35.7514612
+    lng: 139.7515563
+    type: 銭湯
+-
+    id: 466
+    name: 大和湯
+    url: http://www.1010.or.jp/map/item/item-cnt-374
+    map: https://maps.google.com/?cid=5778849188060203878&hl=ja
+    address: 東京都中野区大和町4-1-3
+    price: 470
+    lat: 35.7131129
+    lng: 139.6485027
+    type: 銭湯
+-
+    id: 467
+    name: 第二富士の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-604
+    map: https://maps.google.com/?cid=12744983527305534556&hl=ja
+    address: 東京都板橋区大谷口上町48-9
+    price: 470
+    lat: 35.7467794
+    lng: 139.691929
+    type: 銭湯
+-
+    id: 468
+    name: 熊野湯
+    url: http://1010itabashi.or.jp/detail/291/
+    map: https://maps.google.com/?cid=12781941818019673348&hl=ja
+    address: 東京都板橋区志村1-32-20
+    price: 470
+    lat: 35.7759427
+    lng: 139.6902331
+    type: 銭湯
+-
+    id: 469
+    name: 久の湯
+    url: https://katsushika1010.com/sento/久の湯/
+    map: https://maps.google.com/?cid=8945916992806147456&hl=ja
+    address: 東京都葛飾区小菅3-11-17
+    price: 470
+    lat: 35.7557842
+    lng: 139.8267576
+    type: 銭湯
+-
+    id: 470
+    name: 間々下温泉 まました温泉
+    url: http://www.niijima.com/facility/spa/onsen_mamasita.html
+    map: https://maps.google.com/?cid=17839652503435575122&hl=ja
+    address: 東京都新島村瀬戸山
+    price: 300
+    lat: 34.364563
+    lng: 139.2524662
+    type: 温泉
+-
+    id: 471
+    name: 宝湯
+    url: http://ota1010.com/explore/%e5%ae%9d%e6%b9%af/
+    map: https://maps.google.com/?cid=3871706030563602671&hl=ja
+    address: 東京都大田区東糀谷3-4-8
+    price: 470
+    lat: 35.5535529
+    lng: 139.7416393
+    type: 銭湯
+-
+    id: 472
+    name: 四ツ谷浴場
+    url: http://adachi1010.jp/sento/yotsuyayokujo.html
+    map: https://maps.google.com/?cid=13097808317832255606&hl=ja
+    address: 東京都足立区青井3-37-12
+    price: 470
+    lat: 35.7732462
+    lng: 139.8170872
+    type: 銭湯
+-
+    id: 473
+    name: 寿湯
+    url: https://katsushika1010.com/sento/寿湯/
+    map: https://maps.google.com/?cid=2702806026944585289&hl=ja
+    address: 東京都葛飾区東四つ木4-19-14
+    price: 470
+    lat: 35.7332127
+    lng: 139.8387475
+    type: 銭湯
+-
+    id: 474
+    name: 巣鴨湯
+    url: https://www.1010.or.jp/map/item/item-cnt-547
+    map: https://maps.google.com/?cid=5645098635552805522&hl=ja
+    address: 東京都豊島区巣鴨4-13-9
+    price: 470
+    lat: 35.7384112
+    lng: 139.7301754
+    type: 銭湯
+-
+    id: 475
+    name: 橘湯
+    url: http://www.1010.or.jp/map/item/item-cnt-576
+    map: https://maps.google.com/?cid=13304602892563275752&hl=ja
+    address: 東京都北区堀船3-38-7
+    price: 470
+    lat: 35.7525488
+    lng: 139.7493648
+    type: 銭湯
+-
+    id: 476
+    name: 富士の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-581
+    map: https://maps.google.com/?cid=895691412519285448&hl=ja
+    address: 東京都北区西が丘1-25-13
+    price: 470
+    lat: 35.77082
+    lng: 139.7127308
+    type: 銭湯
+-
+    id: 477
+    name: 竹の湯
+    url: https://kotomise.jp/shops/%e7%ab%b9%e3%81%ae%e6%b9%af-2/
+    map: https://maps.google.com/?cid=174465557677251290&hl=ja
+    address: 東京都江東区大島7-7-3
+    price: 470
+    lat: 35.6913711
+    lng: 139.8377885
+    type: 銭湯
+-
+    id: 478
+    name: 第二栗の湯
+    url: http://ota1010.com/explore/%e7%ac%ac%e4%ba%8c%e6%a0%97%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=15152665949782008873&hl=ja
+    address: 東京都大田区鵜の木2-46-1
+    price: 470
+    lat: 35.5730229
+    lng: 139.678928
+    type: 銭湯
+-
+    id: 479
+    name: 一の湯
+    url: http://1010itabashi.or.jp/detail/316/
+    map: https://maps.google.com/?cid=15763264551260923797&hl=ja
+    address: 東京都板橋区栄町20-11
+    price: 470
+    lat: 35.7533162
+    lng: 139.7028363
+    type: 銭湯
+-
+    id: 480
+    name: 一の湯
+    url: https://www.1010.or.jp/map/item/item-cnt-232
+    map: https://maps.google.com/?cid=11488347849922167910&hl=ja
+    address: 東京都足立区神明1-1-3
+    price: 470
+    lat: 35.7919411
+    lng: 139.8287014
+    type: 銭湯
+-
+    id: 481
+    name: 有馬湯
+    url: http://taito1010.com/component/mtree/sento-list/arima.html
+    map: https://maps.google.com/?cid=17539736610085598580&hl=ja
+    address: 東京都台東区竜泉3-31-2
+    price: 470
+    lat: 35.726514
+    lng: 139.7950791
+    type: 銭湯
+-
+    id: 482
+    name: 洞輪沢温泉
+    url: http://www.town.hachijo.tokyo.jp/onsen/borawazawa.html
+    map: https://maps.google.com/?cid=1124357549873876063&hl=ja
+    address: 東京都八丈島八丈町末吉
+    price: 0
+    lat: 33.0932712
+    lng: 139.839371
+    type: 共同浴場・銭湯
+-
+    id: 483
+    name: さくら湯
+    url: http://1010itabashi.or.jp/detail/224/
+    map: https://maps.google.com/?cid=14344584131978774376&hl=ja
+    address: 東京都板橋区板橋3-39-12
+    price: 470
+    lat: 35.7527612
+    lng: 139.7135621
+    type: 銭湯
+-
+    id: 484
+    name: 地蔵湯
+    url: https://www.oyunofuji1010.com/gallery/2329/
+    map: https://maps.google.com/?cid=12127194918804276038&hl=ja
+    address: 東京都江戸川区北小岩2-12-11
+    price: 470
+    lat: 35.7412933
+    lng: 139.8839451
+    type: 銭湯
+-
+    id: 485
+    name: 中川湯
+    url: http://www.1010.or.jp/map/item/item-cnt-153
+    map: https://maps.google.com/?cid=16817172686600018438&hl=ja
+    address: 東京都墨田区立花6-14-11
+    price: 470
+    lat: 35.7099732
+    lng: 139.8377858
+    type: 銭湯
+-
+    id: 486
+    name: ラジウム温泉保養センター
+    url: 
+    map: https://maps.google.com/?cid=302320896270090229&hl=ja
+    address: 東京都江戸川区春江町5-5-13
+    price: 1200
+    lat: 35.6812595
+    lng: 139.8742269
+    type: 温泉
+-
+    id: 487
+    name: 千代の湯
+    url: https://katsushika1010.com/sento/千代の湯/
+    map: https://maps.google.com/?cid=11187099750771738866&hl=ja
+    address: 東京都葛飾区東新小岩5-17-6
+    price: 470
+    lat: 35.7231669
+    lng: 139.8563664
+    type: 銭湯
+-
+    id: 488
+    name: えびす湯
+    url: https://www.1010.or.jp/map/item/item-cnt-555
+    map: https://maps.google.com/?cid=17620611065675074808&hl=ja
+    address: 東京都豊島区駒込7-15-9
+    price: 470
+    lat: 35.740935
+    lng: 139.7399723
+    type: 銭湯
+-
+    id: 489
+    name: ブルーポート・スパ ザ･BOON
+    url: http://www.town.hachijo.tokyo.jp/onsen/za-boon1.html
+    map: https://maps.google.com/?cid=10617140375708942626&hl=ja
+    address: 東京都八丈島八丈町中之郷1448-1
+    price: 700
+    lat: 33.0607526
+    lng: 139.8161687
+    type: 温泉
+-
+    id: 490
+    name: 辰己湯
+    url: https://www.oyunofuji1010.com/gallery/1964/
+    map: https://maps.google.com/?cid=14912606055120840444&hl=ja
+    address: 東京都江戸川区平井1-14-1
+    price: 470
+    lat: 35.7023779
+    lng: 139.8492389
+    type: 銭湯
+-
+    id: 491
+    name: 興和浴場
+    url: https://katsushika1010.com/sento/興和浴場/
+    map: https://maps.google.com/?cid=3512366633556978290&hl=ja
+    address: 東京都葛飾区鎌倉4-17-14
+    price: 470
+    lat: 35.7496232
+    lng: 139.8796479
+    type: 銭湯
+-
+    id: 492
+    name: 寿湯
+    url: http://1010itabashi.or.jp/detail/57/
+    map: https://maps.google.com/?cid=15560805672151286380&hl=ja
+    address: 東京都板橋区上板橋1-21-4
+    price: 470
+    lat: 35.7619293
+    lng: 139.6754606
+    type: 銭湯
+-
+    id: 493
+    name: 玉の湯
+    url: https://www.1010.or.jp/map/item/item-cnt-551
+    map: https://maps.google.com/?cid=6754478097754880308&hl=ja
+    address: 東京都豊島区南大塚2-31-3
+    price: 470
+    lat: 35.7280654
+    lng: 139.7322564
+    type: 銭湯
+-
+    id: 494
+    name: 滝野川浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-559
+    map: https://maps.google.com/?cid=6355577507639150466&hl=ja
+    address: 東京都北区滝野川3-17-5
+    price: 470
+    lat: 35.7453056
+    lng: 139.7284474
+    type: 銭湯
+-
+    id: 495
+    name: 照の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-363
+    map: https://maps.google.com/?cid=8127372338604588761&hl=ja
+    address: 東京都中野区中央3-30-6
+    price: 470
+    lat: 35.698554
+    lng: 139.6725987
+    type: 銭湯
+-
+    id: 496
+    name: 加賀浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-577
+    map: https://maps.google.com/?cid=12744262996334594961&hl=ja
+    address: 東京都北区王子本町2-23-9
+    price: 470
+    lat: 35.7549817
+    lng: 139.7318428
+    type: 銭湯
+-
+    id: 497
+    name: 梅の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-338
+    map: https://maps.google.com/?cid=8592512021282748675&hl=ja
+    address: 東京都新宿区上落合2-6-4
+    price: 470
+    lat: 35.7142886
+    lng: 139.6898487
+    type: 銭湯
+-
+    id: 498
+    name: 末広湯
+    url: http://katsushika-kanko.jp/ohana-shira/008suehiroyu.html
+    map: https://maps.google.com/?cid=16510535915608063416&hl=ja
+    address: 東京都葛飾区宝町1-2-30
+    price: 470
+    lat: 35.7407832
+    lng: 139.8363381
+    type: 銭湯
+-
+    id: 499
+    name: 藤の湯
+    url: https://kotomise.jp/shops/%e8%97%a4%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=12828058459799730797&hl=ja
+    address: 東京都江東区東砂3-18-17
+    price: 470
+    lat: 35.6806968
+    lng: 139.8413824
+    type: 銭湯
+-
+    id: 500
+    name: 竹の湯
+    url: https://kotomise.jp/shops/%e7%ab%b9%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=15286374475846242106&hl=ja
+    address: 東京都江東区森下4-9-18
+    price: 470
+    lat: 35.6854959
+    lng: 139.8060791
+    type: 銭湯
+-
+    id: 501
+    name: 山崎湯
+    url: https://www.setagaya1010.tokyo/guide/yamazaki-yu/
+    map: https://maps.google.com/?cid=15930294087616241496&hl=ja
+    address: 東京都世田谷区梅丘2-14-15
+    price: 470
+    lat: 35.6502426
+    lng: 139.6536731
+    type: 銭湯
+-
+    id: 502
+    name: 弘善湯
+    url: https://www.setagaya1010.tokyo/guide/kouzen-yu/
+    map: https://maps.google.com/?cid=10980857714347944829&hl=ja
+    address: 東京都世田谷区下馬2-36-15
+    price: 470
+    lat: 35.6411493
+    lng: 139.6742762
+    type: 銭湯
+-
+    id: 503
+    name: 宇田川湯
+    url: https://www.setagaya1010.tokyo/guide/udagawa-yu/
+    map: https://maps.google.com/?cid=13256093938945481095&hl=ja
+    address: 東京都世田谷区羽根木1-14-11
+    price: 470
+    lat: 35.666353
+    lng: 139.65942
+    type: 銭湯
+-
+    id: 504
+    name: 岩の湯
+    url: http://1010itabashi.or.jp/detail/122/
+    map: https://maps.google.com/?cid=12974291438651063165&hl=ja
+    address: 東京都板橋区常盤台1-34-10
+    price: 470
+    lat: 35.7618425
+    lng: 139.6942908
+    type: 銭湯
+-
+    id: 505
+    name: 観音湯
+    url: http://ota1010.com/explore/%e8%a6%b3%e9%9f%b3%e6%b9%af/
+    map: https://maps.google.com/?cid=13531116368842282291&hl=ja
+    address: 東京都大田区西糀谷3-24-16
+    price: 470
+    lat: 35.5540862
+    lng: 139.7360137
+    type: 銭湯
+-
+    id: 506
+    name: 宝来湯
+    url: http://www.1010.or.jp/map/item/item-cnt-345
+    map: https://maps.google.com/?cid=11583394428285323017&hl=ja
+    address: 東京都渋谷区恵比寿3-39-5
+    price: 470
+    lat: 35.643851
+    lng: 139.7208014
+    type: 銭湯
+-
+    id: 507
+    name: 一心湯
+    url: https://www.oyunofuji1010.com/gallery/1979/
+    map: https://maps.google.com/?cid=14451569950703291283&hl=ja
+    address: 東京都江戸川区松島4-9-8
+    price: 470
+    lat: 35.7138524
+    lng: 139.8564492
+    type: 銭湯
+-
+    id: 508
+    name: やまと湯
+    url: http://arakawa-sento.jp/%E3%82%84%E3%81%BE%E3%81%A8%E6%B9%AF/
+    map: https://maps.google.com/?cid=8338749877237991054&hl=ja
+    address: 東京都荒川区東尾久3-13-3
+    price: 470
+    lat: 35.7450651
+    lng: 139.7720248
+    type: 銭湯
+-
+    id: 509
+    name: おきもと湯
+    url: https://www.1010.or.jp/map/item/item-cnt-214
+    map: https://maps.google.com/?cid=14875368674827910896&hl=ja
+    address: 東京都足立区西新井本町4-29-24
+    price: 470
+    lat: 35.7737059
+    lng: 139.7751334
+    type: 銭湯
+-
+    id: 510
+    name: 小松湯
+    url: https://www.oyunofuji1010.com/gallery/2222/
+    map: https://maps.google.com/?cid=3041486068291230621&hl=ja
+    address: 東京都江戸川区西小松川町27-15
+    price: 470
+    lat: 35.6999382
+    lng: 139.8634456
+    type: 銭湯
+-
+    id: 511
+    name: ふれあいサウナ
+    url: http://www.vill.aogashima.tokyo.jp/life/facilities.html
+    map: https://maps.google.com/?cid=17769022890255923265&hl=ja
+    address: 東京都青ケ島村
+    price: 300
+    lat: 32.4665329
+    lng: 139.7636109
+    type: 温泉
+-
+    id: 512
+    name: 月の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-564
+    map: https://maps.google.com/?cid=17166664305141733932&hl=ja
+    address: 東京都北区西ケ原4-29-1
+    price: 470
+    lat: 35.7452888
+    lng: 139.7355884
+    type: 銭湯
+-
+    id: 513
+    name: 富の湯
+    url: http://1010itabashi.or.jp/detail/21/
+    map: https://maps.google.com/?cid=1920567645907456252&hl=ja
+    address: 東京都板橋区東新町1-13-13
+    price: 470
+    lat: 35.7601484
+    lng: 139.6808695
+    type: 銭湯
+-
+    id: 514
+    name: さつき湯
+    url: https://katsushika1010.com/sento/さつき湯/
+    map: https://maps.google.com/?cid=17779674676262232727&hl=ja
+    address: 東京都葛飾区東堀切3-27-9
+    price: 470
+    lat: 35.753224
+    lng: 139.838986
+    type: 銭湯
+-
+    id: 515
+    name: 第二富士見湯
+    url: http://1010itabashi.or.jp/detail/340/
+    map: https://maps.google.com/?cid=17195417151886921279&hl=ja
+    address: 東京都板橋区幸町20-5
+    price: 470
+    lat: 35.7441632
+    lng: 139.6996988
+    type: 銭湯
+-
+    id: 516
+    name: グランド湯
+    url: http://www.1010.or.jp/map/item/item-cnt-155
+    map: https://maps.google.com/?cid=9322309749594201330&hl=ja
+    address: 東京都墨田区八広4-17-22
+    price: 470
+    lat: 35.7230746
+    lng: 139.827884
+    type: 銭湯
+-
+    id: 517
+    name: 白水湯
+    url: http://taito1010.com/component/mtree/sento-list/hakusui.html
+    map: https://maps.google.com/?cid=5162979882509695001&hl=ja
+    address: 東京都台東区入谷1-21-12
+    price: 470
+    lat: 35.7208862
+    lng: 139.7865947
+    type: 銭湯
+-
+    id: 518
+    name: 竹の湯
+    url: http://ota1010.com/explore/%e7%ab%b9%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=9424915470715020085&hl=ja
+    address: 東京都大田区羽田1-12-16
+    price: 470
+    lat: 35.5503166
+    lng: 139.7428141
+    type: 銭湯
+-
+    id: 519
+    name: 第一日立湯
+    url: https://katsushika1010.com/sento/第一日立湯/
+    map: https://maps.google.com/?cid=16906164186117396361&hl=ja
+    address: 東京都葛飾区亀有5-48-12
+    price: 470
+    lat: 35.7690859
+    lng: 139.8493771
+    type: 銭湯
+-
+    id: 520
+    name: 菅原湯
+    url: https://www.oyunofuji1010.com/gallery/2034/
+    map: https://maps.google.com/?cid=17257949820522679642&hl=ja
+    address: 東京都江戸川区中央4-19-24
+    price: 470
+    lat: 35.7153442
+    lng: 139.873133
+    type: 銭湯
+-
+    id: 521
+    name: 太平湯
+    url: http://ota1010.com/explore/%e5%a4%aa%e5%b9%b3%e6%b9%af/
+    map: https://maps.google.com/?cid=565507786689971601&hl=ja
+    address: 東京都大田区南六郷1-5-17
+    price: 470
+    lat: 35.5504607
+    lng: 139.721569
+    type: 銭湯
+-
+    id: 522
+    name: 錦湯
+    url: http://www.shinagawa1010.jp/list/nishikiyu.html
+    map: https://maps.google.com/?cid=6017913562006374951&hl=ja
+    address: 東京都品川区旗の台1-2-17
+    price: 470
+    lat: 35.609416
+    lng: 139.7046399
+    type: 銭湯
+-
+    id: 523
+    name: 第二久の湯
+    url: https://kotomise.jp/shops/%e7%ac%ac%e4%ba%8c%e4%b9%85%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=11964513783261636804&hl=ja
+    address: 東京都江東区大島1-36-6
+    price: 470
+    lat: 35.6873719
+    lng: 139.8259735
+    type: 銭湯
+-
+    id: 524
+    name: 天神湯
+    url: http://www.1010.or.jp/map/item/item-cnt-358
+    map: https://maps.google.com/?cid=10604098167138756481&hl=ja
+    address: 東京都中野区中野5-10-10
+    price: 470
+    lat: 35.7066479
+    lng: 139.6715131
+    type: 銭湯
+-
+    id: 525
+    name: 平和湯
+    url: http://www.1010.or.jp/map/item/item-cnt-583
+    map: https://maps.google.com/?cid=12805960801071690332&hl=ja
+    address: 東京都北区神谷3-41-13
+    price: 470
+    lat: 35.7703227
+    lng: 139.732475
+    type: 銭湯
+-
+    id: 526
+    name: 栄湯
+    url: http://www.1010.or.jp/map/item/item-cnt-686
+    map: https://maps.google.com/?cid=3814308572225571936&hl=ja
+    address: 東京都小平市小川西町3-26-4
+    price: 470
+    lat: 35.7404626
+    lng: 139.463826
+    type: 銭湯
+-
+    id: 527
+    name: 浜の湯
+    url: http://ota1010.com/explore/%e6%b5%9c%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=13328508803796409922&hl=ja
+    address: 東京都大田区大森東5-21-1
+    price: 470
+    lat: 35.5680399
+    lng: 139.7405977
+    type: 銭湯
+-
+    id: 528
+    name: 常盤湯
+    url: https://www.1010.or.jp/map/item/item-cnt-207
+    map: https://maps.google.com/?cid=174805871238818089&hl=ja
+    address: 東京都足立区足立4-28-8
+    price: 470
+    lat: 35.7647313
+    lng: 139.8081347
+    type: 銭湯
+-
+    id: 529
+    name: 宝来湯
+    url: https://www.oyunofuji1010.com/gallery/1819/
+    map: https://maps.google.com/?cid=11109050800433048293&hl=ja
+    address: 東京都江戸川区江戸川6-12-16
+    price: 470
+    lat: 35.6752415
+    lng: 139.8770673
+    type: 銭湯
+-
+    id: 530
+    name: 入間湯
+    url: http://www.1010.or.jp/map/item/item-cnt-522
+    map: https://maps.google.com/?cid=8504990897918825671&hl=ja
+    address: 東京都目黒区目黒本町3-9-7
+    price: 470
+    lat: 35.6221452
+    lng: 139.7016085
+    type: 銭湯
+-
+    id: 531
+    name: 亀の湯
+    url: https://kotomise.jp/shops/%e4%ba%80%e3%81%ae%e6%b9%af-2/
+    map: https://maps.google.com/?cid=16288597575854290044&hl=ja
+    address: 東京都江東区北砂4-20-25
+    price: 470
+    lat: 35.6768654
+    lng: 139.8315964
+    type: 銭湯
+-
+    id: 532
+    name: 久の湯
+    url: https://kotomise.jp/shops/%e4%b9%85%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=4609356453060180931&hl=ja
+    address: 東京都江東区南砂1-14-9
+    price: 470
+    lat: 35.6779341
+    lng: 139.8239016
+    type: 銭湯
+-
+    id: 533
+    name: 藤の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-582
+    map: https://maps.google.com/?cid=10476513567996665512&hl=ja
+    address: 東京都北区神谷3-23-12
+    price: 470
+    lat: 35.7723917
+    lng: 139.7302531
+    type: 銭湯
+-
+    id: 534
+    name: 富士の湯
+    url: https://katsushika1010.com/sento/富士の湯-2/
+    map: https://maps.google.com/?cid=11742411699969227655&hl=ja
+    address: 東京都葛飾区堀切4-58-26
+    price: 470
+    lat: 35.7493086
+    lng: 139.8266942
+    type: 銭湯
+-
+    id: 535
+    name: 春の湯
+    url: https://kotomise.jp/shops/%e6%98%a5%e3%81%ae%e6%b9%af/
+    map: https://maps.google.com/?cid=11556346169045284914&hl=ja
+    address: 東京都江東区大島7-25-14
+    price: 470
+    lat: 35.6914612
+    lng: 139.84108
+    type: 銭湯
+-
+    id: 536
+    name: 第四富士の湯
+    url: https://katsushika1010.com/sento/第四富士の湯/
+    map: https://maps.google.com/?cid=14123620949849267448&hl=ja
+    address: 東京都葛飾区宝町2-11-8
+    price: 470
+    lat: 35.7460878
+    lng: 139.8354619
+    type: 銭湯
+-
+    id: 537
+    name: 日の出湯
+    url: https://katsushika1010.com/sento/日の出湯-2/
+    map: https://maps.google.com/?cid=8753110276648421766&hl=ja
+    address: 東京都葛飾区堀切1-15-7
+    price: 470
+    lat: 35.741289
+    lng: 139.8274958
+    type: 銭湯
+-
+    id: 538
+    name: 金松湯
+    url: http://1010itabashi.or.jp/detail/80/
+    map: https://maps.google.com/?cid=5125424061527878995&hl=ja
+    address: 東京都板橋区大山東町55-3
+    price: 470
+    lat: 35.7491484
+    lng: 139.7038095
+    type: 銭湯
+-
+    id: 539
+    name: 亀の湯
+    url: https://www.oyunofuji1010.com/gallery/2031/
+    map: https://maps.google.com/?cid=17158106677671806607&hl=ja
+    address: 東京都江戸川区東小岩4-33-16
+    price: 470
+    lat: 35.7306879
+    lng: 139.8899463
+    type: 銭湯
+-
+    id: 540
+    name: 松乃湯
+    url: https://www.1010.or.jp/map/item/item-cnt-235
+    map: https://maps.google.com/?cid=8066754981442158482&hl=ja
+    address: 東京都足立区保木間5-5-10
+    price: 470
+    lat: 35.8026513
+    lng: 139.8020902
+    type: 銭湯
+-
+    id: 541
+    name: 富士の湯
+    url: http://taito1010.com/component/mtree/sento-list/fujino.html
+    map: https://maps.google.com/?cid=8863774712409825245&hl=ja
+    address: 東京都台東区橋場2-21-7
+    price: 470
+    lat: 35.7276734
+    lng: 139.8053745
+    type: 銭湯
+-
+    id: 542
+    name: 島田浴場
+    url: https://www.oyunofuji1010.com/gallery/2240/
+    map: https://maps.google.com/?cid=7289827649355225280&hl=ja
+    address: 東京都江戸川区南小岩4-6-5
+    price: 470
+    lat: 35.7213267
+    lng: 139.8842987
+    type: 銭湯
+-
+    id: 543
+    name: 高井戸地域区民センター
+    url: https://www.city.suginami.tokyo.jp/shisetsu/katsudo/center/1006948.html
+    map: https://maps.google.com/?cid=8625770807381611661&hl=ja
+    address: 東京都杉並区高井戸東3-7-5
+    price: 460
+    lat: 35.6836872
+    lng: 139.6166437
+    type: 共同浴場・銭湯
+-
+    id: 544
+    name: 効明泉
+    url: https://1010meguro.tokyo/map/more/k_koumeisen/
+    map: https://maps.google.com/?cid=6964850713234173161&hl=ja
+    address: 東京都目黒区祐天寺2-20-3
+    price: 470
+    lat: 35.6359041
+    lng: 139.6928578
+    type: 銭湯
+-
+    id: 545
+    name: 稲垣浴泉
+    url: http://1010itabashi.or.jp/detail/248/
+    map: https://maps.google.com/?cid=2605641924783162487&hl=ja
+    address: 東京都板橋区中板橋29-3
+    price: 470
+    lat: 35.7566698
+    lng: 139.6945343
+    type: 銭湯
+-
+    id: 546
+    name: スパジアムジャポン
+    url: https://spajapo.com/
+    map: https://maps.google.com/?cid=1543288285780506276&hl=ja
+    address: 東京都東久留米市上の原2-7-7
+    price: 750
+    lat: 35.7728547
+    lng: 139.5447069
+    type: 温泉
+-
+    id: 547
+    name: 子宝湯
+    url: http://arakawa-sento.jp/%E5%AD%90%E5%AE%9D%E6%B9%AF/
+    map: https://maps.google.com/?cid=11104372207019729175&hl=ja
+    address: 東京都荒川区町屋3-9-7
+    price: 470
+    lat: 35.7474576
+    lng: 139.7828046
+    type: 銭湯
+-
+    id: 548
+    name: フレッシュランド西多摩
+    url: http://www.nishiei.or.jp/freshland/index.html
+    map: https://maps.google.com/?cid=9807037586959364741&hl=ja
+    address: 東京都羽村市羽4225
+    price: 800
+    lat: 35.7652984
+    lng: 139.334327
+    type: 温泉
+-
+    id: 549
+    name: サウナ＆ホテル かるまる池袋
+    url: https://karumaru.jp/ikebukuro/
+    map: https://maps.google.com/?cid=11284434469973624391&hl=ja
+    address: 東京都豊島区池袋2丁目7-7
+    price: 2980
+    lat: 35.7325042
+    lng: 139.7083275
+    type: 温泉
+-
+    id: 550
+    name: サウナ玉泉
+    url: 
+    map: https://maps.google.com/?cid=6754478097754880308&hl=ja
+    address: 東京都豊島区南大塚2-31-3
+    price: 1300
+    lat: 35.7280654
+    lng: 139.7322564
+    type: 温泉
+-
+    id: 551
+    name: RAKU SPA 1010 神田
+    url: https://rakuspa.com/kanda/
+    map: https://maps.google.com/?cid=7120725595687027452&hl=ja
+    address: 東京都千代田区神田淡路町2-9-9
+    price: 1490
+    lat: 35.6980809
+    lng: 139.7678638
+    type: 温泉
+-
+    id: 552
+    name: サウナニュー大塚
+    url: 
+    map: https://maps.google.com/maps?q=35.730049,139.726833
+    address: 東京都豊島区南大塚3-38-15
+    price: 1000
+    lat: 35.7299791
+    lng: 139.7268406
+    type: 温泉
+-
+    id: 553
+    name: 松の湯
+    url: https://www.1010.or.jp/map/item/item-cnt-215
+    map: https://maps.google.com/?cid=6951992669417931185&hl=ja
+    address: 東京都足立区本木2-26-9
+    price: 470
+    lat: 35.7691249
+    lng: 139.7841962
+    type: 銭湯
+-
+    id: 554
+    name: 美吉湯
+    url: https://katsushika1010.com/sento/美吉湯/
+    map: https://maps.google.com/?cid=6850799013954048129&hl=ja
+    address: 東京都葛飾区東堀切2-22-13
+    price: 470
+    lat: 35.7515471
+    lng: 139.8371548
+    type: 銭湯
+-
+    id: 555
+    name: 亀の湯
+    url: http://sentou.jp/map/2-18.html
+    map: https://maps.google.com/?cid=11695185073897725952&hl=ja
+    address: 東京都杉並区桃井1-35-9
+    price: 470
+    lat: 35.7139284
+    lng: 139.6128732
+    type: 銭湯
+-
+    id: 556
+    name: 玉の湯
+    url: http://taito1010.com/component/mtree/sento-list/tamano.html
+    map: https://maps.google.com/?cid=8572800441436719264&hl=ja
+    address: 東京都台東区清川1-27-7
+    price: 470
+    lat: 35.7256855
+    lng: 139.8045725
+    type: 銭湯
+-
+    id: 557
+    name: 玉の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-628
+    map: https://maps.google.com/?cid=6098064627013133689&hl=ja
+    address: 東京都練馬区豊玉中1-11-12
+    price: 470
+    lat: 35.7320893
+    lng: 139.662609
+    type: 銭湯
+-
+    id: 558
+    name: 桑の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-637
+    map: https://maps.google.com/?cid=17283123022160047046&hl=ja
+    address: 東京都練馬区北町8-5-2
+    price: 470
+    lat: 35.7645595
+    lng: 139.6493489
+    type: 銭湯
+-
+    id: 559
+    name: 田中湯
+    url: https://www.1010.or.jp/map/item/item-cnt-166
+    map: https://maps.google.com/?cid=6109859322243924929&hl=ja
+    address: 東京都墨田区墨田5-46-5
+    price: 470
+    lat: 35.7345706
+    lng: 139.8200821
+    type: 銭湯
+-
+    id: 560
+    name: 藤の湯
+    url: http://arakawa-sento.jp/%E8%97%A4%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=13031905173546872509&hl=ja
+    address: 東京都荒川区荒川3-16-4
+    price: 470
+    lat: 35.7328607
+    lng: 139.7827565
+    type: 銭湯
+-
+    id: 561
+    name: 星谷浴泉
+    url: https://www.1010.or.jp/map/item/item-cnt-220
+    map: https://maps.google.com/?cid=3018381874958078729&hl=ja
+    address: 東京都足立区扇1-34-3
+    price: 470
+    lat: 35.7633478
+    lng: 139.7773198
+    type: 銭湯
+-
+    id: 562
+    name: 喜楽湯
+    url: http://www.1010.or.jp/map/item/item-cnt-191
+    map: https://maps.google.com/?cid=3924478724190026190&hl=ja
+    address: 東京都江東区南砂4-15-19
+    price: 470
+    lat: 35.6724209
+    lng: 139.8306995
+    type: 銭湯
+-
+    id: 563
+    name: 南湯
+    url: http://www.1010.or.jp/map/item/item-cnt-624
+    map: https://maps.google.com/?cid=18034987455321777299&hl=ja
+    address: 東京都練馬区栄町19-5
+    price: 470
+    lat: 35.7401474
+    lng: 139.6686273
+    type: 銭湯
+-
+    id: 564
+    name: みまつ湯
+    url: http://www.1010.or.jp/map/item/item-cnt-165
+    map: https://maps.google.com/?cid=12969475705143035477&hl=ja
+    address: 東京都墨田区墨田4-9-12
+    price: 470
+    lat: 35.7325743
+    lng: 139.8210004
+    type: 銭湯
+-
+    id: 565
+    name: 富の湯
+    url: https://katsushika1010.com/sento/富の湯/
+    map: https://maps.google.com/?cid=18128559692521664375&hl=ja
+    address: 東京都葛飾区立石2-19-6
+    price: 470
+    lat: 35.7378446
+    lng: 139.8405791
+    type: 銭湯
+-
+    id: 566
+    name: 鴻の湯
+    url: http://arakawa-sento.jp/%E9%B4%BB%E3%81%AE%E6%B9%AF/
+    map: https://maps.google.com/?cid=12640480489501457168&hl=ja
+    address: 東京都荒川区東日暮里2-20-10
+    price: 470
+    lat: 35.7317095
+    lng: 139.7851503
+    type: 銭湯
+-
+    id: 567
+    name: 大六天湯
+    url: http://adachi1010.jp/sento/dairokutenyu.html
+    map: https://maps.google.com/?cid=7887218470494310993&hl=ja
+    address: 東京都足立区本木南町11-14
+    price: 470
+    lat: 35.7613302
+    lng: 139.7827543
+    type: 銭湯
+-
+    id: 568
+    name: 三徳湯
+    url: http://www.1010.or.jp/map/item/item-cnt-156
+    map: https://maps.google.com/?cid=17154198903690660333&hl=ja
+    address: 東京都墨田区八広6-8-8
+    price: 470
+    lat: 35.7284278
+    lng: 139.8263209
+    type: 銭湯
+-
+    id: 569
+    name: 高砂湯
+    url: http://adachi1010.jp/sento/takasagoyu.html
+    map: https://maps.google.com/?cid=11874566538236578319&hl=ja
+    address: 東京都足立区六月1-37-14
+    price: 470
+    lat: 35.7884238
+    lng: 139.7984961
+    type: 銭湯
+-
+    id: 570
+    name: 豊島浴場
+    url: http://www.1010.or.jp/map/item/item-cnt-570
+    map: https://maps.google.com/?cid=11544387174406569938&hl=ja
+    address: 東京都北区豊島8-2-18
+    price: 470
+    lat: 35.7648274
+    lng: 139.7423451
+    type: 銭湯
+-
+    id: 571
+    name: 黄金湯
+    url: http://arakawa-sento.jp/%E9%BB%84%E9%87%91%E6%B9%AF/
+    map: https://maps.google.com/?cid=14141117011541695571&hl=ja
+    address: 東京都荒川区東日暮里3-27-10
+    price: 470
+    lat: 35.7289128
+    lng: 139.7803552
+    type: 銭湯
+-
+    id: 572
+    name: BathHaus
+    url: https://bathhaus.club/
+    map: https://maps.google.com/?cid=7699621833486629867&hl=ja
+    address: 東京都渋谷区西原1-50-8
+    price: 700
+    lat: 35.6744397
+    lng: 139.6852288
+    type: 銭湯
+-
+    id: 573
+    name: 草津湯
+    url: https://katsushika1010.com/sento/%e8%8d%89%e6%b4%a5%e6%b9%af/
+    map: https://maps.google.com/?cid=9275960174374266550&hl=ja
+    address: 東京都葛飾区小菅1-17-3
+    price: 470
+    lat: 35.7551617
+    lng: 139.8182059
+    type: 銭湯
+-
+    id: 574
+    name: 岩の湯
+    url: http://www.1010.or.jp/map/item/item-cnt-579
+    map: https://maps.google.com/?cid=13080476634139243911&hl=ja
+    address: 東京都北区岩淵町31-2
+    price: 470
+    lat: 35.7845149
+    lng: 139.7234357
+    type: 銭湯
+-
+    id: 575
+    name: 日の出湯
+    url: https://kotomise.jp/shops/%e6%97%a5%e3%81%ae%e5%87%ba%e6%b9%af/
+    map: https://maps.google.com/?cid=18017642032262316895&hl=ja
+    address: 東京都江東区住吉2-5-14
+    price: 470
+    lat: 35.6876086
+    lng: 139.8154871
+    type: 銭湯

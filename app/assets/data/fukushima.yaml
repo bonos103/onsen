@@ -1,0 +1,1241 @@
+---
+-
+    id: 1
+    name: スパリゾートハワイアンズ
+    url: https://www.hawaiians.co.jp/
+    map: https://maps.google.com/?cid=15053722275311329965&hl=ja
+    address: 福島県いわき市常磐藤原町蕨平50
+    price: 3570
+    lat: 36.9930388
+    lng: 140.8157461
+    type: 温泉
+-
+    id: 2
+    name: ゆうゆう日帰りの湯 富士の湯
+    url: http://fujinoyu.jp/
+    map: https://maps.google.com/?cid=17507860968127519567&hl=ja
+    address: 福島県会津若松市駅前町2-13
+    price: 450
+    lat: 37.5058533
+    lng: 139.9289538
+    type: 温泉
+-
+    id: 3
+    name: 高湯温泉 あったか湯
+    url: http://www.naf.co.jp/azumatakayu/attakayu/index.html
+    map: https://maps.google.com/?cid=9265870474656253906&hl=ja
+    address: 福島県福島市町庭坂高湯25
+    price: 250
+    lat: 37.7523787
+    lng: 140.304965
+    type: 共同浴場・銭湯
+-
+    id: 4
+    name: 郡山湯処 まねきの湯
+    url: http://www.manekinoyu.jp/koriyama/
+    map: https://maps.google.com/?cid=9586660632830595426&hl=ja
+    address: 福島県郡山市向河原町4-40
+    price: 620
+    lat: 37.4018724
+    lng: 140.3944907
+    type: 温泉
+-
+    id: 5
+    name: 天然温泉 極楽湯(福島郡山店)
+    url: http://www.gokurakuyu.jp/koriyama.html
+    map: https://maps.google.com/?cid=4345870661766970376&hl=ja
+    address: 福島県郡山市富久山町八山田字南広谷20-1
+    price: 750
+    lat: 37.4278584
+    lng: 140.3685918
+    type: 温泉
+-
+    id: 6
+    name: 郡山ユラックス熱海
+    url: https://www.yracs.jp/
+    map: https://maps.google.com/?cid=12590974512845476782&hl=ja
+    address: 福島県郡山市熱海町熱海2-148
+    price: 1000
+    lat: 37.4805876
+    lng: 140.2780789
+    type: 温泉
+-
+    id: 7
+    name: 山口温泉 きらら289
+    url: http://www.kirara289.jp/
+    map: https://maps.google.com/?cid=16755165603930979177&hl=ja
+    address: 福島県南会津郡南会津町山口橋尻1
+    price: 700
+    lat: 37.2219393
+    lng: 139.5427741
+    type: 温泉
+-
+    id: 8
+    name: 天然温泉 極楽湯(福島いわき店)
+    url: http://www.gokurakuyu.jp/iwaki.html
+    map: https://maps.google.com/?cid=3819290032359129157&hl=ja
+    address: 福島県いわき市葉山2-25-1
+    price: 750
+    lat: 36.9653234
+    lng: 140.87123
+    type: 温泉
+-
+    id: 9
+    name: 勿来温泉 関の湯
+    url: http://sekinoyu-spa.com/
+    map: https://maps.google.com/?cid=12195028456986396378&hl=ja
+    address: 福島県いわき市勿来町関田須賀1-4
+    price: 2040
+    lat: 36.8747784
+    lng: 140.789261
+    type: 温泉
+-
+    id: 10
+    name: 月光温泉公衆浴場
+    url: 
+    map: https://maps.google.com/?cid=11503888802919708705&hl=ja
+    address: 福島県郡山市安積町笹川字四角坦62-1
+    price: 350
+    lat: 37.3511627
+    lng: 140.3571231
+    type: 銭湯
+-
+    id: 11
+    name: なりた温泉
+    url: http://www.narita-onsen.com/
+    map: https://maps.google.com/?cid=8413659002238781855&hl=ja
+    address: 福島県郡山市安積町成田字車川原27
+    price: 540
+    lat: 37.3580752
+    lng: 140.3349868
+    type: 温泉
+-
+    id: 12
+    name: 東日本健康ランド カッパ王国
+    url: http://kappa-oukoku.com/
+    map: https://maps.google.com/?cid=660300103136433497&hl=ja
+    address: 福島県伊達市原島63
+    price: 2000
+    lat: 37.8229874
+    lng: 140.5083687
+    type: 温泉
+-
+    id: 13
+    name: いわき湯本温泉 さはこの湯
+    url: http://www.iwakicity-park.or.jp/sahako/
+    map: https://maps.google.com/?cid=18237459174695435668&hl=ja
+    address: 福島県いわき市常磐湯本町三函176-1
+    price: 300
+    lat: 37.0102903
+    lng: 140.8457151
+    type: 温泉
+-
+    id: 14
+    name: 太平洋健康センター いわき蟹洗温泉
+    url: https://kaniarai.net/
+    map: https://maps.google.com/?cid=6548650355722730023&hl=ja
+    address: 福島県いわき市四倉町字6-164-2
+    price: 2000
+    lat: 37.112156
+    lng: 140.9995157
+    type: 温泉
+-
+    id: 15
+    name: ホテルバーデン バーデン温泉
+    url: https://hotel-baden.com/hotspring/
+    map: https://maps.google.com/?cid=920481261037311639&hl=ja
+    address: 福島県郡山市安積町成田字島河原1-1
+    price: 740
+    lat: 37.3600322
+    lng: 140.342903
+    type: 温泉
+-
+    id: 16
+    name: 飯坂温泉 共同浴場 波来湯
+    url: http://onsen.fckk.jp/?page_id=2
+    map: https://maps.google.com/?cid=8870144802029293659&hl=ja
+    address: 福島県福島市飯坂町十綱町30
+    price: 300
+    lat: 37.8312936
+    lng: 140.4550084
+    type: 共同浴場・銭湯
+-
+    id: 17
+    name: いいざか 花ももの湯
+    url: http://www.hotel-juraku.co.jp/hanamomonoyu/
+    map: https://maps.google.com/?cid=18361511019234837392&hl=ja
+    address: 福島県福島市飯坂町西滝の町27
+    price: 1380
+    lat: 37.8351021
+    lng: 140.4514503
+    type: 温泉
+-
+    id: 18
+    name: 飯坂温泉 共同浴場 鯖湖湯
+    url: http://onsen.fckk.jp/?page_id=5
+    map: https://maps.google.com/?cid=9938068491673840928&hl=ja
+    address: 福島県福島市飯坂町湯沢32
+    price: 200
+    lat: 37.8321039
+    lng: 140.4526126
+    type: 共同浴場・銭湯
+-
+    id: 19
+    name: いわき健康センター 北投の湯
+    url: http://www.iwaki-kenkou.com
+    map: https://maps.google.com/?cid=14804545525997038049&hl=ja
+    address: 福島県いわき市小浜町中ノ作45-1
+    price: 1540
+    lat: 36.9212929
+    lng: 140.8390963
+    type: 温泉
+-
+    id: 20
+    name: そうま温泉 天宝の湯
+    url: http://tenpou.main.jp/
+    map: https://maps.google.com/?cid=661906678250839745&hl=ja
+    address: 福島県相馬市小泉高池270
+    price: 780
+    lat: 37.8084496
+    lng: 140.9188082
+    type: 温泉
+-
+    id: 21
+    name: 燧の湯
+    url: http://www.oze-hinoemata.net/kankou/onsen/onsen.htm
+    map: https://maps.google.com/?cid=6726614701048172798&hl=ja
+    address: 福島県南会津郡檜枝岐村上ノ台208-1
+    price: 500
+    lat: 37.0171729
+    lng: 139.3840769
+    type: 温泉
+-
+    id: 22
+    name: ひばり温泉
+    url: http://www.hibari-land.jp/
+    map: https://maps.google.com/?cid=17905402062664947610&hl=ja
+    address: 福島県須賀川市滑川関ノ上22-2
+    price: 1100
+    lat: 37.3257993
+    lng: 140.3634266
+    type: 温泉
+-
+    id: 23
+    name: 美人の湯 あゆり温泉
+    url: https://www.ayuri-yabuki.org/
+    map: https://maps.google.com/?cid=14952298469629610855&hl=ja
+    address: 福島県西白河郡矢吹町八幡町442
+    price: 600
+    lat: 37.1937952
+    lng: 140.3325709
+    type: 温泉
+-
+    id: 24
+    name: スパホテル あぶくま
+    url: http://spa-abukuma.jp/
+    map: https://maps.google.com/?cid=11411222407432273045&hl=ja
+    address: 福島県西白河郡西郷村真船字川谷1
+    price: 1473
+    lat: 37.1598651
+    lng: 140.0905999
+    type: 温泉
+-
+    id: 25
+    name: 糸桜里の湯 ばんげ
+    url: http://www.shiorinoyu.jp/
+    map: https://maps.google.com/?cid=4223253144387915710&hl=ja
+    address: 福島県河沼郡会津坂下町見明堤帰2115
+    price: 600
+    lat: 37.5886791
+    lng: 139.7993915
+    type: 温泉
+-
+    id: 26
+    name: 癒しと安らぎ きつねうち温泉
+    url: http://kitsune.life.coocan.jp/
+    map: https://maps.google.com/?cid=4571246219871309256&hl=ja
+    address: 福島県白河市東釜子狐内47
+    price: 700
+    lat: 37.1049264
+    lng: 140.3648237
+    type: 温泉
+-
+    id: 27
+    name: ラビスパ裏磐梯
+    url: http://laviespa.com/
+    map: https://maps.google.com/?cid=17665348958356067663&hl=ja
+    address: 福島県耶麻郡北塩原村大塩桜峠8664-5
+    price: 750
+    lat: 37.6598336
+    lng: 140.0144959
+    type: 温泉
+-
+    id: 28
+    name: 喜多の郷 蔵の湯
+    url: http://www.furusatosinkou.co.jp/spring/
+    map: https://maps.google.com/?cid=2575988124320378851&hl=ja
+    address: 福島県喜多方市松山町鳥見山字三町歩5598-1
+    price: 500
+    lat: 37.7018992
+    lng: 139.8784053
+    type: 温泉
+-
+    id: 29
+    name: 天神岬温泉 しおかぜ荘
+    url: http://naraha-tenjin.net/enjoy/hot-spring
+    map: https://maps.google.com/?cid=14311472119720573988&hl=ja
+    address: 福島県双葉郡楢葉町北田上ノ原27-29
+    price: 700
+    lat: 37.2692113
+    lng: 141.0146416
+    type: 温泉
+-
+    id: 30
+    name: スカイピアあだたら
+    url: http://www.michinoeki-adachi.jp/skypia/
+    map: https://maps.google.com/?cid=2949439750262841214&hl=ja
+    address: 福島県二本松市上葉木坂2-3
+    price: 600
+    lat: 37.6159545
+    lng: 140.373868
+    type: 温泉
+-
+    id: 31
+    name: あだたら山 奥岳の湯
+    url: http://www.adatara-resort.com/green/okudakenoyu.stm
+    map: https://maps.google.com/?cid=10677170191892374531&hl=ja
+    address: 福島県二本松市永田字長坂国有林
+    price: 600
+    lat: 37.623923
+    lng: 140.3415609
+    type: 温泉
+-
+    id: 32
+    name: 天然炭酸温泉 せせらぎ荘
+    url: http://ss-onsen.com/
+    map: https://maps.google.com/?cid=17243172508439299879&hl=ja
+    address: 福島県大沼郡金山町玉梨新板2049-1
+    price: 500
+    lat: 37.4206996
+    lng: 139.5453837
+    type: 温泉
+-
+    id: 33
+    name: 弥五島温泉 郷の湯
+    url: http://satonoyu-0914.com/
+    map: https://maps.google.com/?cid=11213978650658465051&hl=ja
+    address: 福島県南会津郡下郷町弥五島和田563
+    price: 330
+    lat: 37.2666975
+    lng: 139.8873704
+    type: 温泉
+-
+    id: 34
+    name: 大塩温泉共同浴場
+    url: https://www.town.kaneyama.fukushima.jp/soshiki/37/onsen-guide.html
+    map: https://maps.google.com/?cid=821992714973727076&hl=ja
+    address: 福島県大沼郡金山町大塩休場3103-1
+    price: 300
+    lat: 37.3941769
+    lng: 139.4293573
+    type: 共同浴場・銭湯
+-
+    id: 35
+    name: つるの湯
+    url: 
+    map: https://maps.google.com/?cid=17735608312282687265&hl=ja
+    address: 福島県福島市北町4-18
+    price: 450
+    lat: 37.7540863
+    lng: 140.4726743
+    type: 銭湯
+-
+    id: 36
+    name: のんびり温泉
+    url: https://www.nonbiri-onsen.com/nonbiri/
+    map: https://maps.google.com/?cid=10288146525904534831&hl=ja
+    address: 福島県郡山市三穂田町山口字山崎山11-1
+    price: 700
+    lat: 37.3730071
+    lng: 140.2788661
+    type: 温泉
+-
+    id: 37
+    name: 御とめ湯り
+    url: http://otomeyuri-spa.com/
+    map: https://maps.google.com/?cid=10152220025600506200&hl=ja
+    address: 福島県福島市土湯温泉町字見附32-1
+    price: 850
+    lat: 37.683627
+    lng: 140.3294019
+    type: 温泉
+-
+    id: 38
+    name: かわうちの湯
+    url: http://www.abukumakawauchi.com/contents/kawauchi/
+    map: https://maps.google.com/?cid=11696161474845966752&hl=ja
+    address: 福島県双葉郡川内村上川内小山平501-1
+    price: 600
+    lat: 37.3354307
+    lng: 140.8096414
+    type: 温泉
+-
+    id: 39
+    name: 温泉天国 さくら湯
+    url: http://www.sakurayu.biz/
+    map: https://maps.google.com/?cid=4801234671307426864&hl=ja
+    address: 福島県郡山市島2-7-6
+    price: 600
+    lat: 37.3966505
+    lng: 140.3472964
+    type: 温泉
+-
+    id: 40
+    name: ルネサンス棚倉
+    url: http://r-tanagura.jp/onsen/
+    map: https://maps.google.com/?cid=9671220273808033335&hl=ja
+    address: 福島県東白川郡棚倉町関口一本松43-1
+    price: 600
+    lat: 37.0356024
+    lng: 140.3983154
+    type: 温泉
+-
+    id: 41
+    name: 飯坂温泉 もにわの湯
+    url: http://www.city.fukushima.fukushima.jp/kasen-kanri/shisetsu/kankorekishi/018.html
+    map: https://maps.google.com/?cid=8819882922535674295&hl=ja
+    address: 福島県福島市飯坂町茂庭字清水川原21-2
+    price: 250
+    lat: 37.9181003
+    lng: 140.4222758
+    type: 温泉
+-
+    id: 42
+    name: いわき湯本駅前 みゆきの湯
+    url: https://www.gurutto-iwaki.com/detail/index_225.html
+    map: https://maps.google.com/?cid=15285068500012487897&hl=ja
+    address: 福島県いわき市常磐湯本町天王崎1-8
+    price: 300
+    lat: 37.0070581
+    lng: 140.8488569
+    type: 温泉
+-
+    id: 43
+    name: ふれあいランド高郷
+    url: http://www.frtspa.co.jp/
+    map: https://maps.google.com/?cid=14149449453709500271&hl=ja
+    address: 福島県喜多方市高郷町揚津字袖山甲3054-9
+    price: 500
+    lat: 37.6273976
+    lng: 139.7176915
+    type: 温泉
+-
+    id: 44
+    name: 新田川温泉 はらまちユッサ
+    url: https://yussa.jp/info/
+    map: https://maps.google.com/?cid=8240453914835191153&hl=ja
+    address: 福島県南相馬市原町区深野字荒戸沢15
+    price: 800
+    lat: 37.667051
+    lng: 140.9162497
+    type: 温泉
+-
+    id: 45
+    name: あづま温泉
+    url: http://azuma-spa.jp/
+    map: https://maps.google.com/?cid=2477655025292271265&hl=ja
+    address: 福島県福島市佐原字竹ノ森26
+    price: 350
+    lat: 37.7097695
+    lng: 140.3328227
+    type: 温泉
+-
+    id: 46
+    name: ちゃぽランド西郷
+    url: http://kyororon.sakura.ne.jp/
+    map: https://maps.google.com/?cid=14961769708494765442&hl=ja
+    address: 福島県西白河郡西郷村真船馬立1
+    price: 600
+    lat: 37.1771285
+    lng: 140.0340002
+    type: 温泉
+-
+    id: 47
+    name: 並木温泉 ゆの郷
+    url: 
+    map: https://maps.google.com/?cid=9188015605756581560&hl=ja
+    address: 福島県郡山市並木3-5-14
+    price: 500
+    lat: 37.4087282
+    lng: 140.3585297
+    type: 温泉
+-
+    id: 48
+    name: 檜枝岐温泉 駒の湯
+    url: http://www.oze-info.jp/spa/
+    map: https://maps.google.com/?cid=3970840397941748218&hl=ja
+    address: 福島県南会津郡檜枝岐村下ノ原839-1
+    price: 500
+    lat: 37.0234029
+    lng: 139.3883935
+    type: 温泉
+-
+    id: 49
+    name: 極楽湯(福島店)
+    url: https://www.gokurakuyu.ne.jp/tempo/fukushima/
+    map: https://maps.google.com/?cid=11993956586118163392&hl=ja
+    address: 福島県福島市栄町1-1
+    price: 600
+    lat: 37.7537832
+    lng: 140.4603243
+    type: 温泉
+-
+    id: 50
+    name: うねめ温泉
+    url: https://www.fukulabo.net/shop/shop.shtml?s=2928
+    map: https://maps.google.com/?cid=2991094921548899835&hl=ja
+    address: 福島県郡山市富田町字大徳南31-3
+    price: 450
+    lat: 37.4081975
+    lng: 140.3334925
+    type: 温泉
+-
+    id: 51
+    name: 名目津温泉
+    url: http://www.city.nihonmatsu.lg.jp/page/page000595.html
+    map: https://maps.google.com/?cid=12350896477085968831&hl=ja
+    address: 福島県二本松市茂原字湯ノ作35
+    price: 500
+    lat: 37.5427712
+    lng: 140.6346397
+    type: 温泉
+-
+    id: 52
+    name: 新鶴温泉 健康センター
+    url: http://www.aizu-misato.jp/spa/hotpia/kenkou_facilities.html
+    map: https://maps.google.com/?cid=17439339745110870249&hl=ja
+    address: 福島県大沼郡会津美里町鶴野辺上長尾2347-40
+    price: 520
+    lat: 37.5079086
+    lng: 139.8130881
+    type: 温泉
+-
+    id: 53
+    name: 古町温泉 赤岩荘
+    url: http://www.sayurinosato.co.jp/akaiwa/
+    map: https://maps.google.com/?cid=3751635610441191358&hl=ja
+    address: 福島県南会津郡南会津町古町字太子堂186-2
+    price: 600
+    lat: 37.1858602
+    lng: 139.5270078
+    type: 温泉
+-
+    id: 54
+    name: Ｊヴィレッジ湯遊ならは 道の駅ならは
+    url: https://www.town.naraha.lg.jp/information/event/006504.html
+    map: https://maps.google.com/?cid=3278798663036614243&hl=ja
+    address: 福島県双葉郡楢葉町山田岡字大堤入22-1
+    price: 700
+    lat: 37.2498851
+    lng: 140.9976473
+    type: 温泉
+-
+    id: 55
+    name: 磐梯熱海温泉 共同湯 霊泉元湯
+    url: http://www.bandaiatami.or.jp/daystay/daystay-spa/motoyu-daystay.html
+    map: https://maps.google.com/?cid=11403406858435010067&hl=ja
+    address: 福島県郡山市熱海町熱海4-22
+    price: 500
+    lat: 37.4815234
+    lng: 140.2703427
+    type: 共同浴場・銭湯
+-
+    id: 56
+    name: 桑折温泉 うぶかの郷
+    url: https://www.town.koori.fukushima.jp/kankou/activity/nature/4789.html
+    map: https://maps.google.com/?cid=1407366645363657212&hl=ja
+    address: 福島県伊達郡桑折町南半田字川端22
+    price: 350
+    lat: 37.8582194
+    lng: 140.5075628
+    type: 温泉
+-
+    id: 57
+    name: 土湯公衆浴場 中之湯
+    url: 
+    map: https://maps.google.com/?cid=11225957771687000718&hl=ja
+    address: 福島県福島市土湯温泉町
+    price: 500
+    lat: 37.6842434
+    lng: 140.2805268
+    type: 共同浴場・銭湯
+-
+    id: 58
+    name: 本郷温泉 湯陶里
+    url: http://www.aizu-misato.jp/spa/yutori/yutori_facilities.html
+    map: https://maps.google.com/?cid=10664535456350377379&hl=ja
+    address: 福島県大沼郡会津美里町字六日町甲4106-1
+    price: 520
+    lat: 37.4458646
+    lng: 139.9055544
+    type: 温泉
+-
+    id: 59
+    name: 熱塩加納保健福祉センター 夢の森
+    url: http://www.kitakata-shakyo.or.jp/facility/atsushio/
+    map: https://maps.google.com/?cid=3464864779502443908&hl=ja
+    address: 福島県喜多方市熱塩加納町米岡下平乙609
+    price: 300
+    lat: 37.7218115
+    lng: 139.8714596
+    type: 温泉
+-
+    id: 60
+    name: 八町温泉共同浴場 亀の湯
+    url: https://www.town.kaneyama.fukushima.jp/soshiki/37/onsen-guide.html
+    map: https://maps.google.com/?cid=12646516170331936522&hl=ja
+    address: 福島県大沼郡金山町八町居平619
+    price: 200
+    lat: 37.422105
+    lng: 139.5445422
+    type: 共同浴場・銭湯
+-
+    id: 61
+    name: 弘法不動の湯
+    url: http://www.koubou-fudounoyu.com/
+    map: https://maps.google.com/?cid=10195211136727539934&hl=ja
+    address: 福島県岩瀬郡鏡石町字岡の内418
+    price: 500
+    lat: 37.254541
+    lng: 140.338702
+    type: 温泉
+-
+    id: 62
+    name: 深沢温泉 むら湯
+    url: https://www.yurari.co.jp/mura.aspx
+    map: https://maps.google.com/?cid=18233584022210345155&hl=ja
+    address: 福島県南会津郡只見町長浜55
+    price: 600
+    lat: 37.304934
+    lng: 139.4105647
+    type: 温泉
+-
+    id: 63
+    name: 森の温泉館 アルザ尾瀬の郷
+    url: http://www.oze-info.jp/spot/spa/
+    map: https://maps.google.com/?cid=12618136101656722554&hl=ja
+    address: 福島県南会津郡檜枝岐村見通1156-1
+    price: 1000
+    lat: 37.0336494
+    lng: 139.3958002
+    type: 温泉
+-
+    id: 64
+    name: 裏磐梯温泉 露天風呂 香の湯
+    url: 
+    map: https://maps.google.com/?cid=17778505593999526155&hl=ja
+    address: 福島県耶麻郡北塩原村桧原小野川原1092-38
+    price: 800
+    lat: 37.6699278
+    lng: 140.0783025
+    type: 温泉
+-
+    id: 65
+    name: 須賀川市民温泉
+    url: http://www.city.sukagawa.fukushima.jp/2271.htm
+    map: https://maps.google.com/?cid=3852511907143724427&hl=ja
+    address: 福島県須賀川市茶畑町71
+    price: 300
+    lat: 37.2930341
+    lng: 140.3618538
+    type: 共同浴場・銭湯
+-
+    id: 66
+    name: ヒーリングヴィラ湯元
+    url: http://hvyumoto.com/
+    map: https://maps.google.com/?cid=9646720521395190549&hl=ja
+    address: 福島県郡山市大槻町字堀切西11-3
+    price: 800
+    lat: 37.3826506
+    lng: 140.3567813
+    type: 温泉
+-
+    id: 67
+    name: 湯の田温泉 村民保養施設 さぎり荘
+    url: https://www.vill.samegawa.fukushima.jp/page/page000591.html
+    map: https://maps.google.com/?cid=16659159327562475079&hl=ja
+    address: 福島県東白川郡鮫川村赤坂東野字広畑199-2
+    price: 600
+    lat: 37.0332003
+    lng: 140.508491
+    type: 温泉
+-
+    id: 68
+    name: 西山温泉 山村公園 せいざん荘
+    url: http://yanaizu-kousya.info/seizan.shtml
+    map: https://maps.google.com/?cid=13462974214639970122&hl=ja
+    address: 福島県河沼郡柳津町砂子原長窪921
+    price: 510
+    lat: 37.4474264
+    lng: 139.6962201
+    type: 温泉
+-
+    id: 69
+    name: 湯ノ花温泉 石湯
+    url: https://www.kanko-aizu.com/higaeri/3108/
+    map: https://maps.google.com/?cid=15787872215249588589&hl=ja
+    address: 福島県南会津郡南会津町湯ノ花
+    price: 200
+    lat: 37.035422
+    lng: 139.5483671
+    type: 共同浴場・銭湯
+-
+    id: 70
+    name: 高田温泉 あやめの湯
+    url: http://www.aizu-misato.jp/spa/ayamesou/ayamesou_facilities.html
+    map: https://maps.google.com/?cid=2602852949703878036&hl=ja
+    address: 福島県大沼郡会津美里町下堀字中川360-4
+    price: 520
+    lat: 37.4582648
+    lng: 139.8447288
+    type: 温泉
+-
+    id: 71
+    name: 秘湯 不動湯温泉
+    url: http://www.naf.co.jp/fudouyu/
+    map: https://maps.google.com/?cid=18392904300112095826&hl=ja
+    address: 福島県福島市土湯温泉町字大笹25
+    price: 700
+    lat: 37.6798465
+    lng: 140.3167042
+    type: 温泉
+-
+    id: 72
+    name: 只見保養センター ひとっぷろまち湯
+    url: http://www.okuaizu.net/spot/846/
+    map: https://maps.google.com/?cid=17752283343673567919&hl=ja
+    address: 福島県南会津郡只見町只見新屋敷下2508-8
+    price: 500
+    lat: 37.3473917
+    lng: 139.3214548
+    type: 温泉
+-
+    id: 73
+    name: 竹の湯
+    url: 
+    map: https://maps.google.com/?cid=10066230772362819461&hl=ja
+    address: 福島県会津若松市上町7-26
+    price: 450
+    lat: 37.4976731
+    lng: 139.9349869
+    type: 銭湯
+-
+    id: 74
+    name: 玉梨温泉共同浴場
+    url: https://www.town.kaneyama.fukushima.jp/soshiki/37/onsen-guide.html
+    map: https://maps.google.com/?cid=4554141342761120658&hl=ja
+    address: 福島県大沼郡金山町玉梨湯ノ上
+    price: 200
+    lat: 37.4209929
+    lng: 139.5391083
+    type: 共同浴場・銭湯
+-
+    id: 75
+    name: 洲走の湯
+    url: http://heso-aizu.jp/info_top/spot_info/1306
+    map: https://maps.google.com/?cid=5895493288307316125&hl=ja
+    address: 福島県河沼郡会津坂下町片門字鬼百苅47
+    price: 400
+    lat: 37.5781286
+    lng: 139.7549021
+    type: 温泉
+-
+    id: 76
+    name: 木賊温泉 広瀬の湯
+    url: https://www.kanko-aizu.com/higaeri/3126/
+    map: https://maps.google.com/?cid=10319912526607708987&hl=ja
+    address: 福島県南会津郡南会津町宮里字宮ノ本1712
+    price: 300
+    lat: 37.0623965
+    lng: 139.4844242
+    type: 共同浴場・銭湯
+-
+    id: 77
+    name: 湯倉温泉共同浴場
+    url: https://www.town.kaneyama.fukushima.jp/soshiki/37/onsen-guide.html
+    map: https://maps.google.com/?cid=13006902545006656250&hl=ja
+    address: 福島県大沼郡金山町本名字上の坪
+    price: 200
+    lat: 37.4538013
+    lng: 139.5243047
+    type: 共同浴場・銭湯
+-
+    id: 78
+    name: 湯ノ花温泉 共同浴場 湯端の湯
+    url: https://www.kanko-aizu.com/higaeri/3101/
+    map: https://maps.google.com/?cid=26052467678224149&hl=ja
+    address: 福島県南会津郡南会津町湯ノ花1229
+    price: 200
+    lat: 37.035422
+    lng: 139.5483671
+    type: 共同浴場・銭湯
+-
+    id: 79
+    name: 熱塩温泉 下の湯共同浴場
+    url: 
+    map: https://maps.google.com/?cid=5234019112661628678&hl=ja
+    address: 福島県喜多方市熱塩加納町熱塩熱塩甲811
+    price: 200
+    lat: 37.7277571
+    lng: 139.8881284
+    type: 共同浴場・銭湯
+-
+    id: 80
+    name: 和風亭もりのゆ
+    url: http://morinoyu.jp/spa.html
+    map: https://maps.google.com/?cid=12638140889448099256&hl=ja
+    address: 福島県南相馬市原町区南町3-12
+    price: 450
+    lat: 37.6336458
+    lng: 140.9570522
+    type: 温泉
+-
+    id: 81
+    name: 湯ノ花温泉 天神の湯
+    url: https://www.kanko-aizu.com/higaeri/3082/
+    map: https://maps.google.com/?cid=7872209435429839263&hl=ja
+    address: 福島県南会津郡南会津町湯ノ花
+    price: 200
+    lat: 37.035422
+    lng: 139.5483671
+    type: 共同浴場・銭湯
+-
+    id: 82
+    name: 二子浦温泉
+    url: 
+    map: https://maps.google.com/?cid=1661716366367293164&hl=ja
+    address: 福島県いわき市勿来町九面坂下22-4
+    price: 250
+    lat: 36.8612027
+    lng: 140.7883307
+    type: 温泉
+-
+    id: 83
+    name: 飯坂温泉 共同浴場 大門の湯
+    url: https://iizaka.com/spa/
+    map: https://maps.google.com/?cid=16773535877696858231&hl=ja
+    address: 福島県福島市飯坂町大門1
+    price: 200
+    lat: 37.8298182
+    lng: 140.4495515
+    type: 共同浴場・銭湯
+-
+    id: 84
+    name: 飯坂温泉 共同浴場 十綱湯
+    url: http://onsen.fckk.jp/?page_id=14
+    map: https://maps.google.com/?cid=8828739892659776813&hl=ja
+    address: 福島県福島市飯坂町下川原36-7
+    price: 200
+    lat: 37.827879
+    lng: 140.4520301
+    type: 共同浴場・銭湯
+-
+    id: 85
+    name: 湯の花温泉 弘法の湯
+    url: https://www.kanko-aizu.com/higaeri/3068/
+    map: https://maps.google.com/?cid=1586580751424572649&hl=ja
+    address: 福島県南会津郡南会津町湯ノ花321
+    price: 200
+    lat: 37.0676686
+    lng: 139.5282425
+    type: 共同浴場・銭湯
+-
+    id: 86
+    name: 飯坂温泉 共同浴場 仙気の湯
+    url: http://onsen.fckk.jp/?page_id=10
+    map: https://maps.google.com/?cid=11391133699665480526&hl=ja
+    address: 福島県福島市飯坂町湯野愛宕前35
+    price: 200
+    lat: 37.8329843
+    lng: 140.4562131
+    type: 共同浴場・銭湯
+-
+    id: 87
+    name: 飯坂温泉 共同浴場 天王寺穴原湯
+    url: http://onsen.fckk.jp/?page_id=14
+    map: https://maps.google.com/?cid=17220778472135684814&hl=ja
+    address: 福島県福島市飯坂町湯野湯尻25-5
+    price: 200
+    lat: 37.8432143
+    lng: 140.439561
+    type: 共同浴場・銭湯
+-
+    id: 88
+    name: 飯坂温泉 共同浴場 八幡の湯
+    url: http://onsen.fckk.jp/?page_id=14
+    map: https://maps.google.com/?cid=727742994587874501&hl=ja
+    address: 福島県福島市飯坂町馬場20-1
+    price: 200
+    lat: 37.8320424
+    lng: 140.4502983
+    type: 共同浴場・銭湯
+-
+    id: 89
+    name: 飯坂温泉 共同浴場 導専の湯
+    url: http://onsen.fckk.jp/?page_id=7
+    map: https://maps.google.com/?cid=15767222366287592779&hl=ja
+    address: 福島県福島市飯坂町湯野導専16
+    price: 200
+    lat: 37.8307776
+    lng: 140.4570737
+    type: 共同浴場・銭湯
+-
+    id: 90
+    name: 飯坂温泉 共同浴場 切湯
+    url: http://onsen.fckk.jp/?page_id=12
+    map: https://maps.google.com/?cid=17364144052198714956&hl=ja
+    address: 福島県福島市飯坂町湯野切湯ノ上5
+    price: 200
+    lat: 37.832288
+    lng: 140.455028
+    type: 共同浴場・銭湯
+-
+    id: 91
+    name: いわき湯本温泉 上の湯
+    url: https://kankou-iwaki.or.jp/spot/10097
+    map: https://maps.google.com/?cid=12947093714130251535&hl=ja
+    address: 福島県いわき市常磐湯本町上川1-19
+    price: 150
+    lat: 37.014742
+    lng: 140.8457746
+    type: 共同浴場・銭湯
+-
+    id: 92
+    name: サニーランド湖南
+    url: https://www.city.koriyama.lg.jp/fukushi/fukushi_kaigo/8/12310.html
+    map: https://maps.google.com/?cid=8914527050884942865&hl=ja
+    address: 福島県郡山市湖南町福良字台畠8588
+    price: 200
+    lat: 37.3884894
+    lng: 140.0888374
+    type: 温泉
+-
+    id: 93
+    name: 中川温泉 福祉センター ゆうゆう館
+    url: https://www.town.kaneyama.fukushima.jp/soshiki/37/onsen-guide.html
+    map: https://maps.google.com/?cid=6439584009176076623&hl=ja
+    address: 福島県大沼郡金山町中川1324
+    price: 300
+    lat: 37.4987134
+    lng: 139.5134723
+    type: 温泉
+-
+    id: 94
+    name: 聖石温泉 恵の湯
+    url: 
+    map: https://maps.google.com/?cid=17563103648010990175&hl=ja
+    address: 福島県田村市船引町大倉字聖石215
+    price: 500
+    lat: 37.4844819
+    lng: 140.5737674
+    type: 温泉
+-
+    id: 95
+    name: 北会津保健センター ふれあいの湯
+    url: http://awshakyo.or.jp/info_community_welfare/fureai/
+    map: https://maps.google.com/?cid=573494195986170405&hl=ja
+    address: 福島県会津若松市北会津町下荒井矢倉林1
+    price: 510
+    lat: 37.4982283
+    lng: 139.8672877
+    type: 温泉
+-
+    id: 96
+    name: 会津みなみ温泉 里の湯
+    url: https://www.kanko-aizu.com/higaeri/335/
+    map: https://maps.google.com/?cid=14445575867068067910&hl=ja
+    address: 福島県南会津郡南会津町山口字村上798-9
+    price: 400
+    lat: 37.2216517
+    lng: 139.5371189
+    type: 温泉
+-
+    id: 97
+    name: 芦の牧 ドライブ温泉
+    url: 
+    map: https://maps.google.com/?cid=15482219110438439596&hl=ja
+    address: 福島県会津若松市大戸町小谷湯平89
+    price: 400
+    lat: 37.3666876
+    lng: 139.9173528
+    type: 温泉
+-
+    id: 98
+    name: 東北原温泉
+    url: 
+    map: https://maps.google.com/?cid=18053827524790507897&hl=ja
+    address: 福島県郡山市片平町字庚坦原14
+    price: 400
+    lat: 37.4066619
+    lng: 140.3156331
+    type: 温泉
+-
+    id: 99
+    name: 中島村総合福祉センター ふれあいの郷
+    url: http://www.vill-nakajima.jp/page/page000264.html
+    map: https://maps.google.com/?cid=7172110653936219871&hl=ja
+    address: 福島県西白河郡中島村滑津二ツ山65-3
+    price: 400
+    lat: 37.1526803
+    lng: 140.3495544
+    type: 温泉
+-
+    id: 100
+    name: 丸一商店 富士の湯
+    url: http://www.shokokai.or.jp/07/0752710023/
+    map: https://maps.google.com/?cid=16059354507108660323&hl=ja
+    address: 福島県田村市船引町北鹿又字石崎5
+    price: 400
+    lat: 37.4698083
+    lng: 140.5883052
+    type: 温泉
+-
+    id: 101
+    name: 塩川保健福祉センター 花しょうぶの湯
+    url: http://www.kitakata-shakyo.or.jp/facility/shiokawa/
+    map: https://maps.google.com/?cid=12498364702487528506&hl=ja
+    address: 福島県喜多方市塩川町字身神300-1
+    price: 400
+    lat: 37.5982806
+    lng: 139.8891919
+    type: 温泉
+-
+    id: 102
+    name: 桧原温泉 桧原塾
+    url: 
+    map: https://maps.google.com/?cid=5058006139079053057&hl=ja
+    address: 福島県耶麻郡北塩原村桧原
+    price: 300
+    lat: 37.6864844
+    lng: 140.0840199
+    type: 共同浴場・銭湯
+-
+    id: 103
+    name: 錦星湯
+    url: 
+    map: https://maps.google.com/?cid=15692923678602399195&hl=ja
+    address: 福島県郡山市熱海町熱海1-80
+    price: 250
+    lat: 37.4826288
+    lng: 140.2714162
+    type: 共同浴場・銭湯
+-
+    id: 104
+    name: 石橋ヘルス温泉
+    url: http://www.ishibashi-tec.co.jp/ishibashi-herusu.htm
+    map: https://maps.google.com/?cid=7492581335640704927&hl=ja
+    address: 福島県郡山市安積町成田字島河原24-2
+    price: 600
+    lat: 37.3583481
+    lng: 140.3425714
+    type: 温泉
+-
+    id: 105
+    name: 磐梯宝の湯
+    url: 
+    map: https://maps.google.com/?cid=5879681196738168492&hl=ja
+    address: 福島県郡山市熱海町熱海5-161
+    price: 400
+    lat: 37.4880211
+    lng: 140.2626669
+    type: 共同浴場・銭湯
+-
+    id: 106
+    name: 宮下温泉 保養センターひだまり
+    url: http://www.mishima-kankou.net/spas/
+    map: https://maps.google.com/?cid=2971601876169666478&hl=ja
+    address: 福島県大沼郡三島町宮下字下乙田889
+    price: 500
+    lat: 37.4741986
+    lng: 139.6476253
+    type: 温泉
+-
+    id: 107
+    name: 仲ノ湯
+    url: 
+    map: https://maps.google.com/?cid=11249766314127958220&hl=ja
+    address: 福島県いわき市平字南町67
+    price: 450
+    lat: 37.0549402
+    lng: 140.891789
+    type: 銭湯
+-
+    id: 108
+    name: あさかの杜 クア温泉館
+    url: http://www.asakanomori.com/facility/kuah.html
+    map: https://maps.google.com/?cid=1351025820491830260&hl=ja
+    address: 福島県郡山市安積町成田字漆山50
+    price: 600
+    lat: 37.3594117
+    lng: 140.3400847
+    type: 温泉
+-
+    id: 109
+    name: バイパスサウナ
+    url: 
+    map: https://maps.google.com/?cid=7753326306132508846&hl=ja
+    address: 福島県二本松市杉田駄子内47
+    price: 800
+    lat: 37.5716237
+    lng: 140.4186642
+    type: 温泉
+-
+    id: 110
+    name: 桧原ふれあい温泉 湖望
+    url: https://www.urabandai-inf.com/?page_id=203
+    map: https://maps.google.com/?cid=12485405564989633953&hl=ja
+    address: 福島県耶麻郡北塩原村桧原道前原1131-54
+    price: 400
+    lat: 37.7166285
+    lng: 140.0371155
+    type: 温泉
+-
+    id: 111
+    name: 桐の里倶楽部 宮下温泉 桐の湯
+    url: http://www.mishima-kankou.net/spas/
+    map: https://maps.google.com/?cid=8015876517020149030&hl=ja
+    address: 福島県大沼郡三島町名入上赤谷2402-1
+    price: 420
+    lat: 37.47756
+    lng: 139.650775
+    type: 温泉
+-
+    id: 112
+    name: 小豆温泉 窓明の湯
+    url: http://minamiaizu-pkp.com/madoakenoyu/
+    map: https://maps.google.com/?cid=8628795629461462569&hl=ja
+    address: 福島県南会津郡南会津町大桃字駒ケ嶽山10-1
+    price: 650
+    lat: 37.0768705
+    lng: 139.4184184
+    type: 温泉
+-
+    id: 113
+    name: いわせ悠久の里
+    url: http://www.city.sukagawa.fukushima.jp/2902.htm
+    map: https://maps.google.com/?cid=3573210473038642955&hl=ja
+    address: 福島県須賀川市畑田字諏訪入56
+    price: 360
+    lat: 37.3060927
+    lng: 140.2700741
+    type: 温泉
+-
+    id: 114
+    name: 福島市飯野 UFOふれあい館
+    url: http://ufonosato.com/
+    map: https://maps.google.com/?cid=265362332994065978&hl=ja
+    address: 福島県福島市飯野町青木小手神森1-299
+    price: 400
+    lat: 37.6878142
+    lng: 140.5340856
+    type: 温泉
+-
+    id: 115
+    name: 星の村ふれあい館
+    url: http://www.city.tamura.lg.jp/soshiki/21/fureaikan-top.html
+    map: https://maps.google.com/?cid=12043938601415020096&hl=ja
+    address: 福島県田村市滝根町菅谷字馬場168番地
+    price: 500
+    lat: 37.3550356
+    lng: 140.6613147
+    type: 温泉
+-
+    id: 116
+    name: スーパー銭湯 遊湯ランド
+    url: https://www.facebook.com/pages/%E9%81%8A%E6%B9%AF%E3%83%A9%E3%83%B3%E3%83%89/149422868423377
+    map: https://maps.google.com/?cid=11899516282417419229&hl=ja
+    address: 福島県郡山市桑野1-24-20
+    price: 600
+    lat: 37.400906
+    lng: 140.3523327
+    type: 温泉
+-
+    id: 117
+    name: 癒の刻(白河店)
+    url: http://www.iwaki-group.co.jp
+    map: https://maps.google.com/?cid=6038898947542941360&hl=ja
+    address: 福島県白河市米村道北8-6
+    price: 550
+    lat: 37.1334241
+    lng: 140.2005856
+    type: 温泉
+-
+    id: 118
+    name: 田村市 船引総合福祉センター
+    url: http://www.city.tamura.lg.jp/soshiki/13/f-center-info.html
+    map: https://maps.google.com/?cid=9045104010849225864&hl=ja
+    address: 福島県田村市船引町船引石田151
+    price: 300
+    lat: 37.4350992
+    lng: 140.5660982
+    type: 共同浴場・銭湯
+-
+    id: 119
+    name: 天然温泉 つるしの湯
+    url: https://www.hotelgradoshinchi.com/tsurushinoyu
+    map: https://maps.google.com/?cid=14743398754108324498&hl=ja
+    address: 福島県相馬郡新地町谷地小屋舛形121
+    price: 800
+    lat: 37.8795397
+    lng: 140.9258862
+    type: 温泉
+-
+    id: 120
+    name: 城前温泉
+    url: 
+    map: https://maps.google.com/?cid=4381993027262588218&hl=ja
+    address: 福島県会津若松市城前1-50
+    price: 450
+    lat: 37.4899786
+    lng: 139.9356496
+    type: 銭湯
+-
+    id: 121
+    name: 中の湯
+    url: 
+    map: https://maps.google.com/?cid=12173671457583896454&hl=ja
+    address: 福島県会津若松市材木町2-6-14
+    price: 450
+    lat: 37.4852967
+    lng: 139.9099053
+    type: 銭湯
+-
+    id: 122
+    name: 二本松健康クラブ
+    url: 
+    map: https://maps.google.com/?cid=12111277281071075269&hl=ja
+    address: 福島県二本松市若宮2-161-6
+    price: 500
+    lat: 37.5880868
+    lng: 140.4293019
+    type: 銭湯
+-
+    id: 123
+    name: 旭湯
+    url: 
+    map: https://maps.google.com/maps?q=37.394012,140.38443
+    address: 福島県郡山市本町1-15-3
+    price: 400
+    lat: 37.3940082
+    lng: 140.3844419
+    type: 銭湯
+-
+    id: 124
+    name: 藤の湯
+    url: 
+    map: https://maps.google.com/maps?q=37.664814,140.595334
+    address: 福島県伊達郡川俣町鶴沢字京田38-16
+    price: 400
+    lat: 37.6647757
+    lng: 140.595338
+    type: 銭湯

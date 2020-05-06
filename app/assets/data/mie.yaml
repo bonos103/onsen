@@ -1,0 +1,731 @@
+---
+-
+    id: 1
+    name: 長島温泉 湯あみの島
+    url: https://www.nagashima-onsen.co.jp/yuami/index.html
+    map: https://maps.google.com/?cid=13056952398930136422&hl=ja
+    address: 三重県桑名市長島町浦安333
+    price: 2100
+    lat: 35.0282864
+    lng: 136.7309671
+    type: 温泉
+-
+    id: 2
+    name: 鈴鹿天然温泉 花しょうぶ
+    url: http://www.hanashobu.com/
+    map: https://maps.google.com/?cid=493958589198197061&hl=ja
+    address: 三重県鈴鹿市庄野羽山4-20-3
+    price: 720
+    lat: 34.8719438
+    lng: 136.5289367
+    type: 温泉
+-
+    id: 3
+    name: 伊勢・船江温泉 みたすの湯
+    url: http://mts-ise.com/yu/
+    map: https://maps.google.com/?cid=5853610021309443951&hl=ja
+    address: 三重県伊勢市船江1-471-3
+    price: 600
+    lat: 34.5007383
+    lng: 136.7134051
+    type: 温泉
+-
+    id: 4
+    name: 四日市温泉 おふろcafé 湯守座
+    url: https://ofurocafe-yumoriza.com/
+    map: https://maps.google.com/?cid=1690179955051284048&hl=ja
+    address: 三重県四日市市生桑町311
+    price: 1400
+    lat: 34.9871595
+    lng: 136.6021524
+    type: 温泉
+-
+    id: 5
+    name: 三滝温泉 満殿の湯
+    url: http://www.mantennoyu.net/
+    map: https://maps.google.com/?cid=7538403724623993616&hl=ja
+    address: 三重県四日市市末永町6-6
+    price: 600
+    lat: 34.9750381
+    lng: 136.6201627
+    type: 温泉
+-
+    id: 6
+    name: 大山田温泉 さるびの
+    url: https://www.sarubino.com
+    map: https://maps.google.com/?cid=9862926324735185120&hl=ja
+    address: 三重県伊賀市上阿波2953
+    price: 800
+    lat: 34.7784809
+    lng: 136.2822948
+    type: 温泉
+-
+    id: 7
+    name: 癒しの里 名張の湯
+    url: https://www.nabarinoyu.com/
+    map: https://maps.google.com/?cid=16080649003324779587&hl=ja
+    address: 三重県名張市希央台2番町77-1
+    price: 800
+    lat: 34.626877
+    lng: 136.0994536
+    type: 温泉
+-
+    id: 8
+    name: 島ヶ原温泉 やぶっちゃの湯
+    url: http://www.yabutcha.com/
+    map: https://maps.google.com/?cid=5683806082608482859&hl=ja
+    address: 三重県伊賀市島ケ原13680
+    price: 700
+    lat: 34.7747173
+    lng: 136.0670143
+    type: 温泉
+-
+    id: 9
+    name: 極楽湯(津店)
+    url: https://www.gokurakuyu.ne.jp/tempo/tsu/
+    map: https://maps.google.com/?cid=14131022243377776897&hl=ja
+    address: 三重県津市白塚町鎌田3678
+    price: 730
+    lat: 34.7665235
+    lng: 136.5284119
+    type: 温泉
+-
+    id: 10
+    name: 松阪温泉 熊野の郷
+    url: https://www.kumano-no-sato.com/matsusaka/index.html
+    map: https://maps.google.com/?cid=1312342045963639991&hl=ja
+    address: 三重県松阪市中万町2074-1
+    price: 700
+    lat: 34.5191832
+    lng: 136.5433838
+    type: 温泉
+-
+    id: 11
+    name: 汐湯おかげ風呂舘 旭湯
+    url: http://ise-asahiyu.com/
+    map: https://maps.google.com/?cid=1084855602335961937&hl=ja
+    address: 三重県伊勢市神久1-1-16
+    price: 400
+    lat: 34.4919551
+    lng: 136.7167654
+    type: 銭湯
+-
+    id: 12
+    name: 癒しの里 伊賀の湯
+    url: https://www.iganoyu.com/
+    map: https://maps.google.com/?cid=7187630890982738023&hl=ja
+    address: 三重県伊賀市久米町687-1
+    price: 800
+    lat: 34.7549927
+    lng: 136.1333122
+    type: 温泉
+-
+    id: 13
+    name: 阿下喜温泉 あじさいの里
+    url: http://ajisainosato.com/
+    map: https://maps.google.com/?cid=4735714435046813980&hl=ja
+    address: 三重県いなべ市北勢町阿下喜788
+    price: 550
+    lat: 35.147481
+    lng: 136.5170893
+    type: 温泉
+-
+    id: 14
+    name: 一乃湯
+    url: https://www.miesento.com/ichinoyu
+    map: https://maps.google.com/?cid=16678642268939690426&hl=ja
+    address: 三重県伊賀市上野西日南町1762
+    price: 400
+    lat: 34.7618361
+    lng: 136.1295903
+    type: 銭湯
+-
+    id: 15
+    name: 猪の倉温泉 しらさぎ苑
+    url: https://www.inokuraonsen.jp/shirasagi/
+    map: https://maps.google.com/?cid=7044865703703214907&hl=ja
+    address: 三重県津市白山町佐田2643
+    price: 550
+    lat: 34.6838598
+    lng: 136.3356696
+    type: 温泉
+-
+    id: 16
+    name: ユーユー・カイカン
+    url: https://kaikan.yuyu.ne.jp/
+    map: https://maps.google.com/?cid=18317279804022020105&hl=ja
+    address: 三重県四日市市智積町3359
+    price: 1740
+    lat: 34.9863157
+    lng: 136.5440686
+    type: 温泉
+-
+    id: 17
+    name: 天然温泉ジャブ
+    url: http://www.jab53.com/
+    map: https://maps.google.com/?cid=3447290750763918573&hl=ja
+    address: 三重県四日市市波木町1077-73
+    price: 650
+    lat: 34.9402827
+    lng: 136.5667643
+    type: 温泉
+-
+    id: 18
+    name: 野天もくもくの湯
+    url: http://www.moku-moku.com/farm/onsen.html
+    map: https://maps.google.com/?cid=18212555575118340317&hl=ja
+    address: 三重県伊賀市西湯舟3609
+    price: 750
+    lat: 34.85632349999999
+    lng: 136.1851969
+    type: 温泉
+-
+    id: 19
+    name: アソビックス あさひの湯
+    url: https://asobix-asahi.jp/asahinoyu
+    map: https://maps.google.com/?cid=13902653311049403009&hl=ja
+    address: 三重県三重郡朝日町小向181
+    price: 680
+    lat: 35.0307756
+    lng: 136.6727974
+    type: 温泉
+-
+    id: 20
+    name: 香肌峡温泉 いいたかの湯
+    url: https://www.iitakaeki.com/
+    map: https://maps.google.com/?cid=11069059883089942481&hl=ja
+    address: 三重県松阪市飯高町宮前177
+    price: 660
+    lat: 34.4274355
+    lng: 136.3322726
+    type: 温泉
+-
+    id: 21
+    name: 天然温泉 ロックの湯
+    url: 
+    map: https://maps.google.com/?cid=14756600881771972424&hl=ja
+    address: 三重県鈴鹿市三日市町1531
+    price: 550
+    lat: 34.8743932
+    lng: 136.5549343
+    type: 温泉
+-
+    id: 22
+    name: スーパー銭湯 鈴の湯
+    url: http://www.suzunoyu.com/
+    map: https://maps.google.com/?cid=18385076250076578688&hl=ja
+    address: 三重県松阪市田村町235-1
+    price: 650
+    lat: 34.555594
+    lng: 136.5118999
+    type: 温泉
+-
+    id: 23
+    name: 常磐湯
+    url: https://www.miesento.com/tokiwayu
+    map: https://maps.google.com/?cid=9152877276975898224&hl=ja
+    address: 三重県伊勢市常磐2-9-21
+    price: 400
+    lat: 34.4933009
+    lng: 136.6964938
+    type: 銭湯
+-
+    id: 24
+    name: なばなの里 里の湯
+    url: https://www.nagashima-onsen.co.jp/nabana/spa/index.html
+    map: https://maps.google.com/?cid=8672630140298380291&hl=ja
+    address: 三重県桑名市長島町駒江漆畑270
+    price: 1500
+    lat: 35.0816637
+    lng: 136.7028943
+    type: 温泉
+-
+    id: 25
+    name: 星川温泉 ほしの湯
+    url: http://www.hoshinoyu.net/
+    map: https://maps.google.com/?cid=15740773240666806848&hl=ja
+    address: 三重県桑名市星川719
+    price: 650
+    lat: 35.0688785
+    lng: 136.6277751
+    type: 温泉
+-
+    id: 26
+    name: 桑名天然温泉 元気村
+    url: https://ameblo.jp/kuwanaonsen/
+    map: https://maps.google.com/?cid=6295296804375295183&hl=ja
+    address: 三重県桑名市福岡町471-1
+    price: 560
+    lat: 35.0240935
+    lng: 136.7081952
+    type: 温泉
+-
+    id: 27
+    name: 長島スポーツランド クアハウス長島
+    url: http://www.naspo.jp/kurhaus/
+    map: https://maps.google.com/?cid=6299995307900650011&hl=ja
+    address: 三重県桑名市長島町福吉879-5
+    price: 950
+    lat: 35.0557083
+    lng: 136.7240908
+    type: 温泉
+-
+    id: 28
+    name: きいながしま 古里温泉
+    url: https://www.town.mie-kihoku.lg.jp/kanko_rekishi/yado/1363.html
+    map: https://maps.google.com/?cid=10927664165071160208&hl=ja
+    address: 三重県北牟婁郡紀北町紀伊長島区古里816
+    price: 520
+    lat: 34.1834869
+    lng: 136.3081055
+    type: 温泉
+-
+    id: 29
+    name: 鈴鹿サーキット クア・ガーデン
+    url: https://www.suzukacircuit.jp/kurgarden_s/
+    map: https://maps.google.com/?cid=13294343429230072874&hl=ja
+    address: 三重県鈴鹿市稲生町7992
+    price: 1150
+    lat: 34.8489817
+    lng: 136.5426682
+    type: 温泉
+-
+    id: 30
+    name: 鈴鹿さつき温泉
+    url: https://ja-suzuka.or.jp/spa/
+    map: https://maps.google.com/?cid=10374564267255212825&hl=ja
+    address: 三重県鈴鹿市津賀町850-2
+    price: 550
+    lat: 34.8890633
+    lng: 136.5182551
+    type: 温泉
+-
+    id: 31
+    name: 天然温泉 多気の湯
+    url: http://www.taki-yu.com/
+    map: https://maps.google.com/?cid=5043445510084746821&hl=ja
+    address: 三重県多気郡多気町西山672-3
+    price: 780
+    lat: 34.4941327
+    lng: 136.5512476
+    type: 温泉
+-
+    id: 32
+    name: 住吉湯
+    url: https://www.miesento.com/sumiyoshiyu
+    map: https://maps.google.com/?cid=15845157371687437031&hl=ja
+    address: 三重県四日市市西新地15-17
+    price: 400
+    lat: 34.9702266
+    lng: 136.62199
+    type: 銭湯
+-
+    id: 33
+    name: 阿曽湯の里 阿曽温泉
+    url: http://www.town.taiki.mie.jp/culture/midokoroguide/osusumespot/asoyu
+    map: https://maps.google.com/?cid=10477612425749663282&hl=ja
+    address: 三重県度会郡大紀町阿曽429
+    price: 500
+    lat: 34.3386077
+    lng: 136.4090583
+    type: 温泉
+-
+    id: 34
+    name: すえひろ湯
+    url: https://www.miesento.com/suehiroyu
+    map: https://maps.google.com/?cid=14516993242025295011&hl=ja
+    address: 三重県津市幸町16-18
+    price: 400
+    lat: 34.7078715
+    lng: 136.5067536
+    type: 銭湯
+-
+    id: 35
+    name: 温泉保養館 湯の瀬
+    url: http://www.sakakibaraonsen.gr.jp/oyado/yunose.html
+    map: https://maps.google.com/?cid=12567052891444254757&hl=ja
+    address: 三重県津市榊原町6101
+    price: 550
+    lat: 34.7028373
+    lng: 136.375194
+    type: 温泉
+-
+    id: 36
+    name: 玉の湯
+    url: https://www.miesento.com/tamanoyu
+    map: https://maps.google.com/?cid=7400113112808117773&hl=ja
+    address: 三重県四日市市中部4-3
+    price: 400
+    lat: 34.9681227
+    lng: 136.6250447
+    type: 銭湯
+-
+    id: 37
+    name: 三休の湯
+    url: http://33thank-you.com/
+    map: https://maps.google.com/?cid=9756193890884343502&hl=ja
+    address: 三重県三重郡菰野町千草7163
+    price: 600
+    lat: 35.0446217
+    lng: 136.4392228
+    type: 温泉
+-
+    id: 38
+    name: 錦水湯
+    url: https://www.miesento.com/kinsuiyu
+    map: https://maps.google.com/?cid=18301378787766499861&hl=ja
+    address: 三重県伊勢市岩渕3-6-39
+    price: 400
+    lat: 34.4867207
+    lng: 136.7163689
+    type: 銭湯
+-
+    id: 39
+    name: 安濃交流会館 あのう温泉
+    url: https://www.info.city.tsu.mie.jp/www/contents/1001000011907/index.html
+    map: https://maps.google.com/?cid=12699388688592340107&hl=ja
+    address: 三重県津市安濃町東観音寺51-3
+    price: 300
+    lat: 34.7592244
+    lng: 136.4454156
+    type: 温泉
+-
+    id: 40
+    name: 伊勢志摩温泉 志摩スペイン村 ひまわりの湯
+    url: https://www.parque-net.com/himawari/
+    map: https://maps.google.com/?cid=9516702870850891688&hl=ja
+    address: 三重県志摩市磯部町坂崎
+    price: 1200
+    lat: 34.35560340000001
+    lng: 136.839816
+    type: 温泉
+-
+    id: 41
+    name: 四日市温泉
+    url: https://www.miesento.com/yokkaichionsen
+    map: https://maps.google.com/?cid=10515340873007147033&hl=ja
+    address: 三重県四日市市本町7-10
+    price: 400
+    lat: 34.9648711
+    lng: 136.6303037
+    type: 銭湯
+-
+    id: 42
+    name: 一志温泉 やすらぎの湯
+    url: https://www.info.city.tsu.mie.jp/www/contents/1001000012002/index.html
+    map: https://maps.google.com/?cid=3644808126745018044&hl=ja
+    address: 三重県津市一志町井関1792
+    price: 550
+    lat: 34.6554116
+    lng: 136.4208477
+    type: 温泉
+-
+    id: 43
+    name: アスピア玉城 ふれあいの館
+    url: http://www.town.tamaki.mie.jp/tamnet/sankan/asupia/fureai/
+    map: https://maps.google.com/?cid=2290058643236260697&hl=ja
+    address: 三重県度会郡玉城町原4266
+    price: 500
+    lat: 34.4678875
+    lng: 136.5879656
+    type: 温泉
+-
+    id: 44
+    name: 敷島湯
+    url: https://www.miesento.com/shikishimayu
+    map: https://maps.google.com/?cid=10621302279862373882&hl=ja
+    address: 三重県津市乙部23-20
+    price: 400
+    lat: 34.7188751
+    lng: 136.5178978
+    type: 銭湯
+-
+    id: 45
+    name: 楠温泉
+    url: https://www.miesento.com/kusuonsen
+    map: https://maps.google.com/?cid=10998225010572247523&hl=ja
+    address: 三重県四日市市楠町南五味塚1308
+    price: 400
+    lat: 34.9078131
+    lng: 136.6317693
+    type: 銭湯
+-
+    id: 46
+    name: 井筒湯
+    url: https://www.miesento.com/izutsuyu
+    map: https://maps.google.com/?cid=15419475362535810987&hl=ja
+    address: 三重県伊勢市曽弥1-10-11
+    price: 400
+    lat: 34.4944553
+    lng: 136.7005601
+    type: 銭湯
+-
+    id: 47
+    name: 保健福祉センターけやき せせらぎの湯
+    url: 
+    map: https://maps.google.com/?cid=8364159418067330896&hl=ja
+    address: 三重県三重郡菰野町潤田1281
+    price: 0
+    lat: 35.0200306
+    lng: 136.5061524
+    type: 共同浴場・銭湯
+-
+    id: 48
+    name: 内山温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=9233556771305532637&hl=ja
+    address: 三重県四日市市内山町
+    price: 300
+    lat: 34.9639237
+    lng: 136.5415394
+    type: 共同浴場・銭湯
+-
+    id: 49
+    name: サンドセラピー砂羽
+    url: http://www.sunaburo.jp/
+    map: https://maps.google.com/?cid=13607660271619271823&hl=ja
+    address: 三重県津市榊原町1354-3
+    price: 2700
+    lat: 34.7067958
+    lng: 136.3757039
+    type: 温泉
+-
+    id: 50
+    name: 総合保健福祉センター 白鳥の湯
+    url: http://www.city.kameyama.mie.jp/shisetsu/2014112310887/shiratori.html
+    map: https://maps.google.com/?cid=11579151756804851482&hl=ja
+    address: 三重県亀山市羽若町545
+    price: 300
+    lat: 34.8652211
+    lng: 136.4506459
+    type: 温泉
+-
+    id: 51
+    name: 七里のわたしゆ
+    url: https://www.miesento.com/shichirinowatashiyu
+    map: https://maps.google.com/?cid=17149995982752354512&hl=ja
+    address: 三重県桑名市船馬町26
+    price: 400
+    lat: 35.0687209
+    lng: 136.6950473
+    type: 銭湯
+-
+    id: 52
+    name: 小俣保健センター 離宮の湯
+    url: https://www.city.ise.mie.jp/2416.htm
+    map: https://maps.google.com/?cid=13925322592151096638&hl=ja
+    address: 三重県伊勢市小俣町元町536
+    price: 400
+    lat: 34.5077483
+    lng: 136.6751623
+    type: 温泉
+-
+    id: 53
+    name: 松ヶ島共同浴場
+    url: 
+    map: https://maps.google.com/?cid=1160366330912897516&hl=ja
+    address: 三重県桑名市長島町十日外面349
+    price: 150
+    lat: 35.083926
+    lng: 136.7003248
+    type: 共同浴場・銭湯
+-
+    id: 54
+    name: 京町共同浴場
+    url: 
+    map: https://maps.google.com/?cid=16244542237885834516&hl=ja
+    address: 三重県松阪市京町24
+    price: 200
+    lat: 34.57325489999999
+    lng: 136.5351663
+    type: 共同浴場・銭湯
+-
+    id: 55
+    name: 小山田温泉 地域交流ホーム
+    url: https://seizanrikai.jp/peer/
+    map: https://maps.google.com/?cid=3349270258781975990&hl=ja
+    address: 三重県四日市市山田町5500-1
+    price: 500
+    lat: 34.9465902
+    lng: 136.5284853
+    type: 温泉
+-
+    id: 56
+    name: レークサイド君ケ野
+    url: 
+    map: https://maps.google.com/?cid=7395929382322356096&hl=ja
+    address: 三重県津市美杉町八手俣169-2
+    price: 200
+    lat: 34.5948516
+    lng: 136.3131931
+    type: 温泉
+-
+    id: 57
+    name: 浜島地域福祉センター さくら苑
+    url: https://shima-fukushikyo.or.jp/CCP014.html
+    map: https://maps.google.com/?cid=7536048974654569064&hl=ja
+    address: 三重県志摩市浜島町檜山路3
+    price: 350
+    lat: 34.3147208
+    lng: 136.7577505
+    type: 温泉
+-
+    id: 58
+    name: 霊泉湯
+    url: https://www.miesento.com/reisenyu
+    map: https://maps.google.com/?cid=17291614793534164385&hl=ja
+    address: 三重県伊勢市河崎1-7-2
+    price: 400
+    lat: 34.4948002
+    lng: 136.7120082
+    type: 銭湯
+-
+    id: 59
+    name: 伊賀市営共同浴場 しろなみ湯
+    url: 
+    map: https://maps.google.com/?cid=3979984430928108614&hl=ja
+    address: 三重県伊賀市八幡町1982-1
+    price: 200
+    lat: 34.7555998
+    lng: 136.1248801
+    type: 共同浴場・銭湯
+-
+    id: 60
+    name: 春日温泉
+    url: https://www.miesento.com/kasugaonsen
+    map: https://maps.google.com/?cid=16699325367088505677&hl=ja
+    address: 三重県松阪市春日町3-80
+    price: 400
+    lat: 34.5638154
+    lng: 136.5351789
+    type: 銭湯
+-
+    id: 61
+    name: 夢古道おわせ
+    url: http://yumekodo.jp/
+    map: https://maps.google.com/?cid=3175123998819026792&hl=ja
+    address: 三重県尾鷲市向井12-4
+    price: 600
+    lat: 34.061678
+    lng: 136.2146062
+    type: 温泉
+-
+    id: 62
+    name: 碁石の里 共同浴場 神川温泉
+    url: 
+    map: https://maps.google.com/?cid=4051628012933600293&hl=ja
+    address: 三重県熊野市神川町神上214
+    price: 400
+    lat: 33.9513483
+    lng: 136.0029814
+    type: 共同浴場・銭湯
+-
+    id: 63
+    name: 深谷共同浴場 さざれ湯
+    url: 
+    map: https://maps.google.com/maps?q=35.097184,136.669006
+    address: 三重県桑名市下深谷部4735
+    price: 230
+    lat: 35.0977055
+    lng: 136.6584643
+    type: 共同浴場・銭湯
+-
+    id: 64
+    name: 津市共同浴場 さくらゆ
+    url: https://www.info.city.tsu.mie.jp/www/contents/1001000007500/index.html
+    map: https://maps.google.com/maps?q=34.724895,136.514679
+    address: 三重県津市相生町192
+    price: 200
+    lat: 34.7248784
+    lng: 136.514658
+    type: 共同浴場・銭湯
+-
+    id: 65
+    name: みはま湯
+    url: https://www.miesento.com/kumano-mihamayu
+    map: https://maps.google.com/?cid=8277749027258835581&hl=ja
+    address: 三重県熊野市木本町258
+    price: 400
+    lat: 33.8896832
+    lng: 136.1024825
+    type: 銭湯
+-
+    id: 66
+    name: ゑびす湯
+    url: https://www.miesento.com/ebisuyu
+    map: https://maps.google.com/?cid=1217020513074281244&hl=ja
+    address: 三重県松阪市猟師町141
+    price: 400
+    lat: 34.6034129
+    lng: 136.5392845
+    type: 銭湯
+-
+    id: 67
+    name: ひょうたん湯
+    url: https://www.miesento.com/hyotanyu
+    map: https://maps.google.com/?cid=2983438623578756746&hl=ja
+    address: 三重県松阪市中町1925-2
+    price: 400
+    lat: 34.5769888
+    lng: 136.5319114
+    type: 銭湯
+-
+    id: 68
+    name: 国分湯
+    url: https://www.miesento.com/kokubuyu
+    map: https://maps.google.com/?cid=16305367596162806689&hl=ja
+    address: 三重県津市南中央26-5
+    price: 400
+    lat: 34.70678729999999
+    lng: 136.5106778
+    type: 銭湯
+-
+    id: 69
+    name: 新町温泉
+    url: https://www.miesento.com/shinmachionsen
+    map: https://maps.google.com/?cid=1986325252291403329&hl=ja
+    address: 三重県名張市新町221
+    price: 400
+    lat: 34.6193265
+    lng: 136.0859618
+    type: 銭湯
+-
+    id: 70
+    name: 池澤湯
+    url: https://www.miesento.com/ichinoyu
+    map: https://maps.google.com/?cid=15109115224759453685&hl=ja
+    address: 三重県伊賀市上野愛宕町2892-4
+    price: 400
+    lat: 34.759331
+    lng: 136.130587
+    type: 銭湯
+-
+    id: 71
+    name: 花岡温泉
+    url: https://www.miesento.com/hanaokaonsen
+    map: https://maps.google.com/?cid=9411057127667363465&hl=ja
+    address: 三重県松阪市大黒田町835-3
+    price: 400
+    lat: 34.560377
+    lng: 136.5187113
+    type: 銭湯
+-
+    id: 72
+    name: さくら湯
+    url: https://www.miesento.com/sakurayu
+    map: https://maps.google.com/maps?q=34.757717,136.528692
+    address: 三重県津市白塚町5114
+    price: 400
+    lat: 34.7577332
+    lng: 136.5287298
+    type: 銭湯
+-
+    id: 73
+    name: 新生湯
+    url: http://www.zd.ztv.ne.jp/sentou-mie/sinseiyu.html
+    map: https://maps.google.com/maps?q=34.075143,136.198842
+    address: 三重県尾鷲市港町10-11
+    price: 400
+    lat: 34.0751535
+    lng: 136.1988206
+    type: 銭湯

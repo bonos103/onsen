@@ -1,0 +1,651 @@
+---
+-
+    id: 1
+    name: 奈良健康ランド
+    url: https://www.narakenkoland.net/
+    map: https://maps.google.com/?cid=12262873566583177985&hl=ja
+    address: 奈良県天理市嘉幡町600-1
+    price: 1500
+    lat: 34.5921444
+    lng: 135.7960972
+    type: 温泉
+-
+    id: 2
+    name: 曽爾高原温泉 お亀の湯
+    url: http://www.soni-kogen.com/hotspring/
+    map: https://maps.google.com/?cid=13732403578055562785&hl=ja
+    address: 奈良県宇陀郡曽爾村太良路830
+    price: 650
+    lat: 34.5184297
+    lng: 136.1541748
+    type: 温泉
+-
+    id: 3
+    name: ゆららの湯(奈良店)
+    url: https://www.yuraranoyu.jp/nara.html
+    map: https://maps.google.com/?cid=14002669164782789549&hl=ja
+    address: 奈良県奈良市八条5-351-1
+    price: 720
+    lat: 34.6697165
+    lng: 135.8022337
+    type: 温泉
+-
+    id: 4
+    name: 天然温泉 かもきみの湯
+    url: http://www.kamokiminoyu.net/
+    map: https://maps.google.com/?cid=11303199740505285071&hl=ja
+    address: 奈良県御所市五百家333
+    price: 600
+    lat: 34.4125773
+    lng: 135.7163518
+    type: 温泉
+-
+    id: 5
+    name: 天然温泉 虹の湯(西大和店)
+    url: http://nijinoyu.jp/nishiyamato/
+    map: https://maps.google.com/?cid=14436443011604958247&hl=ja
+    address: 奈良県北葛城郡上牧町上牧3237
+    price: 750
+    lat: 34.5577684
+    lng: 135.7165737
+    type: 温泉
+-
+    id: 6
+    name: 天然温泉 音の花温泉
+    url: http://nenohana.com/
+    map: https://maps.google.com/?cid=15659572054405139673&hl=ja
+    address: 奈良県生駒市小平尾町1008-12
+    price: 800
+    lat: 34.64890949999999
+    lng: 135.7057365
+    type: 温泉
+-
+    id: 7
+    name: ゆららの湯(押熊店)
+    url: https://www.yuraranoyu.jp/oshikuma.html
+    map: https://maps.google.com/?cid=15884115726951187362&hl=ja
+    address: 奈良県奈良市押熊町2147-1
+    price: 750
+    lat: 34.7181086
+    lng: 135.7655127
+    type: 温泉
+-
+    id: 8
+    name: あすかの湯
+    url: http://www.asukanoyu.com/
+    map: https://maps.google.com/?cid=1268836628036638946&hl=ja
+    address: 奈良県橿原市醍醐町375
+    price: 700
+    lat: 34.508029
+    lng: 135.81055
+    type: 温泉
+-
+    id: 9
+    name: 敷島湯
+    url: https://shikishima-onsen.jimdo.com/
+    map: https://maps.google.com/?cid=13680928801692180508&hl=ja
+    address: 奈良県奈良市三条細川町554
+    price: 440
+    lat: 34.6808755
+    lng: 135.8231341
+    type: 銭湯
+-
+    id: 10
+    name: 梅の郷 月ヶ瀬温泉
+    url: http://tsukigaseonsen.com/
+    map: https://maps.google.com/?cid=6306586921794114447&hl=ja
+    address: 奈良県奈良市月ヶ瀬尾山2681
+    price: 700
+    lat: 34.7140526
+    lng: 136.0463853
+    type: 温泉
+-
+    id: 11
+    name: 洞川温泉センター
+    url: http://www.dorogawaonsen.jp/sightseeing/127/
+    map: https://maps.google.com/?cid=2284732067626374517&hl=ja
+    address: 奈良県吉野郡天川村洞川13-1
+    price: 700
+    lat: 34.2644458
+    lng: 135.87719
+    type: 温泉
+-
+    id: 12
+    name: ほてい湯
+    url: http://hoteiyu.iiyudana.net/
+    map: https://maps.google.com/?cid=677930268197585388&hl=ja
+    address: 奈良県奈良市肘塚町7
+    price: 440
+    lat: 34.6709811
+    lng: 135.8294829
+    type: 銭湯
+-
+    id: 13
+    name: 橿原ぽかぽか温泉
+    url: http://www.souyu.co.jp/kashihara/
+    map: https://maps.google.com/?cid=10189664496866250909&hl=ja
+    address: 奈良県橿原市新堂町210-1
+    price: 700
+    lat: 34.5010419
+    lng: 135.7616503
+    type: 温泉
+-
+    id: 14
+    name: 大宇陀温泉 あきののゆ
+    url: http://akinonoyu.com/
+    map: https://maps.google.com/?cid=13267928561576717759&hl=ja
+    address: 奈良県宇陀市大宇陀区拾生250-2
+    price: 750
+    lat: 34.471975
+    lng: 135.928051
+    type: 温泉
+-
+    id: 15
+    name: 下北山温泉 きなりの湯
+    url: https://www.kinarinosato.net
+    map: https://maps.google.com/?cid=10340524903175318733&hl=ja
+    address: 奈良県吉野郡下北山村上池原282
+    price: 650
+    lat: 34.0464865
+    lng: 135.9624327
+    type: 温泉
+-
+    id: 16
+    name: 極楽湯(奈良店)
+    url: https://www.gokurakuyu.ne.jp/tempo/nara/
+    map: https://maps.google.com/?cid=4365639279238580086&hl=ja
+    address: 奈良県奈良市大安寺町510
+    price: 450
+    lat: 34.67436989999999
+    lng: 135.8012105
+    type: 温泉
+-
+    id: 17
+    name: 天の川温泉 天の川温泉センター
+    url: http://yamatoonsen.com/tennokawa/
+    map: https://maps.google.com/?cid=7273436659117640363&hl=ja
+    address: 奈良県吉野郡天川村坪内232
+    price: 700
+    lat: 34.2223306
+    lng: 135.8397842
+    type: 温泉
+-
+    id: 18
+    name: 湯泉地温泉 滝の湯
+    url: http://totsukawa.info/joho/totsukawa_onsen_gou/
+    map: https://maps.google.com/?cid=18370271093157594334&hl=ja
+    address: 奈良県吉野郡十津川村小原373-1
+    price: 600
+    lat: 33.9786566
+    lng: 135.792392
+    type: 温泉
+-
+    id: 19
+    name: 朝日温泉
+    url: http://www.asahionsen.com/
+    map: https://maps.google.com/?cid=14296133737971336578&hl=ja
+    address: 奈良県奈良市京終地方東側町20
+    price: 440
+    lat: 34.6720773
+    lng: 135.8269345
+    type: 銭湯
+-
+    id: 20
+    name: 花園新温泉
+    url: 
+    map: https://maps.google.com/?cid=2458071637082928005&hl=ja
+    address: 奈良県奈良市花園町13
+    price: 440
+    lat: 34.6747624
+    lng: 135.8292669
+    type: 銭湯
+-
+    id: 21
+    name: パレス温泉
+    url: 
+    map: https://maps.google.com/?cid=7814298653487275440&hl=ja
+    address: 奈良県生駒市本町10-12
+    price: 440
+    lat: 34.6910554
+    lng: 135.6958816
+    type: 銭湯
+-
+    id: 22
+    name: 大西湯
+    url: 
+    map: https://maps.google.com/?cid=11703659510460390204&hl=ja
+    address: 奈良県奈良市中筋町18
+    price: 440
+    lat: 34.6851638
+    lng: 135.8283584
+    type: 銭湯
+-
+    id: 23
+    name: 十津川温泉 庵の湯
+    url: http://totsukawa.info/joho/totsukawa_onsen_gou/2totsukawa_onsen.html
+    map: https://maps.google.com/?cid=12269977156053859259&hl=ja
+    address: 奈良県吉野郡十津川村平谷865
+    price: 500
+    lat: 33.9431492
+    lng: 135.7734261
+    type: 温泉
+-
+    id: 24
+    name: はり温泉ランド
+    url: https://hari1126.com/
+    map: https://maps.google.com/?cid=5124492293805726183&hl=ja
+    address: 奈良県奈良市針町361
+    price: 800
+    lat: 34.6092289
+    lng: 135.9634488
+    type: 温泉
+-
+    id: 25
+    name: 湯泉地温泉 公衆浴場 泉湯
+    url: http://totsukawa.info/joho/totsukawa_onsen_gou/
+    map: https://maps.google.com/?cid=3520152136961124463&hl=ja
+    address: 奈良県吉野郡十津川村武蔵28-4
+    price: 500
+    lat: 33.990523
+    lng: 135.8137377
+    type: 共同浴場・銭湯
+-
+    id: 26
+    name: みつえ温泉 姫石の湯
+    url: http://vill.mitsue.nara.jp/kanko/himeshi/index.html
+    map: https://maps.google.com/?cid=34925781838457287&hl=ja
+    address: 奈良県宇陀郡御杖村神末6330
+    price: 700
+    lat: 34.5151189
+    lng: 136.2005152
+    type: 温泉
+-
+    id: 27
+    name: 東吉野温泉 やはた温泉
+    url: http://www5.kcn.ne.jp/~furusato/yahata_onsen.html
+    map: https://maps.google.com/?cid=17966414032430813348&hl=ja
+    address: 奈良県吉野郡東吉野村大豆生720-2
+    price: 500
+    lat: 34.3757448
+    lng: 136.0198709
+    type: 温泉
+-
+    id: 28
+    name: 下市温泉 秋津荘 明水館
+    url: https://www.town.shimoichi.lg.jp/0000000302.html
+    map: https://maps.google.com/?cid=3424247198974158066&hl=ja
+    address: 奈良県吉野郡下市町よ邑2189
+    price: 500
+    lat: 34.3524144
+    lng: 135.8080357
+    type: 温泉
+-
+    id: 29
+    name: 上北山温泉 薬師湯
+    url: http://vill.kamikitayama.nara.jp/kanko/tomaru/onsen/
+    map: https://maps.google.com/?cid=4029514223069177840&hl=ja
+    address: 奈良県吉野郡上北山村河合553-2
+    price: 500
+    lat: 34.1389821
+    lng: 136.0006745
+    type: 温泉
+-
+    id: 30
+    name: 天川薬湯センター みずはの湯
+    url: http://yamatoonsen.com/mizuhanoyu/
+    map: https://maps.google.com/?cid=8032495059949637241&hl=ja
+    address: 奈良県吉野郡天川村山西298
+    price: 700
+    lat: 34.1947385
+    lng: 135.7768601
+    type: 温泉
+-
+    id: 31
+    name: 栄温泉
+    url: 
+    map: https://maps.google.com/?cid=11376580577655846886&hl=ja
+    address: 奈良県橿原市久米町826
+    price: 440
+    lat: 34.4854823
+    lng: 135.7931516
+    type: 銭湯
+-
+    id: 32
+    name: ふれあい交流館 夢乃湯
+    url: http://www.ootou.jp/fureai.html
+    map: https://maps.google.com/?cid=5433618782839468176&hl=ja
+    address: 奈良県五條市大塔町宇井94
+    price: 600
+    lat: 34.1512128
+    lng: 135.7453832
+    type: 温泉
+-
+    id: 33
+    name: 北山峡 小処温泉
+    url: http://vill.kamikitayama.nara.jp/kanko/tomaru/onsen/
+    map: https://maps.google.com/?cid=3131971803065790383&hl=ja
+    address: 奈良県吉野郡上北山村小橡665
+    price: 700
+    lat: 34.1795569
+    lng: 136.0312433
+    type: 温泉
+-
+    id: 34
+    name: 大門湯
+    url: 
+    map: https://maps.google.com/?cid=2121942583248761337&hl=ja
+    address: 奈良県大和郡山市柳5-1
+    price: 440
+    lat: 34.6441845
+    lng: 135.7833695
+    type: 銭湯
+-
+    id: 35
+    name: 明日香のお風呂 太子の湯
+    url: https://www.asukabiso.co.jp/facilities/taishinoyu
+    map: https://maps.google.com/?cid=11822001478370217076&hl=ja
+    address: 奈良県高市郡明日香村立部543-1
+    price: 500
+    lat: 34.4679597
+    lng: 135.8143288
+    type: 温泉
+-
+    id: 36
+    name: 町立老人福祉センター 中荘温泉
+    url: http://www.town.yoshino.nara.jp/kanko-event/meisho-kanko/shisetsu/nakasou-kunisu/nakasyoonsen.html
+    map: https://maps.google.com/?cid=4716416277581936768&hl=ja
+    address: 奈良県吉野郡吉野町楢井583
+    price: 700
+    lat: 34.38301879999999
+    lng: 135.8858793
+    type: 温泉
+-
+    id: 37
+    name: シルクの杜
+    url: https://www.mizuno.jp/facility/nara/kashihara.aspx
+    map: https://maps.google.com/?cid=13928449677029694911&hl=ja
+    address: 奈良県橿原市川西町855-1
+    price: 500
+    lat: 34.4798314
+    lng: 135.7730558
+    type: 温泉
+-
+    id: 38
+    name: 高田温泉 さくら荘
+    url: http://www.city.yamatotakada.nara.jp/life/kokyo/hoken-iryo/sakuraso.html
+    map: https://maps.google.com/?cid=13168532013305957491&hl=ja
+    address: 奈良県大和高田市池田447
+    price: 500
+    lat: 34.5195721
+    lng: 135.732174
+    type: 温泉
+-
+    id: 39
+    name: 香芝市総合福祉センター かしば・屯鶴峯温泉
+    url: http://www.city.kashiba.lg.jp/shisetsu/0000003945.html
+    map: https://maps.google.com/?cid=2259108106298928873&hl=ja
+    address: 奈良県香芝市逢坂1-374
+    price: 800
+    lat: 34.54250469999999
+    lng: 135.6952547
+    type: 温泉
+-
+    id: 40
+    name: 斑鳩町ふれあい交流センター いきいきの里
+    url: http://www.town.ikaruga.nara.jp/0000000118.html
+    map: https://maps.google.com/?cid=3965656198333699851&hl=ja
+    address: 奈良県生駒郡斑鳩町法隆寺北1-13-15
+    price: 500
+    lat: 34.6175985
+    lng: 135.7380188
+    type: 温泉
+-
+    id: 41
+    name: 豆山の郷
+    url: http://www.town.kawai.nara.jp/kakuka/fukushibu/syakaihukushikyougikai_ka/mameyama/index.html
+    map: https://maps.google.com/?cid=17098393570291958667&hl=ja
+    address: 奈良県北葛城郡河合町山坊24-3
+    price: 500
+    lat: 34.5747252
+    lng: 135.735887
+    type: 温泉
+-
+    id: 42
+    name: 橿原市福祉センター やわらぎの郷
+    url: https://www.asukabiso.co.jp/facilities/yawaraginosato
+    map: https://maps.google.com/?cid=18071533350892114997&hl=ja
+    address: 奈良県橿原市十市町63-1
+    price: 310
+    lat: 34.5311568
+    lng: 135.8098088
+    type: 温泉
+-
+    id: 43
+    name: 大本山 霊山寺 薬師湯殿
+    url: http://www.ryosenji.jp/spa.html
+    map: https://maps.google.com/?cid=8203065896721614256&hl=ja
+    address: 奈良県奈良市中町4031
+    price: 600
+    lat: 34.6730128
+    lng: 135.7441627
+    type: 温泉
+-
+    id: 44
+    name: 南部老人憩の家 憩の湯
+    url: http://totsukawa.info/joho/totsukawa_onsen_gou/2totsukawa_onsen.html
+    map: https://maps.google.com/?cid=2284134599061047332&hl=ja
+    address: 奈良県吉野郡十津川村平谷626-6
+    price: 300
+    lat: 33.941809
+    lng: 135.7667204
+    type: 温泉
+-
+    id: 45
+    name: 高砂湯
+    url: 
+    map: https://maps.google.com/?cid=7147843704467566048&hl=ja
+    address: 奈良県大和高田市高砂町4-36
+    price: 440
+    lat: 34.5163617
+    lng: 135.7433444
+    type: 銭湯
+-
+    id: 46
+    name: 都祁福祉センター
+    url: http://www.narashi-shakyo.com/html/tsuge.htm
+    map: https://maps.google.com/?cid=799602261950719796&hl=ja
+    address: 奈良県奈良市藺生町1922
+    price: 300
+    lat: 34.592205
+    lng: 135.9421977
+    type: 共同浴場・銭湯
+-
+    id: 47
+    name: たかすみ温泉
+    url: http://higashiyoshino.com/pg66.html
+    map: https://maps.google.com/?cid=6324425702083027552&hl=ja
+    address: 奈良県吉野郡東吉野村平野835
+    price: 500
+    lat: 34.4394137
+    lng: 136.0612948
+    type: 温泉
+-
+    id: 48
+    name: さくら湯
+    url: 
+    map: https://maps.google.com/?cid=13471673370195041422&hl=ja
+    address: 奈良県北葛城郡王寺町久度3-10-5
+    price: 440
+    lat: 34.5986546
+    lng: 135.7003188
+    type: 銭湯
+-
+    id: 49
+    name: 奈良ロイヤルホテル ラ・ロイヤル・スパ
+    url: https://nara-royal.co.jp/onsen/
+    map: https://maps.google.com/?cid=10497264086343874298&hl=ja
+    address: 奈良県奈良市法華寺町254-1
+    price: 1800
+    lat: 34.6871096
+    lng: 135.8052054
+    type: 温泉
+-
+    id: 50
+    name: 御経野共同浴場 御谷温泉
+    url: 
+    map: https://maps.google.com/?cid=6146948057489076922&hl=ja
+    address: 奈良県天理市御経野町37-6
+    price: 300
+    lat: 34.5927139
+    lng: 135.8384119
+    type: 共同浴場・銭湯
+-
+    id: 51
+    name: 横井共同浴場
+    url: 
+    map: https://maps.google.com/?cid=9653801687885512526&hl=ja
+    address: 奈良県奈良市横井2-250-13
+    price: 100
+    lat: 34.652151
+    lng: 135.831619
+    type: 共同浴場・銭湯
+-
+    id: 52
+    name: 保健福祉施設 あざさ苑
+    url: https://miyake-shakyo.sakura.ne.jp/?page_id=427
+    map: https://maps.google.com/?cid=4148708726997045946&hl=ja
+    address: 奈良県磯城郡三宅町伴堂848-1
+    price: 500
+    lat: 34.5733267
+    lng: 135.77113
+    type: 温泉
+-
+    id: 53
+    name: 新町南共同浴場 新町温泉
+    url: https://www.city.yamatokoriyama.nara.jp/reiki/reiki_honbun/k404RG00000341.html#e000000048
+    map: https://maps.google.com/?cid=12931158626381232941&hl=ja
+    address: 奈良県大和郡山市新町741-4
+    price: 140
+    lat: 34.6386723
+    lng: 135.7497664
+    type: 共同浴場・銭湯
+-
+    id: 54
+    name: 東之阪共同浴場
+    url: 
+    map: https://maps.google.com/maps?q=34.695309,135.835281
+    address: 奈良県奈良市東之阪町14-4
+    price: 180
+    lat: 34.6953044
+    lng: 135.8351678
+    type: 共同浴場・銭湯
+-
+    id: 55
+    name: 西田中町共同浴場 寿温泉
+    url: https://www.city.yamatokoriyama.nara.jp/reiki/reiki_honbun/k404RG00000341.html
+    map: https://maps.google.com/maps?q=34.637665,135.754562
+    address: 奈良県大和郡山市西田中町303
+    price: 140
+    lat: 34.6379527
+    lng: 135.7548551
+    type: 共同浴場・銭湯
+-
+    id: 56
+    name: 七福湯
+    url: 
+    map: https://maps.google.com/?cid=4452459454781554078&hl=ja
+    address: 奈良県橿原市小房町3-4
+    price: 440
+    lat: 34.5046476
+    lng: 135.7965233
+    type: 銭湯
+-
+    id: 57
+    name: ニュー福寿温泉
+    url: 
+    map: https://maps.google.com/?cid=12751050552601157687&hl=ja
+    address: 奈良県宇陀市榛原萩原2662
+    price: 440
+    lat: 34.5313133
+    lng: 135.957686
+    type: 銭湯
+-
+    id: 58
+    name: 栄湯
+    url: 
+    map: https://maps.google.com/?cid=1477621724072012077&hl=ja
+    address: 奈良県五條市須恵1-11-12
+    price: 440
+    lat: 34.353773
+    lng: 135.6960917
+    type: 銭湯
+-
+    id: 59
+    name: 中央温泉
+    url: 
+    map: https://maps.google.com/?cid=13079161493126206621&hl=ja
+    address: 奈良県大和高田市本郷町7-7
+    price: 440
+    lat: 34.513612
+    lng: 135.745047
+    type: 銭湯
+-
+    id: 60
+    name: 松湯
+    url: 
+    map: https://maps.google.com/?cid=14993249798029053543&hl=ja
+    address: 奈良県大和高田市南本町8-13
+    price: 440
+    lat: 34.5107362
+    lng: 135.7422155
+    type: 銭湯
+-
+    id: 61
+    name: 扇湯
+    url: 
+    map: https://maps.google.com/?cid=11294125093199391225&hl=ja
+    address: 奈良県奈良市築地之内町16
+    price: 440
+    lat: 34.6744958
+    lng: 135.8310913
+    type: 銭湯
+-
+    id: 62
+    name: 蘇武湯
+    url: 
+    map: https://maps.google.com/maps?q=34.506872,135.789465
+    address: 奈良県橿原市今井町1-4-12
+    price: 440
+    lat: 34.506872
+    lng: 135.7894652
+    type: 銭湯
+-
+    id: 63
+    name: 旭湯
+    url: 
+    map: https://maps.google.com/maps?q=34.382157,135.787743
+    address: 奈良県吉野郡大淀町下渕1-160
+    price: 440
+    lat: 34.3827408
+    lng: 135.7865937
+    type: 銭湯
+-
+    id: 64
+    name: 五光温泉
+    url: 
+    map: https://maps.google.com/maps?q=34.557721,135.787261
+    address: 奈良県磯城郡田原本町新町203-4
+    price: 440
+    lat: 34.5577235
+    lng: 135.7871127
+    type: 銭湯
+-
+    id: 65
+    name: 戒湯
+    url: http://www.eonet.ne.jp/~geko/ebisuyu/ebisuyu.htm
+    map: https://maps.google.com/maps?q=34.46196,135.743362
+    address: 奈良県御所市大橋通3
+    price: 440
+    lat: 34.4620468
+    lng: 135.7411422
+    type: 銭湯

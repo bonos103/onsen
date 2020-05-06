@@ -1,0 +1,1301 @@
+---
+-
+    id: 1
+    name: 大江戸温泉物語 浦安万華郷
+    url: https://urayasu.ooedoonsen.jp/
+    map: https://maps.google.com/?cid=13689025737579818966&hl=ja
+    address: 千葉県浦安市日の出7-3-12
+    price: 1580
+    lat: 35.6403558
+    lng: 139.9318509
+    type: 温泉
+-
+    id: 2
+    name: スパ＆ホテル 舞浜ユーラシア
+    url: http://www.my-spa.jp/
+    map: https://maps.google.com/?cid=2069495214282883361&hl=ja
+    address: 千葉県浦安市千鳥13-20
+    price: 2100
+    lat: 35.6274191
+    lng: 139.8957946
+    type: 温泉
+-
+    id: 3
+    name: 新天地天然温泉 法典の湯
+    url: https://rakutenchi-oasis.com/hoten/
+    map: https://maps.google.com/?cid=6913992493189871580&hl=ja
+    address: 千葉県市川市柏井町1-1520
+    price: 800
+    lat: 35.7353201
+    lng: 139.9645263
+    type: 温泉
+-
+    id: 4
+    name: 手賀沼観光リゾート 満天の湯
+    url: http://manntenn.com/
+    map: https://maps.google.com/?cid=11342018013920976209&hl=ja
+    address: 千葉県柏市箕輪新田68-1
+    price: 800
+    lat: 35.85706770000001
+    lng: 140.0250708
+    type: 温泉
+-
+    id: 5
+    name: 船橋温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/funabashi/
+    map: https://maps.google.com/?cid=16699339777159506614&hl=ja
+    address: 千葉県船橋市山手3-4-1
+    price: 750
+    lat: 35.71743319999999
+    lng: 139.9800174
+    type: 温泉
+-
+    id: 6
+    name: 酒々井温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/shisui/
+    map: https://maps.google.com/?cid=2772930861486057929&hl=ja
+    address: 千葉県印旛郡酒々井町飯積1-1-1
+    price: 900
+    lat: 35.7198449
+    lng: 140.2932275
+    type: 温泉
+-
+    id: 7
+    name: スパ＆リゾート九十九里 太陽の里
+    url: http://www.taiyounosato.co.jp/
+    map: https://maps.google.com/?cid=2359436548509419393&hl=ja
+    address: 千葉県長生郡長生村一松3445
+    price: 1530
+    lat: 35.4152263
+    lng: 140.3920584
+    type: 温泉
+-
+    id: 8
+    name: 佐倉天然温泉 澄流
+    url: http://www.sakurasomeino-sumire.com/
+    map: https://maps.google.com/?cid=16801711073536567073&hl=ja
+    address: 千葉県佐倉市染井野4
+    price: 850
+    lat: 35.7190703
+    lng: 140.1916163
+    type: 温泉
+-
+    id: 9
+    name: Spa Resort 菜々の湯
+    url: http://www.nananoyu.jp/
+    map: https://maps.google.com/?cid=2049600942906867774&hl=ja
+    address: 千葉県習志野市本大久保1-1-1
+    price: 800
+    lat: 35.6843932
+    lng: 140.0395757
+    type: 温泉
+-
+    id: 10
+    name: 大江戸温泉物語 君津の森
+    url: https://kimitsu.ooedoonsen.jp/
+    map: https://maps.google.com/?cid=18086921673712601561&hl=ja
+    address: 千葉県君津市法木384-119
+    price: 620
+    lat: 35.2875104
+    lng: 140.02709
+    type: 温泉
+-
+    id: 11
+    name: 市原温泉 湯楽の里
+    url: http://www.yurakirari.com/yura/ichihara/
+    map: https://maps.google.com/?cid=10938718887778339687&hl=ja
+    address: 千葉県市原市古市場329-1
+    price: 840
+    lat: 35.5449365
+    lng: 140.1427409
+    type: 温泉
+-
+    id: 12
+    name: 極楽湯(柏店)
+    url: https://www.gokurakuyu.ne.jp/tempo/kashiwa/
+    map: https://maps.google.com/?cid=17830967058450443003&hl=ja
+    address: 千葉県柏市大山台1-18
+    price: 800
+    lat: 35.8812907
+    lng: 139.9669087
+    type: 温泉
+-
+    id: 13
+    name: 成田の命泉 大和の湯
+    url: http://www.yamatonoyu.com/
+    map: https://maps.google.com/?cid=14551620304971429439&hl=ja
+    address: 千葉県成田市大竹1630
+    price: 850
+    lat: 35.8171444
+    lng: 140.2716639
+    type: 温泉
+-
+    id: 14
+    name: のだ温泉 ほのか
+    url: https://yudokoro-honoka.jp/noda/
+    map: https://maps.google.com/?cid=8133234985602371584&hl=ja
+    address: 千葉県野田市花井1丁目1-2
+    price: 1220
+    lat: 35.9399102
+    lng: 139.8819162
+    type: 温泉
+-
+    id: 15
+    name: 市原天然温泉 江戸遊
+    url: http://www.edoyu.com/ichihara/
+    map: https://maps.google.com/?cid=18001127915981061123&hl=ja
+    address: 千葉県市原市松ヶ島西1-3-43
+    price: 820
+    lat: 35.5177281
+    lng: 140.0650844
+    type: 温泉
+-
+    id: 16
+    name: クアパレス
+    url: 
+    map: https://maps.google.com/?cid=2465349532981759990&hl=ja
+    address: 千葉県船橋市薬円台4-20-9
+    price: 450
+    lat: 35.71339529999999
+    lng: 140.0471929
+    type: 銭湯
+-
+    id: 17
+    name: 柏健康センター みのりの湯
+    url: https://minorinoyu.com
+    map: https://maps.google.com/?cid=11557834514071690058&hl=ja
+    address: 千葉県柏市十余二249
+    price: 1900
+    lat: 35.8818719
+    lng: 139.9604935
+    type: 温泉
+-
+    id: 18
+    name: 湯の郷ほのか(蘇我店)
+    url: https://yudokoro-honoka.jp/soga/
+    map: https://maps.google.com/?cid=3887804674615942657&hl=ja
+    address: 千葉県千葉市中央区川崎町51-1
+    price: 1200
+    lat: 35.5914022
+    lng: 140.1180623
+    type: 温泉
+-
+    id: 19
+    name: 湯楽の里(松戸店)
+    url: http://www.yurakirari.com/yura/matsudo/
+    map: https://maps.google.com/?cid=14916711820868935306&hl=ja
+    address: 千葉県松戸市和名ヶ谷947-3
+    price: 710
+    lat: 35.7836593
+    lng: 139.9209099
+    type: 温泉
+-
+    id: 20
+    name: 天然温泉リゾート月美 太陽の里
+    url: http://www.t-tsukimi.jp/
+    map: https://maps.google.com/?cid=5636020820362036802&hl=ja
+    address: 千葉県銚子市犬吠埼10292-1
+    price: 1210
+    lat: 35.70263509999999
+    lng: 140.8616478
+    type: 温泉
+-
+    id: 21
+    name: 笑がおの湯(松戸矢切店)
+    url: http://www.com-keisei.co.jp/egaonoyu-yagiri/
+    map: https://maps.google.com/?cid=1750477840080373849&hl=ja
+    address: 千葉県松戸市下矢切115
+    price: 720
+    lat: 35.7571815
+    lng: 139.9005473
+    type: 温泉
+-
+    id: 22
+    name: スーパー銭湯 君津の湯
+    url: https://www.kimitsu-yu.com/
+    map: https://maps.google.com/?cid=2858478107443166273&hl=ja
+    address: 千葉県君津市外箕輪154
+    price: 590
+    lat: 35.3144945
+    lng: 139.9277009
+    type: 温泉
+-
+    id: 23
+    name: 湯快爽快『湯けむり横丁』(みはま店)
+    url: https://www.yukaisoukai.com/mih/
+    map: https://maps.google.com/?cid=16403700805846315988&hl=ja
+    address: 千葉県千葉市美浜区新港32-6-2
+    price: 700
+    lat: 35.6201975
+    lng: 140.087454
+    type: 温泉
+-
+    id: 24
+    name: 湯けむり 天然秘湯 龍泉の湯
+    url: http://www.ryusennoyu.com/
+    map: https://maps.google.com/?cid=4919487193980806535&hl=ja
+    address: 千葉県成田市松崎1249
+    price: 880
+    lat: 35.8013358
+    lng: 140.2986506
+    type: 温泉
+-
+    id: 25
+    name: 野天風呂 湯の郷
+    url: http://www.yuno310.com/
+    map: https://maps.google.com/?cid=10730194983015671536&hl=ja
+    address: 千葉県野田市山崎貝塚町5-2
+    price: 640
+    lat: 35.923433
+    lng: 139.8949522
+    type: 温泉
+-
+    id: 26
+    name: みどりの湯(田喜野井店)
+    url: http://park18.wakwak.com/~midorinoyu/takinoi/takinoi-index.html
+    map: https://maps.google.com/?cid=103179974839728696&hl=ja
+    address: 千葉県船橋市田喜野井6-24
+    price: 800
+    lat: 35.7044768
+    lng: 140.0468441
+    type: 温泉
+-
+    id: 27
+    name: 湯の郷 かずさ
+    url: http://yunosato-kazusa.com/
+    map: https://maps.google.com/?cid=14628592406529348360&hl=ja
+    address: 千葉県木更津市潮見5-7-1
+    price: 750
+    lat: 35.3676474
+    lng: 139.9136664
+    type: 温泉
+-
+    id: 28
+    name: ORIENTAL RESORT リスパ印西
+    url: http://respa-inzai.jp/
+    map: https://maps.google.com/?cid=16471067608335633497&hl=ja
+    address: 千葉県印西市牧の原1-3
+    price: 1950
+    lat: 35.8059856
+    lng: 140.1633999
+    type: 温泉
+-
+    id: 29
+    name: 南総城山温泉 里見の湯
+    url: https://www.satominoyu.com/
+    map: https://maps.google.com/?cid=16508947354661310879&hl=ja
+    address: 千葉県館山市下真倉305-1
+    price: 1080
+    lat: 34.9819306
+    lng: 139.8695262
+    type: 温泉
+-
+    id: 30
+    name: 湯戯三昧 松戸ヘルスランド
+    url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/odekakemap/map_arekore/yu/matudo-helthland.html
+    map: https://maps.google.com/?cid=8623182140747880382&hl=ja
+    address: 千葉県松戸市松戸新田580-1
+    price: 450
+    lat: 35.7900301
+    lng: 139.9301624
+    type: 銭湯
+-
+    id: 31
+    name: 極楽湯(千葉稲毛店)
+    url: https://www.gokurakuyu.ne.jp/tempo/chibainage/
+    map: https://maps.google.com/?cid=4150560210597392592&hl=ja
+    address: 千葉県千葉市稲毛区園生町380-1
+    price: 760
+    lat: 35.6516889
+    lng: 140.1192559
+    type: 温泉
+-
+    id: 32
+    name: 健康市川温泉 クリーンスパ市川
+    url: https://www.cleanspa.jp/
+    map: https://maps.google.com/?cid=6635617699024516307&hl=ja
+    address: 千葉県市川市上妙典1554
+    price: 723
+    lat: 35.6865205
+    lng: 139.9436606
+    type: 温泉
+-
+    id: 33
+    name: 天然温泉 真名井の湯(千葉ニュータウン店)
+    url: http://manainoyu.com/chiba/
+    map: https://maps.google.com/?cid=3623395239063335035&hl=ja
+    address: 千葉県印西市中央南2-3-2
+    price: 750
+    lat: 35.7968492
+    lng: 140.113751
+    type: 温泉
+-
+    id: 34
+    name: 湯パーク南柏
+    url: 
+    map: https://maps.google.com/?cid=14197419001611908593&hl=ja
+    address: 千葉県柏市南柏2-4-17
+    price: 450
+    lat: 35.8461157
+    lng: 139.9549749
+    type: 銭湯
+-
+    id: 35
+    name: 七光台温泉
+    url: http://nanakoudai.3riku.co.jp/
+    map: https://maps.google.com/?cid=14467699452712129915&hl=ja
+    address: 千葉県野田市七光台4-2
+    price: 630
+    lat: 35.9826692
+    lng: 139.8511334
+    type: 温泉
+-
+    id: 36
+    name: 南増尾 健美の湯
+    url: http://kashiken.3riku.co.jp
+    map: https://maps.google.com/?cid=3194722430247597580&hl=ja
+    address: 千葉県柏市南増尾1-1-1
+    price: 600
+    lat: 35.82037529999999
+    lng: 139.9724379
+    type: 温泉
+-
+    id: 37
+    name: 八千代ほっこり湯
+    url: http://yachiyo-hokkoriyu.com/
+    map: https://maps.google.com/?cid=2025279863109722950&hl=ja
+    address: 千葉県八千代市八千代台南1-8-1
+    price: 620
+    lat: 35.6990188
+    lng: 140.0921627
+    type: 温泉
+-
+    id: 38
+    name: 蘭々の湯
+    url: http://www.raranoyu.jp
+    map: https://maps.google.com/?cid=16211287757754453635&hl=ja
+    address: 千葉県千葉市稲毛区園生町445-2
+    price: 800
+    lat: 35.6477722
+    lng: 140.1161355
+    type: 温泉
+-
+    id: 39
+    name: 天然温泉 白井の湯
+    url: http://shiroinoyu.jp/
+    map: https://maps.google.com/?cid=2226289037783420585&hl=ja
+    address: 千葉県白井市中149-1
+    price: 600
+    lat: 35.821336
+    lng: 140.049412
+    type: 温泉
+-
+    id: 40
+    name: たてやま温泉 千里の風
+    url: https://www.senrinokaze.jp/spa/
+    map: https://maps.google.com/?cid=12410542039360265082&hl=ja
+    address: 千葉県館山市藤原1495-1
+    price: 1000
+    lat: 34.9356541
+    lng: 139.8257746
+    type: 温泉
+-
+    id: 41
+    name: 崋の湯
+    url: http://hananoyu-narita.com/
+    map: https://maps.google.com/?cid=16089057631443533439&hl=ja
+    address: 千葉県成田市公津の杜2-40-1
+    price: 840
+    lat: 35.7644215
+    lng: 140.3021982
+    type: 温泉
+-
+    id: 42
+    name: 柳湯
+    url: 
+    map: https://maps.google.com/?cid=12005265983517873744&hl=ja
+    address: 千葉県市川市南八幡1-11-5
+    price: 450
+    lat: 35.7174949
+    lng: 139.9302069
+    type: 銭湯
+-
+    id: 43
+    name: 鷺沼温泉
+    url: 
+    map: https://maps.google.com/?cid=11511145629268694407&hl=ja
+    address: 千葉県習志野市鷺沼1-14-15
+    price: 450
+    lat: 35.6754969
+    lng: 140.0250848
+    type: 銭湯
+-
+    id: 44
+    name: 滝見苑 ごりやくの湯
+    url: https://www.goriyakunoyu.jp/
+    map: https://maps.google.com/?cid=11861531093586831185&hl=ja
+    address: 千葉県夷隅郡大多喜町粟又176
+    price: 1100
+    lat: 35.2138969
+    lng: 140.1855428
+    type: 温泉
+-
+    id: 45
+    name: 宮の湯
+    url: 
+    map: https://maps.google.com/?cid=9991348720344386197&hl=ja
+    address: 千葉県木更津市富士見1-13-17
+    price: 450
+    lat: 35.3794794
+    lng: 139.9243963
+    type: 銭湯
+-
+    id: 46
+    name: 石と光の楽園 みきの湯
+    url: http://www.mikinoyu.com/
+    map: https://maps.google.com/?cid=11607686734655314120&hl=ja
+    address: 千葉県東金市山田1155-1
+    price: 1030
+    lat: 35.5643315
+    lng: 140.2934522
+    type: 温泉
+-
+    id: 47
+    name: 千葉の隠れ湯 ビバークランド
+    url: http://www.bivouac-land.com/
+    map: https://maps.google.com/?cid=8750080852448129382&hl=ja
+    address: 千葉県千葉市稲毛区轟町1-8-5
+    price: 450
+    lat: 35.6266892
+    lng: 140.1086772
+    type: 銭湯
+-
+    id: 48
+    name: 濃溝温泉 千寿の湯
+    url: http://www.senjyunoyu.net/
+    map: https://maps.google.com/?cid=15403910123320579771&hl=ja
+    address: 千葉県君津市笹1954-17
+    price: 1000
+    lat: 35.1884929
+    lng: 140.0607078
+    type: 温泉
+-
+    id: 49
+    name: 笑がおの湯(千葉寒川店)
+    url: http://www.com-keisei.co.jp/egaonoyu-samugawa/
+    map: https://maps.google.com/?cid=16803193155961773622&hl=ja
+    address: 千葉県千葉市中央区寒川町2-147-1
+    price: 740
+    lat: 35.5954809
+    lng: 140.1236336
+    type: 温泉
+-
+    id: 50
+    name: ウェルネスプラザ アクア・ユーカリ
+    url: https://aquayukari-web.com/
+    map: https://maps.google.com/?cid=3177929065729082804&hl=ja
+    address: 千葉県佐倉市ユ-カリが丘3-2-1
+    price: 990
+    lat: 35.7255824
+    lng: 140.1560441
+    type: 温泉
+-
+    id: 51
+    name: 松の湯
+    url: https://www.facebook.com/浦安松の湯-276760115702132/
+    map: https://maps.google.com/?cid=358252171604290258&hl=ja
+    address: 千葉県浦安市猫実4-21-5
+    price: 450
+    lat: 35.6627888
+    lng: 139.8919055
+    type: 銭湯
+-
+    id: 52
+    name: 梅の湯
+    url: https://umenoyu8080.jimdo.com/
+    map: https://maps.google.com/?cid=9824520063573995065&hl=ja
+    address: 千葉県千葉市花見川区検見川町2-481
+    price: 450
+    lat: 35.6501002
+    lng: 140.0639284
+    type: 銭湯
+-
+    id: 53
+    name: 天然温泉 黄金の里
+    url: https://tennenonsen-koganenosato.net/
+    map: https://maps.google.com/?cid=14147953375381768104&hl=ja
+    address: 千葉県富里市七栄298-7
+    price: 750
+    lat: 35.7365447
+    lng: 140.3238407
+    type: 温泉
+-
+    id: 54
+    name: かりんの湯
+    url: https://www.thefarm.jp/hotspring.html
+    map: https://maps.google.com/?cid=16735744527184670548&hl=ja
+    address: 千葉県香取市西田部1309-34
+    price: 840
+    lat: 35.7945568
+    lng: 140.5156957
+    type: 温泉
+-
+    id: 55
+    name: 紅梅湯
+    url: 
+    map: https://maps.google.com/?cid=4147159943796566345&hl=ja
+    address: 千葉県船橋市南本町8-21
+    price: 450
+    lat: 35.6979909
+    lng: 139.9786622
+    type: 銭湯
+-
+    id: 56
+    name: 松戸ラドン温泉 湯るり
+    url: https://yururi-radon.com
+    map: https://maps.google.com/?cid=4626933273650974929&hl=ja
+    address: 千葉県松戸市和名ケ谷823-1
+    price: 1100
+    lat: 35.7763738
+    lng: 139.9250403
+    type: 温泉
+-
+    id: 57
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=17159952279407897861&hl=ja
+    address: 千葉県銚子市新生町2-12-24
+    price: 450
+    lat: 35.7308413
+    lng: 140.8366304
+    type: 銭湯
+-
+    id: 58
+    name: 松の湯 金平浴場
+    url: 
+    map: https://maps.google.com/?cid=13103607730176727158&hl=ja
+    address: 千葉県香取市佐原イ622
+    price: 450
+    lat: 35.8893812
+    lng: 140.4949816
+    type: 銭湯
+-
+    id: 59
+    name: さわやかプラザ軽井沢
+    url: http://www.kashiwa-shiroi-kamagayakankyoeiseikumiai.or.jp/sawayaka/index.html
+    map: https://maps.google.com/?cid=10020715577710550136&hl=ja
+    address: 千葉県鎌ケ谷市軽井沢2106-6
+    price: 610
+    lat: 35.7964694
+    lng: 140.0264898
+    type: 温泉
+-
+    id: 60
+    name: 天然温泉 旭の湯
+    url: http://azumakenkoucenter.web.fc2.com/ASAHI/ASAHITOP.html
+    map: https://maps.google.com/?cid=12236919965364769207&hl=ja
+    address: 千葉県旭市東足洗2778-47
+    price: 1150
+    lat: 35.6995611
+    lng: 140.6809515
+    type: 温泉
+-
+    id: 61
+    name: エステティック銭湯 ゆープラザ若宮
+    url: http://www.yu-plaza.co.jp/
+    map: https://maps.google.com/?cid=6426236995378867485&hl=ja
+    address: 千葉県市川市若宮3-35-3
+    price: 450
+    lat: 35.7255283
+    lng: 139.9546198
+    type: 銭湯
+-
+    id: 62
+    name: 漁協直営食堂 ばんやの湯
+    url: http://www.banya-grp.jp/
+    map: https://maps.google.com/?cid=3899446132354299676&hl=ja
+    address: 千葉県安房郡鋸南町吉浜99
+    price: 600
+    lat: 35.1322977
+    lng: 139.8384915
+    type: 温泉
+-
+    id: 63
+    name: 湯乃市(鎌ヶ谷店)
+    url: https://yunoichi.net/kamagaya
+    map: https://maps.google.com/?cid=10427537266457937289&hl=ja
+    address: 千葉県鎌ヶ谷市鎌ヶ谷9-1-13
+    price: 650
+    lat: 35.7529144
+    lng: 140.0050516
+    type: 温泉
+-
+    id: 64
+    name: 天然温泉みどりの湯(都賀店)
+    url: https://midorinoyu.net/
+    map: https://maps.google.com/?cid=1045615432804297255&hl=ja
+    address: 千葉県千葉市若葉区若松町545-20
+    price: 700
+    lat: 35.6484847
+    lng: 140.1520716
+    type: 温泉
+-
+    id: 65
+    name: 浜町浴場
+    url: 
+    map: https://maps.google.com/?cid=90366360027626901&hl=ja
+    address: 千葉県船橋市浜町1-31-21
+    price: 450
+    lat: 35.6893908
+    lng: 139.993225
+    type: 銭湯
+-
+    id: 66
+    name: かずさのお風呂屋さん
+    url: http://www.kazusanoofuroyasan.com/
+    map: https://maps.google.com/?cid=5860907007007200079&hl=ja
+    address: 千葉県木更津市清見台南5-1-40
+    price: 620
+    lat: 35.3807886
+    lng: 139.9604835
+    type: 温泉
+-
+    id: 67
+    name: 黒湯の天然温泉 美人の湯 カーニバルヒルズ
+    url: http://carnival-onsen.com/
+    map: https://maps.google.com/?cid=2777708951969772550&hl=ja
+    address: 千葉県香取市沢13-15
+    price: 930
+    lat: 35.8101637
+    lng: 140.4838508
+    type: 温泉
+-
+    id: 68
+    name: 小金バスランド
+    url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/odekakemap/map_arekore/yu/kogane-bathland.html
+    map: https://maps.google.com/?cid=8431048469179784011&hl=ja
+    address: 千葉県松戸市小金きよしケ丘2-9-1
+    price: 450
+    lat: 35.829678
+    lng: 139.9334661
+    type: 銭湯
+-
+    id: 69
+    name: 房総 四季の蔵
+    url: https://www.shikinokura.jp/spa.html
+    map: https://maps.google.com/?cid=13964778353431574867&hl=ja
+    address: 千葉県君津市三直170-1
+    price: 800
+    lat: 35.3153653
+    lng: 139.94458
+    type: 温泉
+-
+    id: 70
+    name: 櫻湯
+    url: 
+    map: https://maps.google.com/?cid=16524267168046403504&hl=ja
+    address: 千葉県茂原市茂原461
+    price: 450
+    lat: 35.4261432
+    lng: 140.2943464
+    type: 銭湯
+-
+    id: 71
+    name: 和名ケ谷スポーツセンター
+    url: https://www.city.matsudo.chiba.jp/shisetsu-guide/sports/wanagaya_sports/index.html
+    map: https://maps.google.com/?cid=13476959215002061816&hl=ja
+    address: 千葉県松戸市和名ヶ谷1360
+    price: 410
+    lat: 35.7769787
+    lng: 139.9190234
+    type: 共同浴場・銭湯
+-
+    id: 72
+    name: 内房薬湯健康センター
+    url: http://www.yakutou-ichihara.com/
+    map: https://maps.google.com/?cid=332842820529131814&hl=ja
+    address: 千葉県市原市八幡973
+    price: 890
+    lat: 35.5353836
+    lng: 140.1170414
+    type: 温泉
+-
+    id: 73
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=10689390562909534638&hl=ja
+    address: 千葉県勝浦市勝浦43
+    price: 450
+    lat: 35.1490569
+    lng: 140.316429
+    type: 銭湯
+-
+    id: 74
+    name: ふなばしメグスパ
+    url: https://f-meguspa.jp/
+    map: https://maps.google.com/?cid=11459213228934947420&hl=ja
+    address: 千葉県船橋市大神保町1356-3
+    price: 500
+    lat: 35.7745831
+    lng: 140.068947
+    type: 温泉
+-
+    id: 75
+    name: 平和湯ランド
+    url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/odekakemap/map_arekore/yu/heiwayu-land.html
+    map: https://maps.google.com/?cid=8140969720453175094&hl=ja
+    address: 千葉県松戸市五香西1-12-12
+    price: 450
+    lat: 35.7919505
+    lng: 139.9662931
+    type: 銭湯
+-
+    id: 76
+    name: 石の湯
+    url: 
+    map: https://maps.google.com/?cid=1251991965168409412&hl=ja
+    address: 千葉県千葉市中央区寒川町2-16
+    price: 450
+    lat: 35.5953279
+    lng: 140.1204663
+    type: 銭湯
+-
+    id: 77
+    name: 天然ラジウム鉱泉 滝の湯
+    url: 
+    map: https://maps.google.com/?cid=9505218882815634822&hl=ja
+    address: 千葉県船橋市本中山2-3-1
+    price: 450
+    lat: 35.7133438
+    lng: 139.9470486
+    type: 銭湯
+-
+    id: 78
+    name: 馬橋湯
+    url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/odekakemap/map_arekore/yu/mabasi-bathcenter.html
+    map: https://maps.google.com/?cid=15878145670018344241&hl=ja
+    address: 千葉県松戸市馬橋95
+    price: 450
+    lat: 35.8107939
+    lng: 139.9177498
+    type: 銭湯
+-
+    id: 79
+    name: 江戸川湯
+    url: 
+    map: https://maps.google.com/?cid=9669989269234560071&hl=ja
+    address: 千葉県流山市江戸川台東3-4
+    price: 450
+    lat: 35.8996323
+    lng: 139.9127157
+    type: 銭湯
+-
+    id: 80
+    name: 天然温泉 湯ぱらだいす佐倉
+    url: http://www.yupara.com/
+    map: https://maps.google.com/?cid=10035462022313103001&hl=ja
+    address: 千葉県佐倉市表町3-26-1
+    price: 1350
+    lat: 35.7101997
+    lng: 140.2286988
+    type: 温泉
+-
+    id: 81
+    name: 印西温水センター
+    url: http://inzaipool.jp/
+    map: https://maps.google.com/?cid=7119253681130474596&hl=ja
+    address: 千葉県印西市大塚1-3
+    price: 520
+    lat: 35.8034277
+    lng: 140.1207875
+    type: 温泉
+-
+    id: 82
+    name: 佐久間の里の天然温泉 笑楽の湯
+    url: http://kyonan-info.jp/warakuno-yu/pc_top.html
+    map: https://maps.google.com/?cid=4064215944187476251&hl=ja
+    address: 千葉県安房郡鋸南町上佐久間66
+    price: 500
+    lat: 35.1178028
+    lng: 139.8779675
+    type: 温泉
+-
+    id: 83
+    name: 宮前湯
+    url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/odekakemap/map_arekore/yu/miyamaeyu.html
+    map: https://maps.google.com/?cid=7902360801145708149&hl=ja
+    address: 千葉県松戸市松戸1766
+    price: 450
+    lat: 35.7805578
+    lng: 139.8970826
+    type: 銭湯
+-
+    id: 84
+    name: 若宮松の湯
+    url: 
+    map: https://maps.google.com/?cid=17220436893610131146&hl=ja
+    address: 千葉県市川市若宮3-1-3
+    price: 450
+    lat: 35.725215
+    lng: 139.9504138
+    type: 銭湯
+-
+    id: 85
+    name: さんぶの森元気館
+    url: https://www.konami.com/sportsclub/trust/genki/
+    map: https://maps.google.com/?cid=7799862289257030571&hl=ja
+    address: 千葉県山武市美杉野2-672-10
+    price: 1250
+    lat: 35.6445277
+    lng: 140.3745589
+    type: 温泉
+-
+    id: 86
+    name: 八千代市ふれあいプラザ 健康増進センター
+    url: http://www.yachiyo-fureaiplaza.jp/
+    map: https://maps.google.com/?cid=1623629469431016776&hl=ja
+    address: 千葉県八千代市上高野640-2
+    price: 600
+    lat: 35.737705
+    lng: 140.1372285
+    type: 共同浴場・銭湯
+-
+    id: 87
+    name: 御宿の湯 クアハウス
+    url: http://kurlife.com/hotspring/
+    map: https://maps.google.com/?cid=15570643384993006906&hl=ja
+    address: 千葉県夷隅郡御宿町浜2143-2
+    price: 1000
+    lat: 35.1849421
+    lng: 140.3551392
+    type: 温泉
+-
+    id: 88
+    name: 恵比寿湯
+    url: 
+    map: https://maps.google.com/?cid=14438672920029713069&hl=ja
+    address: 千葉県市川市新田3-19-16
+    price: 450
+    lat: 35.7223959
+    lng: 139.9104156
+    type: 銭湯
+-
+    id: 89
+    name: 宮の湯
+    url: 
+    map: https://maps.google.com/?cid=14336059728675522503&hl=ja
+    address: 千葉県船橋市宮本6-10-20
+    price: 450
+    lat: 35.6985184
+    lng: 139.9933286
+    type: 銭湯
+-
+    id: 90
+    name: 袖ケ浦健康づくり支援センター ガウランド
+    url: https://www.city.sodegaura.lg.jp/soshiki/gauland/siseturiyou.html
+    map: https://maps.google.com/?cid=8790635551044723474&hl=ja
+    address: 千葉県袖ケ浦市三ツ作1862-12
+    price: 840
+    lat: 35.4226724
+    lng: 140.010005
+    type: 共同浴場・銭湯
+-
+    id: 91
+    name: ゆあみランド
+    url: 
+    map: https://maps.google.com/?cid=11757427627599247516&hl=ja
+    address: 千葉県千葉市花見川区花園1-19-11
+    price: 450
+    lat: 35.6532788
+    lng: 140.0757753
+    type: 銭湯
+-
+    id: 92
+    name: 朝日湯
+    url: 
+    map: https://maps.google.com/?cid=13964759793576884106&hl=ja
+    address: 千葉県市川市市川2-21-7
+    price: 450
+    lat: 35.7328207
+    lng: 139.9030386
+    type: 銭湯
+-
+    id: 93
+    name: 石乃湯
+    url: 
+    map: https://maps.google.com/?cid=8551358996144741612&hl=ja
+    address: 千葉県市川市国分2-2-21
+    price: 450
+    lat: 35.740034
+    lng: 139.9173649
+    type: 銭湯
+-
+    id: 94
+    name: 君津メディカルスポーツセンター
+    url: http://www.tairyoku.or.jp/facility/kimitsu/guidance.html
+    map: https://maps.google.com/?cid=14024922217081590496&hl=ja
+    address: 千葉県君津市西君津11-6
+    price: 500
+    lat: 35.3446275
+    lng: 139.8564064
+    type: 温泉
+-
+    id: 95
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=17956904421313619596&hl=ja
+    address: 千葉県東金市東金1407
+    price: 450
+    lat: 35.5600667
+    lng: 140.3587581
+    type: 銭湯
+-
+    id: 96
+    name: スーパー銭湯 白旗
+    url: http://spshirahata.jp
+    map: https://maps.google.com/?cid=6189730677491198194&hl=ja
+    address: 千葉県千葉市中央区白旗2-12-10
+    price: 430
+    lat: 35.5779354
+    lng: 140.1405084
+    type: 温泉
+-
+    id: 97
+    name: 湊町松の湯
+    url: 
+    map: https://maps.google.com/?cid=15196328026603750197&hl=ja
+    address: 千葉県船橋市本町3-24-17
+    price: 450
+    lat: 35.6954637
+    lng: 139.9874166
+    type: 銭湯
+-
+    id: 98
+    name: ミレニアムセンター佐倉
+    url: http://www.city.sakura.lg.jp/0000008776.html
+    map: https://maps.google.com/?cid=15159072569895172713&hl=ja
+    address: 千葉県佐倉市宮前3-4-1
+    price: 590
+    lat: 35.7255091
+    lng: 140.229082
+    type: 温泉
+-
+    id: 99
+    name: とみうら元気倶楽部
+    url: https://www.city.minamiboso.chiba.jp/0000006167.html
+    map: https://maps.google.com/?cid=1340374799687386811&hl=ja
+    address: 千葉県南房総市富浦町原岡88-2
+    price: 660
+    lat: 35.0388563
+    lng: 139.837212
+    type: 温泉
+-
+    id: 100
+    name: 柳湯
+    url: 
+    map: https://maps.google.com/?cid=14992215812069063630&hl=ja
+    address: 千葉県香取市佐原イ471
+    price: 450
+    lat: 35.891165
+    lng: 140.4972455
+    type: 銭湯
+-
+    id: 101
+    name: 月の湯
+    url: http://sxl.gonna.jp/tsukinoyu/
+    map: https://maps.google.com/?cid=11311653332147312890&hl=ja
+    address: 千葉県市川市菅野5-2-6
+    price: 450
+    lat: 35.7337905
+    lng: 139.9262346
+    type: 銭湯
+-
+    id: 102
+    name: 粟斗温泉
+    url: http://maruchiba.jp/sys/data/index/page/id/300/
+    map: https://maps.google.com/?cid=13920534477065571561&hl=ja
+    address: 千葉県鴨川市粟斗1070
+    price: 1100
+    lat: 35.1407655
+    lng: 140.1005712
+    type: 温泉
+-
+    id: 103
+    name: 湊湯
+    url: 
+    map: https://maps.google.com/?cid=11194786291716902642&hl=ja
+    address: 千葉県船橋市湊町3-21-6
+    price: 450
+    lat: 35.6905643
+    lng: 139.9806569
+    type: 銭湯
+-
+    id: 104
+    name: ながら温泉 長柄町福祉センター
+    url: https://www.town.nagara.chiba.jp/soshiki/4/116.html
+    map: https://maps.google.com/?cid=4942337113030408515&hl=ja
+    address: 千葉県長生郡長柄町桜谷712
+    price: 500
+    lat: 35.4311548
+    lng: 140.2277753
+    type: 温泉
+-
+    id: 105
+    name: 市原市憩の家 福の湯
+    url: https://www.city.ichihara.chiba.jp/kurashi/kankyoryokuka/kankyo/kankyou_shisetsu/ikoi-house/ikoi.html
+    map: https://maps.google.com/?cid=6669413524196553418&hl=ja
+    address: 千葉県市原市福増124-1
+    price: 600
+    lat: 35.474122
+    lng: 140.1441817
+    type: 温泉
+-
+    id: 106
+    name: 喜代の湯
+    url: 
+    map: https://maps.google.com/?cid=3904912008918864593&hl=ja
+    address: 千葉県千葉市中央区椿森1-22-1
+    price: 450
+    lat: 35.6178576
+    lng: 140.1205325
+    type: 銭湯
+-
+    id: 107
+    name: サウナきさらづ つぼや
+    url: 
+    map: https://maps.google.com/?cid=2114611696926525317&hl=ja
+    address: 千葉県木更津市潮見7-3-2
+    price: 1480
+    lat: 35.3621809
+    lng: 139.9120651
+    type: 温泉
+-
+    id: 108
+    name: 鈴の湯
+    url: 
+    map: https://maps.google.com/?cid=9633261147720079187&hl=ja
+    address: 千葉県千葉市花見川区幕張町6-315-4
+    price: 450
+    lat: 35.65990439999999
+    lng: 140.0615484
+    type: 銭湯
+-
+    id: 109
+    name: 正木温泉
+    url: http://bosotown.com/archives/23202
+    map: https://maps.google.com/?cid=1980516355600922475&hl=ja
+    address: 千葉県館山市正木3027
+    price: 650
+    lat: 35.0302269
+    lng: 139.8732266
+    type: 温泉
+-
+    id: 110
+    name: 宝湯
+    url: 
+    map: https://maps.google.com/?cid=9527107951098756309&hl=ja
+    address: 千葉県市川市南八幡2-6-5
+    price: 450
+    lat: 35.7136088
+    lng: 139.9316478
+    type: 銭湯
+-
+    id: 111
+    name: 神門コミュニティセンター
+    url: https://www.city.kimitsu.lg.jp/soshiki/12/970.html
+    map: https://maps.google.com/?cid=10578802733600700893&hl=ja
+    address: 千葉県君津市人見1462-41
+    price: 300
+    lat: 35.3445918
+    lng: 139.8594861
+    type: 温泉
+-
+    id: 112
+    name: 下花輪福祉会館 ほっとプラザ下花輪
+    url: https://www.city.nagareyama.chiba.jp/institution/1004205/1004211/1004237.html
+    map: https://maps.google.com/?cid=18026198353907423214&hl=ja
+    address: 千葉県流山市下花輪227
+    price: 300
+    lat: 35.8749288
+    lng: 139.900854
+    type: 共同浴場・銭湯
+-
+    id: 113
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/?cid=10501175313208220327&hl=ja
+    address: 千葉県千葉市稲毛区稲丘町9-11
+    price: 450
+    lat: 35.6323113
+    lng: 140.0893078
+    type: 銭湯
+-
+    id: 114
+    name: あさひ健康福祉センター
+    url: http://www.city.asahi.lg.jp/sisetu/c04_01.html
+    map: https://maps.google.com/?cid=11904940580369947538&hl=ja
+    address: 千葉県旭市中谷里8340
+    price: 450
+    lat: 35.68638
+    lng: 140.6476946
+    type: 温泉
+-
+    id: 115
+    name: 和田地域福祉センター やすらぎ
+    url: https://www.mboso-etoko.jp/cgi-bin/co_kanihp/info.asp?uid=3245
+    map: https://maps.google.com/?cid=17726572468722131049&hl=ja
+    address: 千葉県南房総市和田町松田828
+    price: 660
+    lat: 35.0262704
+    lng: 139.9898579
+    type: 温泉
+-
+    id: 116
+    name: 湯〜ねる
+    url: https://u-neru.com/
+    map: https://maps.google.com/?cid=2047114622664397781&hl=ja
+    address: 千葉県習志野市茜浜2-2-1
+    price: 900
+    lat: 35.665655
+    lng: 140.0128304
+    type: 温泉
+-
+    id: 117
+    name: 小谷流温泉 森の湯
+    url: https://koyaru-morinoyu.jp/
+    map: https://maps.google.com/?cid=3539794766920893714&hl=ja
+    address: 千葉県八街市小谷流616
+    price: 1200
+    lat: 35.6201205
+    lng: 140.2740051
+    type: 温泉
+-
+    id: 118
+    name: 鎌ヶ谷浴場
+    url: 
+    map: https://maps.google.com/?cid=4932792965711959624&hl=ja
+    address: 千葉県鎌ヶ谷市富岡1-8-1
+    price: 450
+    lat: 35.7676774
+    lng: 139.9996391
+    type: 銭湯
+-
+    id: 119
+    name: 旭の郷 天空の湯
+    url: https://tenkuunoyu.com/
+    map: https://maps.google.com/?cid=15764099659961940466&hl=ja
+    address: 千葉県旭市イ2676-1
+    price: 1200
+    lat: 35.7252675
+    lng: 140.6583545
+    type: 温泉
+-
+    id: 120
+    name: 湯楽城
+    url: https://www.yurakujo.com/
+    map: https://maps.google.com/?cid=8836754882878788591&hl=ja
+    address: 千葉県富里市七栄650-35
+    price: 2530
+    lat: 35.7417661
+    lng: 140.3451998
+    type: 温泉
+-
+    id: 121
+    name: 匝瑳市 市民ふれあいセンター
+    url: https://www.city.sosa.lg.jp/page/page001273.html
+    map: https://maps.google.com/?cid=7108239408523015691&hl=ja
+    address: 千葉県匝瑳市八日市場ハ793-35
+    price: 200
+    lat: 35.708698
+    lng: 140.5649248
+    type: 温泉
+-
+    id: 122
+    name: むつざわ温泉 つどいの湯
+    url: https://mutsuzawa-swt.jp/facility_onsen
+    map: https://maps.google.com/?cid=14272077492229775534&hl=ja
+    address: 千葉県長生郡睦沢町森2-1
+    price: 700
+    lat: 35.3593252
+    lng: 140.3075535
+    type: 温泉
+-
+    id: 123
+    name: 我孫子市 老人福祉センター つつじ荘
+    url: https://www.city.abiko.chiba.jp/kenko/koureishafukushi/shisetsu/tsutsujisou.html
+    map: https://maps.google.com/maps?q=35.879696,140.091019
+    address: 千葉県我孫子市中峠2607番地
+    price: 300
+    lat: 35.87970749999999
+    lng: 140.0910934
+    type: 共同浴場・銭湯
+-
+    id: 124
+    name: 館山市 湊老人福祉センター
+    url: https://www.city.tateyama.chiba.jp/kourei/page100012.html
+    map: https://maps.google.com/maps?q=35.011925,139.867539
+    address: 千葉県館山市湊288-88
+    price: 400
+    lat: 35.0119428
+    lng: 139.867566
+    type: 共同浴場・銭湯
+-
+    id: 125
+    name: 館山市 出野尾老人福祉センター
+    url: https://www.city.tateyama.chiba.jp/kourei/page100012.html#section6
+    map: https://maps.google.com/maps?q=34.956595,139.862711
+    address: 千葉県館山市出野尾547
+    price: 400
+    lat: 34.9565936
+    lng: 139.8627059
+    type: 共同浴場・銭湯
+-
+    id: 126
+    name: 野田市 関宿福祉センター やすらぎの郷
+    url: https://www.city.noda.chiba.jp/shisetsu/hoken/1000472.html
+    map: https://maps.google.com/maps?q=36.051933,139.817505
+    address: 千葉県野田市古布内1944-2
+    price: 200
+    lat: 36.0518997
+    lng: 139.8175196
+    type: 共同浴場・銭湯
+-
+    id: 127
+    name: ニコニコ湯
+    url: 
+    map: https://maps.google.com/?cid=7336153273433575053&hl=ja
+    address: 千葉県鎌ヶ谷市東道野辺7-20-2
+    price: 450
+    lat: 35.7427102
+    lng: 139.995971
+    type: 銭湯
+-
+    id: 128
+    name: 神明湯
+    url: 
+    map: https://maps.google.com/?cid=865455486236370166&hl=ja
+    address: 千葉県千葉市中央区神明町23-23
+    price: 450
+    lat: 35.6011825
+    lng: 140.1165393
+    type: 銭湯
+-
+    id: 129
+    name: 米の湯
+    url: 
+    map: https://maps.google.com/?cid=12588828794782819681&hl=ja
+    address: 千葉県浦安市堀江2-5-15
+    price: 400
+    lat: 35.6604836
+    lng: 139.8950483
+    type: 銭湯
+-
+    id: 130
+    name: 梅開湯
+    url: 
+    map: https://maps.google.com/?cid=5983258879796914267&hl=ja
+    address: 千葉県千葉市中央区寒川町3-17
+    price: 450
+    lat: 35.593428
+    lng: 140.1211353
+    type: 銭湯

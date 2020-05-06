@@ -1,0 +1,711 @@
+---
+-
+    id: 1
+    name: 道の駅 雫石あねっこ 橋場温泉 新はしばの湯
+    url: http://www.anekko.co.jp/onsen
+    map: https://maps.google.com/?cid=4544242671772141860&hl=ja
+    address: 岩手県岩手郡雫石町橋場坂本118-10
+    price: 520
+    lat: 39.7064392
+    lng: 140.8746354
+    type: 温泉
+-
+    id: 2
+    name: 二つの炭酸泉と岩盤浴 喜盛の湯
+    url: http://kimorinoyu.com/
+    map: https://maps.google.com/?cid=2280814835412535577&hl=ja
+    address: 岩手県盛岡市南仙北1-18-50
+    price: 680
+    lat: 39.6786507
+    lng: 141.1515575
+    type: 温泉
+-
+    id: 3
+    name: 天然温泉 ラ・フランス温泉館
+    url: https://www.lafrance.co.jp/index.html
+    map: https://maps.google.com/?cid=10270842212665270432&hl=ja
+    address: 岩手県紫波郡紫波町上松本字内方96
+    price: 700
+    lat: 39.5723449
+    lng: 141.0822749
+    type: 温泉
+-
+    id: 4
+    name: ゆっこ盛岡
+    url: https://yukko-morioka.jp/index.html
+    map: https://maps.google.com/?cid=12883382261568450293&hl=ja
+    address: 岩手県盛岡市上堂4-10-8
+    price: 680
+    lat: 39.7335992
+    lng: 141.1235655
+    type: 温泉
+-
+    id: 5
+    name: 盛南温泉 開運の湯
+    url: http://www.kaiunnoyu.com/
+    map: https://maps.google.com/?cid=14252384847509041411&hl=ja
+    address: 岩手県盛岡市本宮3-8
+    price: 600
+    lat: 39.6927402
+    lng: 141.1339598
+    type: 温泉
+-
+    id: 6
+    name: うたたねカフェ さくらの湯
+    url: http://www.e-sakuranoyu.com/
+    map: https://maps.google.com/?cid=16398116595854351189&hl=ja
+    address: 岩手県奥州市水沢区佐倉河明神堂27
+    price: 600
+    lat: 39.1644627
+    lng: 141.0905455
+    type: 温泉
+-
+    id: 7
+    name: 花と緑と安らぎの湯 東和温泉
+    url: http://www.towa-spa.co.jp/index.html
+    map: https://maps.google.com/?cid=9687982592476938676&hl=ja
+    address: 岩手県花巻市東和町安俵6区135
+    price: 600
+    lat: 39.3837377
+    lng: 141.2227327
+    type: 温泉
+-
+    id: 8
+    name: 大衆演劇と湯どころ まーす北上
+    url: https://www.mars-kitakami.com/
+    map: https://maps.google.com/?cid=12729349387599583753&hl=ja
+    address: 岩手県北上市北鬼柳15-174-1
+    price: 680
+    lat: 39.2960445
+    lng: 141.0954258
+    type: 温泉
+-
+    id: 9
+    name: 日帰り温泉 精華の湯
+    url: https://www.sobabou-kamiya.com/seiganoyu/
+    map: https://maps.google.com/?cid=4304516006533891624&hl=ja
+    address: 岩手県花巻市台2-56-1
+    price: 500
+    lat: 39.4758972
+    lng: 141.0538456
+    type: 温泉
+-
+    id: 10
+    name: 瀬峯坂温泉 宝珠の湯
+    url: http://houjunoyu.com/
+    map: https://maps.google.com/?cid=17178239059517081088&hl=ja
+    address: 岩手県北上市和賀町岩崎2-3-1
+    price: 600
+    lat: 39.2693447
+    lng: 141.0458496
+    type: 温泉
+-
+    id: 11
+    name: ながまち梅の湯
+    url: 
+    map: https://maps.google.com/?cid=5363430515667002205&hl=ja
+    address: 岩手県盛岡市長田町2-26
+    price: 430
+    lat: 39.7060217
+    lng: 141.1393523
+    type: 銭湯
+-
+    id: 12
+    name: 奥中山高原センターハウス 煌星の湯
+    url: http://www.okunakayamakogen.jp/onsen/
+    map: https://maps.google.com/?cid=2649548925624966417&hl=ja
+    address: 岩手県二戸郡一戸町奥中山西田子662-1
+    price: 620
+    lat: 40.08131090000001
+    lng: 141.191085
+    type: 温泉
+-
+    id: 13
+    name: 焼走りの湯
+    url: http://www.hachimantai-ss.co.jp/~yakehashiri/onsen/onsen.html
+    map: https://maps.google.com/?cid=14429336118390945665&hl=ja
+    address: 岩手県八幡平市平笠24-728
+    price: 600
+    lat: 39.8942694
+    lng: 141.0496861
+    type: 温泉
+-
+    id: 14
+    name: フォックスバーデン スパ・ドーム
+    url: http://foxbaden.com/
+    map: https://maps.google.com/?cid=7807595418844133672&hl=ja
+    address: 岩手県岩手郡滝沢村鵜飼笹森41-2
+    price: 600
+    lat: 39.7357982
+    lng: 141.0907085
+    type: 温泉
+-
+    id: 15
+    name: 網張温泉館 薬師の湯
+    url: https://www.qkamura.or.jp/iwate/hotspring/
+    map: https://maps.google.com/?cid=1483270671508033926&hl=ja
+    address: 岩手県岩手郡雫石町網張温泉
+    price: 600
+    lat: 39.821562
+    lng: 140.938032
+    type: 温泉
+-
+    id: 16
+    name: 余熱利用健康増進センター ゆぴあす
+    url: http://www.yupiasu.com/
+    map: https://maps.google.com/?cid=10810083117869672105&hl=ja
+    address: 岩手県盛岡市上田字小鳥沢148-103
+    price: 400
+    lat: 39.7646655
+    lng: 141.1820631
+    type: 温泉
+-
+    id: 17
+    name: 平泉温泉 悠久の湯
+    url: https://www.town.hiraizumi.iwate.jp/index.cfm/25,0,125,271,html
+    map: https://maps.google.com/?cid=16084924234056270982&hl=ja
+    address: 岩手県西磐井郡平泉町平泉大沢1-1
+    price: 500
+    lat: 38.9909379
+    lng: 141.1108535
+    type: 温泉
+-
+    id: 18
+    name: イチノセキ温泉 願叶乃湯
+    url: http://www.business1.jp/ganganoyu/pc/index.html
+    map: https://maps.google.com/?cid=15455410034126021438&hl=ja
+    address: 岩手県一関市狐禅寺字石ノ瀬55-1
+    price: 700
+    lat: 38.9390118
+    lng: 141.1557196
+    type: 温泉
+-
+    id: 19
+    name: 久慈健康ランド 古墳ノゆ
+    url: http://kofunnoyu.kuji-aomatsu.jp
+    map: https://maps.google.com/?cid=12844026044420015405&hl=ja
+    address: 岩手県久慈市長内町35-113-3
+    price: 500
+    lat: 40.1814914
+    lng: 141.7918792
+    type: 温泉
+-
+    id: 20
+    name: しゃくなげの湯っこ 五葉温泉
+    url: http://www.goyoonsen.jp/
+    map: https://maps.google.com/?cid=703366607846313991&hl=ja
+    address: 岩手県大船渡市日頃市町赤坂西風山1-5
+    price: 600
+    lat: 39.1630742
+    lng: 141.7145694
+    type: 温泉
+-
+    id: 21
+    name: 網張温泉 ありね山荘
+    url: http://www12.plala.or.jp/arinesansou/
+    map: https://maps.google.com/?cid=17849964847326332070&hl=ja
+    address: 岩手県岩手郡雫石町長山小松倉13-7
+    price: 520
+    lat: 39.8149335
+    lng: 140.9348237
+    type: 温泉
+-
+    id: 22
+    name: 金ヶ崎温泉 駒子の湯
+    url: https://kanegasaki.oshushi.com/
+    map: https://maps.google.com/?cid=7902849155060634912&hl=ja
+    address: 岩手県胆沢郡金ヶ崎町西根和光544-1
+    price: 450
+    lat: 39.1885389
+    lng: 141.003756
+    type: 温泉
+-
+    id: 23
+    name: 槻沢温泉 砂ゆっこ
+    url: https://www.nishiwaga.biz/?page_id=354
+    map: https://maps.google.com/?cid=8199315067090398289&hl=ja
+    address: 岩手県和賀郡西和賀町槻沢25-16-8
+    price: 440
+    lat: 39.3613995
+    lng: 140.7724495
+    type: 温泉
+-
+    id: 24
+    name: 陸前高田市 黒崎温泉保養センター
+    url: http://www.kurosaki-onsen.com/
+    map: https://maps.google.com/?cid=1656876339023268796&hl=ja
+    address: 岩手県陸前高田市広田町黒崎9-41
+    price: 500
+    lat: 38.9522494
+    lng: 141.7232976
+    type: 温泉
+-
+    id: 25
+    name: 八幡平温泉館 森乃湯
+    url: http://www.hachimantai-ss.co.jp/~morinoyu/
+    map: https://maps.google.com/?cid=2809126500158753269&hl=ja
+    address: 岩手県八幡平市松尾寄木1-590-280
+    price: 600
+    lat: 39.8927618
+    lng: 140.9253837
+    type: 温泉
+-
+    id: 26
+    name: 旭湯
+    url: https://asahiyu1010.net/
+    map: https://maps.google.com/?cid=3661586263736220438&hl=ja
+    address: 岩手県宮古市西町1-5-16
+    price: 420
+    lat: 39.6453936
+    lng: 141.9431763
+    type: 銭湯
+-
+    id: 27
+    name: おらほの温泉
+    url: https://www.orahono-onsen.net/index.html
+    map: https://maps.google.com/?cid=6096074694019239815&hl=ja
+    address: 岩手県八幡平市大更18-88-208
+    price: 500
+    lat: 39.9087229
+    lng: 141.1344276
+    type: 温泉
+-
+    id: 28
+    name: 前沢温泉 舞鶴の湯
+    url: https://www.city.oshu.iwate.jp/site/kanko/5894.html
+    map: https://maps.google.com/?cid=2547616376809992176&hl=ja
+    address: 岩手県奥州市前沢区字徳沢1-45
+    price: 600
+    lat: 39.0300207
+    lng: 141.1086894
+    type: 温泉
+-
+    id: 29
+    name: 夏虫のお湯っこ
+    url: http://www.echna.ne.jp/~sunfull/natumushinooyukko1.html
+    map: https://maps.google.com/?cid=2138378979649208189&hl=ja
+    address: 岩手県大船渡市三陸町越喜来小出59-1
+    price: 400
+    lat: 39.1371252
+    lng: 141.7786383
+    type: 温泉
+-
+    id: 30
+    name: 川尻温泉 ほっとゆだ
+    url: https://www.nishiwaga.biz/?page_id=352
+    map: https://maps.google.com/?cid=15641459024273886406&hl=ja
+    address: 岩手県和賀郡西和賀町川尻40-53
+    price: 440
+    lat: 39.3193404
+    lng: 140.7975528
+    type: 温泉
+-
+    id: 31
+    name: 水沢石田温泉
+    url: https://ishida.oshushi.com/
+    map: https://maps.google.com/?cid=12459360622063571870&hl=ja
+    address: 岩手県奥州市水沢区寺領38-2
+    price: 600
+    lat: 39.1455698
+    lng: 141.1167326
+    type: 温泉
+-
+    id: 32
+    name: 真湯温泉センター 温泉交流館
+    url: http://www.sinyu-onsen.com/
+    map: https://maps.google.com/?cid=1787999618308881126&hl=ja
+    address: 岩手県一関市厳美町字真湯1
+    price: 600
+    lat: 39.0046821
+    lng: 140.8561447
+    type: 温泉
+-
+    id: 33
+    name: 綿帽子温泉 あずみの湯
+    url: https://www.hachimantai.or.jp/onsen/search.cgi?mode=list
+    map: https://maps.google.com/?cid=7250929051116718494&hl=ja
+    address: 岩手県八幡平市細野436-1
+    price: 600
+    lat: 40.0260293
+    lng: 140.9790208
+    type: 温泉
+-
+    id: 34
+    name: 黒滝温泉 のぞみの湯
+    url: https://www.city.oshu.iwate.jp/site/kanko/5835.html
+    map: https://maps.google.com/?cid=11558346582607664149&hl=ja
+    address: 岩手県奥州市衣川区上立沢112
+    price: 500
+    lat: 39.0086321
+    lng: 140.9806871
+    type: 温泉
+-
+    id: 35
+    name: 国見平温泉 はごろもの湯
+    url: https://www.city.oshu.iwate.jp/site/kanko/5844.html
+    map: https://maps.google.com/?cid=16596588527142529594&hl=ja
+    address: 岩手県奥州市衣川区長袋230-5
+    price: 500
+    lat: 39.0794932
+    lng: 140.9983857
+    type: 温泉
+-
+    id: 36
+    name: ひまわり温泉 ぎんがの湯
+    url: 
+    map: https://maps.google.com/?cid=12350341169882369968&hl=ja
+    address: 岩手県花巻市石鳥谷町松林寺3-81-10
+    price: 600
+    lat: 39.4753313
+    lng: 141.0972973
+    type: 温泉
+-
+    id: 37
+    name: 湯屋処 まつばら
+    url: http://www.shoufukutei.com/matsubara/
+    map: https://maps.google.com/?cid=291308762943864972&hl=ja
+    address: 岩手県大船渡市末崎町石浜165-2
+    price: 500
+    lat: 39.024355
+    lng: 141.6892298
+    type: 温泉
+-
+    id: 38
+    name: 踊鹿温泉 天の湯
+    url: https://iwatetabi.jp/spot/detail/03215/44.html
+    map: https://maps.google.com/?cid=6227139069313905657&hl=ja
+    address: 岩手県遠野市青笹町糠前第9地割4-1
+    price: 650
+    lat: 39.3335763
+    lng: 141.5581033
+    type: 温泉
+-
+    id: 39
+    name: 錦秋湖温泉 穴ゆっこ
+    url: https://www.nishiwaga.biz/?page_id=350
+    map: https://maps.google.com/?cid=15263203878027195630&hl=ja
+    address: 岩手県和賀郡西和賀町49-2-137
+    price: 440
+    lat: 39.296574
+    lng: 140.836643
+    type: 温泉
+-
+    id: 40
+    name: 菊の湯
+    url: 
+    map: https://maps.google.com/?cid=6270657976745638926&hl=ja
+    address: 岩手県盛岡市茶畑2-14-13
+    price: 430
+    lat: 39.6916416
+    lng: 141.1626734
+    type: 銭湯
+-
+    id: 41
+    name: フロンティアの湯
+    url: https://www.hachimantai.or.jp/onsen/search.cgi?mode=list
+    map: https://maps.google.com/?cid=11149474072508691620&hl=ja
+    address: 岩手県八幡平市細野435-1
+    price: 600
+    lat: 40.0260543
+    lng: 140.9785547
+    type: 温泉
+-
+    id: 42
+    name: 来田保養センター
+    url: 
+    map: https://maps.google.com/?cid=7850960011085221141&hl=ja
+    address: 岩手県二戸郡一戸町楢山茶屋場1
+    price: 430
+    lat: 40.2171643
+    lng: 141.3520998
+    type: 温泉
+-
+    id: 43
+    name: 奥中山高原温泉 朝朱の湯
+    url: http://www.okunakayamakogen.jp/onsen/
+    map: https://maps.google.com/?cid=7623529669529427170&hl=ja
+    address: 岩手県二戸郡一戸町奥中山西田子662-1
+    price: 520
+    lat: 40.08131090000001
+    lng: 141.191085
+    type: 温泉
+-
+    id: 44
+    name: 清養園保養センター
+    url: http://www.city.tono.iwate.jp/index.cfm/45,0,247,480,html
+    map: https://maps.google.com/?cid=5362485953729578920&hl=ja
+    address: 岩手県遠野市綾織町新里18-75-1
+    price: 230
+    lat: 39.3222379
+    lng: 141.4919303
+    type: 温泉
+-
+    id: 45
+    name: 湯田温泉郷 巣郷温泉 峠の湯
+    url: 
+    map: https://maps.google.com/?cid=10980705569747318845&hl=ja
+    address: 岩手県和賀郡西和賀町巣郷63-154-1
+    price: 400
+    lat: 39.2763405
+    lng: 140.7255917
+    type: 温泉
+-
+    id: 46
+    name: おおの健康の湯
+    url: http://www.ohnocampus.jp/asobu/index.html#onsen
+    map: https://maps.google.com/?cid=9647545339176747686&hl=ja
+    address: 岩手県九戸郡洋野町大野第56-78-30
+    price: 420
+    lat: 40.2793737
+    lng: 141.6658474
+    type: 温泉
+-
+    id: 47
+    name: 湯本温泉 丑の湯
+    url: http://www.iwate-onsen.com/304018.html
+    map: https://maps.google.com/?cid=16417337505711142240&hl=ja
+    address: 岩手県和賀郡西和賀町湯本30-82-1
+    price: 300
+    lat: 39.3473011
+    lng: 140.7757054
+    type: 温泉
+-
+    id: 48
+    name: 真昼温泉
+    url: http://www.town.nishiwaga.lg.jp/index.cfm/13,1337,41,html
+    map: https://maps.google.com/?cid=8427484725329989502&hl=ja
+    address: 岩手県和賀郡西和賀町沢内字前郷第6地割154
+    price: 300
+    lat: 39.4147875
+    lng: 140.7480719
+    type: 共同浴場・銭湯
+-
+    id: 49
+    name: 富山温泉 沢丿湯
+    url: http://www.iwate-onsen.com/702003.html
+    map: https://maps.google.com/?cid=701423452597207641&hl=ja
+    address: 岩手県大船渡市立根町字川原44-4
+    price: 300
+    lat: 39.1109818
+    lng: 141.7222966
+    type: 温泉
+-
+    id: 50
+    name: グリーンホーム落合 落合温泉
+    url: https://www.jahanamaki.or.jp/fukushi/
+    map: https://maps.google.com/?cid=5725110910170851186&hl=ja
+    address: 岩手県花巻市椚ノ目4-99-1
+    price: 400
+    lat: 39.4225046
+    lng: 141.0925309
+    type: 温泉
+-
+    id: 51
+    name: 老人憩の家 福寿荘
+    url: https://www.nishiwaga.biz/?page_id=344
+    map: https://maps.google.com/?cid=1364793186689459163&hl=ja
+    address: 岩手県和賀郡西和賀町巣郷63-157
+    price: 440
+    lat: 39.2763405
+    lng: 140.7255917
+    type: 温泉
+-
+    id: 52
+    name: 国見温泉町営 国見山荘
+    url: https://www.town.shizukuishi.iwate.jp/docs/2014112600186/
+    map: https://maps.google.com/?cid=16851857569751713465&hl=ja
+    address: 岩手県岩手郡雫石町橋場
+    price: 660
+    lat: 39.7260701
+    lng: 140.8205375
+    type: 温泉
+-
+    id: 53
+    name: 宮田温泉保養所
+    url: https://iwatetabi.jp/spot/detail/03524/898.html
+    map: https://maps.google.com/?cid=11513590976200599984&hl=ja
+    address: 岩手県二戸郡一戸町月舘字宮田5-7
+    price: 500
+    lat: 40.176776
+    lng: 141.2328975
+    type: 温泉
+-
+    id: 54
+    name: 鳥越健康ランド
+    url: https://iwatetabi.jp/spot/detail/03524/541.html
+    map: https://maps.google.com/?cid=18004768408945986126&hl=ja
+    address: 岩手県二戸郡一戸町一戸字北舘65-105-1
+    price: 580
+    lat: 40.2160944
+    lng: 141.3080987
+    type: 温泉
+-
+    id: 55
+    name: ふれあいゆう星館
+    url: https://www.nishiwaga.biz/?page_id=346
+    map: https://maps.google.com/?cid=12894466854750286432&hl=ja
+    address: 岩手県和賀郡西和賀町下前13-49-11
+    price: 440
+    lat: 39.3886964
+    lng: 140.7044611
+    type: 温泉
+-
+    id: 56
+    name: 田の神湯
+    url: 
+    map: https://maps.google.com/?cid=11886374943454170568&hl=ja
+    address: 岩手県宮古市田の神2-3-6
+    price: 430
+    lat: 39.6474851
+    lng: 141.9380685
+    type: 銭湯
+-
+    id: 57
+    name: 浄法寺冷泉 海上の湯
+    url: https://iwatetabi.jp/spot/detail/03213/235.html
+    map: https://maps.google.com/?cid=17606792948762910918&hl=ja
+    address: 岩手県二戸市浄法寺町海上前田6-1
+    price: 300
+    lat: 40.1696391
+    lng: 141.1366249
+    type: 温泉
+-
+    id: 58
+    name: 湯本温泉 ゆう林館
+    url: https://www.nishiwaga.biz/?page_id=348
+    map: https://maps.google.com/?cid=4635307370949139673&hl=ja
+    address: 岩手県和賀郡西和賀町湯之沢第35地割207-1
+    price: 440
+    lat: 39.3364625
+    lng: 140.78373
+    type: 温泉
+-
+    id: 59
+    name: 盛岡市立 つなぎ老人憩の家
+    url: http://www.morioka-fukushi.jp/shisetsu/tunagiikoi/
+    map: https://maps.google.com/?cid=11007758261200316729&hl=ja
+    address: 岩手県盛岡市繋舘市100-10
+    price: 500
+    lat: 39.6744897
+    lng: 141.0202202
+    type: 共同浴場・銭湯
+-
+    id: 60
+    name: 町民憩の家 鴬宿集会所
+    url: https://www.town.shizukuishi.iwate.jp/docs/2014112600179/
+    map: https://maps.google.com/?cid=2089984183877402427&hl=ja
+    address: 岩手県岩手郡雫石町鴬宿第6地割25-20
+    price: 420
+    lat: 39.6376853
+    lng: 140.9243029
+    type: 共同浴場・銭湯
+-
+    id: 61
+    name: うみねこ温泉 湯らっくす
+    url: http://tensho-suisan.co.jp/
+    map: https://maps.google.com/?cid=16412236832164809778&hl=ja
+    address: 岩手県下閉伊郡山田町川向町10-5
+    price: 600
+    lat: 39.464433
+    lng: 141.9519357
+    type: 温泉
+-
+    id: 62
+    name: 花巻温泉 蓬莱湯
+    url: https://www.hanamakionsen.co.jp/day/bath.html
+    map: https://maps.google.com/?cid=375137811517598579&hl=ja
+    address: 岩手県花巻市湯本1-125
+    price: 430
+    lat: 39.4425503
+    lng: 141.0953102
+    type: 共同浴場・銭湯
+-
+    id: 63
+    name: 岩手町老人福祉センター 黒石温泉 玉ぶき荘
+    url: http://town.iwate.iwate.jp/accessmap/kuroishionsen/
+    map: https://maps.google.com/?cid=8250746133727654011&hl=ja
+    address: 岩手県岩手郡岩手町一方井第1地割43-8
+    price: 400
+    lat: 39.9990931
+    lng: 141.1551698
+    type: 温泉
+-
+    id: 64
+    name: 宮古市老人憩の家 小田代山荘
+    url: https://www.city.miyako.iwate.jp/taro-shisho/kodashiro_sanso.html
+    map: https://maps.google.com/?cid=13194177936699049067&hl=ja
+    address: 岩手県宮古市田老小田代16
+    price: 400
+    lat: 39.7207071
+    lng: 141.9301594
+    type: 温泉
+-
+    id: 65
+    name: 七時雨憩の湯
+    url: https://nana490.amebaownd.com/
+    map: https://maps.google.com/?cid=2042287648275271588&hl=ja
+    address: 岩手県八幡平市西根寺田25-191-1
+    price: 600
+    lat: 40.0251337
+    lng: 141.0884607
+    type: 温泉
+-
+    id: 66
+    name: 中央浴場
+    url: 
+    map: https://maps.google.com/?cid=87445281562458058&hl=ja
+    address: 岩手県八幡平市大更第21地割54-1
+    price: 430
+    lat: 39.9099934
+    lng: 141.0994913
+    type: 銭湯
+-
+    id: 67
+    name: 久慈サウナ
+    url: 
+    map: https://maps.google.com/?cid=981598940610325559&hl=ja
+    address: 岩手県久慈市川崎町11-7レジャーセンター三光4F
+    price: 500
+    lat: 40.1909067
+    lng: 141.771598
+    type: 銭湯
+-
+    id: 68
+    name: 福島湯
+    url: 
+    map: https://maps.google.com/?cid=17386192047201235526&hl=ja
+    address: 岩手県宮古市末広町1-6
+    price: 430
+    lat: 39.6415045
+    lng: 141.9507683
+    type: 銭湯
+-
+    id: 69
+    name: 幾久の湯
+    url: 
+    map: https://maps.google.com/maps?q=40.185734,141.771652
+    address: 岩手県久慈市長内町第21地割80-7
+    price: 430
+    lat: 40.185698
+    lng: 141.7716292
+    type: 銭湯
+-
+    id: 70
+    name: 鶴の湯
+    url: 
+    map: https://maps.google.com/maps?q=39.275829,141.881805
+    address: 岩手県奥州市前沢区徳沢1-45
+    price: 430
+    lat: 39.0300207
+    lng: 141.1086894
+    type: 銭湯
+-
+    id: 71
+    name: 藤の湯
+    url: 
+    map: https://maps.google.com/maps?q=40.278971,141.299704
+    address: 岩手県二戸市福岡長嶺35
+    price: 430
+    lat: 40.2789695
+    lng: 141.2996455
+    type: 銭湯

@@ -1,0 +1,3581 @@
+---
+-
+    id: 1
+    name: オベリベリ温泉 水光園
+    url: http://www.kita-no-sento.com/sento/1109/
+    map: https://maps.google.com/?cid=1706358673662833836&hl=ja
+    address: 北海道帯広市東十条南5-6
+    price: 450
+    lat: 42.927217
+    lng: 143.2221932
+    type: 銭湯
+-
+    id: 2
+    name: ホテルモントレエーデルホフ札幌 カルロビ・バリ・スパ
+    url: https://www.hotelmonterey.co.jp/edelhof/spa/
+    map: https://maps.google.com/?cid=15962390469759463657&hl=ja
+    address: 北海道札幌市中央区北二条西1-1
+    price: 2880
+    lat: 43.0640573
+    lng: 141.3551388
+    type: 温泉
+-
+    id: 3
+    name: やわらぎの里 豊平峡温泉
+    url: https://hoheikyo.co.jp/
+    map: https://maps.google.com/?cid=8080891066019240803&hl=ja
+    address: 北海道札幌市南区定山渓608-2
+    price: 1000
+    lat: 42.9496261
+    lng: 141.1559015
+    type: 温泉
+-
+    id: 4
+    name: ていね温泉 ほのか
+    url: https://yudokoro-honoka.jp/teine/
+    map: https://maps.google.com/?cid=6555311053788844374&hl=ja
+    address: 北海道札幌市手稲区富丘二条3-2-1
+    price: 900
+    lat: 43.1049724
+    lng: 141.2527983
+    type: 温泉
+-
+    id: 5
+    name: 北のたまゆら(桑園店)
+    url: http://www.e-u.jp/souen_main.html
+    map: https://maps.google.com/?cid=4631549592274737072&hl=ja
+    address: 北海道札幌市中央区北十一条西16-1-34
+    price: 450
+    lat: 43.0715434
+    lng: 141.3288127
+    type: 温泉
+-
+    id: 6
+    name: 函館市営 谷地頭温泉
+    url: https://www.hakobura.jp/db/db-onsen/2010/07/post-1.html
+    map: https://maps.google.com/?cid=17917916976229505735&hl=ja
+    address: 北海道函館市谷地頭町20-7
+    price: 430
+    lat: 41.7517329
+    lng: 140.7142216
+    type: 温泉
+-
+    id: 7
+    name: 湯の郷 絢ほのか
+    url: https://yudokoro-honoka.jp/kiyota/
+    map: https://maps.google.com/?cid=12211329936822717493&hl=ja
+    address: 北海道札幌市清田区清田二条-2-26
+    price: 950
+    lat: 43.0029117
+    lng: 141.4323263
+    type: 温泉
+-
+    id: 8
+    name: 湯元 小金湯
+    url: http://koganeyu.jp/
+    map: https://maps.google.com/?cid=9102566352754044143&hl=ja
+    address: 北海道札幌市南区小金湯25
+    price: 800
+    lat: 42.9683956
+    lng: 141.2198618
+    type: 温泉
+-
+    id: 9
+    name: 花園温泉
+    url: http://www.kita-no-sento.com/sento/309/
+    map: https://maps.google.com/?cid=7532875450765001984&hl=ja
+    address: 北海道函館市花園町40-34
+    price: 420
+    lat: 41.7963831
+    lng: 140.7800137
+    type: 銭湯
+-
+    id: 10
+    name: えにわ温泉 ほのか
+    url: https://yudokoro-honoka.jp/eniwa/
+    map: https://maps.google.com/?cid=3960797705222541011&hl=ja
+    address: 北海道恵庭市戸磯397-2
+    price: 750
+    lat: 42.8771549
+    lng: 141.6068649
+    type: 温泉
+-
+    id: 11
+    name: 石狩温泉 番屋の湯
+    url: https://banya-no-yu.com/
+    map: https://maps.google.com/?cid=15072013758732559070&hl=ja
+    address: 北海道石狩市弁天町51-2
+    price: 650
+    lat: 43.2457062
+    lng: 141.3501124
+    type: 温泉
+-
+    id: 12
+    name: むかわ温泉 四季の館
+    url: http://www.shikinoyakata.com/spa.html
+    map: https://maps.google.com/?cid=7419148141551725607&hl=ja
+    address: 北海道勇払郡むかわ町美幸3-3-1
+    price: 520
+    lat: 42.5741728
+    lng: 141.9251034
+    type: 温泉
+-
+    id: 13
+    name: 苗場駅前温泉 蔵ノ湯
+    url: http://kuranoyu.com/html/
+    map: https://maps.google.com/?cid=249600166387745610&hl=ja
+    address: 北海道札幌市中央区北二条東13-25-1
+    price: 450
+    lat: 43.066506
+    lng: 141.3721999
+    type: 温泉
+-
+    id: 14
+    name: 江別天然温泉 湯の花 江別殿
+    url: http://www.yunohana.org/ebetsu/
+    map: https://maps.google.com/?cid=10039060536519062188&hl=ja
+    address: 北海道江別市野幌美幸町33
+    price: 450
+    lat: 43.0914589
+    lng: 141.5065134
+    type: 温泉
+-
+    id: 15
+    name: 月見湯
+    url: https://ameblo.jp/supersenntoutsukimiyu/
+    map: https://maps.google.com/?cid=16930924431809126801&hl=ja
+    address: 北海道札幌市豊平区月寒東2-11
+    price: 420
+    lat: 43.0273589
+    lng: 141.404683
+    type: 銭湯
+-
+    id: 16
+    name: しんしのつ温泉 たっぷの湯
+    url: http://tappunoyuonsen.com/
+    map: https://maps.google.com/?cid=8798033350058191088&hl=ja
+    address: 北海道石狩郡新篠津村第45線北2
+    price: 500
+    lat: 43.2141748
+    lng: 141.6426201
+    type: 温泉
+-
+    id: 17
+    name: 里の森 天然温泉 森のゆ
+    url: http://www.satonomori.com/
+    map: https://maps.google.com/?cid=1288850880590381577&hl=ja
+    address: 北海道北広島市西の里511-1
+    price: 700
+    lat: 43.0155836
+    lng: 141.4926514
+    type: 温泉
+-
+    id: 18
+    name: 天然温泉やすらぎの湯 北のたまゆら(東苗穂店)
+    url: http://www.e-u.jp/higasi_main.html
+    map: https://maps.google.com/?cid=646934586776325269&hl=ja
+    address: 北海道札幌市東区東苗穂十一条2-896-1
+    price: 450
+    lat: 43.1039687
+    lng: 141.4179875
+    type: 温泉
+-
+    id: 19
+    name: 湯処 花ゆづき
+    url: http://www.hanayuzuki.jp/
+    map: https://maps.google.com/?cid=14954131393189668855&hl=ja
+    address: 北海道札幌市西区二十四軒三条1-19
+    price: 670
+    lat: 43.0751902
+    lng: 141.314799
+    type: 温泉
+-
+    id: 20
+    name: ふとみ銘泉 万葉の湯
+    url: https://www.manyo.co.jp/futomi/
+    map: https://maps.google.com/?cid=148625987906773184&hl=ja
+    address: 北海道石狩郡当別町太美町1695
+    price: 1000
+    lat: 43.1882903
+    lng: 141.4448219
+    type: 温泉
+-
+    id: 21
+    name: ひがしもこと芝桜公園 芝桜の湯
+    url: http://www.shibazakura.net/
+    map: https://maps.google.com/?cid=17547680965444575681&hl=ja
+    address: 北海道網走郡大空町東藻琴末広393
+    price: 440
+    lat: 43.7819906
+    lng: 144.312927
+    type: 温泉
+-
+    id: 22
+    name: 新千歳空港温泉
+    url: http://www.new-chitose-airport-onsen.com/
+    map: https://maps.google.com/?cid=15784083028547555848&hl=ja
+    address: 北海道千歳市美々987-22
+    price: 1500
+    lat: 42.784572
+    lng: 141.678496
+    type: 温泉
+-
+    id: 23
+    name: 天然温泉 アサヒ湯
+    url: 
+    map: https://maps.google.com/?cid=10126817076417913765&hl=ja
+    address: 北海道帯広市東三条南14-19
+    price: 450
+    lat: 42.9163031
+    lng: 143.2105702
+    type: 銭湯
+-
+    id: 24
+    name: 森林公園温泉 きよら
+    url: http://www.onsen-kiyora.com/
+    map: https://maps.google.com/?cid=560159207875846522&hl=ja
+    address: 北海道札幌市厚別区厚別東四条7-1-1
+    price: 450
+    lat: 43.0519188
+    lng: 141.4852041
+    type: 温泉
+-
+    id: 25
+    name: モエレ天然温泉 たまゆらの杜
+    url: https://www.e-u.jp/mori/
+    map: https://maps.google.com/?cid=4783265127408960524&hl=ja
+    address: 北海道札幌市東区中沼西1条1-11-10
+    price: 720
+    lat: 43.1260849
+    lng: 141.415843
+    type: 温泉
+-
+    id: 26
+    name: 天然温泉やすらぎの湯 北のたまゆら(厚別店)
+    url: http://www.e-u.jp/atubetu_main.html
+    map: https://maps.google.com/?cid=17726786795052801076&hl=ja
+    address: 北海道札幌市厚別区大谷地東7-990-310
+    price: 450
+    lat: 43.0283095
+    lng: 141.4610476
+    type: 温泉
+-
+    id: 27
+    name: 天然温泉 ふみぞの湯
+    url: https://fumizonoyu.kushiro.jp/
+    map: https://maps.google.com/?cid=13441914487947147496&hl=ja
+    address: 北海道釧路市文苑2-48-29
+    price: 450
+    lat: 43.0206276
+    lng: 144.380419
+    type: 温泉
+-
+    id: 28
+    name: ピパの湯 ゆ〜りん館
+    url: https://yu-rinkan.com/
+    map: https://maps.google.com/?cid=275532539657852988&hl=ja
+    address: 北海道美唄市東明町3区
+    price: 650
+    lat: 43.3436492
+    lng: 141.8930737
+    type: 温泉
+-
+    id: 29
+    name: 湯処 ほのか(北広島店)
+    url: https://yudokoro-honoka.jp/kitahiro/
+    map: https://maps.google.com/?cid=9246351732302040355&hl=ja
+    address: 北海道北広島市虹ヶ丘1-8-6
+    price: 750
+    lat: 43.0180654
+    lng: 141.4898967
+    type: 温泉
+-
+    id: 30
+    name: 天然温泉やすらぎの湯 北のたまゆら(江別店)
+    url: http://www.e-u.jp/ebetu_main.html
+    map: https://maps.google.com/?cid=4477460628878966270&hl=ja
+    address: 北海道江別市野幌屯田町48-1
+    price: 450
+    lat: 43.0939701
+    lng: 141.5109783
+    type: 温泉
+-
+    id: 31
+    name: 東前温泉 しんわの湯
+    url: http://www.shinwanoyu.com/
+    map: https://maps.google.com/?cid=3068756807032366184&hl=ja
+    address: 北海道北斗市東前85-5
+    price: 450
+    lat: 41.8469499
+    lng: 140.6829206
+    type: 温泉
+-
+    id: 32
+    name: 北美原温泉
+    url: http://www.kita-no-sento.com/sento/326/
+    map: https://maps.google.com/?cid=14499189146702809795&hl=ja
+    address: 北海道函館市北美原1-18-16
+    price: 450
+    lat: 41.8279833
+    lng: 140.744155
+    type: 銭湯
+-
+    id: 33
+    name: 天然温泉 極楽湯(さっぽろ弥生店)
+    url: http://www.sapporo-gokurakuyu.com/yayoi/
+    map: https://maps.google.com/?cid=5375434451807505783&hl=ja
+    address: 北海道札幌市中央区北三条西12-1
+    price: 450
+    lat: 43.0629669
+    lng: 141.3355582
+    type: 温泉
+-
+    id: 34
+    name: にしき温泉
+    url: http://www.kita-no-sento.com/sento/308/
+    map: https://maps.google.com/?cid=14636239158011439635&hl=ja
+    address: 北海道函館市深堀町13-2
+    price: 450
+    lat: 41.7897996
+    lng: 140.7776874
+    type: 銭湯
+-
+    id: 35
+    name: 温泉銭湯 夢元さぎり湯
+    url: http://sagiriyu-noboribetsu.com/index.html
+    map: https://maps.google.com/?cid=12429701153977052208&hl=ja
+    address: 北海道登別市登別温泉町60
+    price: 420
+    lat: 42.4926581
+    lng: 141.1428485
+    type: 温泉
+-
+    id: 36
+    name: すすきの天然温泉 スパ・サフロ
+    url: https://safro.org/
+    map: https://maps.google.com/?cid=3444033542141620431&hl=ja
+    address: 北海道札幌市中央区南六条西5-3-2
+    price: 2900
+    lat: 43.0525523
+    lng: 141.3521106
+    type: 温泉
+-
+    id: 37
+    name: つきさむ温泉
+    url: http://www.tsukisamu.jp/index.html
+    map: https://maps.google.com/?cid=17405452547099365758&hl=ja
+    address: 北海道札幌市豊平区月寒東一条20-189-5
+    price: 1300
+    lat: 43.0112903
+    lng: 141.4231492
+    type: 温泉
+-
+    id: 38
+    name: 苫小牧温泉 ほのか
+    url: https://yudokoro-honoka.jp/tomakomai/
+    map: https://maps.google.com/?cid=14342262763433882321&hl=ja
+    address: 北海道苫小牧市糸井124-1
+    price: 690
+    lat: 42.6146758
+    lng: 141.5276181
+    type: 温泉
+-
+    id: 39
+    name: 三笠天然温泉 太古の湯
+    url: https://www.clh-kk.com/taikonoyu/
+    map: https://maps.google.com/?cid=7969608648562515182&hl=ja
+    address: 北海道三笠市岡山1042-20
+    price: 800
+    lat: 43.2476646
+    lng: 141.8060051
+    type: 温泉
+-
+    id: 40
+    name: 岬の湯 しゃこたん
+    url: https://www.kanko-shakotan.jp/enjoy/%E3%81%8A%E3%82%93%E3%81%9B%E3%82%93%E3%83%BB%E5%B2%AC%E3%81%AE%E6%B9%AF%E3%81%97%E3%82%83%E3%81%93%E3%81%9F%E3%82%93/
+    map: https://maps.google.com/?cid=9974270085036331487&hl=ja
+    address: 北海道積丹郡積丹町野塚町212-1
+    price: 610
+    lat: 43.338761
+    lng: 140.4543317
+    type: 温泉
+-
+    id: 41
+    name: 湯らん銭
+    url: http://www.kita-no-sento.com/sento/826/
+    map: https://maps.google.com/?cid=4613011078426135600&hl=ja
+    address: 北海道旭川市忠和三条7-2-1
+    price: 450
+    lat: 43.7735087
+    lng: 142.327719
+    type: 銭湯
+-
+    id: 42
+    name: 天然温泉 やよい乃湯
+    url: http://yayoinoyu.com/
+    map: https://maps.google.com/?cid=12923164111418246723&hl=ja
+    address: 北海道帯広市西十八条南2-5
+    price: 450
+    lat: 42.9125681
+    lng: 143.162336
+    type: 温泉
+-
+    id: 43
+    name: 神仏湯温泉
+    url: http://www.kita-no-sento.com/sento/208/
+    map: https://maps.google.com/?cid=16605002194236531034&hl=ja
+    address: 北海道小樽市住ノ江1-5-1
+    price: 450
+    lat: 43.1867836
+    lng: 141.0043597
+    type: 銭湯
+-
+    id: 44
+    name: 旭川高砂台 万葉の湯
+    url: https://www.manyo.co.jp/asahikawa/
+    map: https://maps.google.com/?cid=8562494317648603230&hl=ja
+    address: 北海道旭川市高砂台1-1-52
+    price: 950
+    lat: 43.7693017
+    lng: 142.3114908
+    type: 温泉
+-
+    id: 45
+    name: 天然温泉 岩見沢ゆらら
+    url: http://www.iwamizawa.co.jp/
+    map: https://maps.google.com/?cid=2676551631666343840&hl=ja
+    address: 北海道岩見沢市上幌向南一条1-1196-2
+    price: 520
+    lat: 43.1846507
+    lng: 141.7234304
+    type: 温泉
+-
+    id: 46
+    name: かみゆうべつ温泉 チューリップの湯
+    url: http://www.town.yubetsu.lg.jp/50shisetsu/6nou-kankou/spa-kamiyu.html
+    map: https://maps.google.com/?cid=7757108156215613258&hl=ja
+    address: 北海道紋別郡湧別町中湧別中町3020-1
+    price: 500
+    lat: 44.1851185
+    lng: 143.595529
+    type: 温泉
+-
+    id: 47
+    name: 芦別温泉 星遊館 おふろcafé
+    url: https://ofurocafe-seiyukan.com/
+    map: https://maps.google.com/?cid=1410356922009914154&hl=ja
+    address: 北海道芦別市旭町油谷1
+    price: 1145
+    lat: 43.5454619
+    lng: 142.2411183
+    type: 温泉
+-
+    id: 48
+    name: 新琴似温泉 壱乃湯
+    url: http://www.onsen-ichinoyu.com/
+    map: https://maps.google.com/?cid=15091010804522635768&hl=ja
+    address: 北海道札幌市北区新琴似二条8-8-1
+    price: 450
+    lat: 43.1089272
+    lng: 141.316442
+    type: 温泉
+-
+    id: 49
+    name: みどり湯
+    url: http://www.kita-no-sento.com/sento/1302/
+    map: https://maps.google.com/?cid=5558803491012293637&hl=ja
+    address: 北海道稚内市緑1-10-23
+    price: 450
+    lat: 45.39411
+    lng: 141.6856999
+    type: 銭湯
+-
+    id: 50
+    name: 恵庭温泉 ラ・フォーレ
+    url: http://www.eniwa-onsen.com/index.html
+    map: https://maps.google.com/?cid=13314253058804631152&hl=ja
+    address: 北海道恵庭市恵南4-1
+    price: 440
+    lat: 42.8667967
+    lng: 141.5862793
+    type: 温泉
+-
+    id: 51
+    name: 杜のSPA 神楽
+    url: http://www.morinospa-kagura.com/
+    map: https://maps.google.com/?cid=173167947346735524&hl=ja
+    address: 北海道旭川市神楽三条12-1-5
+    price: 600
+    lat: 43.7533221
+    lng: 142.3597863
+    type: 温泉
+-
+    id: 52
+    name: 白樺温泉
+    url: http://www.kita-no-sento.com/sento/1108//index.html
+    map: https://maps.google.com/?cid=6721371897968299582&hl=ja
+    address: 北海道帯広市白樺十六条西12-6
+    price: 450
+    lat: 42.9176949
+    lng: 143.1743516
+    type: 銭湯
+-
+    id: 53
+    name: 定山渓温泉 湯の花 定山渓殿
+    url: http://www.yunohana.org/jyouzankei/
+    map: https://maps.google.com/?cid=7775208583974629944&hl=ja
+    address: 北海道札幌市南区定山渓温泉東4-330-4
+    price: 850
+    lat: 42.9630223
+    lng: 141.1583036
+    type: 温泉
+-
+    id: 54
+    name: 天然温泉 極楽湯(さっぽろ手稲店)
+    url: http://www.sapporo-gokurakuyu.com/teine/
+    map: https://maps.google.com/?cid=16904729805288565397&hl=ja
+    address: 北海道札幌市手稲区前田二条13-361-3
+    price: 450
+    lat: 43.1258133
+    lng: 141.2430779
+    type: 温泉
+-
+    id: 55
+    name: 函館乃木温泉 なごみ
+    url: http://nagomi-onsen.jp/hakodate/
+    map: https://maps.google.com/?cid=4990290744540800221&hl=ja
+    address: 北海道函館市乃木町4-25
+    price: 430
+    lat: 41.7826505
+    lng: 140.7642745
+    type: 温泉
+-
+    id: 56
+    name: 小樽天然温泉 湯の花 朝里殿
+    url: http://www.yunohana.org/asari/
+    map: https://maps.google.com/?cid=5741409134903496709&hl=ja
+    address: 北海道小樽市新光5-12-24
+    price: 670
+    lat: 43.1573644
+    lng: 141.0442428
+    type: 温泉
+-
+    id: 57
+    name: 湯元岩見沢温泉 なごみ
+    url: http://nagomi-onsen.jp/iwamizawa/
+    map: https://maps.google.com/?cid=7207073956849139443&hl=ja
+    address: 北海道岩見沢市志文町345-1
+    price: 430
+    lat: 43.1697813
+    lng: 141.7591775
+    type: 温泉
+-
+    id: 58
+    name: 天然温泉 七重浜の湯
+    url: http://www.nanaehamanoyu.jp
+    map: https://maps.google.com/?cid=8887475486022243046&hl=ja
+    address: 北海道北斗市七重浜8-4-1
+    price: 520
+    lat: 41.8199443
+    lng: 140.6922633
+    type: 温泉
+-
+    id: 59
+    name: やすらぎの湯の里 竹山高原温泉
+    url: http://www.kitahironavi.or.jp/memberpages/takeyama.htm
+    map: https://maps.google.com/?cid=12188325164438474678&hl=ja
+    address: 北海道北広島市富ヶ岡896
+    price: 600
+    lat: 42.9512774
+    lng: 141.5327937
+    type: 温泉
+-
+    id: 60
+    name: 小樽天然温泉 湯の花手宮殿
+    url: http://www.yunohana.org/temiya/
+    map: https://maps.google.com/?cid=3450798849301570386&hl=ja
+    address: 北海道小樽市手宮1-5-20
+    price: 670
+    lat: 43.2122481
+    lng: 141.0085962
+    type: 温泉
+-
+    id: 61
+    name: 湯らん銭(伊達店)
+    url: 
+    map: https://maps.google.com/?cid=4166162024992347400&hl=ja
+    address: 北海道伊達市舟岡町365-1-2
+    price: 450
+    lat: 42.4531722
+    lng: 140.8801586
+    type: 銭湯
+-
+    id: 62
+    name: 函館天然温泉 湯元 花の湯
+    url: http://e-hananoyu.com/
+    map: https://maps.google.com/?cid=8548744062364415668&hl=ja
+    address: 北海道函館市桔梗町418-414
+    price: 440
+    lat: 41.839838
+    lng: 140.7365737
+    type: 温泉
+-
+    id: 63
+    name: 函館健康センター 湯都里
+    url: https://www.yutori.jp/
+    map: https://maps.google.com/?cid=16202332963379930405&hl=ja
+    address: 北海道函館市昭和3-22-1
+    price: 650
+    lat: 41.8210262
+    lng: 140.7373128
+    type: 温泉
+-
+    id: 64
+    name: 交流促進センター 雪秩父
+    url: http://www.town.rankoshi.hokkaido.jp/yukichichibu/
+    map: https://maps.google.com/?cid=13489077663824228254&hl=ja
+    address: 北海道磯谷郡蘭越町湯里680-2
+    price: 700
+    lat: 42.8688389
+    lng: 140.5973714
+    type: 温泉
+-
+    id: 65
+    name: ガーデンスパ十勝川温泉
+    url: http://www.tokachigawa.jp/
+    map: https://maps.google.com/?cid=13131054632290321839&hl=ja
+    address: 北海道河東郡音更町十勝川温泉北14-1
+    price: 1500
+    lat: 42.9334365
+    lng: 143.3008329
+    type: 温泉
+-
+    id: 66
+    name: 大樹町 晩成温泉
+    url: https://www.town.taiki.hokkaido.jp/soshiki/kikaku/shoko/bansei_onsen.html
+    map: https://maps.google.com/?cid=1580708598118563273&hl=ja
+    address: 北海道広尾郡大樹町字晩成2
+    price: 500
+    lat: 42.5334063
+    lng: 143.4832362
+    type: 温泉
+-
+    id: 67
+    name: 喜楽湯
+    url: http://www.kita-no-sento.com/sento/103/
+    map: https://maps.google.com/?cid=11871894768663175828&hl=ja
+    address: 北海道札幌市中央区南四条西10-1010
+    price: 450
+    lat: 43.0537709
+    lng: 141.3370059
+    type: 銭湯
+-
+    id: 68
+    name: 札幌あいの里温泉 なごみ
+    url: http://nagomi-onsen.jp/ainosato/
+    map: https://maps.google.com/?cid=15114219255367915106&hl=ja
+    address: 北海道札幌市北区南あいの里5-1-20
+    price: 440
+    lat: 43.1524792
+    lng: 141.3985502
+    type: 温泉
+-
+    id: 69
+    name: 北採湯処 御料乃湯
+    url: http://goryounoyu.com/
+    map: https://maps.google.com/?cid=10759149137642643474&hl=ja
+    address: 北海道旭川市西御料五条1丁目
+    price: 650
+    lat: 43.725175
+    lng: 142.3671861
+    type: 温泉
+-
+    id: 70
+    name: あけぼの湯
+    url: http://www.kita-no-sento.com/sento/150/
+    map: https://maps.google.com/?cid=7535259718418983919&hl=ja
+    address: 北海道札幌市手稲区曙六条1-1-28
+    price: 450
+    lat: 43.1354934
+    lng: 141.2401406
+    type: 銭湯
+-
+    id: 71
+    name: 天然温泉 なごみの湯
+    url: http://www.nagominoyu.co.jp/
+    map: https://maps.google.com/?cid=17779377933709755017&hl=ja
+    address: 北海道苫小牧市柳町2-7-6
+    price: 850
+    lat: 42.6593578
+    lng: 141.6489468
+    type: 温泉
+-
+    id: 72
+    name: 小樽温泉 オスパ
+    url: http://www.otaruspa.com/
+    map: https://maps.google.com/?cid=4519097526115512088&hl=ja
+    address: 北海道小樽市築港7-12
+    price: 850
+    lat: 43.187974
+    lng: 141.0165886
+    type: 温泉
+-
+    id: 73
+    name: 豊富温泉 ふれあいセンター
+    url: https://toyotomi-onsen.com/
+    map: https://maps.google.com/?cid=16993999062405509692&hl=ja
+    address: 北海道天塩郡豊富町温泉
+    price: 510
+    lat: 45.0731134
+    lng: 141.8440901
+    type: 温泉
+-
+    id: 74
+    name: 稚内天然温泉 港のゆ
+    url: http://www.wakkanai-fukukou.com/tenant/onsen/minatonoyu.html
+    map: https://maps.google.com/?cid=4478712602417379609&hl=ja
+    address: 北海道稚内市港1-6-28
+    price: 650
+    lat: 45.408484
+    lng: 141.6766259
+    type: 温泉
+-
+    id: 75
+    name: 阿寒温泉土地 まりも湯
+    url: http://www.kita-no-sento.com/sento/918/
+    map: https://maps.google.com/?cid=18164798511187027075&hl=ja
+    address: 北海道釧路市阿寒町阿寒湖温泉1-4-25
+    price: 500
+    lat: 43.4337592
+    lng: 144.0996023
+    type: 銭湯
+-
+    id: 76
+    name: 山鼻温泉 屯田湯
+    url: http://www.kita-no-sento.com/sento/109/
+    map: https://maps.google.com/?cid=5487374009788843759&hl=ja
+    address: 北海道札幌市中央区南九条西8-1-17
+    price: 450
+    lat: 43.0479921
+    lng: 141.3465562
+    type: 銭湯
+-
+    id: 77
+    name: 漢方薬湯 旭川健康ランド
+    url: http://asahikawa-kenkoland.co.jp
+    map: https://maps.google.com/?cid=3395742408432958002&hl=ja
+    address: 北海道旭川市春光一条8-1-1
+    price: 880
+    lat: 43.797527
+    lng: 142.376339
+    type: 温泉
+-
+    id: 78
+    name: こみちの湯 ほのか
+    url: https://yudokoro-honoka.jp/komichi/
+    map: https://maps.google.com/?cid=12390120641509637279&hl=ja
+    address: 北海道札幌市中央区南三条西2-15-5
+    price: 1350
+    lat: 43.0573915
+    lng: 141.3551515
+    type: 温泉
+-
+    id: 79
+    name: 大豊湯
+    url: http://www.taihouyu.com/
+    map: https://maps.google.com/?cid=3300183340329602307&hl=ja
+    address: 北海道札幌市白石区北郷三条3-1-9
+    price: 450
+    lat: 43.0609129
+    lng: 141.4114865
+    type: 銭湯
+-
+    id: 80
+    name: しらかば温泉
+    url: http://shirakabaonsenyu.jp/
+    map: https://maps.google.com/?cid=3395309321725303669&hl=ja
+    address: 北海道苫小牧市しらかば町1-6-8
+    price: 750
+    lat: 42.6232674
+    lng: 141.5461751
+    type: 温泉
+-
+    id: 81
+    name: 虎杖浜温泉ホテル ぬくもりの湯
+    url: https://www.kojohama.net/daytrip/
+    map: https://maps.google.com/?cid=3792628414846591033&hl=ja
+    address: 北海道白老郡白老町虎杖浜73
+    price: 600
+    lat: 42.4602305
+    lng: 141.2106904
+    type: 温泉
+-
+    id: 82
+    name: まっかり温泉
+    url: http://www.makkarionsen.com/
+    map: https://maps.google.com/?cid=3113655144039897268&hl=ja
+    address: 北海道虻田郡真狩村字緑岡174-3
+    price: 500
+    lat: 42.7653581
+    lng: 140.7777916
+    type: 温泉
+-
+    id: 83
+    name: 五徳春日湯
+    url: 
+    map: https://maps.google.com/?cid=17396667011922035681&hl=ja
+    address: 北海道千歳市春日町1-1-3
+    price: 420
+    lat: 42.8227038
+    lng: 141.641917
+    type: 銭湯
+-
+    id: 84
+    name: 末広湯
+    url: http://www.chi-ren.jp/chi-ren/industrytype/service/suehiroyu.html
+    map: https://maps.google.com/?cid=13535058576626505459&hl=ja
+    address: 北海道千歳市末広1-6-6
+    price: 400
+    lat: 42.8280379
+    lng: 141.6542109
+    type: 銭湯
+-
+    id: 85
+    name: おけと勝山温泉 ゆぅゆ
+    url: http://www.oketo-yuuyu.com/onsen/
+    map: https://maps.google.com/?cid=13694918816341671240&hl=ja
+    address: 北海道常呂郡置戸町勝山温泉
+    price: 500
+    lat: 43.6321952
+    lng: 143.4936881
+    type: 温泉
+-
+    id: 86
+    name: とままえ温泉 ふわっと
+    url: http://www.town.tomamae.lg.jp/section/shokouroudou/lg6iib0000000xrq.html
+    map: https://maps.google.com/?cid=6101453643995297040&hl=ja
+    address: 北海道苫前郡苫前町苫前119-1
+    price: 500
+    lat: 44.3131252
+    lng: 141.6563867
+    type: 温泉
+-
+    id: 87
+    name: みなと湯
+    url: http://www.kita-no-sento.com/sento/1002/
+    map: https://maps.google.com/?cid=9665628229557891836&hl=ja
+    address: 北海道根室市海岸町2-6
+    price: 450
+    lat: 43.3416434
+    lng: 145.587914
+    type: 銭湯
+-
+    id: 88
+    name: 湯処 永寿湯温泉
+    url: http://www.kita-no-sento.com/sento/323/
+    map: https://maps.google.com/?cid=7490139906056936551&hl=ja
+    address: 北海道函館市湯川町1-7-14
+    price: 450
+    lat: 41.7764844
+    lng: 140.7823786
+    type: 銭湯
+-
+    id: 89
+    name: 寿都温泉 ゆべつのゆ
+    url: http://yubetsunoyu.com/
+    map: https://maps.google.com/?cid=9524183606141019963&hl=ja
+    address: 北海道寿都郡寿都町湯別町下湯別462
+    price: 500
+    lat: 42.7517711
+    lng: 140.2746753
+    type: 温泉
+-
+    id: 90
+    name: 札内ガーデン温泉
+    url: http://satsunai-g-onsen.sakura.ne.jp/
+    map: https://maps.google.com/?cid=16055835995646591941&hl=ja
+    address: 北海道中川郡幕別町札内北町55
+    price: 640
+    lat: 42.9279646
+    lng: 143.2509393
+    type: 温泉
+-
+    id: 91
+    name: 北の絶景 霧多布温泉ゆうゆ
+    url: http://kiritappu-yuyu.com/
+    map: https://maps.google.com/?cid=6102519318279532649&hl=ja
+    address: 北海道厚岸郡浜中町湯沸432
+    price: 500
+    lat: 43.0769448
+    lng: 145.133697
+    type: 温泉
+-
+    id: 92
+    name: 山の手温泉
+    url: http://www.hakonavi.ne.jp/spa/hakodate/yamanote/index.html
+    map: https://maps.google.com/?cid=12637875982388793972&hl=ja
+    address: 北海道函館市山の手3-44-28
+    price: 420
+    lat: 41.8037002
+    lng: 140.7837486
+    type: 温泉
+-
+    id: 93
+    name: スーパー銭湯 大雪乃湯
+    url: http://taisetunoyu.com/
+    map: https://maps.google.com/?cid=14707131563363651186&hl=ja
+    address: 北海道旭川市永山二条7-1-5
+    price: 450
+    lat: 43.7956776
+    lng: 142.4087421
+    type: 温泉
+-
+    id: 94
+    name: 昭和温泉
+    url: http://www.hakonavi.ne.jp/spa/hakodate/showa/index.html
+    map: https://maps.google.com/?cid=9939316863706169373&hl=ja
+    address: 北海道函館市昭和2-39-1
+    price: 420
+    lat: 41.8155713
+    lng: 140.7395428
+    type: 温泉
+-
+    id: 95
+    name: ゆのみの湯
+    url: http://www.dp-flex.co.jp/arten/yunomi/index.html
+    map: https://maps.google.com/?cid=12856248405519711808&hl=ja
+    address: 北海道苫小牧市樽前421-4
+    price: 600
+    lat: 42.6177509
+    lng: 141.4538151
+    type: 温泉
+-
+    id: 96
+    name: 湯めごこち 南郷の湯
+    url: https://www.chuo-bus.co.jp/nango/index.cgi
+    map: https://maps.google.com/?cid=6084999582771431846&hl=ja
+    address: 北海道札幌市白石区南郷通14-北3-5
+    price: 450
+    lat: 43.0362437
+    lng: 141.4243666
+    type: 温泉
+-
+    id: 97
+    name: 勇舞湯
+    url: https://www.yumaiyu.com
+    map: https://maps.google.com/?cid=4421715895993543595&hl=ja
+    address: 北海道千歳市北信濃871-11
+    price: 400
+    lat: 42.8398268
+    lng: 141.6207593
+    type: 銭湯
+-
+    id: 98
+    name: 美春湯
+    url: http://nakazawa-bldg.com/miharuyu/index.php
+    map: https://maps.google.com/?cid=14933909808183822529&hl=ja
+    address: 北海道札幌市白石区南郷通7-北5-16
+    price: 450
+    lat: 43.041288
+    lng: 141.41245
+    type: 銭湯
+-
+    id: 99
+    name: 妹背牛温泉ペペル
+    url: http://www.town.moseushi.hokkaido.jp/kankou/onsen/peperu.html
+    map: https://maps.google.com/?cid=6435998111538580274&hl=ja
+    address: 北海道雨竜郡妹背牛町妹背牛5208-1
+    price: 500
+    lat: 43.6998282
+    lng: 141.9600732
+    type: 温泉
+-
+    id: 100
+    name: 君乃湯
+    url: http://www.kita-no-sento.com/sento/1102/
+    map: https://maps.google.com/?cid=253382628306846720&hl=ja
+    address: 北海道帯広市西五条南32-19
+    price: 450
+    lat: 42.8942659
+    lng: 143.1999902
+    type: 銭湯
+-
+    id: 101
+    name: こうしんの湯
+    url: https://www.e-furo-koushin.jp/
+    map: https://maps.google.com/?cid=17624326804710297060&hl=ja
+    address: 北海道札幌市東区北三十条東19-1-1
+    price: 440
+    lat: 43.100964
+    lng: 141.377997
+    type: 温泉
+-
+    id: 102
+    name: 幸楽湯
+    url: http://www.kita-no-sento.com/sento/910/
+    map: https://maps.google.com/?cid=3378811118551385341&hl=ja
+    address: 北海道釧路市春日町6-25
+    price: 450
+    lat: 42.9971284
+    lng: 144.3755587
+    type: 銭湯
+-
+    id: 103
+    name: 天然温泉銭湯 アヨロ温泉
+    url: http://www.ayorospa.com/
+    map: https://maps.google.com/?cid=5524004755162017614&hl=ja
+    address: 北海道白老郡白老町虎杖浜154-2
+    price: 450
+    lat: 42.4573057
+    lng: 141.210044
+    type: 温泉
+-
+    id: 104
+    name: 駒ヶ峯温泉 ちゃっぷ林館
+    url: https://ys-kaisyo.co.jp/chaplinkan/
+    map: https://maps.google.com/?cid=6079322165608376074&hl=ja
+    address: 北海道茅部郡森町字駒ケ岳657-16
+    price: 430
+    lat: 42.0151802
+    lng: 140.6428124
+    type: 温泉
+-
+    id: 105
+    name: 端野温泉 のんたの湯
+    url: http://www.city.kitami.lg.jp/docs/7030/
+    map: https://maps.google.com/?cid=9013321829872513355&hl=ja
+    address: 北海道北見市端野町二区792-1
+    price: 500
+    lat: 43.8622737
+    lng: 143.9274455
+    type: 温泉
+-
+    id: 106
+    name: 北見湯元 のつけ乃湯
+    url: https://notsuke-tai.com/
+    map: https://maps.google.com/?cid=1715910052170623844&hl=ja
+    address: 北海道北見市ひかり野3-2-4
+    price: 420
+    lat: 43.8280319
+    lng: 143.9308176
+    type: 温泉
+-
+    id: 107
+    name: むろらん温泉 ゆらら
+    url: http://www.circle-city.ne.jp/yurara/
+    map: https://maps.google.com/?cid=9970753414070850706&hl=ja
+    address: 北海道室蘭市絵鞆町4-2-17
+    price: 600
+    lat: 42.3406914
+    lng: 140.9415209
+    type: 温泉
+-
+    id: 108
+    name: 稚内温泉 童夢
+    url: http://onsen-domu.com/
+    map: https://maps.google.com/?cid=15381652957680229447&hl=ja
+    address: 北海道稚内市富士見4-1487
+    price: 600
+    lat: 45.4209587
+    lng: 141.6376379
+    type: 温泉
+-
+    id: 109
+    name: 宇宙の湯 余市川温泉
+    url: http://yoichigawa.com/
+    map: https://maps.google.com/?cid=3553767336665936969&hl=ja
+    address: 北海道余市郡余市町入舟町322
+    price: 440
+    lat: 43.1924616
+    lng: 140.7856975
+    type: 温泉
+-
+    id: 110
+    name: 湯屋サーモン
+    url: http://yuya-salmon.jp
+    map: https://maps.google.com/?cid=16410980860922728690&hl=ja
+    address: 北海道札幌市西区発寒七条14-16-15
+    price: 450
+    lat: 43.0993845
+    lng: 141.2694246
+    type: 温泉
+-
+    id: 111
+    name: 野付温泉 浜の湯
+    url: http://www.kita-no-sento.com/sento/1007/
+    map: https://maps.google.com/?cid=4410972382798820410&hl=ja
+    address: 北海道野付郡別海町尾岱沼港町235-5
+    price: 450
+    lat: 43.5668789
+    lng: 145.2206661
+    type: 銭湯
+-
+    id: 112
+    name: ニセコ駅前温泉 綺羅乃湯
+    url: http://www16.plala.or.jp/kiranoyu/
+    map: https://maps.google.com/?cid=12024692541992213754&hl=ja
+    address: 北海道虻田郡ニセコ町中央通33丁目
+    price: 500
+    lat: 42.8079865
+    lng: 140.6852609
+    type: 温泉
+-
+    id: 113
+    name: 栄湯
+    url: http://sakaeyu946.com
+    map: https://maps.google.com/?cid=274865800871743368&hl=ja
+    address: 北海道釧路市新栄町1-20
+    price: 450
+    lat: 42.9960215
+    lng: 144.3817872
+    type: 銭湯
+-
+    id: 114
+    name: 天然温泉 あしべ屯田
+    url: http://acb-tonden.sakura.ne.jp/
+    map: https://maps.google.com/?cid=5174593823458518868&hl=ja
+    address: 北海道札幌市北区屯田七条7-2-6
+    price: 540
+    lat: 43.1370146
+    lng: 141.3295898
+    type: 温泉
+-
+    id: 115
+    name: 笑福の湯
+    url: 
+    map: https://maps.google.com/?cid=11737716733856039264&hl=ja
+    address: 北海道札幌市西区西野四条4-2-15
+    price: 420
+    lat: 43.0743757
+    lng: 141.2776809
+    type: 銭湯
+-
+    id: 116
+    name: ないえ温泉 ホテル北乃湯
+    url: http://naieonsenhotel.com/
+    map: https://maps.google.com/?cid=769362829420191828&hl=ja
+    address: 北海道空知郡奈井江町町東奈井江162-2
+    price: 520
+    lat: 43.4461557
+    lng: 141.9329467
+    type: 温泉
+-
+    id: 117
+    name: ニュー金の湯
+    url: http://www.kita-no-sento.com/sento/834/
+    map: https://maps.google.com/?cid=6780788498532451504&hl=ja
+    address: 北海道旭川市南一条26丁目
+    price: 450
+    lat: 43.7555876
+    lng: 142.3860727
+    type: 銭湯
+-
+    id: 118
+    name: マウレ山荘 ポッケの湯
+    url: https://www.maure-sanso.com/hotspring/
+    map: https://maps.google.com/?cid=5914991703285381360&hl=ja
+    address: 北海道紋別郡遠軽町丸瀬布上武利172
+    price: 600
+    lat: 43.9149499
+    lng: 143.3285433
+    type: 温泉
+-
+    id: 119
+    name: 鶴の湯
+    url: https://www.turunoyu.net/
+    map: https://maps.google.com/?cid=5784068269381164472&hl=ja
+    address: 北海道苫小牧市音羽町1-8-11
+    price: 450
+    lat: 42.64659
+    lng: 141.612673
+    type: 銭湯
+-
+    id: 120
+    name: すすきの天然温泉 湯香郷
+    url: https://www.toukakyo.jp/
+    map: https://maps.google.com/?cid=16758878219054982876&hl=ja
+    address: 北海道札幌市中央区南七条西3丁目
+    price: 2750
+    lat: 43.0524301
+    lng: 141.3548708
+    type: 温泉
+-
+    id: 121
+    name: 赤井川カルデラ温泉 赤井川村保養センター
+    url: http://akaigawa-onsen.com/
+    map: https://maps.google.com/?cid=11089396657079725230&hl=ja
+    address: 北海道余市郡赤井川村字赤井川71-2
+    price: 400
+    lat: 43.0810178
+    lng: 140.8122882
+    type: 温泉
+-
+    id: 122
+    name: 大喜湯(春採店)
+    url: http://www.taikiyu.com/
+    map: https://maps.google.com/?cid=7028635123378033774&hl=ja
+    address: 北海道釧路市春採7-1-45
+    price: 450
+    lat: 42.9761216
+    lng: 144.4141776
+    type: 温泉
+-
+    id: 123
+    name: 門別温泉 とねっこの湯
+    url: http://www.town.hidaka.hokkaido.jp/site/tonekko/
+    map: https://maps.google.com/?cid=2726834264175985831&hl=ja
+    address: 北海道沙流郡日高町字富浜223-140
+    price: 500
+    lat: 42.4970655
+    lng: 142.0521426
+    type: 温泉
+-
+    id: 124
+    name: 旭鉱泉湯
+    url: http://www.kita-no-sento.com/sento/805/
+    map: https://maps.google.com/?cid=4069903115925041085&hl=ja
+    address: 北海道旭川市八条9-左1
+    price: 450
+    lat: 43.7708833
+    lng: 142.3650083
+    type: 銭湯
+-
+    id: 125
+    name: アグリ工房まあぶ
+    url: https://mypage.fukanavi.com/ag_mabu/
+    map: https://maps.google.com/?cid=6600538971044801864&hl=ja
+    address: 北海道深川市音江町字音江600
+    price: 500
+    lat: 43.6860484
+    lng: 142.0879469
+    type: 温泉
+-
+    id: 126
+    name: 月形温泉ホテル ゆりかご
+    url: https://tsukigataonsen-hotel.com
+    map: https://maps.google.com/?cid=9646941559169829977&hl=ja
+    address: 北海道樺戸郡月形町皆楽公園内
+    price: 550
+    lat: 43.34026
+    lng: 141.6823012
+    type: 温泉
+-
+    id: 127
+    name: 峠の湯びほろ
+    url: http://www.tougenoyu.com/
+    map: https://maps.google.com/?cid=12271261658049836083&hl=ja
+    address: 北海道網走郡美幌町都橋40-1
+    price: 500
+    lat: 43.8095789
+    lng: 144.1513201
+    type: 温泉
+-
+    id: 128
+    name: 公園湯
+    url: http://www.kouenyu.com/
+    map: https://maps.google.com/?cid=7058493021188117426&hl=ja
+    address: 北海道苫小牧市泉町1-2-10
+    price: 450
+    lat: 42.6555183
+    lng: 141.6085397
+    type: 銭湯
+-
+    id: 129
+    name: 浜益保養センター はまます温泉
+    url: http://ishikari-shakyo.org/care-center/hamamasu-onsen/
+    map: https://maps.google.com/?cid=8616924518868289059&hl=ja
+    address: 北海道石狩市浜益区実田93-2
+    price: 500
+    lat: 43.5857515
+    lng: 141.4229893
+    type: 温泉
+-
+    id: 130
+    name: スパ＆サウナ オスパー
+    url: https://itp.ne.jp/info/019492943175921320/
+    map: https://maps.google.com/?cid=5547705853747518276&hl=ja
+    address: 北海道旭川市宮下通16丁目
+    price: 1080
+    lat: 43.7601165
+    lng: 142.3709682
+    type: 温泉
+-
+    id: 131
+    name: 西春別温泉 クローバーハウス
+    url: http://www.kita-no-sento.com/sento/1008/
+    map: https://maps.google.com/?cid=1127175969568787776&hl=ja
+    address: 北海道野付郡別海町西春別95
+    price: 450
+    lat: 43.4098346
+    lng: 144.7733678
+    type: 銭湯
+-
+    id: 132
+    name: 琴似温泉
+    url: http://www.kita-no-sento.com/sento/146/
+    map: https://maps.google.com/?cid=17059749973394875879&hl=ja
+    address: 北海道札幌市西区八軒七条東1-1-11
+    price: 450
+    lat: 43.0861325
+    lng: 141.3191743
+    type: 銭湯
+-
+    id: 133
+    name: あわび山荘 貝取澗公営温泉浴場
+    url: https://www.kokumin-shukusha.or.jp/annai/ken/hokkaidou/101006.html
+    map: https://maps.google.com/?cid=12795959770719903581&hl=ja
+    address: 北海道久遠郡せたな町大成区貝取澗388
+    price: 400
+    lat: 42.1887554
+    lng: 139.8982641
+    type: 温泉
+-
+    id: 134
+    name: 京極ふれあい交流センター 京極温泉
+    url: http://www.town-kyogoku.jp/kanko-event/onsen/kyogokuonsen/
+    map: https://maps.google.com/?cid=134843942954139174&hl=ja
+    address: 北海道虻田郡京極町川西68
+    price: 600
+    lat: 42.8590434
+    lng: 140.8726966
+    type: 温泉
+-
+    id: 135
+    name: 大喜湯(昭和店)
+    url: http://www.taikiyu.com/
+    map: https://maps.google.com/?cid=7471591759976694779&hl=ja
+    address: 北海道釧路市昭和中央5-11-8
+    price: 440
+    lat: 43.0268799
+    lng: 144.3571677
+    type: 温泉
+-
+    id: 136
+    name: 知内温泉 ユートピア和楽園
+    url: http://01392onsen.com
+    map: https://maps.google.com/?cid=18082021855508841205&hl=ja
+    address: 北海道上磯郡知内町湯ノ里287
+    price: 460
+    lat: 41.6145919
+    lng: 140.3013741
+    type: 温泉
+-
+    id: 137
+    name: ひまわり温泉 森の郷
+    url: http://himawari-morinosato.com
+    map: https://maps.google.com/?cid=1086232978961157721&hl=ja
+    address: 北海道帯広市西十一条南32-7
+    price: 450
+    lat: 42.9028624
+    lng: 143.1902413
+    type: 温泉
+-
+    id: 138
+    name: 静内温泉
+    url: http://shizunai-onsen.jp/
+    map: https://maps.google.com/?cid=10724924693070327150&hl=ja
+    address: 北海道日高郡新ひだか町静内浦和106
+    price: 500
+    lat: 42.320748
+    lng: 142.4237582
+    type: 温泉
+-
+    id: 139
+    name: 北斗市健康センター せせらぎ温泉
+    url: https://www.city.hokuto.hokkaido.jp/docs/1579.html
+    map: https://maps.google.com/?cid=369952831556244615&hl=ja
+    address: 北海道北斗市本町4-3-20
+    price: 350
+    lat: 41.8794659
+    lng: 140.6401121
+    type: 温泉
+-
+    id: 140
+    name: 望月湯
+    url: http://www.kita-no-sento.com/sento/133/
+    map: https://maps.google.com/?cid=6337208359382203666&hl=ja
+    address: 北海道札幌市豊平区美園五条7-1-8
+    price: 450
+    lat: 43.0380974
+    lng: 141.3883933
+    type: 銭湯
+-
+    id: 141
+    name: 占冠 湯の沢温泉 森の四季
+    url: https://www.yunosawa.com/
+    map: https://maps.google.com/?cid=14788244706584712198&hl=ja
+    address: 北海道勇払郡占冠村占冠国有林114林班
+    price: 500
+    lat: 43.0348968
+    lng: 142.4307663
+    type: 温泉
+-
+    id: 142
+    name: 小さな駅前温泉 開拓ふくろふ乃湯
+    url: http://fukurouonsen.iiyudana.net/
+    map: https://maps.google.com/?cid=5303887854624678399&hl=ja
+    address: 北海道石狩郡当別町金沢157-7
+    price: 600
+    lat: 43.2469365
+    lng: 141.5666053
+    type: 温泉
+-
+    id: 143
+    name: 滝川ふれ愛の里
+    url: https://takikawa-fureainosato.jp/
+    map: https://maps.google.com/?cid=6776802407290457447&hl=ja
+    address: 北海道滝川市西滝川76-1
+    price: 500
+    lat: 43.5833417
+    lng: 141.8936032
+    type: 温泉
+-
+    id: 144
+    name: リフレッシュプラザ温泉998
+    url: http://www.vill.kamoenai.hokkaido.jp/hotnews/detail/00000152.html
+    map: https://maps.google.com/?cid=16083160002011359699&hl=ja
+    address: 北海道古宇郡神恵内村大川116-1
+    price: 500
+    lat: 43.1554683
+    lng: 140.4507448
+    type: 温泉
+-
+    id: 145
+    name: 日向温泉
+    url: https://m.facebook.com/hinataonsen
+    map: https://maps.google.com/?cid=12709800336115160595&hl=ja
+    address: 北海道士別市多寄町4098-6
+    price: 440
+    lat: 44.2668777
+    lng: 142.3428034
+    type: 温泉
+-
+    id: 146
+    name: 朋の湯温泉
+    url: http://www.kita-no-sento.com/sento/1103/
+    map: https://maps.google.com/?cid=13560816310192181909&hl=ja
+    address: 北海道帯広市西十一条南15-4
+    price: 450
+    lat: 42.9028624
+    lng: 143.1902413
+    type: 銭湯
+-
+    id: 147
+    name: 大雪山バーデハウス 層雲峡 黒岳の湯
+    url: http://www.sounkyo.com/kurodakenoyu.html
+    map: https://maps.google.com/?cid=3201001111249627722&hl=ja
+    address: 北海道上川郡上川町層雲峡温泉
+    price: 600
+    lat: 43.7270485
+    lng: 142.9468308
+    type: 温泉
+-
+    id: 148
+    name: まさご湯
+    url: http://www.kita-no-sento.com/sento/508/
+    map: https://maps.google.com/?cid=7401563552373121071&hl=ja
+    address: 北海道浦河郡浦河町堺町東1-11-1
+    price: 450
+    lat: 42.1767765
+    lng: 142.7607924
+    type: 銭湯
+-
+    id: 149
+    name: みつわ湯
+    url: http://www.kita-no-sento.com/sento/818/
+    map: https://maps.google.com/?cid=9840268227158291960&hl=ja
+    address: 北海道旭川市末広五条1-6-11
+    price: 450
+    lat: 43.8093607
+    lng: 142.3737271
+    type: 銭湯
+-
+    id: 150
+    name: スーパー銭湯 鳳乃舞 芽室
+    url: http://www.hounomai.com/memuro/
+    map: https://maps.google.com/?cid=5006818549539729004&hl=ja
+    address: 北海道河西郡芽室町東四条1-1-32
+    price: 410
+    lat: 42.9108659
+    lng: 143.0550049
+    type: 温泉
+-
+    id: 151
+    name: エルム高原温泉 ゆったり
+    url: http://www.akabira.net/erumu/yuttari/
+    map: https://maps.google.com/?cid=7669668394429980555&hl=ja
+    address: 北海道赤平市幌岡町377-1
+    price: 500
+    lat: 43.5963744
+    lng: 142.0476447
+    type: 温泉
+-
+    id: 152
+    name: 家族風呂 花家族
+    url: http://www.e-hanakazoku.com/
+    map: https://maps.google.com/?cid=4945767620178774726&hl=ja
+    address: 北海道函館市石川町266-10
+    price: 2000
+    lat: 41.8394743
+    lng: 140.748351
+    type: 温泉
+-
+    id: 153
+    name: ふるびら温泉 しおかぜ
+    url: http://www.town.furubira.lg.jp/tourism/detail.php?id=68
+    map: https://maps.google.com/?cid=2678643317348424706&hl=ja
+    address: 北海道古平郡古平町新地町90-1
+    price: 550
+    lat: 43.2835308
+    lng: 140.6363198
+    type: 温泉
+-
+    id: 154
+    name: 春の湯(武佐店)
+    url: http://www.harunoyu.com/
+    map: https://maps.google.com/?cid=11841946106197981917&hl=ja
+    address: 北海道釧路市武佐2-28-6
+    price: 450
+    lat: 42.9818336
+    lng: 144.4287997
+    type: 銭湯
+-
+    id: 155
+    name: 小町湯温泉
+    url: http://www.kita-no-sento.com/sento/204/
+    map: https://maps.google.com/?cid=8056592255687539753&hl=ja
+    address: 北海道小樽市信香町11-4
+    price: 450
+    lat: 43.1849091
+    lng: 141.0116376
+    type: 銭湯
+-
+    id: 156
+    name: 上ノ国町国民温泉保養センター 湯ノ岱温泉
+    url: http://www.town.kaminokuni.lg.jp/hotnews/detail/00000167.html
+    map: https://maps.google.com/?cid=7226777923737166105&hl=ja
+    address: 北海道檜山郡上ノ国町字湯ノ岱517-5
+    price: 350
+    lat: 41.7461983
+    lng: 140.2442022
+    type: 温泉
+-
+    id: 157
+    name: さかえ湯
+    url: http://www.kita-no-sento.com/sento/107/
+    map: https://maps.google.com/?cid=4093386819074803711&hl=ja
+    address: 北海道札幌市中央区北十条西22-2-1
+    price: 450
+    lat: 43.0693408
+    lng: 141.3204557
+    type: 銭湯
+-
+    id: 158
+    name: 大黒湯
+    url: http://www.kita-no-sento.com/sento/806/
+    map: https://maps.google.com/?cid=2276532185410815893&hl=ja
+    address: 北海道旭川市三条17-右2
+    price: 450
+    lat: 43.7633921
+    lng: 142.3741932
+    type: 銭湯
+-
+    id: 159
+    name: 楽々温泉
+    url: 
+    map: https://maps.google.com/?cid=4370885777689501800&hl=ja
+    address: 北海道室蘭市宮の森町4-22-17
+    price: 440
+    lat: 42.3511745
+    lng: 141.0266932
+    type: 温泉
+-
+    id: 160
+    name: かつら湯
+    url: http://www.kita-no-sento.com/sento/913/
+    map: https://maps.google.com/?cid=1063346743966693507&hl=ja
+    address: 北海道釧路市鳥取北5-5-11
+    price: 450
+    lat: 43.0185984
+    lng: 144.349398
+    type: 銭湯
+-
+    id: 161
+    name: 街のオアシス 湯めらんど
+    url: https://yume-land.info/sp/06.html
+    map: https://maps.google.com/?cid=984890521386543802&hl=ja
+    address: 北海道札幌市白石区菊水元町五条3丁目
+    price: 450
+    lat: 43.0687506
+    lng: 141.4072673
+    type: 温泉
+-
+    id: 162
+    name: たぬきの里
+    url: http://www16.plala.or.jp/tanuki-sato/
+    map: https://maps.google.com/?cid=11992319484094168068&hl=ja
+    address: 北海道帯広市西五条南15-11-3
+    price: 450
+    lat: 42.914561
+    lng: 143.197786
+    type: 温泉
+-
+    id: 163
+    name: 美好湯
+    url: 
+    map: https://maps.google.com/?cid=7130920509769745239&hl=ja
+    address: 北海道北見市美芳町7-5-23
+    price: 420
+    lat: 43.8045945
+    lng: 143.8815638
+    type: 銭湯
+-
+    id: 164
+    name: 日帰り健康ランド 華のゆ
+    url: https://www.route-inn.co.jp/hananoyu-makubetsu/index.html
+    map: https://maps.google.com/?cid=6607254694724165394&hl=ja
+    address: 北海道中川郡幕別町依田384
+    price: 950
+    lat: 42.8986511
+    lng: 143.254746
+    type: 温泉
+-
+    id: 165
+    name: 神宮温泉
+    url: http://www.kita-no-sento.com/sento/106/
+    map: https://maps.google.com/?cid=3646770156959394584&hl=ja
+    address: 北海道札幌市中央区北三条西29-1-18
+    price: 450
+    lat: 43.0593055
+    lng: 141.3123638
+    type: 銭湯
+-
+    id: 166
+    name: 自由ヶ丘温泉
+    url: 
+    map: https://maps.google.com/?cid=14164664913784347569&hl=ja
+    address: 北海道帯広市自由が丘4-4-19
+    price: 440
+    lat: 42.9017276
+    lng: 143.1565153
+    type: 温泉
+-
+    id: 167
+    name: 萬石湯
+    url: http://www.kita-no-sento.com/sento/815/
+    map: https://maps.google.com/?cid=5718678892447839034&hl=ja
+    address: 北海道旭川市旭町一条9丁目
+    price: 450
+    lat: 43.7877754
+    lng: 142.3502305
+    type: 銭湯
+-
+    id: 168
+    name: 礼文島温泉 うすゆきの湯
+    url: http://www.usuyuki.jp/
+    map: https://maps.google.com/?cid=7225214421338989621&hl=ja
+    address: 北海道礼文郡礼文町香深村ベッシュ961-1
+    price: 600
+    lat: 45.3555318
+    lng: 141.0333773
+    type: 温泉
+-
+    id: 169
+    name: 岩尾温泉 あったま〜る
+    url: https://www.town.mashike.hokkaido.jp/tourism/place/iwaospa/index.html
+    map: https://maps.google.com/?cid=11748252085700621193&hl=ja
+    address: 北海道増毛郡増毛町岩老1091-1
+    price: 500
+    lat: 43.7704968
+    lng: 141.3767893
+    type: 温泉
+-
+    id: 170
+    name: 繁次郎温泉
+    url: http://esashi-fukushikai.com/eq/eq-onsen.html
+    map: https://maps.google.com/?cid=16687577640339151767&hl=ja
+    address: 北海道檜山郡江差町尾山町126
+    price: 300
+    lat: 41.8972168
+    lng: 140.1414137
+    type: 温泉
+-
+    id: 171
+    name: 川湯公衆浴場
+    url: https://www.walkerplus.com/spot/ar0101s19451/map.html
+    map: https://maps.google.com/?cid=6006277014789548286&hl=ja
+    address: 北海道川上郡弟子屈町川湯温泉3-1-7
+    price: 250
+    lat: 43.6383968
+    lng: 144.435725
+    type: 共同浴場・銭湯
+-
+    id: 172
+    name: ローマノ福の湯
+    url: http://ro-ma.jp/
+    map: https://maps.google.com/?cid=1063960392621483865&hl=ja
+    address: 北海道帯広市東九条南12-4
+    price: 440
+    lat: 42.9199296
+    lng: 143.219593
+    type: 温泉
+-
+    id: 173
+    name: 祝梅温泉
+    url: https://www.facebook.com/%E7%A5%9D%E6%A2%85%E6%B8%A9%E6%B3%89-1452929234828060/
+    map: https://maps.google.com/?cid=11069197575843120798&hl=ja
+    address: 北海道千歳市祝梅2142-7
+    price: 350
+    lat: 42.8429345
+    lng: 141.6923658
+    type: 共同浴場・銭湯
+-
+    id: 174
+    name: 緑の湯
+    url: http://www.town.kiyosato.hokkaido.jp/kankou/onsen/midorinoyu.html
+    map: https://maps.google.com/?cid=11793129420364923093&hl=ja
+    address: 北海道斜里郡清里町緑町26
+    price: 390
+    lat: 43.7191764
+    lng: 144.5056801
+    type: 温泉
+-
+    id: 175
+    name: 七福湯
+    url: http://www.kita-no-sento.com/sento/117/
+    map: https://maps.google.com/?cid=16332821869913251103&hl=ja
+    address: 北海道札幌市中央区北四条東4-3
+    price: 450
+    lat: 43.0671579
+    lng: 141.3614574
+    type: 銭湯
+-
+    id: 176
+    name: 川下公園 リラックスプラザ
+    url: http://www.sapporo-park.or.jp/kawasimo/relaxplaza/
+    map: https://maps.google.com/?cid=8640297868929156147&hl=ja
+    address: 北海道札幌市白石区川下2651
+    price: 700
+    lat: 43.0648364
+    lng: 141.4414198
+    type: 温泉
+-
+    id: 177
+    name: 健康ハウス 木野温泉
+    url: 
+    map: https://maps.google.com/?cid=6207242433250205955&hl=ja
+    address: 北海道河東郡音更町木野大通東10-6
+    price: 600
+    lat: 42.9550176
+    lng: 143.2093432
+    type: 温泉
+-
+    id: 178
+    name: ルスツ温泉
+    url: http://www.vill.rusutsu.lg.jp/hotnews/detail/00001555.html
+    map: https://maps.google.com/?cid=13051604217312100628&hl=ja
+    address: 北海道虻田郡留寿都村留寿都156-2
+    price: 300
+    lat: 42.7292604
+    lng: 140.8675048
+    type: 共同浴場・銭湯
+-
+    id: 179
+    name: 北桧山温泉 温泉ホテル きたひやま
+    url: http://www.hotel-kitahiyama.com/
+    map: https://maps.google.com/?cid=12519858772093874464&hl=ja
+    address: 北海道久遠郡せたな町北檜山区徳島4-16
+    price: 400
+    lat: 42.4150823
+    lng: 139.8801714
+    type: 温泉
+-
+    id: 180
+    name: 根志越温泉 くるみの湯
+    url: https://pucchi.net/hokkaido/trippoint/neshikoshi.php
+    map: https://maps.google.com/?cid=5288856764980993738&hl=ja
+    address: 北海道千歳市根志越59-13
+    price: 430
+    lat: 42.8462529
+    lng: 141.6820311
+    type: 温泉
+-
+    id: 181
+    name: 菊水湯
+    url: http://www.kita-no-sento.com/sento/120/
+    map: https://maps.google.com/?cid=9355835226198961065&hl=ja
+    address: 北海道札幌市白石区菊水三条1-5-3
+    price: 450
+    lat: 43.0590752
+    lng: 141.3708991
+    type: 銭湯
+-
+    id: 182
+    name: 安平町ぬくもりセンター ぬくもりの湯
+    url: https://www.town.abira.lg.jp/midokoro/nukumori
+    map: https://maps.google.com/?cid=6627028599604788939&hl=ja
+    address: 北海道勇払郡安平町追分中央1-40
+    price: 500
+    lat: 42.8756362
+    lng: 141.8102598
+    type: 温泉
+-
+    id: 183
+    name: 天然温泉 はこだて大森の湯
+    url: https://www.paco.co.jp/hakodatebettei/spa.html
+    map: https://maps.google.com/?cid=16060968984613579271&hl=ja
+    address: 北海道函館市大森町25-7
+    price: 1100
+    lat: 41.7702366
+    lng: 140.7359137
+    type: 温泉
+-
+    id: 184
+    name: 円山温泉
+    url: http://www.kita-no-sento.com/sento/102/
+    map: https://maps.google.com/?cid=10187348539762682427&hl=ja
+    address: 北海道札幌市中央区南六条西23-5-2
+    price: 450
+    lat: 43.049599
+    lng: 141.3243653
+    type: 銭湯
+-
+    id: 185
+    name: 洞爺いこいの家
+    url: 
+    map: https://maps.google.com/?cid=4896584584396194652&hl=ja
+    address: 北海道虻田郡洞爺湖町洞爺町199
+    price: 440
+    lat: 42.6395674
+    lng: 140.8226957
+    type: 温泉
+-
+    id: 186
+    name: サンサンの湯
+    url: https://33noyu.asumot.co.jp/
+    map: https://maps.google.com/?cid=3249858440637782371&hl=ja
+    address: 北海道岩内郡岩内町字野束500
+    price: 500
+    lat: 42.9518493
+    lng: 140.5072468
+    type: 温泉
+-
+    id: 187
+    name: 鍛治温泉
+    url: http://www.kita-no-sento.com/sento/325/
+    map: https://maps.google.com/?cid=9396220127522207654&hl=ja
+    address: 北海道函館市鍛治1-34-15
+    price: 450
+    lat: 41.8064017
+    lng: 140.7642942
+    type: 銭湯
+-
+    id: 188
+    name: 虎杖浜温泉 花の湯
+    url: https://shiraoi.net/spa-stay/%E6%97%A5%E5%B8%B0%E3%82%8A%E5%85%A5%E6%B5%B4%E6%96%BD%E8%A8%AD/
+    map: https://maps.google.com/?cid=3982540908117956242&hl=ja
+    address: 北海道白老郡白老町字虎杖浜40-2
+    price: 530
+    lat: 42.4643486
+    lng: 141.2198652
+    type: 温泉
+-
+    id: 189
+    name: くつろぎ湯処 紋太の湯
+    url: http://www.op-hotel.com/access/montanoyu.html
+    map: https://maps.google.com/?cid=6309752368380223535&hl=ja
+    address: 北海道紋別市幸町5-1-35
+    price: 680
+    lat: 44.351622
+    lng: 143.3517816
+    type: 温泉
+-
+    id: 190
+    name: 田家の湯
+    url: http://www.kita-no-sento.com/sento/337/
+    map: https://maps.google.com/?cid=11495509042691265153&hl=ja
+    address: 北海道函館市田家町5-11
+    price: 450
+    lat: 41.7983703
+    lng: 140.7483611
+    type: 銭湯
+-
+    id: 191
+    name: おとべ温泉 いこいの湯
+    url: https://www.town.otobe.lg.jp/section/sangyou/e0taal0000000ln1.html
+    map: https://maps.google.com/?cid=9415464330811209699&hl=ja
+    address: 北海道爾志郡乙部町館浦527-2
+    price: 400
+    lat: 41.9784483
+    lng: 140.1415215
+    type: 温泉
+-
+    id: 192
+    name: 望洋湯
+    url: http://www.kita-no-sento.com/sento/908/
+    map: https://maps.google.com/?cid=7412627555801827443&hl=ja
+    address: 北海道釧路市春採6-4-5
+    price: 450
+    lat: 42.9681921
+    lng: 144.4127322
+    type: 銭湯
+-
+    id: 193
+    name: 利尻富士温泉
+    url: http://www.town.rishirifuji.hokkaido.jp/rishirifuji/1204.htm
+    map: https://maps.google.com/?cid=685822107812130609&hl=ja
+    address: 北海道利尻郡利尻富士町鴛泊字栄町1-227-7
+    price: 500
+    lat: 45.2456763
+    lng: 141.2229794
+    type: 温泉
+-
+    id: 194
+    name: 福祉の里温泉
+    url: https://www.sarabetsu.jp/sightseeing/shisetsu/fukushinosato/
+    map: https://maps.google.com/?cid=8532984675155718028&hl=ja
+    address: 北海道河西郡更別村更別190-1
+    price: 400
+    lat: 42.6461716
+    lng: 143.1939566
+    type: 温泉
+-
+    id: 195
+    name: 公衆浴場 くすのき
+    url: http://www1.hokkaido-kusunoki.com/?kw=web%20portal
+    map: https://maps.google.com/?cid=18138799174548232025&hl=ja
+    address: 北海道標津郡標津町南八条西1-4-1
+    price: 380
+    lat: 43.6497008
+    lng: 145.1368895
+    type: 銭湯
+-
+    id: 196
+    name: 伏見温泉
+    url: http://www.kita-no-sento.com/sento/112/
+    map: https://maps.google.com/?cid=10095876220157953645&hl=ja
+    address: 北海道札幌市中央区南十七条西17-3-24
+    price: 450
+    lat: 43.0358395
+    lng: 141.3338081
+    type: 銭湯
+-
+    id: 197
+    name: 知床斜里温泉 グリーン温泉
+    url: http://www.goodinns.com/greenspa/
+    map: https://maps.google.com/?cid=11503112480765698662&hl=ja
+    address: 北海道斜里郡斜里町港町7-4
+    price: 450
+    lat: 43.9137585
+    lng: 144.6624826
+    type: 共同浴場・銭湯
+-
+    id: 198
+    name: 清美湯
+    url: http://www.kita-no-sento.com/sento/179/
+    map: https://maps.google.com/?cid=16470926781991550441&hl=ja
+    address: 北海道江別市あけぼの町14-13
+    price: 450
+    lat: 43.102009
+    lng: 141.5789189
+    type: 銭湯
+-
+    id: 199
+    name: 扇の湯
+    url: http://www.kita-no-sento.com/sento/142/
+    map: https://maps.google.com/?cid=1926487634403067482&hl=ja
+    address: 北海道札幌市西区琴似三条4-1-1
+    price: 450
+    lat: 43.0782611
+    lng: 141.3019563
+    type: 銭湯
+-
+    id: 200
+    name: 柳川湯
+    url: http://www.kita-no-sento.com/sento/211/
+    map: https://maps.google.com/?cid=1947291808395603371&hl=ja
+    address: 北海道小樽市稲穂3-16-16
+    price: 450
+    lat: 43.200058
+    lng: 140.9951251
+    type: 銭湯
+-
+    id: 201
+    name: 七飯町健康センター アップル温泉
+    url: http://www.town.nanae.hokkaido.jp/hotnews/detail/00000314.html
+    map: https://maps.google.com/?cid=7729875759613523193&hl=ja
+    address: 北海道亀田郡七飯町中野194-1
+    price: 400
+    lat: 41.8599648
+    lng: 140.7082721
+    type: 温泉
+-
+    id: 202
+    name: 西ききょう温泉 健康グランド
+    url: http://www.hakonavi.ne.jp/spa/hakodate/nishikikyou/index.html
+    map: https://maps.google.com/?cid=17439865919232341827&hl=ja
+    address: 北海道函館市西桔梗町444-1
+    price: 370
+    lat: 41.8308273
+    lng: 140.712185
+    type: 温泉
+-
+    id: 203
+    name: 松の湯
+    url: http://www.kita-no-sento.com/sento/828/
+    map: https://maps.google.com/?cid=9738007395596070148&hl=ja
+    address: 北海道上川郡美瑛町西町1-8-7
+    price: 450
+    lat: 43.587867
+    lng: 142.4581382
+    type: 銭湯
+-
+    id: 204
+    name: 松前温泉休養センター
+    url: http://www.hakonavi.ne.jp/spa/dounan/matsumaeonsen/index.html
+    map: https://maps.google.com/?cid=184687805229440304&hl=ja
+    address: 北海道松前郡松前町大沢652-14
+    price: 400
+    lat: 41.4354688
+    lng: 140.148891
+    type: 温泉
+-
+    id: 205
+    name: 湯川温泉 大盛湯
+    url: http://www.taiseiyu.com/
+    map: https://maps.google.com/?cid=13596287525633926719&hl=ja
+    address: 北海道函館市湯川町2-18-23
+    price: 450
+    lat: 41.7803489
+    lng: 140.7900635
+    type: 共同浴場・銭湯
+-
+    id: 206
+    name: 吉岡温泉 ゆとらぎ館
+    url: 
+    map: https://maps.google.com/?cid=16770350728082325179&hl=ja
+    address: 北海道松前郡福島町吉岡303
+    price: 400
+    lat: 41.4435065
+    lng: 140.227347
+    type: 温泉
+-
+    id: 207
+    name: ななえ天然温泉 ゆうひの館
+    url: https://www.hakobura.jp/db/db-onsen/2012/12/post-41.html
+    map: https://maps.google.com/?cid=10867764221501153639&hl=ja
+    address: 北海道亀田郡七飯町本町4-6-1
+    price: 450
+    lat: 41.896558
+    lng: 140.6901906
+    type: 温泉
+-
+    id: 208
+    name: 仲洞爺温泉 来夢人の家
+    url: http://www.sobetsu-onsen.net/onsen/kimundo.html
+    map: https://maps.google.com/?cid=15702894322579110907&hl=ja
+    address: 北海道有珠郡壮瞥町仲洞爺30-11
+    price: 420
+    lat: 42.6137294
+    lng: 140.9159023
+    type: 温泉
+-
+    id: 209
+    name: フタバゆ
+    url: http://www.kita-no-sento.com/sento/820/
+    map: https://maps.google.com/?cid=7354682986041660875&hl=ja
+    address: 北海道旭川市春光七条5-2-22
+    price: 450
+    lat: 43.8056073
+    lng: 142.3569409
+    type: 銭湯
+-
+    id: 210
+    name: 花沢温泉 花沢温泉簡易浴場
+    url: http://www.town.kaminokuni.lg.jp/hotnews/detail/00000166.html
+    map: https://maps.google.com/?cid=10048984001025201194&hl=ja
+    address: 北海道檜山郡上ノ国町勝山161
+    price: 200
+    lat: 41.7979444
+    lng: 140.1144894
+    type: 共同浴場・銭湯
+-
+    id: 211
+    name: 大学湯
+    url: http://www.kita-no-sento.com/sento/159/
+    map: https://maps.google.com/?cid=16123598573758528161&hl=ja
+    address: 北海道札幌市東区北二十七条東4-1-43
+    price: 450
+    lat: 43.0975718
+    lng: 141.3683805
+    type: 銭湯
+-
+    id: 212
+    name: 上士幌町健康増進センター ふれあいプラザ
+    url: https://www.kamishihoro.jp/sp/fureaiplaza
+    map: https://maps.google.com/?cid=18141725956365499548&hl=ja
+    address: 北海道河東郡上士幌町上士幌東3線236
+    price: 300
+    lat: 43.2302394
+    lng: 143.2965428
+    type: 温泉
+-
+    id: 213
+    name: 神威脇温泉保養所
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/05okushi/parts/1502kmi.htm
+    map: https://maps.google.com/?cid=4368853475936397316&hl=ja
+    address: 北海道奥尻郡奥尻町湯浜
+    price: 420
+    lat: 42.1678306
+    lng: 139.4310524
+    type: 温泉
+-
+    id: 214
+    name: 臼別温泉 湯とぴあ臼別
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/04s_tais/parts/1403yut.htm
+    map: https://maps.google.com/?cid=11467064853165068764&hl=ja
+    address: 北海道久遠郡せたな町大成区平浜691
+    price: 100
+    lat: 42.2132973
+    lng: 139.8940568
+    type: 温泉
+-
+    id: 215
+    name: ウトロ温泉 夕陽台の湯
+    url: https://www.shiretoko.asia/list_scenery.html
+    map: https://maps.google.com/?cid=12562721751844618944&hl=ja
+    address: 北海道斜里郡斜里町ウトロ東429
+    price: 500
+    lat: 44.072235
+    lng: 144.9990963
+    type: 温泉
+-
+    id: 216
+    name: 奥の湯
+    url: http://okunoyu-sentou.com/
+    map: https://maps.google.com/?cid=2783801532846163608&hl=ja
+    address: 北海道札幌市北区北三十一条西3-4-15
+    price: 450
+    lat: 43.0971799
+    lng: 141.3363403
+    type: 銭湯
+-
+    id: 217
+    name: 共栄湯
+    url: http://www.kita-no-sento.com/sento/125/
+    map: https://maps.google.com/?cid=11851848191051755376&hl=ja
+    address: 北海道札幌市白石区東札幌五条4-1-6
+    price: 450
+    lat: 43.0519631
+    lng: 141.3917848
+    type: 銭湯
+-
+    id: 218
+    name: 鶴の湯
+    url: http://www.kita-no-sento.com/sento/914/
+    map: https://maps.google.com/?cid=16656569678843939511&hl=ja
+    address: 北海道釧路市星ヶ浦南3-4-13
+    price: 450
+    lat: 43.0114301
+    lng: 144.317913
+    type: 銭湯
+-
+    id: 219
+    name: 錦湯
+    url: http://nishikiyu.com/
+    map: https://maps.google.com/?cid=943563362897599234&hl=ja
+    address: 北海道恵庭市相生町158
+    price: 400
+    lat: 42.880522
+    lng: 141.585192
+    type: 銭湯
+-
+    id: 220
+    name: 大正湯
+    url: http://www.kita-no-sento.com/sento/302/
+    map: https://maps.google.com/?cid=16621780339474372517&hl=ja
+    address: 北海道函館市弥生町14-9
+    price: 450
+    lat: 41.7706899
+    lng: 140.7031333
+    type: 銭湯
+-
+    id: 221
+    name: ゆーあいの家
+    url: http://www.sobetsu-onsen.net/onsen/yu-ai.html
+    map: https://maps.google.com/?cid=16110499151850696154&hl=ja
+    address: 北海道有珠郡壮瞥町字滝之町290-44
+    price: 420
+    lat: 42.548229
+    lng: 140.8791393
+    type: 温泉
+-
+    id: 222
+    name: こもれび温泉
+    url: http://www.town.shiriuchi.hokkaido.jp/kanko/meisho/komorebionsen.html
+    map: https://maps.google.com/?cid=3375869289213888564&hl=ja
+    address: 北海道上磯郡知内町元町103-2
+    price: 400
+    lat: 41.5792381
+    lng: 140.4151334
+    type: 温泉
+-
+    id: 223
+    name: 風呂楽
+    url: http://sugi1709.onasake.com/
+    map: https://maps.google.com/?cid=18386176156343774356&hl=ja
+    address: 北海道札幌市南区澄川四条9-10-62
+    price: 450
+    lat: 43.0024661
+    lng: 141.3668831
+    type: 銭湯
+-
+    id: 224
+    name: 標茶温泉 富士温泉
+    url: http://www.sip.or.jp/~kankou/stay/stay-top.html
+    map: https://maps.google.com/?cid=3317292479961450716&hl=ja
+    address: 北海道川上郡標茶町富士5-26
+    price: 360
+    lat: 43.2959223
+    lng: 144.6036677
+    type: 共同浴場・銭湯
+-
+    id: 225
+    name: 東豊湯
+    url: http://www.kita-no-sento.com/sento/119/
+    map: https://maps.google.com/?cid=7190753095978578815&hl=ja
+    address: 北海道札幌市豊平区豊平八条8-1-7
+    price: 450
+    lat: 43.0455186
+    lng: 141.3701702
+    type: 銭湯
+-
+    id: 226
+    name: 富美の湯
+    url: http://www.kita-no-sento.com/sento/502/
+    map: https://maps.google.com/?cid=5570388594283339850&hl=ja
+    address: 北海道苫小牧市沼の端638-16
+    price: 450
+    lat: 42.669198
+    lng: 141.7084294
+    type: 銭湯
+-
+    id: 227
+    name: さつき湯
+    url: http://www.kita-no-sento.com/sento/105/
+    map: https://maps.google.com/?cid=14198290687280481905&hl=ja
+    address: 北海道札幌市中央区北五条西24-3-11
+    price: 450
+    lat: 43.0634022
+    lng: 141.3188427
+    type: 銭湯
+-
+    id: 228
+    name: 大滝区共同浴場 ふるさとの湯
+    url: 
+    map: https://maps.google.com/?cid=3143436790826723633&hl=ja
+    address: 北海道伊達市大滝区優徳町87-11
+    price: 無料
+    lat: 42.6406415
+    lng: 141.0439003
+    type: 共同浴場・銭湯
+-
+    id: 229
+    name: 苫の湯
+    url: http://www.kita-no-sento.com/sento/507/
+    map: https://maps.google.com/?cid=10292896823217153177&hl=ja
+    address: 北海道苫小牧市大成町1-12-10
+    price: 450
+    lat: 42.6286444
+    lng: 141.5749173
+    type: 銭湯
+-
+    id: 230
+    name: 越川温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=12071977282173141699&hl=ja
+    address: 北海道斜里郡斜里町越川
+    price: 200
+    lat: 43.8481902
+    lng: 144.795195
+    type: 共同浴場・銭湯
+-
+    id: 231
+    name: 桜成浴場
+    url: http://www.kita-no-sento.com/sento/317/
+    map: https://maps.google.com/?cid=9430209282905784218&hl=ja
+    address: 北海道函館市上新川町5-6
+    price: 450
+    lat: 41.7798861
+    lng: 140.7363835
+    type: 銭湯
+-
+    id: 232
+    name: 標茶温泉 味幸園
+    url: 
+    map: https://maps.google.com/?cid=10282780060957643006&hl=ja
+    address: 北海道川上郡標茶町下オソツベツ628
+    price: 400
+    lat: 43.3304706
+    lng: 144.4835723
+    type: 温泉
+-
+    id: 233
+    name: 喜楽湯
+    url: http://www.kita-no-sento.com/sento/919/
+    map: https://maps.google.com/?cid=13860758056072457852&hl=ja
+    address: 北海道厚岸郡厚岸町真栄2-108
+    price: 450
+    lat: 43.053977
+    lng: 144.8450512
+    type: 銭湯
+-
+    id: 234
+    name: 高栄湯
+    url: http://www.kita-no-sento.com/sento/1303/
+    map: https://maps.google.com/?cid=15709696649653931468&hl=ja
+    address: 北海道北見市高栄西町7-5-4
+    price: 450
+    lat: 43.8145594
+    lng: 143.8601443
+    type: 銭湯
+-
+    id: 235
+    name: 樹海温泉 はくあ
+    url: http://www.town.mukawa.lg.jp/2649.htm
+    map: https://maps.google.com/?cid=16223077283917206446&hl=ja
+    address: 北海道勇払郡むかわ町穂別稲里417-1
+    price: 520
+    lat: 42.8678045
+    lng: 142.1587051
+    type: 温泉
+-
+    id: 236
+    name: 和の湯 やわらぎの湯
+    url: http://www.yakumo-okanoeki.com/spot/detail.php?id=317
+    map: https://maps.google.com/?cid=3414283451923432391&hl=ja
+    address: 北海道二海郡八雲町立岩201-8
+    price: 440
+    lat: 42.2767499
+    lng: 140.2390821
+    type: 温泉
+-
+    id: 237
+    name: 大船温泉 下の湯
+    url: http://shimonoyu.com/burogu/onsen-simonoyu
+    map: https://maps.google.com/?cid=17237918086640130467&hl=ja
+    address: 北海道函館市大船町
+    price: 300
+    lat: 41.9578197
+    lng: 140.9122748
+    type: 共同浴場・銭湯
+-
+    id: 238
+    name: 21世紀の森 森の湯
+    url: http://www.asahikawashi21seikinomori.net/family.html
+    map: https://maps.google.com/?cid=14093082495177871037&hl=ja
+    address: 北海道旭川市東旭川町瑞穂937
+    price: 無料
+    lat: 43.7156393
+    lng: 142.6783308
+    type: 温泉
+-
+    id: 239
+    name: 上里温泉 上里ふれあい交流センター
+    url: https://www.town.assabu.lg.jp/modules/sightinfo/content0067.html
+    map: https://maps.google.com/?cid=7506360148277770150&hl=ja
+    address: 北海道桧山郡厚沢部町字上里92-1
+    price: 400
+    lat: 41.9325879
+    lng: 140.2364353
+    type: 温泉
+-
+    id: 240
+    name: 丹頂湯
+    url: http://www.kita-no-sento.com/sento/901/
+    map: https://maps.google.com/?cid=17058631323948803950&hl=ja
+    address: 北海道釧路市鳥取大通3-12-24
+    price: 450
+    lat: 43.0137141
+    lng: 144.3571444
+    type: 銭湯
+-
+    id: 241
+    name: 池田清見温泉
+    url: https://kankou-ikeda.com/shop/242/
+    map: https://maps.google.com/?cid=14588972598643024089&hl=ja
+    address: 北海道中川郡池田町清見ヶ丘10
+    price: 450
+    lat: 42.9292353
+    lng: 143.4559798
+    type: 温泉
+-
+    id: 242
+    name: 函館伏白稲荷温泉
+    url: 
+    map: https://maps.google.com/?cid=14231465118074983760&hl=ja
+    address: 北海道函館市陣川町122-7
+    price: 500
+    lat: 41.8373631
+    lng: 140.7913936
+    type: 温泉
+-
+    id: 243
+    name: 千成湯
+    url: http://www.kita-no-sento.com/sento/136/
+    map: https://maps.google.com/?cid=891261388527703310&hl=ja
+    address: 北海道札幌市豊平区平岸二条2-2-6
+    price: 450
+    lat: 43.0414526
+    lng: 141.3686324
+    type: 銭湯
+-
+    id: 244
+    name: ふれあい湯遊館
+    url: http://toi-wp.com/spa.php
+    map: https://maps.google.com/?cid=1389559988627959068&hl=ja
+    address: 北海道函館市原木町285-1
+    price: 360
+    lat: 41.7295617
+    lng: 141.0318764
+    type: 温泉
+-
+    id: 245
+    name: 多目的研修集会施設 弄月館
+    url: https://www.city.date.hokkaido.jp/hotnews/detail/00002435.html
+    map: https://maps.google.com/?cid=8983331919370580152&hl=ja
+    address: 北海道伊達市弄月町164-9
+    price: 440
+    lat: 42.4628344
+    lng: 140.8952827
+    type: 温泉
+-
+    id: 246
+    name: 利尻ふれあい温泉
+    url: http://hotel.rishiri.jp/onsen.html
+    map: https://maps.google.com/?cid=511655516005811003&hl=ja
+    address: 北海道利尻郡利尻町沓形富士見町94
+    price: 550
+    lat: 45.1865517
+    lng: 141.1295668
+    type: 温泉
+-
+    id: 247
+    name: 大正湯
+    url: http://www.kita-no-sento.com/sento/110/
+    map: https://maps.google.com/?cid=3440315138582533481&hl=ja
+    address: 北海道札幌市中央区南十条西6-6-22
+    price: 450
+    lat: 43.0472837
+    lng: 141.350146
+    type: 銭湯
+-
+    id: 248
+    name: 道の駅 パパスランドさっつる パパスランド温泉
+    url: https://papasland-satturu.com
+    map: https://maps.google.com/?cid=12586458197095819326&hl=ja
+    address: 北海道斜里郡清里町神威1071
+    price: 390
+    lat: 43.7907739
+    lng: 144.5346384
+    type: 温泉
+-
+    id: 249
+    name: 町営公衆浴場 泉の湯
+    url: https://www.masyuko.or.jp/introduce/izuminoyu/
+    map: https://maps.google.com/?cid=6372037393373071560&hl=ja
+    address: 北海道川上郡弟子屈町泉3-4-30
+    price: 200
+    lat: 43.4810685
+    lng: 144.4659506
+    type: 共同浴場・銭湯
+-
+    id: 250
+    name: 摩周温泉 亀の湯
+    url: https://www.masyuko.or.jp/introduce/kamenoyu/
+    map: https://maps.google.com/?cid=12112158009268966312&hl=ja
+    address: 北海道川上郡弟子屈町桜丘2-3-1
+    price: 200
+    lat: 43.4797247
+    lng: 144.4483089
+    type: 共同浴場・銭湯
+-
+    id: 251
+    name: サンホールはぴねす
+    url: http://www.town.takasu.hokkaido.jp/kurashi/shisetsu/hapinesu.html
+    map: https://maps.google.com/?cid=7131110131624657932&hl=ja
+    address: 北海道上川郡鷹栖町南1条3-2-1
+    price: 400
+    lat: 43.8438884
+    lng: 142.3565841
+    type: 温泉
+-
+    id: 252
+    name: 緑丘温泉 みどりヶ丘の湯っこ
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/07esashi/parts/1711mdr.htm
+    map: https://maps.google.com/?cid=11941516365325702027&hl=ja
+    address: 北海道檜山郡江差町字緑丘172
+    price: 390
+    lat: 41.8640666
+    lng: 140.1365534
+    type: 温泉
+-
+    id: 253
+    name: 金栄湯
+    url: http://www.kita-no-sento.com/sento/803/
+    map: https://maps.google.com/?cid=13363153170169666108&hl=ja
+    address: 北海道旭川市一条2-右4
+    price: 450
+    lat: 43.7678257
+    lng: 142.3483433
+    type: 銭湯
+-
+    id: 254
+    name: ふれあいセンター フロックス
+    url: http://www.fukujyuen.info/phlox.php
+    map: https://maps.google.com/?cid=15501644135572913038&hl=ja
+    address: 北海道網走郡大空町東藻琴387-8
+    price: 440
+    lat: 43.8406436
+    lng: 144.2909633
+    type: 温泉
+-
+    id: 255
+    name: 女満別農業構造改善センター ひまわり温泉
+    url: http://www.town.ozora.hokkaido.jp/docs/2014111400022/
+    map: https://maps.google.com/?cid=7799165280172279745&hl=ja
+    address: 北海道網走郡大空町女満別西四条5-4-2
+    price: 450
+    lat: 43.9072918
+    lng: 144.1733704
+    type: 温泉
+-
+    id: 256
+    name: よいち観光温泉
+    url: 
+    map: https://maps.google.com/?cid=13321393745132932374&hl=ja
+    address: 北海道余市郡余市町山田町7
+    price: 420
+    lat: 43.1852092
+    lng: 140.7826359
+    type: 温泉
+-
+    id: 257
+    name: ニュー銭湯豊川
+    url: https://toyokawayu.wixsite.com/toyokawayu
+    map: https://maps.google.com/?cid=5980128252857811832&hl=ja
+    address: 北海道苫小牧市豊川町4-7-7
+    price: 420
+    lat: 42.6341128
+    lng: 141.5484828
+    type: 銭湯
+-
+    id: 258
+    name: 川沿湯
+    url: http://www.kita-no-sento.com/sento/116/
+    map: https://maps.google.com/?cid=15347435095556643938&hl=ja
+    address: 北海道札幌市南区川沿四条3-2-1
+    price: 450
+    lat: 42.9950952
+    lng: 141.3312717
+    type: 銭湯
+-
+    id: 259
+    name: 松乃湯
+    url: 
+    map: https://maps.google.com/?cid=5231639244188502584&hl=ja
+    address: 北海道岩見沢市日の出町24
+    price: 500
+    lat: 43.2055068
+    lng: 141.7852534
+    type: 銭湯
+-
+    id: 260
+    name: 星の湯
+    url: http://www.kita-no-sento.com/sento/915/
+    map: https://maps.google.com/?cid=18006741025304432411&hl=ja
+    address: 北海道釧路市星ヶ浦北2-1-66
+    price: 450
+    lat: 43.0176726
+    lng: 144.3147438
+    type: 銭湯
+-
+    id: 261
+    name: 丸瀬布温泉 やまびこ
+    url: http://engaru.jp/asobu-manabu/21kyoutsu/kankousisetu/onsen/maruseppu-onsen/yamabiko.html
+    map: https://maps.google.com/?cid=904399099631257364&hl=ja
+    address: 北海道紋別郡遠軽町丸瀬布上武利53
+    price: 500
+    lat: 43.9321201
+    lng: 143.3329268
+    type: 温泉
+-
+    id: 262
+    name: ときわ湯
+    url: http://www.kita-no-sento.com/sento/1305/
+    map: https://maps.google.com/?cid=17201160643157407501&hl=ja
+    address: 北海道網走市四条西2-10
+    price: 450
+    lat: 44.0199814
+    lng: 144.2653715
+    type: 銭湯
+-
+    id: 263
+    name: 黄金湯
+    url: http://koganeyu-nakaton.com/
+    map: https://maps.google.com/?cid=3183848732023921416&hl=ja
+    address: 北海道枝幸郡中頓別町中頓別60-1
+    price: 400
+    lat: 44.9730131
+    lng: 142.2888668
+    type: 銭湯
+-
+    id: 264
+    name: 今金町交流促進センター あったからんど
+    url: http://www.hakonavi.ne.jp/spa/dounan/attakaland/index.html
+    map: https://maps.google.com/?cid=2597230982729967532&hl=ja
+    address: 北海道瀬棚郡今金町今金435-270
+    price: 420
+    lat: 42.424192
+    lng: 140.0194581
+    type: 温泉
+-
+    id: 265
+    name: 松の湯
+    url: http://www.kita-no-sento.com/sento/501/
+    map: https://maps.google.com/?cid=14984625308974634350&hl=ja
+    address: 北海道苫小牧市浜町2-6-12
+    price: 450
+    lat: 42.6270485
+    lng: 141.5929019
+    type: 銭湯
+-
+    id: 266
+    name: 末広湯
+    url: http://www.kita-no-sento.com/sento/111/
+    map: https://maps.google.com/?cid=6963820612134102589&hl=ja
+    address: 北海道札幌市中央区南十一条西12-1-12
+    price: 450
+    lat: 43.0445402
+    lng: 141.3342809
+    type: 銭湯
+-
+    id: 267
+    name: 久保内ふれあいセンター
+    url: http://www.sobetsu-onsen.net/onsen/kubonai.html
+    map: https://maps.google.com/?cid=12894326261855857190&hl=ja
+    address: 北海道有珠郡壮瞥町南久保内151-3
+    price: 420
+    lat: 42.5774942
+    lng: 140.956632
+    type: 温泉
+-
+    id: 268
+    name: 越の湯
+    url: http://www.kita-no-sento.com/sento/1003/
+    map: https://maps.google.com/?cid=1944997203221414820&hl=ja
+    address: 北海道根室市平内町2-12
+    price: 450
+    lat: 43.3319519
+    lng: 145.5756081
+    type: 銭湯
+-
+    id: 269
+    name: 滝の湯
+    url: http://www.kita-no-sento.com/sento/148/
+    map: https://maps.google.com/?cid=9523350281869479397&hl=ja
+    address: 北海道札幌市西区発寒十三条4-1-25
+    price: 450
+    lat: 43.1026075
+    lng: 141.2870575
+    type: 銭湯
+-
+    id: 270
+    name: みずほ湯
+    url: http://www.kita-no-sento.com/sento/824/
+    map: https://maps.google.com/?cid=9299907782946791235&hl=ja
+    address: 北海道旭川市永山六条15-6-5
+    price: 450
+    lat: 43.8033199
+    lng: 142.431132
+    type: 銭湯
+-
+    id: 271
+    name: 美香保湯
+    url: http://www.kita-no-sento.com/sento/155/
+    map: https://maps.google.com/?cid=12100561965227572552&hl=ja
+    address: 北海道札幌市東区北十七条東8-2-10
+    price: 450
+    lat: 43.0837305
+    lng: 141.3663671
+    type: 銭湯
+-
+    id: 272
+    name: せたな町公営温泉浴場 やすらぎ館
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/02s_seta/parts/1201stn.htm
+    map: https://maps.google.com/?cid=10307763340745762856&hl=ja
+    address: 北海道久遠郡せたな町瀬棚区本町948-7
+    price: 400
+    lat: 42.4478263
+    lng: 139.852398
+    type: 温泉
+-
+    id: 273
+    name: 珊内ぬくもり温泉
+    url: http://www.vill.kamoenai.hokkaido.jp/hotnews/detail/00000151.html
+    map: https://maps.google.com/?cid=9048564874955096260&hl=ja
+    address: 北海道古宇郡神恵内村珊内村57-29
+    price: 500
+    lat: 43.1967471
+    lng: 140.348148
+    type: 温泉
+-
+    id: 274
+    name: 朝日湯
+    url: http://www.kita-no-sento.com/sento/210/
+    map: https://maps.google.com/?cid=10431243187682586756&hl=ja
+    address: 北海道小樽市緑2-2-10
+    price: 450
+    lat: 43.1866133
+    lng: 140.9885252
+    type: 銭湯
+-
+    id: 275
+    name: 玉の湯
+    url: http://www.kita-no-sento.com/sento/215/
+    map: https://maps.google.com/?cid=16176871188416777308&hl=ja
+    address: 北海道小樽市錦町13-3
+    price: 450
+    lat: 43.20689
+    lng: 140.9970096
+    type: 銭湯
+-
+    id: 276
+    name: 花の湯
+    url: 
+    map: https://maps.google.com/?cid=14581526865180520210&hl=ja
+    address: 北海道札幌市豊平区中の島二条4-5-8
+    price: 450
+    lat: 43.0319372
+    lng: 141.3600678
+    type: 銭湯
+-
+    id: 277
+    name: 美瑛町 国民保養センター
+    url: https://www.town.biei.hokkaido.jp/facility/hoyou.html
+    map: https://maps.google.com/?cid=15246866063947865849&hl=ja
+    address: 北海道上川郡美瑛町白金10502
+    price: 300
+    lat: 43.4629555
+    lng: 142.6831375
+    type: 温泉
+-
+    id: 278
+    name: コタン共同浴場
+    url: https://www.masyuko.or.jp/introduce/cotankyoudou/
+    map: https://maps.google.com/?cid=7156030888903651112&hl=ja
+    address: 北海道川上郡弟子屈町古丹
+    price: 300
+    lat: 43.5646362
+    lng: 144.3431594
+    type: 共同浴場・銭湯
+-
+    id: 279
+    name: 川汲温泉 明林荘
+    url: 
+    map: https://maps.google.com/?cid=6314288759045695339&hl=ja
+    address: 北海道函館市川汲町
+    price: 420
+    lat: 41.8945473
+    lng: 140.9633034
+    type: 共同浴場・銭湯
+-
+    id: 280
+    name: 浦臼町自然休養村センター
+    url: https://www.town.urausu.hokkaido.jp/syoukai/syukuhaku.html
+    map: https://maps.google.com/?cid=4220288934106205036&hl=ja
+    address: 北海道樺戸郡浦臼町キナウスナイ188
+    price: 410
+    lat: 43.4503048
+    lng: 141.8360494
+    type: 温泉
+-
+    id: 281
+    name: こがね湯
+    url: http://www.kita-no-sento.com/sento/817/
+    map: https://maps.google.com/?cid=18062186856582793628&hl=ja
+    address: 北海道旭川市春光五条5-3-3
+    price: 450
+    lat: 43.8018971
+    lng: 142.3624052
+    type: 銭湯
+-
+    id: 282
+    name: 滝下温泉 たっぷりかん
+    url: 
+    map: https://maps.google.com/?cid=13991462143272875913&hl=ja
+    address: 北海道留萌郡小平町
+    price: 300
+    lat: 44.0151849
+    lng: 141.6627351
+    type: 共同浴場・銭湯
+-
+    id: 283
+    name: 天然温泉 日の出湯
+    url: http://www.kita-no-sento.com/sento/602/
+    map: https://maps.google.com/?cid=14229622230998899135&hl=ja
+    address: 北海道滝川市大町1-5-23
+    price: 450
+    lat: 43.5571288
+    lng: 141.9126145
+    type: 銭湯
+-
+    id: 284
+    name: 訓子府温泉 保養センター
+    url: http://www.town.kunneppu.hokkaido.jp/life/norinsyoko/onsen.html
+    map: https://maps.google.com/?cid=9629837378045062567&hl=ja
+    address: 北海道常呂郡訓子府町穂波69-66
+    price: 390
+    lat: 43.7262873
+    lng: 143.7497603
+    type: 温泉
+-
+    id: 285
+    name: 鷹の湯
+    url: http://www.kita-no-sento.com/sento/118/
+    map: https://maps.google.com/?cid=15314896323580795478&hl=ja
+    address: 北海道札幌市豊平区豊平四条7-1-3
+    price: 450
+    lat: 43.0498888
+    lng: 141.3732829
+    type: 銭湯
+-
+    id: 286
+    name: 福の湯
+    url: http://www.fukunoyu.net/
+    map: https://maps.google.com/?cid=13999775246368167651&hl=ja
+    address: 北海道札幌市北区新琴似七条6-6-1
+    price: 450
+    lat: 43.1140834
+    lng: 141.3264591
+    type: 銭湯
+-
+    id: 287
+    name: 乙部町 ゆりの里活性化センター
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/yurinosato.htm
+    map: https://maps.google.com/?cid=1378025368380147953&hl=ja
+    address: 北海道爾志郡乙部町鳥山427-1
+    price: 300
+    lat: 41.995022
+    lng: 140.1281968
+    type: 温泉
+-
+    id: 288
+    name: 館城温泉 館地区憩いの家
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/08assabu/parts/1803tts.htm
+    map: https://maps.google.com/?cid=1111546127426531496&hl=ja
+    address: 北海道檜山郡厚沢部町館町628-3
+    price: 380
+    lat: 41.8899731
+    lng: 140.3475714
+    type: 温泉
+-
+    id: 289
+    name: 江差町 ぬくもり温泉保養センター
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/nukumori.htm
+    map: https://maps.google.com/?cid=15269589012565272681&hl=ja
+    address: 北海道檜山郡江差町尾山町126
+    price: 440
+    lat: 41.8972168
+    lng: 140.1414137
+    type: 温泉
+-
+    id: 290
+    name: 花園湯
+    url: http://www.kita-no-sento.com/sento/818/
+    map: https://maps.google.com/?cid=15123412955283768100&hl=ja
+    address: 北海道旭川市春光四条7-4-7
+    price: 450
+    lat: 43.8042469
+    lng: 142.3681855
+    type: 銭湯
+-
+    id: 291
+    name: 平和湯
+    url: http://www.kita-no-sento.com/sento/813/
+    map: https://maps.google.com/?cid=4132232480973639746&hl=ja
+    address: 北海道旭川市大町二条1丁目
+    price: 450
+    lat: 43.7829198
+    lng: 142.3670565
+    type: 銭湯
+-
+    id: 292
+    name: 喜多の湯
+    url: http://www.kita-no-sento.com/sento/164/
+    map: https://maps.google.com/?cid=8814513975052415741&hl=ja
+    address: 北海道札幌市東区北四十四条東7-3-16
+    price: 450
+    lat: 43.1143399
+    lng: 141.354823
+    type: 銭湯
+-
+    id: 293
+    name: 菊水湯
+    url: http://www.kita-no-sento.com/sento/804/
+    map: https://maps.google.com/?cid=5588826295335126441&hl=ja
+    address: 北海道旭川市六条西6丁目
+    price: 450
+    lat: 43.7763104
+    lng: 142.342655
+    type: 銭湯
+-
+    id: 294
+    name: 吉野地区活性化センター 吉野温泉
+    url: http://www.town.shintotsukawa.lg.jp/kanko/detail/00000348.html
+    map: https://maps.google.com/?cid=7769198586554121146&hl=ja
+    address: 北海道樺戸郡新十津川町吉野1-39
+    price: 300
+    lat: 43.5914266
+    lng: 141.7321651
+    type: 温泉
+-
+    id: 295
+    name: こまき湯
+    url: http://www.kita-no-sento.com/sento/916/
+    map: https://maps.google.com/?cid=4386071288132062141&hl=ja
+    address: 北海道釧路郡釧路町曙町5-15
+    price: 450
+    lat: 43.0192245
+    lng: 144.4137393
+    type: 銭湯
+-
+    id: 296
+    name: 総合交流促進施設 北のしーま
+    url: https://www.its-mo.com/detail/KNK_ZPOI-00000000000003225052/
+    map: https://maps.google.com/?cid=15216604838102257956&hl=ja
+    address: 北海道利尻郡利尻富士町鬼脇字鬼脇19
+    price: 500
+    lat: 45.1330147
+    lng: 141.3060393
+    type: 温泉
+-
+    id: 297
+    name: 町民憩の家
+    url: 
+    map: https://maps.google.com/?cid=14894323196678363295&hl=ja
+    address: 北海道斜里郡斜里町西町14
+    price: 300
+    lat: 43.914045
+    lng: 144.6437882
+    type: 共同浴場・銭湯
+-
+    id: 298
+    name: 函館市 恵山福祉センター
+    url: https://www.city.hakodate.hokkaido.jp/docs/2017111400054/
+    map: https://maps.google.com/?cid=13791854653252214492&hl=ja
+    address: 北海道函館市柏野町117-209
+    price: 300
+    lat: 41.7901228
+    lng: 141.1536868
+    type: 温泉
+-
+    id: 299
+    name: 大正湯温泉
+    url: http://www.kita-no-sento.com/sento/209/
+    map: https://maps.google.com/?cid=13040460124214299346&hl=ja
+    address: 北海道小樽市花園4-14-15
+    price: 450
+    lat: 43.1882898
+    lng: 140.9979455
+    type: 銭湯
+-
+    id: 300
+    name: 和琴温泉共同浴場
+    url: 
+    map: https://maps.google.com/?cid=6772943409491812539&hl=ja
+    address: 北海道川上郡弟子屈町字屈斜路和琴
+    price: 無料
+    lat: 43.5794872
+    lng: 144.3106071
+    type: 共同浴場・銭湯
+-
+    id: 301
+    name: 北光湯
+    url: http://www.kita-no-sento.com/sento/156/
+    map: https://maps.google.com/?cid=13162417918445012679&hl=ja
+    address: 北海道札幌市東区北十条東4-5-1
+    price: 450
+    lat: 43.0744323
+    lng: 141.359803
+    type: 銭湯
+-
+    id: 302
+    name: 新得町営浴場
+    url: 
+    map: https://maps.google.com/?cid=11289643273413987948&hl=ja
+    address: 北海道上川郡新得町本通南1丁目
+    price: 450
+    lat: 43.0822373
+    lng: 142.8335721
+    type: 銭湯
+-
+    id: 303
+    name: 鹿部コミュニティープール いこいの湯
+    url: http://www.town.shikabe.lg.jp/hotnews/detail/00001156.html
+    map: https://maps.google.com/?cid=17487808244836857461&hl=ja
+    address: 北海道茅部郡鹿部町字鹿部213
+    price: 320
+    lat: 42.0332002
+    lng: 140.8130433
+    type: 温泉
+-
+    id: 304
+    name: 種川温泉
+    url: http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/01imakan/parts/1103tnk.htm
+    map: https://maps.google.com/?cid=8804483587093929744&hl=ja
+    address: 北海道瀬棚郡今金町字種川296
+    price: 450
+    lat: 42.4193827
+    lng: 140.0678539
+    type: 銭湯
+-
+    id: 305
+    name: 美園湯
+    url: 
+    map: https://maps.google.com/?cid=12540067274849814512&hl=ja
+    address: 北海道札幌市豊平区美園二条4-4-12
+    price: 450
+    lat: 43.0426379
+    lng: 141.3871797
+    type: 銭湯
+-
+    id: 306
+    name: 文の湯
+    url: http://www.kita-no-sento.com/sento/144/
+    map: https://maps.google.com/?cid=12397401555179287587&hl=ja
+    address: 北海道札幌市西区山の手五条2-2-24
+    price: 450
+    lat: 43.0735957
+    lng: 141.2953338
+    type: 銭湯
+-
+    id: 307
+    name: 黒松内温泉 ぶなの森
+    url: http://www.kuromatsunai.com/bunanomori/
+    map: https://maps.google.com/?cid=13645878418644383556&hl=ja
+    address: 北海道寿都郡黒松内町黒松内545
+    price: 500
+    lat: 42.6570976
+    lng: 140.3092227
+    type: 温泉
+-
+    id: 308
+    name: 渥美湯
+    url: http://www.kita-no-sento.com/sento/169/
+    map: https://maps.google.com/?cid=12921559119966593349&hl=ja
+    address: 北海道札幌市北区北三十一条西6-2-17
+    price: 450
+    lat: 43.0971799
+    lng: 141.3363403
+    type: 銭湯
+-
+    id: 309
+    name: 中央湯
+    url: http://www.kita-no-sento.com/sento/205/
+    map: https://maps.google.com/?cid=509512576256201196&hl=ja
+    address: 北海道小樽市奥沢3-27-22
+    price: 450
+    lat: 43.1741515
+    lng: 140.9984464
+    type: 銭湯
+-
+    id: 310
+    name: 真駒内湯
+    url: http://www.kita-no-sento.com/sento/141/
+    map: https://maps.google.com/?cid=16786195890784002827&hl=ja
+    address: 北海道札幌市南区真駒内上町3-2-7
+    price: 450
+    lat: 42.9959288
+    lng: 141.3538432
+    type: 銭湯
+-
+    id: 311
+    name: 宝湯
+    url: http://www.kita-no-sento.com/sento/1001/
+    map: https://maps.google.com/?cid=18167664529187381519&hl=ja
+    address: 北海道根室市定基町4-21
+    price: 450
+    lat: 43.3287529
+    lng: 145.5744431
+    type: 銭湯
+-
+    id: 312
+    name: 港湯
+    url: http://www.kita-no-sento.com/sento/316/
+    map: https://maps.google.com/?cid=4515287527841012956&hl=ja
+    address: 北海道函館市港町1-20-20
+    price: 450
+    lat: 41.8030127
+    lng: 140.7240883
+    type: 銭湯
+-
+    id: 313
+    name: 菊の湯
+    url: http://www.kita-no-sento.com/sento/802/
+    map: https://maps.google.com/?cid=7526678585540551171&hl=ja
+    address: 北海道旭川市神楽五条14-2-17
+    price: 450
+    lat: 43.7448055
+    lng: 142.3571762
+    type: 銭湯
+-
+    id: 314
+    name: 草津湯
+    url: http://www.kita-no-sento.com/sento/906/
+    map: https://maps.google.com/?cid=4684481399886121416&hl=ja
+    address: 北海道釧路市大町6-4-15
+    price: 450
+    lat: 42.9767173
+    lng: 144.3769786
+    type: 銭湯
+-
+    id: 315
+    name: 藤の湯
+    url: http://www.kita-no-sento.com/sento/149/
+    map: https://maps.google.com/?cid=3886506436998239793&hl=ja
+    address: 北海道札幌市手稲区手稲本町二条2-2-15
+    price: 450
+    lat: 43.1166605
+    lng: 141.2443812
+    type: 銭湯
+-
+    id: 316
+    name: 南湯温泉
+    url: http://www.kita-no-sento.com/sento/207/
+    map: https://maps.google.com/?cid=13044076766880935827&hl=ja
+    address: 北海道小樽市入船4-11-1
+    price: 450
+    lat: 43.179964
+    lng: 140.9967609
+    type: 銭湯
+-
+    id: 317
+    name: 桐の湯
+    url: http://www.kita-no-sento.com/sento/307/
+    map: https://maps.google.com/?cid=861995359048202155&hl=ja
+    address: 北海道函館市松陰町10-12
+    price: 450
+    lat: 41.7881744
+    lng: 140.7605913
+    type: 銭湯
+-
+    id: 318
+    name: いこい湯
+    url: http://www.kita-no-sento.com/sento/808/
+    map: https://maps.google.com/?cid=9287810841659193976&hl=ja
+    address: 北海道旭川市五条通24丁目
+    price: 450
+    lat: 43.7626732
+    lng: 142.386566
+    type: 銭湯
+-
+    id: 319
+    name: 白樺湯
+    url: http://www.kita-no-sento.com/sento/909/
+    map: https://maps.google.com/?cid=3247901766047810552&hl=ja
+    address: 北海道釧路市白樺台1-16-1
+    price: 450
+    lat: 42.9619968
+    lng: 144.4463814
+    type: 銭湯
+-
+    id: 320
+    name: しらかば
+    url: https://www.town.yubetsu.lg.jp/50shisetsu/6nou-kankou/inn-shirakaba.html
+    map: https://maps.google.com/?cid=5785027069079626343&hl=ja
+    address: 北海道紋別郡湧別町錦町
+    price: 450
+    lat: 44.2126011
+    lng: 143.6025329
+    type: 銭湯
+-
+    id: 321
+    name: 大照湯
+    url: http://www.kita-no-sento.com/sento/138/
+    map: https://maps.google.com/?cid=18443656688826171258&hl=ja
+    address: 北海道札幌市豊平区西岡四条1-13-43
+    price: 450
+    lat: 43.0217393
+    lng: 141.3913846
+    type: 銭湯
+-
+    id: 322
+    name: 松の湯
+    url: http://www.kita-no-sento.com/sento/180/
+    map: https://maps.google.com/?cid=5119333090444072075&hl=ja
+    address: 北海道江別市弥生町34-16
+    price: 450
+    lat: 43.1064906
+    lng: 141.5431752
+    type: 銭湯
+-
+    id: 323
+    name: 東の湯
+    url: http://www.kita-no-sento.com/sento/182/
+    map: https://maps.google.com/?cid=2187764454589321567&hl=ja
+    address: 北海道江別市野幌東町13-14
+    price: 450
+    lat: 43.0921101
+    lng: 141.5333797
+    type: 銭湯
+-
+    id: 324
+    name: 登喜和湯
+    url: http://www.kita-no-sento.com/sento/912/
+    map: https://maps.google.com/?cid=6349955910918332723&hl=ja
+    address: 北海道釧路市中島町13-10
+    price: 450
+    lat: 42.9992095
+    lng: 144.3895339
+    type: 銭湯
+-
+    id: 325
+    name: 寿湯
+    url: http://www.kita-no-sento.com/sento/218/
+    map: https://maps.google.com/?cid=7385382778435681990&hl=ja
+    address: 北海道余市郡余市町黒川町8-29
+    price: 450
+    lat: 43.1857187
+    lng: 140.7936928
+    type: 銭湯
+-
+    id: 326
+    name: 松の湯
+    url: http://www.kita-no-sento.com/sento/329/
+    map: https://maps.google.com/?cid=9609823292326862652&hl=ja
+    address: 北海道檜山郡江差町本町104
+    price: 450
+    lat: 41.8646056
+    lng: 140.1260982
+    type: 銭湯
+-
+    id: 327
+    name: 菊乃湯
+    url: http://www.kita-no-sento.com/sento/310/
+    map: https://maps.google.com/?cid=862974971379183391&hl=ja
+    address: 北海道函館市上湯川町6-1
+    price: 450
+    lat: 41.7800447
+    lng: 140.8103817
+    type: 銭湯
+-
+    id: 328
+    name: 松の湯
+    url: http://www.kita-no-sento.com/sento/705/
+    map: https://maps.google.com/?cid=9931102596875404943&hl=ja
+    address: 北海道空知郡奈井江町本町5区
+    price: 450
+    lat: 43.4256731
+    lng: 141.8875783
+    type: 銭湯
+-
+    id: 329
+    name: 中島湯
+    url: http://www.kita-no-sento.com/sento/410/
+    map: https://maps.google.com/?cid=11986911441074109859&hl=ja
+    address: 北海道室蘭市中島町1-24-2
+    price: 450
+    lat: 42.3552106
+    lng: 141.0187866
+    type: 銭湯
+-
+    id: 330
+    name: 松の湯
+    url: http://www.kita-no-sento.com/sento/401/
+    map: https://maps.google.com/?cid=13642737215267308738&hl=ja
+    address: 北海道室蘭市母恋南町1-2-16
+    price: 450
+    lat: 42.3118376
+    lng: 140.9925175
+    type: 銭湯
+-
+    id: 331
+    name: 亀の湯
+    url: http://shikabe.jp/onsen/2192.html/
+    map: https://maps.google.com/?cid=10434682231150042475&hl=ja
+    address: 北海道茅部郡鹿部町鹿部30-10
+    price: 450
+    lat: 42.0291174
+    lng: 140.8291045
+    type: 銭湯
+-
+    id: 332
+    name: 黄金湯
+    url: http://www.kita-no-sento.com/sento/405/
+    map: https://maps.google.com/?cid=18292893988688278367&hl=ja
+    address: 北海道室蘭市本輪西町3-25-7
+    price: 450
+    lat: 42.3664706
+    lng: 140.9829997
+    type: 銭湯
+-
+    id: 333
+    name: 松竹湯
+    url: http://www.kita-no-sento.com/sento/134/
+    map: https://maps.google.com/?cid=7343782228997387612&hl=ja
+    address: 北海道札幌市豊平区美園七条3-3-13
+    price: 450
+    lat: 43.0387052
+    lng: 141.3826969
+    type: 銭湯
+-
+    id: 334
+    name: 長沼湯
+    url: 
+    map: https://maps.google.com/?cid=7605089393179826052&hl=ja
+    address: 北海道夕張郡長沼町中央南1-4-10
+    price: 450
+    lat: 43.0086749
+    lng: 141.6931151
+    type: 銭湯
+-
+    id: 335
+    name: 恵比寿湯
+    url: http://www.kita-no-sento.com/sento/509/
+    map: https://maps.google.com/?cid=15310542984423854949&hl=ja
+    address: 北海道日高郡新ひだか町静内本町1-2-31
+    price: 450
+    lat: 42.3369856
+    lng: 142.3656412
+    type: 銭湯
+-
+    id: 336
+    name: 旭湯
+    url: http://www.kita-no-sento.com/sento/414/
+    map: https://maps.google.com/?cid=6154922038420691354&hl=ja
+    address: 北海道伊達市錦町100-65
+    price: 450
+    lat: 42.469782
+    lng: 140.860865
+    type: 銭湯
+-
+    id: 337
+    name: 五月湯
+    url: http://www.kita-no-sento.com/sento/701/
+    map: https://maps.google.com/?cid=4268844081544981929&hl=ja
+    address: 北海道岩見沢市二条東3丁目
+    price: 450
+    lat: 43.2060271
+    lng: 141.7678272
+    type: 銭湯
+-
+    id: 338
+    name: 松の湯
+    url: http://www.kita-no-sento.com/sento/403/
+    map: https://maps.google.com/?cid=5391301290480589544&hl=ja
+    address: 北海道室蘭市栄町1-2-4
+    price: 450
+    lat: 42.3125438
+    lng: 140.9710111
+    type: 銭湯
+-
+    id: 339
+    name: 滝の湯
+    url: http://www.kita-no-sento.com/sento/603/
+    map: https://maps.google.com/?cid=4649115790185479949&hl=ja
+    address: 北海道砂川市西一条北1丁目
+    price: 450
+    lat: 43.4916498
+    lng: 141.9069373
+    type: 銭湯
+-
+    id: 340
+    name: 花仙湯
+    url: http://www.kita-no-sento.com/sento/178/
+    map: https://maps.google.com/?cid=4621504681557715103&hl=ja
+    address: 北海道江別市一番町12
+    price: 450
+    lat: 43.1097485
+    lng: 141.5492717
+    type: 銭湯
+-
+    id: 341
+    name: きらく湯
+    url: http://www.kita-no-sento.com/sento/704/
+    map: https://maps.google.com/?cid=1016773228160252509&hl=ja
+    address: 北海道三笠市榊町
+    price: 450
+    lat: 43.2492783
+    lng: 141.8718156
+    type: 銭湯
+-
+    id: 342
+    name: 柏林湯
+    url: http://www.kita-no-sento.com/sento/1105/
+    map: https://maps.google.com/?cid=1541111397468993948&hl=ja
+    address: 北海道帯広市柏林台南町7-1
+    price: 450
+    lat: 42.9213984
+    lng: 143.1702036
+    type: 銭湯
+-
+    id: 343
+    name: 北都湯
+    url: http://www.kita-no-sento.com/sento/166/
+    map: https://maps.google.com/?cid=5516209490660829825&hl=ja
+    address: 北海道札幌市北区北二十七条西7-2-1
+    price: 450
+    lat: 43.0935606
+    lng: 141.3388105
+    type: 銭湯
+-
+    id: 344
+    name: 栄湯
+    url: http://www.kita-no-sento.com/sento/330/
+    map: https://maps.google.com/?cid=17523600883305531485&hl=ja
+    address: 北海道山越郡長万部町長万部84
+    price: 450
+    lat: 42.5157549
+    lng: 140.3797531
+    type: 銭湯
+-
+    id: 345
+    name: 寿湯
+    url: http://www.kita-no-sento.com/sento/115/
+    map: https://maps.google.com/?cid=15471389452846222548&hl=ja
+    address: 北海道札幌市南区南三十三条西10-3-3
+    price: 440
+    lat: 43.0141265
+    lng: 141.3486193
+    type: 銭湯
+-
+    id: 346
+    name: 豊栄湯
+    url: http://www.kita-no-sento.com/sento/823/
+    map: https://maps.google.com/?cid=16463270334486640735&hl=ja
+    address: 北海道旭川市永山二条21-3-14
+    price: 450
+    lat: 43.8146269
+    lng: 142.4397664
+    type: 銭湯
+-
+    id: 347
+    name: 真谷地浴場
+    url: 
+    map: https://maps.google.com/?cid=7162839031462667935&hl=ja
+    address: 北海道夕張市沼ノ沢431-1
+    price: 450
+    lat: 42.960119
+    lng: 141.9969899
+    type: 銭湯
+-
+    id: 348
+    name: 松の湯
+    url: 
+    map: https://maps.google.com/maps?q=42.907592,143.356238
+    address: 北海道中川郡幕別町錦町53
+    price: 450
+    lat: 42.9075662
+    lng: 143.3562762
+    type: 銭湯
+-
+    id: 349
+    name: 鶴の湯
+    url: http://www.kita-no-sento.com/sento/114/
+    map: https://maps.google.com/maps?q=43.033924,141.35022
+    address: 北海道札幌市中央区南十九条西7-3-1
+    price: 450
+    lat: 43.0342819
+    lng: 141.3452941
+    type: 銭湯
+-
+    id: 350
+    name: 七重浜湯
+    url: http://www.kita-no-sento.com/sento/336/
+    map: https://maps.google.com/maps?q=41.815063,140.708115
+    address: 北海道北斗市七重浜2-25-13
+    price: 450
+    lat: 41.8150131
+    lng: 140.7080896
+    type: 銭湯
+-
+    id: 351
+    name: 南清浴場
+    url: 
+    map: https://maps.google.com/maps?q=42.983613,142.008196
+    address: 北海道夕張市南清水沢4-8-9
+    price: 450
+    lat: 42.9836689
+    lng: 142.0082824
+    type: 銭湯
+-
+    id: 352
+    name: 滝の湯
+    url: http://www.kita-no-sento.com/sento/183/
+    map: https://maps.google.com/maps?q=43.220781,141.517063
+    address: 北海道石狩郡当別町園生2172
+    price: 450
+    lat: 43.2206793
+    lng: 141.5169605
+    type: 銭湯
+-
+    id: 353
+    name: 冨士乃湯
+    url: 
+    map: https://maps.google.com/maps?q=43.080017,141.359192
+    address: 北海道札幌市東区北十五条東5-1-1
+    price: 450
+    lat: 43.0807721
+    lng: 141.3638517
+    type: 銭湯
+-
+    id: 354
+    name: さいわい湯
+    url: 
+    map: https://maps.google.com/maps?q=43.571107,141.895845
+    address: 北海道滝川市幸町2-17-14
+    price: 450
+    lat: 43.5710813
+    lng: 141.8958847
+    type: 銭湯
+-
+    id: 355
+    name: 北盛湯
+    url: 
+    map: https://maps.google.com/maps?q=43.094803,141.332855
+    address: 北海道札幌市北区北二十八条西10-2-23
+    price: 450
+    lat: 43.0947944
+    lng: 141.3328304
+    type: 銭湯
+-
+    id: 356
+    name: 亀の湯
+    url: http://www.kita-no-sento.com/sento/811/
+    map: https://maps.google.com/maps?q=43.777626,142.369827
+    address: 北海道旭川市東一条2-1-6
+    price: 450
+    lat: 43.7776407
+    lng: 142.3698262
+    type: 銭湯
+-
+    id: 357
+    name: 頼城共同浴場
+    url: http://www.kita-no-sento.com/sento/609/
+    map: https://maps.google.com/maps?q=43.452962,142.158435
+    address: 北海道芦別市頼城町1
+    price: 450
+    lat: 43.4522422
+    lng: 142.1600479
+    type: 銭湯
+-
+    id: 358
+    name: 清陵浴場
+    url: 
+    map: https://maps.google.com/maps?q=42.984454,142.016214
+    address: 北海道夕張市清水沢清陵町62
+    price: 450
+    lat: 42.9847302
+    lng: 142.0145997
+    type: 銭湯
