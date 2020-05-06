@@ -27,7 +27,7 @@ const trimPriceRange = (range, steps) => {
   }
   const trimRange = trimming(range)
   if (!trimRange) {
-    return trimRange
+    return [steps[0], steps[steps.length - 1]]
   }
   if (trimRange[1] > steps[steps.length - 1]) {
     trimRange[1] = steps[steps.length - 1]
