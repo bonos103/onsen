@@ -28,6 +28,9 @@
         allowfullscreen,
         :key="item.id",
       )
+      div(:class="$style.copyright")
+        | © 2020&nbsp;
+        nuxt-link(:to="{ name: 'index' }") FUROMAP
 </template>
 <script>
 export default {
@@ -159,5 +162,15 @@ export default {
   }
   .map {
     width: 100%;
+  }
+  .copyright {
+    font-size: 1.3rem;
+    color: var(--gray-darkest);
+    text-align: center;
+    padding: 10px;
+    & a {
+      color: var(--salmon);
+      text-decoration: underline;
+    }
   }
 </style>
