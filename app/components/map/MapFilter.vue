@@ -1,6 +1,6 @@
 <template lang="pug">
   div(:class="$style.wrap")
-    div(:class="$style.icon", @click.prevent.stop="handleToggle")
+    div(:class="$style.icon", @click.prevent.stop="handleToggle", :data-active="isFiltered")
       filter-icon
     filter-box(
       v-if="visibleBox",
@@ -35,6 +35,11 @@ export default {
       steps: 'steps',
       filters: 'filters',
     }),
+    isFiltered() {
+      return this.filters.pref ||
+            this.filters.priceRange[0] !== this.steps[0] ||
+            this.filters.priceRange[1] !== this.steps[this.steps.length - 1]
+    },
   },
   mounted() {
     if (window.innerWidth < 768 || this.$route.name === 'map-pref-id') {
@@ -98,9 +103,18 @@ export default {
     border: 2px solid var(--salmon);
     border-radius: 50%;
     z-index: 1;
+    transition: background-color 0.3s, border-color 0.3s;
     & svg {
       fill: var(--salmon);
       width: 25px;
+      transition: fill 0.3s;
+    }
+    &[data-active] {
+      background-color: var(--salmon);
+      border-color: var(--white);
+      & svg {
+        fill: var(--white);
+      }
     }
   }
 </style>
