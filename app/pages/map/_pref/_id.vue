@@ -9,10 +9,17 @@
         div(:class="$style.item", v-if="item.price")
           div(:class="$style.label") 料金
           div(:class="$style.value") {{item.price | formatPrice}}
-        div(:class="$style.item", v-if="item.url")
+        div(:class="$style.item")
           div(:class="$style.label") ホームページ
           div(:class="$style.value")
-            a(:href="item.url", target="_blank") {{item.url}}
+            div(v-if="item.url")
+              a(:href="item.url", target="_blank") {{item.url}}
+              p(:class="$style.orText") または
+            div(v-else)
+              p(:class="$style.noUrl") 登録されていません。
+            div(:class="$style.googleLink")
+              a(:href="`https://www.google.com/search?q=${encodeURIComponent(item.name)}`", target="_blank") ｢{{item.name}}｣をGoogle検索する
+
         div(:class="$style.item", v-if="item.address")
           div(:class="$style.label") 住所
           div(:class="$style.value") {{item.address}}
@@ -104,19 +111,26 @@ export default {
 <style lang="postcss" module>
   .wrap {
     position: fixed;
-    top: 30%;
+    top: 30vh;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: var(--salmon-lightest);
-    overflow: auto;
+    padding: 0 10px 10px;
     @media (--md) {
-      top: 50%;
+      top: 50vh;
     }
   }
   .block {
     width: 100%;
+    max-width: 1040px;
+    height: 100%;
+    background-color: var(--salmon-lightest);
+    border-radius: 10px;
+    box-shadow: 0 0 10px color(var(--black) a(20%));
     padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
   }
   .swipe {
     position: absolute;
@@ -154,14 +168,31 @@ export default {
       color: var(--salmon);
     }
   }
+  .noUrl {
+    font-size: 1.3rem;
+    color: var(--gray-darker);
+    margin-bottom: 0.5em;
+  }
+  .googleLink {
+    & a {
+      font-size: 1.4rem;
+      color: var(--blue);
+    }
+  }
+  .orText {
+    font-size: 1.3rem;
+    color: var(--gray-darker);
+    margin: 0.5em 0;
+  }
   .mapLink {
     font-size: 1.4rem;
     color: var(--blue);
-    margin-top: 3em;
-    margin-bottom: 1em;
+    margin-top: 2em;
+    margin-bottom: 1.2em;
   }
   .map {
     width: 100%;
+    max-height: 48vh;
   }
   .copyright {
     font-size: 1.3rem;
