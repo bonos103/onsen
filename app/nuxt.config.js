@@ -121,10 +121,6 @@ export default {
         type: 'json', // Required by Webpack v4
         use: 'yaml-loader',
       })
-      config.module.rules.unshift({
-        test: /\.worker\.js$/,
-        use: 'worker-loader',
-      })
     }
   }
 }
