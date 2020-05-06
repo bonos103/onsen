@@ -1,6 +1,11 @@
 <template lang="pug">
   div(:class="$style.wrap")
-    div(:class="$style.icon", @click.prevent.stop="handleToggle", :data-active="isFiltered")
+    div(
+      :class="$style.icon",
+      :data-active="isFiltered",
+      :data-open="visibleBox",
+      @click.prevent.stop="handleToggle",
+    )
       filter-icon
     filter-box(
       v-if="visibleBox",
@@ -13,7 +18,7 @@
     )
 </template>
 <script>
-import { mapActions, mapState } from 'vuex'
+import { mapState } from 'vuex'
 import FilterIcon from '@/assets/images/commons/filter.svg'
 import FilterBox from '@/components/Map/FilterBox'
 
@@ -47,9 +52,6 @@ export default {
     }
   },
   methods: {
-    ...mapActions('onsen', {
-      setFilters: 'setFilters',
-    }),
     handleToggle() {
       this.visibleBox = !this.visibleBox
     },
@@ -57,7 +59,6 @@ export default {
       this.visibleBox = false
     },
     handleChangePref(pref) {
-      // this.setFilters({ pref })
       const query = { ...this.$route.query }
       const params = { ...this.$route.params, pref }
       const name = params.pref ? 'map-pref' : 'map'
@@ -65,7 +66,6 @@ export default {
       this.changedClose()
     },
     handleChangeRange(range) {
-      // this.setFilters({ priceRange: range })
       const query = { ...this.$route.query, range }
       const params = { ...this.$route.params }
       const name = params.pref ? 'map-pref' : 'map'
@@ -108,6 +108,9 @@ export default {
       fill: var(--salmon);
       width: 25px;
       transition: fill 0.3s;
+    }
+    &:not([data-open]) {
+      box-shadow: 0 0 6px color(var(--black) a(20%));
     }
     &[data-active] {
       background-color: var(--salmon);
