@@ -1,7 +1,7 @@
 <template lang="pug">
   div
     h1(:class="$style.logo")
-      router-link(:to="{ name: 'map' }")
+      router-link(:to="linkTo")
         logo
     nuxt
 </template>
@@ -11,6 +11,14 @@ import Logo from '@/components/Logo'
 export default {
   components: {
     Logo,
+  },
+  computed: {
+    linkTo() {
+      if (this.$route.name === 'map' && !this.$route.query.range) {
+        return { name: 'index' }
+      }
+      return { name: 'map' }
+    },
   },
 }
 </script>
