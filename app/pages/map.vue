@@ -4,12 +4,13 @@
       google-map(@click-marker="handleClickMarker")
       //- google-map(@click-marker="handleClickMarker", v-if="visibleMap")
       map-filter
-    div(v-for="item in items.slice(0, 10)", :key="`${item.pref}${item.id}`")
-      div {{item.name}}
-      div {{item.url}}
-      div {{item.address}}
-      div {{item.price}}
-      div {{item.type}}
+    //- div(:class="$style.list")
+      div(v-for="item in items.slice(0, 10)", :key="`${item.pref}${item.id}`")
+        div {{item.name}}
+        div {{item.url}}
+        div {{item.address}}
+        div {{item.price}}
+        div {{item.type}}
     nuxt-child(:key="$route.fullPath")
 </template>
 <script>
@@ -75,3 +76,13 @@ export default {
   },
 }
 </script>
+<style lang="postcss" module>
+  .list {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+</style>

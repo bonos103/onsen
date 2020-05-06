@@ -12,13 +12,6 @@ export default {
   components: {
     Logo,
   },
-  fetch({ params, store }) {
-    const pref = params.pref
-    console.log(pref)
-    if (pref) {
-      store.commit('onsen/setFilter', { pref })
-    }
-  },
 }
 </script>
 <style lang="postcss" module>
@@ -29,5 +22,8 @@ export default {
     width: 152px;
     height: auto;
     z-index: 100;
+    @media (--md) {
+      width: 200px;
+    }
   }
 </style>

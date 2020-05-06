@@ -2,6 +2,7 @@
   div(ref="map", :class="$style.map")
 </template>
 <script>
+import _isEqual from 'lodash/isEqual'
 import { mapGetters, mapState } from 'vuex'
 import GoogleMapsApiLoader from 'google-maps-api-loader'
 import MarkerClusterer from '@google/markerclustererplus'
@@ -36,11 +37,13 @@ export default {
     },
   },
   watch: {
-    items() {
-      this.reset()
-      this.createMarkers()
-
-      setTimeout(this.addCluster, 100)
+    items(next, prev) {
+      // TODO 0件の場合アラートを表示
+      if (!_isEqual(next, prev)) {
+        this.reset()
+        this.createMarkers()
+        setTimeout(this.addCluster, 100)
+      }
     },
     filteredPrefecture(next, prev) {
       if (next !== prev) {

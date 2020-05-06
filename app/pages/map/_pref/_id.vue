@@ -98,15 +98,18 @@ export default {
     transition: transform 0.2s ease-in-out;
   }
 </style>
-<style module>
+<style lang="postcss" module>
   .wrap {
     position: fixed;
-    top: 50%;
+    top: 30%;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: var(--salmon-lightest);
     overflow: auto;
+    @media (--md) {
+      top: 50%;
+    }
   }
   .block {
     width: 100%;

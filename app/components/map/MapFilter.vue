@@ -36,6 +36,11 @@ export default {
       filters: 'filters',
     }),
   },
+  mounted() {
+    if (window.innerWidth < 768 || this.$route.name === 'map-pref-id') {
+      this.visibleBox = false
+    }
+  },
   methods: {
     ...mapActions('onsen', {
       setFilters: 'setFilters',
@@ -52,6 +57,7 @@ export default {
       const params = { ...this.$route.params, pref }
       const name = params.pref ? 'map-pref' : 'map'
       this.$router.push({ name, params, query })
+      this.changedClose()
     },
     handleChangeRange(range) {
       // this.setFilters({ priceRange: range })
@@ -59,6 +65,12 @@ export default {
       const params = { ...this.$route.params }
       const name = params.pref ? 'map-pref' : 'map'
       this.$router.push({ name, params, query })
+      this.changedClose()
+    },
+    changedClose() {
+      setTimeout(() => {
+        this.visibleBox = false
+      }, 500)
     },
   },
 }
