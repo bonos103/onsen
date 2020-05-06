@@ -412,7 +412,7 @@
 -
     id: 42
     name: 千人風呂
-    url: 
+    url:
     map: https://maps.google.com/?cid=914749695643508948&hl=ja
     address: 愛知県豊橋市新栄町南小向93
     price: 440
@@ -672,7 +672,7 @@
 -
     id: 68
     name: スーパー銭湯 アサヒ乃湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=1220943105312276008&hl=ja
     address: 愛知県知立市中町花山28-1
     price: 550
@@ -1442,7 +1442,7 @@
 -
     id: 145
     name: 辰巳温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=2625037541737404930&hl=ja
     address: 愛知県名古屋市港区九番町5-13
     price: 440
@@ -1542,7 +1542,7 @@
 -
     id: 155
     name: 君の湯
-    url: 
+    url:
     map: https://maps.google.com/?cid=14300954002470889232&hl=ja
     address: 愛知県名古屋市千種区内山2-14-6
     price: 440
@@ -1552,7 +1552,7 @@
 -
     id: 156
     name: 憩温泉
-    url: 
+    url:
     map: https://maps.google.com/?cid=11566825079562807437&hl=ja
     address: 愛知県清須市西枇杷島町砂入74
     price: 440
@@ -1592,7 +1592,7 @@
 -
     id: 160
     name: 杉の湯
-    url: 
+    url:
     map: https://maps.google.com/maps?q=35.12019,136.932526
     address: 愛知県名古屋市瑞穂区鍵田町1-40
     price: 440
@@ -1618,14 +1618,4 @@
     price: 440
     lat: 35.1628029
     lng: 136.8659297
-    type: 銭湯
--
-    id: 163
-    name: 梅湯
-    url: 
-    map: https://maps.google.com/maps?q=35.129712,136.925557
-    address: 愛知県名古屋市瑞穂区直来町4-32
-    price: 440
-    lat: 35.1294773
-    lng: 136.9253724
     type: 銭湯
