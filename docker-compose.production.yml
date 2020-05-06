@@ -5,7 +5,6 @@ services:
     volumes:
       - ./app:/app
       - /app/node_modules
-      - /app/.nuxt
     networks:
       - common_link
     expose:
@@ -18,7 +17,7 @@ services:
       LETSENCRYPT_HOST: "furomap.bonos.work"
       LETSENCRYPT_EMAIL: "tomi@ryou103.com"
       LETSENCRYPT_TEST: "false"
-    command: yarn build && yarn start
+    command: sh -c "yarn run build && yarn start"
 
 networks:
   common_link:

@@ -78,17 +78,7 @@ export default {
       }
     },
   },
-  mounted() {
-    this.$listen(document, 'touchmove', this.stopScroll, { passive: false })
-    document.body.style.overflow = 'hidden'
-  },
-  beforeDestroy() {
-    document.body.style.overflow = ''
-  },
   methods: {
-    stopScroll(event) {
-      event.preventDefault()
-    },
     calcHeight() {
       this.windowHeight = window.innerHeight
     },
@@ -131,6 +121,7 @@ export default {
     margin-left: auto;
     margin-right: auto;
     overflow: auto;
+    -webkit-overflow-scrolling: touch;
   }
   .swipe {
     position: absolute;

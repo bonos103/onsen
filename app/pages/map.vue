@@ -14,6 +14,7 @@
     nuxt-child(:key="$route.fullPath")
 </template>
 <script>
+import _isEqual from 'lodash/isEqual'
 import { mapGetters } from 'vuex'
 // import { mapActions, mapGetters } from 'vuex'
 // import csv from '@/assets/data/hokkaido.csv'
@@ -52,13 +53,14 @@ export default {
   },
   beforeRouteUpdate(to, from, next) {
     this.calcWindowHeight()
-    if (to.name === 'map-pref-id' || from.name === 'map-pref-id') {
-      next()
-      return
-    }
     const { params, query } = to
     const pref = params.pref || ''
     const range = query.range
+    const fromRange = from.query.range
+    if (_isEqual(range, fromRange) && (to.name === 'map-pref-id' || from.name === 'map-pref-id')) {
+      next()
+      return
+    }
     this.$store.dispatch('onsen/setFilters', { pref, priceRange: range })
     next()
   },
@@ -67,6 +69,7 @@ export default {
       const location = {
         name: 'map-pref-id',
         params: { pref: item.pref, id: item.id },
+        query: { ...this.$route.query },
       }
       if (this.$route.name === 'map-pref-id') {
         this.$router.replace(location)
