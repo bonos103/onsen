@@ -26,8 +26,8 @@ export default {
     GoogleMap,
     MapFilter,
   },
-  fetch({ params, query, store }) {
-    const pref = params.pref || ''
+  fetch({ params, query, route, store }) {
+    const pref = route.name === 'map-pref-id' ? '' : params.pref || ''
     const range = query.range
     store.dispatch('onsen/setFilters', { pref, priceRange: range })
   },
@@ -52,6 +52,10 @@ export default {
   },
   beforeRouteUpdate(to, from, next) {
     this.calcWindowHeight()
+    if (to.name === 'map-pref-id' || from.name === 'map-pref-id') {
+      next()
+      return
+    }
     const { params, query } = to
     const pref = params.pref || ''
     const range = query.range
