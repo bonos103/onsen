@@ -19,6 +19,7 @@
     "@google/markerclustererplus": "^5.0.3",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/gtm": "^2.2.3",
     "@nuxtjs/pwa": "^3.0.0-0",
     "google-maps-api-loader": "^1.1.1",
     "lodash": "^4.17.15",
