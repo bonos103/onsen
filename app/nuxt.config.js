@@ -1,6 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 
+require('dotenv').config()
+
 function resolve(p) {
   return path.join(__dirname, p)
 }
@@ -71,6 +73,12 @@ export default {
     // Doc: https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
     'nuxt-svg-loader',
+  ],
+  buildModules: [
+    ['@nuxtjs/gtm', {
+      id: process.env.GTM_ID,
+      pageTracking: true,
+    }],
   ],
   /*
   ** Axios module configuration
