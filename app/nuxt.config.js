@@ -31,15 +31,21 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: process.env.npm_package_name || '',
+    title: '全国の温泉・銭湯マップ',
+    titleTemplate: `%s | ${process.env.npm_package_name || ''}`,
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1, minimum-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'viewport', name: 'viewport', content: 'width=device-width, initial-scale=1, minimum-scale=1' },
+      { hid: 'og:title', name: 'og:title', content: '全国の温泉・銭湯マップ' },
+      { hid: 'og:description', name: 'og:description', content: process.env.npm_package_description || '' },
+      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
+
+      { hid: 'theme-color', name: 'theme-color', content: '#FF8566' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      { hid: 'icon', rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { hid: 'apple-touch-icon', rel: 'apple-touch-icon', size: '512x512', href: '/icon.png' },
+    ],
   },
   /*
   ** Customize the progress-bar color
@@ -140,6 +146,15 @@ export default {
         use: 'yaml-loader',
       })
     }
+  },
+  pwa: {
+    meta: {
+      theme_color: '#FF8566',
+    },
+    manifest: {
+      theme_color: '#FF8566',
+      background_color: '#FFF',
+    },
   },
   sitemap() {
     const prefRoutes = () => {
