@@ -1,7 +1,7 @@
 {
-  "name": "onsen",
-  "version": "1.0.0",
-  "description": "My sensational Nuxt.js project",
+  "name": "FUROMAP",
+  "version": "1.0.1",
+  "description": "全国の温泉・銭湯を地図からかんたんに探せます。エリア・料金で絞り込みして、今日行くお風呂を決めましょう！",
   "author": "",
   "private": true,
   "scripts": {
