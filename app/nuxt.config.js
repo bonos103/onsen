@@ -1,5 +1,7 @@
-const fs = require('fs')
-const path = require('path')
+import fs from 'fs'
+import path from 'path'
+import YAML from 'yaml'
+import prefectures from './assets/data/prefectures'
 
 require('dotenv').config()
 
@@ -72,6 +74,7 @@ export default {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
+    '@nuxtjs/sitemap',
     'nuxt-svg-loader',
   ],
   buildModules: [
@@ -137,5 +140,35 @@ export default {
         use: 'yaml-loader',
       })
     }
-  }
+  },
+  sitemap() {
+    const prefRoutes = () => {
+      console.log(prefectures)
+      return prefectures.map((pref) => `/map/${pref.value}`)
+    }
+    const sitemapsByPrefecture = () => {
+      return prefectures.map((pref) => {
+        const data = YAML.parse(fs.readFileSync(`./assets/data/${pref.value}.yaml`, 'utf8'))
+        return {
+          path: `sitemap-${pref.value}.xml`,
+          routes() {
+            return data.map((d) => `/map/${pref.value}/${d.id}`)
+          },
+        }
+      })
+    }
+    return {
+      hostname: process.env.BASE_URL,
+      gzip: true,
+      sitemaps: [
+        {
+          path: 'sitemap.xml',
+          routes() {
+            return ['/', '/map', ...prefRoutes()]
+          },
+        },
+        ...sitemapsByPrefecture(),
+      ],
+    }
+  },
 }

@@ -21,6 +21,7 @@
     "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/gtm": "^2.2.3",
     "@nuxtjs/pwa": "^3.0.0-0",
+    "@nuxtjs/sitemap": "^2.3.0",
     "google-maps-api-loader": "^1.1.1",
     "lodash": "^4.17.15",
     "nuxt": "^2.12.0",
@@ -39,6 +40,7 @@
     "eslint": "^6.1.0",
     "eslint-plugin-nuxt": ">=0.4.2",
     "papaparse": "^5.1.1",
+    "yaml": "^1.9.2",
     "yaml-loader": "^0.6.0"
   }
 }
