@@ -8,7 +8,7 @@
         h1(:class="$style.name") {{item.name}}
         div(:class="$style.item", v-if="item.price")
           div(:class="$style.label") 料金
-          div(:class="$style.value") {{item.price | formatPrice}}
+          div(:class="$style.value") {{formatPrice}}
         div(:class="$style.item")
           div(:class="$style.label") ホームページ
           div(:class="$style.value")
@@ -40,20 +40,25 @@
         nuxt-link(:to="{ name: 'index' }") FUROMAP
 </template>
 <script>
+import { mapGetters } from 'vuex'
 export default {
+  head() {
+    if (!this.item) {
+      return {}
+    }
+    const title = `${this.item.name}`
+    const description = `${this.prefecture.name}の${this.item.name}は${this.item.address}にある${this.item.type}です。料金は${this.formatPrice}。ホームページや詳細地図も掲載しています。またFUROMAPでは全国の温泉・銭湯を探せます。`
+    return {
+      title,
+      meta: [
+        { hid: 'og:title', property: 'og:title', content: title },
+        { hid: 'og:description', name: 'og:description', content: description },
+        { hid: 'description', name: 'description', content: description },
+      ],
+    }
+  },
   transition: {
     name: 'fade',
-  },
-  filters: {
-    formatPrice(value) {
-      if (value === 0) {
-        return '無料 もしくは 寸志'
-      }
-      if (typeof value === 'number') {
-        return `¥${value.toLocaleString('ja-JP')}`
-      }
-      return value
-    },
   },
   asyncData({ params, store }) {
     return {
@@ -67,6 +72,12 @@ export default {
     }
   },
   computed: {
+    ...mapGetters('onsen', {
+      getPrefecture: 'getPrefecture',
+    }),
+    prefecture() {
+      return this.getPrefecture(this.$route.params.pref) || {}
+    },
     blockStyle() {
       if (this.windowHeight === 0) {
         return {
@@ -76,6 +87,16 @@ export default {
       return {
         marginTop: `${this.windowHeight}px`,
       }
+    },
+    formatPrice() {
+      const value = this.item.price || ''
+      if (value === 0) {
+        return '無料 もしくは 寸志'
+      }
+      if (typeof value === 'number') {
+        return `¥${value.toLocaleString('ja-JP')}`
+      }
+      return value
     },
   },
   methods: {

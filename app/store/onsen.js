@@ -61,7 +61,7 @@ export const getters = {
       return typeof item.price !== 'number' || rangeFitler(item.price, priceRange)
     })
   },
-  filteredPrefecture: (state) => state.prefectures.find(pref => pref.value === state.filters.pref),
+  getPrefecture: state => pref => state.prefectures.find(p => p.value === (pref || state.filters.pref)),
   center: (state) => {
     if (state.filters.pref) {
       const prefInfo = state.prefectures.find(p => p.value === state.filters.pref)

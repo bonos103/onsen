@@ -7,9 +7,12 @@ import { mapGetters } from 'vuex'
 export default {
   computed: {
     ...mapGetters('onsen', {
-      prefecture: 'filteredPrefecture',
+      getPrefecture: 'getPrefecture',
       list: 'filteredList',
     }),
+    prefecture() {
+      return this.getPrefecture() || {}
+    },
     description() {
       const listNames = (this.list || []).map(l => l.name).join(', ').slice(0, 100)
       return `地図から${this.prefecture.name}の温泉・銭湯を探せます。${listNames}${listNames.length > 0 ? '...' : ''}`
