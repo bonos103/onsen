@@ -12,5 +12,4 @@ RUN yarn
 RUN yarn cache clean
 
 COPY ./app /app
-
 CMD yarn run build && yarn start
