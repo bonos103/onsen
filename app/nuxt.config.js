@@ -39,6 +39,11 @@ export default {
       { hid: 'og:title', name: 'og:title', content: '全国の温泉・銭湯マップ' },
       { hid: 'og:description', name: 'og:description', content: process.env.npm_package_description || '' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
+      { hid: 'og:image', property: 'og:image', content: `${process.env.BASE_URL}/images/ogp.png` },
+      // { property: 'article:publisher', content: 'FacebookURL' },
+      { property: 'fb:app_id', content: process.env.FACEBOOK_APP_ID },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      // { name: 'twitter:site', content: '@Twitter' },
 
       { hid: 'theme-color', name: 'theme-color', content: '#FF8566' },
     ],
