@@ -163,7 +163,6 @@ export default {
   },
   sitemap() {
     const prefRoutes = () => {
-      console.log(prefectures)
       return prefectures.map((pref) => `/map/${pref.value}`)
     }
     const sitemapsByPrefecture = () => {
