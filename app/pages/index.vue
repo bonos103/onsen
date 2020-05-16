@@ -33,6 +33,18 @@ export default {
   components: {
     Logo,
   },
+  head() {
+    const title = 'サービスについて'
+    const description = '地図から全国の温泉・銭湯を探せます。旅をしていて、今日のお風呂を探すとき、意外とGoogleマップで温泉・銭湯が見つからず、「地名 銭湯」で検索して、近場で安いところを探していました。その検索に煩わしさを感じたので、地図から金額別で探せて、ワンクリックで公式サイトなどを調べられる非常にシンプルなサイトにしました。'
+    return {
+      title,
+      meta: [
+        { hid: 'og:title', property: 'og:title', content: title },
+        { hid: 'og:description', name: 'og:description', content: description },
+        { hid: 'description', name: 'description', content: description },
+      ],
+    }
+  },
 }
 </script>
 <style lang="postcss" module>

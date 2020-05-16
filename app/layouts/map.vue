@@ -20,6 +20,13 @@ export default {
       return { name: 'map' }
     },
   },
+  head() {
+    return {
+      link: [
+        { hid: 'canonical', rel: 'canonical', href: `${process.env.BASE_URL}${this.$route.path}` },
+      ],
+    }
+  },
 }
 </script>
 <style lang="postcss" module>
