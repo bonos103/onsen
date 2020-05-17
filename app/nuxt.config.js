@@ -157,6 +157,7 @@ export default {
       theme_color: '#FF8566',
     },
     manifest: {
+      start_url: '/map',
       theme_color: '#FF8566',
       background_color: '#FFF',
     },
