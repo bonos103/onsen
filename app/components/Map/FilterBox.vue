@@ -80,8 +80,14 @@ export default {
     handleMouse(e) {
       this.isMouseDown = e.type === 'mousedown'
     },
-    updateRange(range) {
-      this.$emit('change:range', range)
+    updateRange([min, max]) {
+      if (this.steps[this.steps.length - 1] === max) {
+        if (this.steps[0] === min) {
+          return this.$emit('change:range', undefined)
+        }
+        return this.$emit('change:range', [min, undefined])
+      }
+      return this.$emit('change:range', [min, max])
     },
     handlePrefecture(pref) {
       this.$emit('change:pref', pref)

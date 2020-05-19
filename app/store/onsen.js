@@ -15,20 +15,17 @@ const list = Object.entries(prefecturesData).map(o => (
 const trimPriceRange = (range, steps) => {
   const trimming = (r) => {
     if (typeof r === 'string' && typeof Number(r) === 'number') {
-      return [0, Number(r)]
+      return [Number(r), steps[steps.length - 1]]
     }
     if (Array.isArray(r)) {
       if (r.length === 1) {
-        return [0, r[0]]
+        return [r[0], steps[steps.length - 1]]
       }
       return [r[0], r[1]]
     }
-    return undefined
-  }
-  const trimRange = trimming(range)
-  if (!trimRange) {
     return [steps[0], steps[steps.length - 1]]
   }
+  const trimRange = trimming(range)
   if (trimRange[1] > steps[steps.length - 1]) {
     trimRange[1] = steps[steps.length - 1]
   }
@@ -54,7 +51,7 @@ export const getters = {
     const list = pref ? state[pref] : state.list
     const rangeFitler = (price, range = priceRange) => {
       const isMore = price >= range[0]
-      const isLess = range[1] === 0 || price <= range[1]
+      const isLess = !range[1] || range[1] === state.steps[state.steps.length - 1] || price <= range[1]
       return isMore && isLess
     }
     return list.filter((item) => {
