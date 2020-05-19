@@ -5,11 +5,13 @@ services:
     ports:
       - 8080:3000
     volumes:
+      - node_modules:/app/node_modules
       - ./app:/app
       - ./cert:/cert
-      - /app/node_modules
     # command: sh -c "yarn run build && yarn start" # production
     command: yarn dev
     environment:
       HOST: 0.0.0.0
    
+volumes:
+  node_modules:
