@@ -9,11 +9,7 @@ function resolve(p) {
   return path.join(__dirname, p)
 }
 
-const server = {
-  port: 3000, // デフォルト: 3000
-  host: '0.0.0.0', // デフォルト: localhost,
-  timing: false,
-}
+const server = {}
 if (process.env.NODE_ENV !== 'production') {
   server.https = {
     key: fs.readFileSync(path.join(__dirname, '../cert/localhost+2-key.pem')),
