@@ -59,7 +59,7 @@ export default {
       this.visibleBox = false
     },
     handleChangePref(pref) {
-      const query = { ...this.$route.query, range: this.filters.priceRange }
+      const query = { ...this.$route.query }
       const params = { ...this.$route.params, pref }
       const name = params.pref ? 'map-pref' : 'map'
       this.$router.push({ name, params, query })

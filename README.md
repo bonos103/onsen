@@ -37,6 +37,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ## Production
 
 ```
-$ docker-compose -f docker-compose.production.yml builid
+$ docker-compose -f docker-compose.production.yml build
 $ docker-compose -f docker-compose.production.yml up -d
 ```
