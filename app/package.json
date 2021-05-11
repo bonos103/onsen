@@ -23,7 +23,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "@nuxtjs/sitemap": "^2.3.0",
     "google-maps-api-loader": "^1.1.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nuxt": "^2.12.0",
     "nuxt-svg-loader": "^1.2.0",
     "postcss-color-function": "^4.1.0",
